@@ -7,7 +7,7 @@ The generated dataset is committed to this repo as [`detectable.json`](./detecta
 ## Fetching the data
 
 ```text
-https://raw.githubusercontent.com/<owner>/dgdb/main/detectable.json
+https://raw.githubusercontent.com/teyd/dgdb/main/detectable.json
 ```
 
 No auth, no rate limit beyond GitHub's standard raw CDN limits (which are generous). You can also pin to a commit SHA instead of `main` if you want stable data between runs.
