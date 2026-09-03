@@ -1,7 +1,12 @@
 #!/usr/bin/env bun
 /**
  * Fetches Discord's detectable applications list and reduces it to the
- * fields we actually need, writing the result to detectable.json.
+ * fields we actually need, writing the result to several JSON files.
+ *
+ * detectable.json          minified, all apps (default consumer entry point)
+ * pretty-detectable.json   pretty-printed, all apps (human-readable)
+ * detectable-win32.json    minified, apps with win32 executables (win32 only)
+ * detectable-darwin.json   minified, apps with darwin executables (darwin only)
  *
  * Output shape per entry:
  * {
@@ -14,7 +19,21 @@
  */
 
 const SOURCE_URL = "https://discord.com/api/v9/applications/detectable";
-const OUTPUT_PATH = new URL("../detectable.json", import.meta.url);
+const OUTPUT_DIR = new URL("../", import.meta.url);
+
+interface Executable {
+  name: string;
+  os: string;
+  is_launcher: boolean;
+}
+
+interface App {
+  id: string;
+  name: string;
+  icon_hash: string | null;
+  cover_hash: string | null;
+  executables: Executable[];
+}
 
 const res = await fetch(SOURCE_URL, {
   headers: { Accept: "application/json" },
@@ -32,20 +51,47 @@ const apps = (await res.json()) as Array<{
   executables?: Array<{ name: string; os: string; is_launcher?: boolean }>;
 }>;
 
-const reduced = apps
-  .map((app) => ({
+const reduce = (app: (typeof apps)[number], os?: string): App | null => {
+  const executables = (app.executables ?? [])
+    .filter((exe) => os === undefined || exe.os === os)
+    .map((exe) => ({
+      name: exe.name,
+      os: exe.os,
+      is_launcher: exe.is_launcher ?? false,
+    }));
+
+  if (os !== undefined && executables.length === 0) return null;
+
+  return {
     id: app.id,
     name: app.name,
     icon_hash: app.icon_hash ?? null,
     cover_hash: app.cover_image_hash ?? null,
-    executables: (app.executables ?? []).map((exe) => ({
-      name: exe.name,
-      os: exe.os,
-      is_launcher: exe.is_launcher ?? false,
-    })),
-  }))
-  .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
+    executables,
+  };
+};
 
-await Bun.write(OUTPUT_PATH, JSON.stringify(reduced, null, 2) + "\n");
+const byName = (a: App, b: App) => a.name.localeCompare(b.name, "en", { sensitivity: "base" });
 
-console.log(`Wrote ${reduced.length} applications to ${Bun.file(OUTPUT_PATH).name}`);
+const all = apps.map((app) => reduce(app)).filter((a): a is App => a !== null).sort(byName);
+const win32 = apps.map((app) => reduce(app, "win32")).filter((a): a is App => a !== null).sort(byName);
+const darwin = apps.map((app) => reduce(app, "darwin")).filter((a): a is App => a !== null).sort(byName);
+
+const writeJson = (name: string, data: App[], pretty = false) =>
+  Bun.write(new URL(name, OUTPUT_DIR), JSON.stringify(data, null, pretty ? 2 : undefined) + "\n");
+
+const outputs: Array<[string, App[]]> = [
+  ["detectable.json", all],
+  ["pretty-detectable.json", all],
+  ["detectable-win32.json", win32],
+  ["detectable-darwin.json", darwin],
+];
+
+for (const [name, data] of outputs) {
+  await writeJson(name, data, name === "pretty-detectable.json");
+}
+
+for (const [name, data] of outputs) {
+  const size = (Bun.file(new URL(name, OUTPUT_DIR)).size / 1024).toFixed(0);
+  console.log(`${name}: ${data.length} apps, ${size} KB`);
+}

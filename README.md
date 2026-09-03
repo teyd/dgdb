@@ -4,13 +4,34 @@ A daily-updated, reduced version of [Discord's detectable applications list](htt
 
 The generated dataset is committed to this repo as [`detectable.json`](./detectable.json) and refreshed every day at 00:00 UTC by [.github/workflows/update-detectable.yml](./.github/workflows/update-detectable.yml).
 
-## Fetching the data
+## Fetch endpoints
+
+| File | Size | Use case |
+| --- | --- | --- |
+| `detectable.json` | ~4.5 MB | **Default.** All apps, minified |
+| `pretty-detectable.json` | ~5.9 MB | All apps, pretty-printed (diffing / humans) |
+| `detectable-win32.json` | ~2.4 MB | Windows-only apps, `executables` filtered to `win32` |
+| `detectable-darwin.json` | ~15 KB | macOS-only apps, `executables` filtered to `darwin` |
+
+### Primary (CDN)
+
+```text
+https://cdn.jsdelivr.net/gh/teyd/dgdb@main/detectable.json
+```
+
+[jsDelivr](https://www.jsdelivr.com/) serves the files from this repo with long cache TTLs and automatic gzip/brotli — use this in apps. To get immutable data for a specific version, pin a commit SHA instead of `main`:
+
+```text
+https://cdn.jsdelivr.net/gh/teyd/dgdb@<commit-sha>/detectable.json
+```
+
+### Fallback (GitHub raw)
 
 ```text
 https://raw.githubusercontent.com/teyd/dgdb/main/detectable.json
 ```
 
-No auth, no rate limit beyond GitHub's standard raw CDN limits (which are generous). You can also pin to a commit SHA instead of `main` if you want stable data between runs.
+Also cached (~5-minute TTL), no auth needed. Fine as a fallback, but jsDelivr is better suited for frequent fetching.
 
 ## Schema
 
@@ -40,6 +61,10 @@ No auth, no rate limit beyond GitHub's standard raw CDN limits (which are genero
 | `executables[].name` | `string` | Lowercase. May include a path prefix like `_retail_/wow.exe` |
 | `executables[].os` | `string` | `win32` or `darwin` |
 | `executables[].is_launcher` | `boolean` | `true` if it's a launcher executable |
+
+The JSON is minified. `pretty-detectable.json` contains identical data, pretty-printed.
+The per-OS files only contain apps that have at least one executable on that OS, with
+`executables` filtered to that OS — icons/covers are unchanged.
 
 ## Image URLs
 
@@ -118,7 +143,7 @@ const app = byExecutable.get("overwatch.exe");
 
 ## Updating the data
 
-The GitHub Action runs daily and opens no PR — it commits straight to `main` when the upstream data changed. To update manually:
+The GitHub Action runs daily and opens no PR — it commits straight to `main` when the upstream data changed. All output files are regenerated on every run. To update manually:
 
 ```sh
 bun run scripts/build.ts
