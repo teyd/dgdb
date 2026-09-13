@@ -57,7 +57,7 @@ Also cached (~5-minute TTL), no auth needed. Fine as a fallback, but jsDelivr is
 | `name` | `string` | Display name |
 | `icon_hash` | `string \| null` | Hash for the app icon (square) |
 | `cover_hash` | `string \| null` | Hash for the cover / hero image (wide) |
-| `executables` | `array` | Empty for apps Discord doesn't auto-detect |
+| `executables` | `array` | Empty for apps Discord doesn't auto-detect. Sorted by `name` (then `os`, `is_launcher`) so unchanged data yields stable diffs |
 | `executables[].name` | `string` | Lowercase. May include a path prefix like `_retail_/wow.exe` |
 | `executables[].os` | `string` | `win32` or `darwin` |
 | `executables[].is_launcher` | `boolean` | `true` if it's a launcher executable |

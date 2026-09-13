@@ -58,7 +58,8 @@ const reduce = (app: (typeof apps)[number], os?: string): App | null => {
       name: exe.name,
       os: exe.os,
       is_launcher: exe.is_launcher ?? false,
-    }));
+    }))
+    .sort(byExecutable);
 
   if (os !== undefined && executables.length === 0) return null;
 
@@ -70,6 +71,14 @@ const reduce = (app: (typeof apps)[number], os?: string): App | null => {
     executables,
   };
 };
+
+// Discord's API returns executables in an unstable order. Sorting them with a
+// plain codepoint comparison makes the output byte-identical across machines
+// when nothing upstream changed, so the daily job only commits real changes.
+const cmp = (x: string, y: string) => (x < y ? -1 : x > y ? 1 : 0);
+
+const byExecutable = (a: Executable, b: Executable) =>
+  cmp(a.name, b.name) || cmp(a.os, b.os) || Number(a.is_launcher) - Number(b.is_launcher);
 
 const byName = (a: App, b: App) => a.name.localeCompare(b.name, "en", { sensitivity: "base" });
 
