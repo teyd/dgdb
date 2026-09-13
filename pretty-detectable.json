@@ -5905,7 +5905,7 @@
   },
   {
     "id": "1547094494262984725",
-    "name": "Airport City Transport Manager",
+    "name": "Airport City",
     "icon_hash": "14cf317f4fb9ca8d5b11964a26da99ec",
     "cover_hash": "0a122dde351b212d1ca1ef552d957c61",
     "executables": []
@@ -16030,8 +16030,8 @@
   {
     "id": "1547819345655103550",
     "name": "Backseat",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d825db8574c9098a770031a9459db080",
+    "cover_hash": "f1e749c7df8513d59a3c30585f45b696",
     "executables": []
   },
   {
@@ -26681,8 +26681,8 @@
   {
     "id": "1547819389800288379",
     "name": "BreathBound",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "34ea25f4200b3bba4c407db400154481",
+    "cover_hash": "73f2afe6417c830389ff063a29e6aec7",
     "executables": []
   },
   {
@@ -34693,7 +34693,7 @@
   },
   {
     "id": "1440130993343168602",
-    "name": "Chess: Play & Learn",
+    "name": "Chess.com",
     "icon_hash": "464b5fde805abead05e75baad3e0c907",
     "cover_hash": "44a982eb3cf6508a88913fc93d6f5c77",
     "executables": []
@@ -50906,8 +50906,8 @@
   {
     "id": "1548181523851649084",
     "name": "Desk Top Racer",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "9b69292d5f6ff556cf9f2eb4fb261683",
+    "cover_hash": "724e5879752fa933baf2f586a4e222d0",
     "executables": []
   },
   {
@@ -52805,8 +52805,8 @@
   {
     "id": "1547456833365741658",
     "name": "Dino Card Hunt",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "0d9ae16903c666356636967519d5c39b",
+    "cover_hash": "752bbc568625bd889b5267640e14a637",
     "executables": []
   },
   {
@@ -56777,9 +56777,9 @@
   },
   {
     "id": "1548181545846833272",
-    "name": "Dragon Quest Heroes: Torneko's Mystery Dungeon - Classic HD",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD",
+    "icon_hash": "cfa3ce189806cdb7b3fdc509cf829555",
+    "cover_hash": "33615daf0cb4c480815196890d6bf54f",
     "executables": []
   },
   {
@@ -56830,9 +56830,9 @@
   },
   {
     "id": "1548181482332491856",
-    "name": "Dragon Quest Monsters: The Withered World",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "DRAGON QUEST MONSTERS: The Withered World",
+    "icon_hash": "bed5c61efdd70594cd0ebfda49631e29",
+    "cover_hash": "5b0280ecc98715f5fd7e8c445a5f98bb",
     "executables": []
   },
   {
@@ -57397,8 +57397,8 @@
   {
     "id": "1547819373526384731",
     "name": "Dread Admiral",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "2fa6d294f3135f32223a354f33b9dc9f",
+    "cover_hash": "ff688fea85554973ad07be4ba8081c90",
     "executables": []
   },
   {
@@ -59656,8 +59656,8 @@
   {
     "id": "1547456824708563045",
     "name": "Dungeon Picnic",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e0b040d5f34243151d264195107981ff",
+    "cover_hash": "711414023884ee9bec60d9295215fc71",
     "executables": []
   },
   {
@@ -74303,8 +74303,8 @@
   {
     "id": "1547819379943546990",
     "name": "Fool King",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "27da659ee663a1f31ced61455485b1f5",
+    "cover_hash": "41859e51bf49afd2ea28bc53dc4fb255",
     "executables": []
   },
   {
@@ -82782,8 +82782,8 @@
   {
     "id": "1548181503140167741",
     "name": "Golden Swirl",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d99f2382181b31dc40df21f934df6a0c",
+    "cover_hash": "c596ef48cb56bb2bbdc7783cf0b351e1",
     "executables": []
   },
   {
@@ -92029,8 +92029,8 @@
   {
     "id": "1548181490372714546",
     "name": "Hidden Cats in Barcelona",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "dcd1b21236a9e148407827f1e0737156",
+    "cover_hash": "8378f02d76c66bbdac033b734d927ba6",
     "executables": []
   },
   {
@@ -97812,8 +97812,8 @@
   {
     "id": "1547456853737218108",
     "name": "Idle Pixel Battle",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e02cf614351f2dba1787152088fa1b01",
+    "cover_hash": "935e54caf37201a513052ab007323ce8",
     "executables": []
   },
   {
@@ -98638,8 +98638,8 @@
   {
     "id": "1547456871210819614",
     "name": "Imperial Knights",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "f19e4b6f343dc54b1b88dd39d083e19a",
+    "cover_hash": "c92eff768a55397043ec98a9c10283a4",
     "executables": []
   },
   {
@@ -100729,8 +100729,8 @@
   {
     "id": "1547456841913729104",
     "name": "Into the Planet's Flesh",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "24181283a5da28231bb2da23793d191f",
+    "cover_hash": "3934efb8b2aa0c3131b877bc1768b211",
     "executables": []
   },
   {
@@ -100840,9 +100840,9 @@
   },
   {
     "id": "1548181497889165332",
-    "name": "Intravenous III",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Intravenous 3",
+    "icon_hash": "74252d4b5264f6d560317514ecbd87d3",
+    "cover_hash": "4e7a9cc37bc9506413049b8f3800f0b4",
     "executables": []
   },
   {
@@ -104493,8 +104493,8 @@
   {
     "id": "1548181518298382398",
     "name": "Kaiju Harvest",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "8f959d601c9f3e7f8ae48af5445320ee",
+    "cover_hash": "ff7a664b52f4e94639a8ac46fa747dcc",
     "executables": []
   },
   {
@@ -117427,8 +117427,8 @@
   {
     "id": "1547456861366911027",
     "name": "Maestro's Cold War 2",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "b483c9db74ad30f0f27261db99041ef0",
+    "cover_hash": "fb9ac47522084effb4e80b06da549f67",
     "executables": []
   },
   {
@@ -123236,8 +123236,8 @@
   {
     "id": "1548181515119235093",
     "name": "Mexican Ninja",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7b5850fd669e2939d1bf2da817d31b60",
+    "cover_hash": "8143ae8c37d2daa3ee2e0dbe80c33491",
     "executables": []
   },
   {
@@ -134295,8 +134295,8 @@
   {
     "id": "1547456879364415589",
     "name": "NEVER HAPPENED",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "46417814ddf88c3741025b76017d60da",
+    "cover_hash": "88f12f6ccd254c017dce61d5b41df67d",
     "executables": []
   },
   {
@@ -142799,8 +142799,8 @@
   {
     "id": "1547456886884794409",
     "name": "Overdue",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "88bd56e357b92c656272e98199e6f579",
+    "cover_hash": "bfcaba4bc1340b6ffbff09194c304fcd",
     "executables": []
   },
   {
@@ -154761,8 +154761,8 @@
   {
     "id": "1547456847823241286",
     "name": "Pumpkin Woods",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "bec29aa3b69fe48c78a3f5ddb442964e",
+    "cover_hash": "bdac78b7bbf398da259cf499186766c8",
     "executables": []
   },
   {
@@ -155476,8 +155476,8 @@
   {
     "id": "1547456793708593192",
     "name": "Pyramids and Aliens: Escape Room",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e81a1780e2859892d4e89713f3ee7dee",
+    "cover_hash": "600be1fd4ce5435fd22f53bcb80c70bd",
     "executables": []
   },
   {
@@ -159128,9 +159128,9 @@
   },
   {
     "id": "1547819355683684355",
-    "name": "Red Dust Colony",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Red Dust",
+    "icon_hash": "74793caec1d61167f41f5b44fd03cc0e",
+    "cover_hash": "e9b41bc9759c4a5e130ed8e203abc7d9",
     "executables": []
   },
   {
@@ -159248,8 +159248,8 @@
   {
     "id": "1547819365225996308",
     "name": "Red Rocket Defencism",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "4b3c331c212d7a21109c344ac33074e4",
+    "cover_hash": "0d6ec5b361508a4fc9fe8e405f80736e",
     "executables": []
   },
   {
@@ -159781,8 +159781,8 @@
   {
     "id": "1547456874058620978",
     "name": "Rekindled",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "03fb28d7c167fea7d599df31f923687d",
+    "cover_hash": "dca4c0dcec75c6505e3047898fcd9162",
     "executables": []
   },
   {
@@ -182040,8 +182040,8 @@
   {
     "id": "1547456884603101217",
     "name": "Spellbound & Shelved",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "96e5e46c2051287aef81b6338650b7eb",
+    "cover_hash": "c29a6f2f694e20317134db3d9cca0a5f",
     "executables": []
   },
   {
@@ -186134,7 +186134,7 @@
   },
   {
     "id": "1540934150637359174",
-    "name": "Steins;Gate RE:Boot",
+    "name": "STEINS;GATE RE:BOOT",
     "icon_hash": "0c105215d6158a2fad9ecd9aa7a615a8",
     "cover_hash": "cf888886d2abdc105f542165e0d457bf",
     "executables": []
@@ -195022,8 +195022,8 @@
   {
     "id": "1548181511638098000",
     "name": "Tap Dungeon",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "ff48332c5603f82cb2d714a6adae8343",
+    "cover_hash": "3e14793d867cf22234e586805fcd45aa",
     "executables": []
   },
   {
@@ -197926,8 +197926,8 @@
   {
     "id": "1547456867624554516",
     "name": "The Bestest Knight",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c885824dd6977eafe227ac2465e73e80",
+    "cover_hash": "df03b0f1e626c2f2ac3a8b9604f84189",
     "executables": []
   },
   {
@@ -222092,8 +222092,8 @@
   {
     "id": "1548181505870930040",
     "name": "Veterum",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7aa7d30904f814021c30ad80b287c4ec",
+    "cover_hash": "be062c1682336de13e31d17f6d08ac76",
     "executables": []
   },
   {
@@ -229973,7 +229973,7 @@
     "id": "1124355848873984000",
     "name": "Wolfpack",
     "icon_hash": "ccd8ba2d225fb69d63267563232531d8",
-    "cover_hash": null,
+    "cover_hash": "5737d402920a39c9f1d67a78599d854c",
     "executables": [
       {
         "name": "wolfpack/wolfpack.exe",
@@ -230164,8 +230164,8 @@
   {
     "id": "1547456850289631275",
     "name": "Woo Woo",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "da60892c1303c592ddf9cc198f9568fa",
+    "cover_hash": "bb3a48887276b326077a1f4bc0eb175f",
     "executables": []
   },
   {
