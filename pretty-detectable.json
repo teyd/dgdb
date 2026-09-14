@@ -4333,6 +4333,13 @@
     "executables": []
   },
   {
+    "id": "1548543898769428522",
+    "name": "Aerolicious",
+    "icon_hash": "d494afef20eda987c04d8f9a6f9b1bc3",
+    "cover_hash": "70dea3b3edfd66f4fb06cc77e122ed39",
+    "executables": []
+  },
+  {
     "id": "1428208945595682931",
     "name": "AEROMACHINA",
     "icon_hash": "6db591879aa18c0fd3d01c264e98faa9",
@@ -10462,7 +10469,7 @@
   },
   {
     "id": "1442728871614091295",
-    "name": "Arcade Archives: Argus",
+    "name": "Arcade Archives: ARGUS",
     "icon_hash": "260db4b52d985d502c0c7d5511d7f785",
     "cover_hash": "3daed99bb397a9c606fb61984436e778",
     "executables": []
@@ -10567,7 +10574,7 @@
   },
   {
     "id": "1442727833993613332",
-    "name": "Arcade Archives: Exerion",
+    "name": "Arcade Archives: EXERION",
     "icon_hash": "86fc25defc6a4603088c8fc21d7bd438",
     "cover_hash": "6261d595406fb01706b60fce0495b330",
     "executables": []
@@ -10707,7 +10714,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: Mazinger Z",
+    "name": "Arcade Archives: MAZINGER Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10742,7 +10749,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: NAUGHTY BOY",
+    "name": "Arcade Archives: Naughty Boy",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10924,7 +10931,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: THE ASTYANAX",
+    "name": "Arcade Archives: The Astyanax",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -22872,7 +22879,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "Bless Global",
+    "name": "BLESS GLOBAL",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -39704,6 +39711,13 @@
     "executables": []
   },
   {
+    "id": "1548543953312157756",
+    "name": "Conquering the world with a single kitchen knife",
+    "icon_hash": "48e89625006c244858320a4238cfa14b",
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1137808850435719338",
     "name": "Conqueror's Blade",
     "icon_hash": "177994b882e33e7c012d6bca0d8e1c84",
@@ -41295,7 +41309,7 @@
   },
   {
     "id": "1124353236564983808",
-    "name": "Counterside",
+    "name": "CounterSide",
     "icon_hash": "f515bbc9dc8dae5dd5791e12c12a6621",
     "cover_hash": "bdc72843f8474f05a27ff91069ad196b",
     "executables": [
@@ -42734,7 +42748,7 @@
   },
   {
     "id": "1124353934623002726",
-    "name": "Crisis Core: Final Fantasy VII - Reunion",
+    "name": "CRISIS CORE: FINAL FANTASY VII - REUNION",
     "icon_hash": "19f30e081baccf748a4943b3c322c482",
     "cover_hash": "1eee68bed6001160ebb713c1ecc7c08e",
     "executables": [
@@ -66639,6 +66653,13 @@
     "executables": []
   },
   {
+    "id": "1548543887319113738",
+    "name": "Exit Ways",
+    "icon_hash": "2f772ae353cc9ef0e003fcbceb1b80a1",
+    "cover_hash": "5bd0d3e03e6519ae1a4b314f84922b34",
+    "executables": []
+  },
+  {
     "id": "1442739910560710666",
     "name": "ExitMan Deluxe",
     "icon_hash": null,
@@ -70094,7 +70115,7 @@
     "id": "1369505624286826617",
     "name": "FEAR OF FAITH",
     "icon_hash": "ec097a3772386aa2a6c9ec70ca8fadea",
-    "cover_hash": "f4b59df1eecef52ea6470343a777f90f",
+    "cover_hash": "7b45b797e04998acb52e7d2db2e9c7cd",
     "executables": [
       {
         "name": "win64/chmvp-win64-shipping.exe",
@@ -72281,6 +72302,13 @@
     ]
   },
   {
+    "id": "1548543872634720316",
+    "name": "Fireboy and Watergirl: The Light Temple",
+    "icon_hash": "63ce15c9f25c62cbf8955d5749ea9ede",
+    "cover_hash": "7e087fc5e61a87f86868b200d26dadf3",
+    "executables": []
+  },
+  {
     "id": "496758262797172736",
     "name": "FireFall",
     "icon_hash": "6cde8ff017f4b23244fa6d3911540fb4",
@@ -72921,7 +72949,7 @@
   },
   {
     "id": "1129504328848265387",
-    "name": "Five Nights at Freddy's: Help Wanted",
+    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
     "icon_hash": "f452fd2775d1a36230ff2c59efd7bc63",
     "cover_hash": "bf43eb0eb7981e7af66c5effd07de807",
     "executables": [
@@ -105942,7 +105970,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "KILL la KILL: IF",
+    "name": "Kill la Kill: If",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -125453,7 +125481,7 @@
   },
   {
     "id": "1124351982908493894",
-    "name": "MIR 4",
+    "name": "Mir 4",
     "icon_hash": "7dfbc16b7965f0bedfdd8500f17fc6e8",
     "cover_hash": "eae50e350bc1db9539b062845967e5e2",
     "executables": [
@@ -145357,6 +145385,13 @@
     ]
   },
   {
+    "id": "1548543939395453019",
+    "name": "Path of the idle cultivator",
+    "icon_hash": "bc537112a14e5e5eaf4315da64223e3e",
+    "cover_hash": "f9dd77a9bdfcddfddf13b41d605a5f03",
+    "executables": []
+  },
+  {
     "id": "1440142752351256638",
     "name": "Path of Titans",
     "icon_hash": "100d6703e9e624119b6c56799c51552d",
@@ -152435,6 +152470,13 @@
     ]
   },
   {
+    "id": "1548543913415942324",
+    "name": "Print I Love U",
+    "icon_hash": "7e5925245cd50252c41110fc4e2ffffe",
+    "cover_hash": "8a8c75d8565c6747a69d7c93cd234623",
+    "executables": []
+  },
+  {
     "id": "1124357415358451752",
     "name": "Prismata",
     "icon_hash": "962b2566276636aca3cecea0f007964c",
@@ -153738,7 +153780,7 @@
   {
     "id": "1440137230541652170",
     "name": "Project ZETA",
-    "icon_hash": "7b872284524cc790670de946cf9f57a1",
+    "icon_hash": "a683bc9dc7ab54fc1110fffed6e29a34",
     "cover_hash": "a2f7ac7456ececd4d450e23149cb625a",
     "executables": []
   },
@@ -157232,7 +157274,7 @@
   },
   {
     "id": "1387990904194732154",
-    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+    "name": "RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY",
     "icon_hash": "c495589f0143be20ff29fce3a07b1fa0",
     "cover_hash": "79fa7a5c07ec36a8ffc3d82aa40b8e34",
     "executables": [
@@ -178829,7 +178871,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "SNWBRD: Freestyle Snowboarding",
+    "name": "Snwbrd: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
@@ -179177,6 +179219,13 @@
     "name": "Sokocrab",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1548543892532633620",
+    "name": "Sokogram",
+    "icon_hash": "5636b86540b2b68a4f6ac9eb2d9268c6",
+    "cover_hash": "8ebf1ea03f02a96b4a9a60c5d8959b2b",
     "executables": []
   },
   {
@@ -202089,8 +202138,15 @@
     "executables": []
   },
   {
+    "id": "1548543906520502292",
+    "name": "The Joust",
+    "icon_hash": "fdac1bffe5f324176eaa4e5a5b142a0d",
+    "cover_hash": "32ca98737ab133f20c7509a05fc1138c",
+    "executables": []
+  },
+  {
     "id": "1440130398813159515",
-    "name": "The Joy of Creation",
+    "name": "THE JOY OF CREATION",
     "icon_hash": "b9cf3faa9c71064af8bbfb36bc73dcc1",
     "cover_hash": "e3bff062d997dbbea7ec791b97b4623e",
     "executables": []
@@ -216686,6 +216742,13 @@
     "name": "Tsugunohi: Supernatural Supermarket",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1548543922131968031",
+    "name": "Tsugunohi: The Thread That Beckons to Heaven",
+    "icon_hash": "f931755165eb3abe522cc533b9ffe557",
+    "cover_hash": "2708acee4e60a5f7295e9bc40981e72e",
     "executables": []
   },
   {
