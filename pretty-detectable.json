@@ -10469,7 +10469,7 @@
   },
   {
     "id": "1442728871614091295",
-    "name": "Arcade Archives: ARGUS",
+    "name": "Arcade Archives: Argus",
     "icon_hash": "260db4b52d985d502c0c7d5511d7f785",
     "cover_hash": "3daed99bb397a9c606fb61984436e778",
     "executables": []
@@ -10574,7 +10574,7 @@
   },
   {
     "id": "1442727833993613332",
-    "name": "Arcade Archives: EXERION",
+    "name": "Arcade Archives: Exerion",
     "icon_hash": "86fc25defc6a4603088c8fc21d7bd438",
     "cover_hash": "6261d595406fb01706b60fce0495b330",
     "executables": []
@@ -10714,7 +10714,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: MAZINGER Z",
+    "name": "Arcade Archives: Mazinger Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10931,7 +10931,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: The Astyanax",
+    "name": "Arcade Archives: THE ASTYANAX",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -42748,7 +42748,7 @@
   },
   {
     "id": "1124353934623002726",
-    "name": "CRISIS CORE: FINAL FANTASY VII - REUNION",
+    "name": "Crisis Core: Final Fantasy VII - Reunion",
     "icon_hash": "19f30e081baccf748a4943b3c322c482",
     "cover_hash": "1eee68bed6001160ebb713c1ecc7c08e",
     "executables": [
@@ -58830,7 +58830,7 @@
     "id": "1547094556221243432",
     "name": "Dub Together",
     "icon_hash": "c3dddeba5057bd0d849a672f7438c714",
-    "cover_hash": "7fa9e6508c8dcded5a0f4761e08dbb68",
+    "cover_hash": "847c50cedd026653a10b291d17824a9c",
     "executables": []
   },
   {
@@ -84061,8 +84061,26 @@
     "executables": []
   },
   {
+    "id": "1421192030440263791",
+    "name": "Grand Theft Auto V Enhanced",
+    "icon_hash": "419a062fd532ffb5abff6ea227d7c003",
+    "cover_hash": "ea4a2a28cc6b89408d4829f8dc9cdac5",
+    "executables": [
+      {
+        "name": "grand theft auto v enhanced/gta5_enhanced.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "grand theft auto v enhanced/gta5_enhanced_be.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "1402418714716143646",
-    "name": "Grand Theft Auto V",
+    "name": "Grand Theft Auto V Legacy",
     "icon_hash": "b77111108195cd5e4dd2011dd39bf67d",
     "cover_hash": "ea4a2a28cc6b89408d4829f8dc9cdac5",
     "executables": [
@@ -84103,24 +84121,6 @@
       },
       {
         "name": "subprocess/fivem_gtaprocess.exe",
-        "os": "win32",
-        "is_launcher": false
-      }
-    ]
-  },
-  {
-    "id": "1421192030440263791",
-    "name": "Grand Theft Auto V Enhanced",
-    "icon_hash": "419a062fd532ffb5abff6ea227d7c003",
-    "cover_hash": "ea4a2a28cc6b89408d4829f8dc9cdac5",
-    "executables": [
-      {
-        "name": "grand theft auto v enhanced/gta5_enhanced.exe",
-        "os": "win32",
-        "is_launcher": false
-      },
-      {
-        "name": "grand theft auto v enhanced/gta5_enhanced_be.exe",
         "os": "win32",
         "is_launcher": false
       }
@@ -93043,8 +93043,8 @@
   {
     "id": "1442721722628575357",
     "name": "HMUR",
-    "icon_hash": "0cf884a3a218ad2ab663a531dee2bc35",
-    "cover_hash": "20101cea4f9b351e91a3deb974f9c8bd",
+    "icon_hash": "7a155741d4c4e05be639405ff4cf7594",
+    "cover_hash": "fe9d7f567f2277086c14f569f20e1be9",
     "executables": []
   },
   {
@@ -105970,7 +105970,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "Kill la Kill: If",
+    "name": "KILL la KILL: IF",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -138098,8 +138098,8 @@
   {
     "id": "1544195646049751060",
     "name": "Oar'some Adventures",
-    "icon_hash": "9f0591c0ba02dfe5aa6d299aca2df94e",
-    "cover_hash": "ce9b47ab07e6edd25f672102fdc90386",
+    "icon_hash": "d61363003c4eadcaf1f9bb74212767fc",
+    "cover_hash": "72b86a4def59ca31513797fde45ca364",
     "executables": []
   },
   {
@@ -153780,8 +153780,8 @@
   {
     "id": "1440137230541652170",
     "name": "Project ZETA",
-    "icon_hash": "a683bc9dc7ab54fc1110fffed6e29a34",
-    "cover_hash": "a2f7ac7456ececd4d450e23149cb625a",
+    "icon_hash": "f58f56c79c7f48a4e1449a121072cab7",
+    "cover_hash": "a1ce7b9728862d234681b4c9bd166586",
     "executables": []
   },
   {
