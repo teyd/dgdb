@@ -1327,7 +1327,7 @@
   },
   {
     "id": "1428182872589602867",
-    "name": "420BLAZE IT 2: GAME OF THE YEAR",
+    "name": "420Blaze It 2: Game of the Year",
     "icon_hash": "5f096c06f62992fb2ae44b038afdf2f3",
     "cover_hash": "497f9ea3503c19760102962a9217ae55",
     "executables": []
@@ -8664,7 +8664,13 @@
     "name": "Aniimo",
     "icon_hash": "8338b9de5572aff85e4c9560268f3950",
     "cover_hash": "61ff0f34563d2bf8bbe684faa9665cc9",
-    "executables": []
+    "executables": [
+      {
+        "name": "aniimo.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
   },
   {
     "id": "1442721483444191283",
@@ -10574,7 +10580,7 @@
   },
   {
     "id": "1442727833993613332",
-    "name": "Arcade Archives: Exerion",
+    "name": "Arcade Archives: EXERION",
     "icon_hash": "86fc25defc6a4603088c8fc21d7bd438",
     "cover_hash": "6261d595406fb01706b60fce0495b330",
     "executables": []
@@ -10714,7 +10720,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: Mazinger Z",
+    "name": "Arcade Archives: MAZINGER Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10749,7 +10755,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: Naughty Boy",
+    "name": "Arcade Archives: NAUGHTY BOY",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10931,7 +10937,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: THE ASTYANAX",
+    "name": "Arcade Archives: The Astyanax",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -22879,7 +22885,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "BLESS GLOBAL",
+    "name": "Bless Global",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -42748,7 +42754,7 @@
   },
   {
     "id": "1124353934623002726",
-    "name": "Crisis Core: Final Fantasy VII - Reunion",
+    "name": "CRISIS CORE: FINAL FANTASY VII - REUNION",
     "icon_hash": "19f30e081baccf748a4943b3c322c482",
     "cover_hash": "1eee68bed6001160ebb713c1ecc7c08e",
     "executables": [
@@ -55616,7 +55622,7 @@
   },
   {
     "id": "1174042035276230686",
-    "name": "DOOM II: Hell on Earth",
+    "name": "Doom II: Hell on Earth",
     "icon_hash": "d1022c74a7cd92a8f5593f9b02e9d1c9",
     "cover_hash": "3278e4f34a957c73e715f3604a335f8d",
     "executables": [
@@ -72949,7 +72955,7 @@
   },
   {
     "id": "1129504328848265387",
-    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "name": "Five Nights at Freddy's: Help Wanted",
     "icon_hash": "f452fd2775d1a36230ff2c59efd7bc63",
     "cover_hash": "bf43eb0eb7981e7af66c5effd07de807",
     "executables": [
@@ -87011,7 +87017,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "Hackmud",
+    "name": "hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -105970,7 +105976,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "KILL la KILL: IF",
+    "name": "Kill la Kill: If",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -125481,7 +125487,7 @@
   },
   {
     "id": "1124351982908493894",
-    "name": "Mir 4",
+    "name": "MIR 4",
     "icon_hash": "7dfbc16b7965f0bedfdd8500f17fc6e8",
     "cover_hash": "eae50e350bc1db9539b062845967e5e2",
     "executables": [
@@ -157274,7 +157280,7 @@
   },
   {
     "id": "1387990904194732154",
-    "name": "RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY",
+    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
     "icon_hash": "c495589f0143be20ff29fce3a07b1fa0",
     "cover_hash": "79fa7a5c07ec36a8ffc3d82aa40b8e34",
     "executables": [
