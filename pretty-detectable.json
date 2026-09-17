@@ -10475,7 +10475,7 @@
   },
   {
     "id": "1442728871614091295",
-    "name": "Arcade Archives: Argus",
+    "name": "Arcade Archives: ARGUS",
     "icon_hash": "260db4b52d985d502c0c7d5511d7f785",
     "cover_hash": "3daed99bb397a9c606fb61984436e778",
     "executables": []
@@ -10937,7 +10937,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: The Astyanax",
+    "name": "Arcade Archives: THE ASTYANAX",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -41315,7 +41315,7 @@
   },
   {
     "id": "1124353236564983808",
-    "name": "CounterSide",
+    "name": "Counterside",
     "icon_hash": "f515bbc9dc8dae5dd5791e12c12a6621",
     "cover_hash": "bdc72843f8474f05a27ff91069ad196b",
     "executables": [
@@ -55622,7 +55622,7 @@
   },
   {
     "id": "1174042035276230686",
-    "name": "Doom II: Hell on Earth",
+    "name": "DOOM II: Hell on Earth",
     "icon_hash": "d1022c74a7cd92a8f5593f9b02e9d1c9",
     "cover_hash": "3278e4f34a957c73e715f3604a335f8d",
     "executables": [
@@ -61612,7 +61612,7 @@
     "id": "1402416554322432052",
     "name": "Eco",
     "icon_hash": "0e7863494dc16510ac9985be3788e909",
-    "cover_hash": "afd77faa6d31a7523639c337f8e39474",
+    "cover_hash": "90bbceb7a8d6791730bd15b43e2b00b1",
     "executables": [
       {
         "name": "eco.exe",
@@ -72955,7 +72955,7 @@
   },
   {
     "id": "1129504328848265387",
-    "name": "Five Nights at Freddy's: Help Wanted",
+    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
     "icon_hash": "f452fd2775d1a36230ff2c59efd7bc63",
     "cover_hash": "bf43eb0eb7981e7af66c5effd07de807",
     "executables": [
@@ -87017,7 +87017,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "hackmud",
+    "name": "Hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -91785,7 +91785,7 @@
     "id": "1440901469908893827",
     "name": "Hex of Steel",
     "icon_hash": "578fe9b16dc2b8b0844080619f8a5ff7",
-    "cover_hash": "42d513769dd9738156ae119d057fbbc5",
+    "cover_hash": "338ce8d74f89e8c0aae95032377f6706",
     "executables": []
   },
   {
@@ -179040,8 +179040,8 @@
   {
     "id": "1301606739875074068",
     "name": "Soccer Manager 2026",
-    "icon_hash": "6796b04d14f4911dc2310b453b2be1c0",
-    "cover_hash": "159e0983757cd39c06e99e1599a9c652",
+    "icon_hash": "f8c7a325cfbb83d7f33ec0bdbeef08ad",
+    "cover_hash": "919bed26f07ffc9a229e850e226365d9",
     "executables": [
       {
         "name": "soccer manager 2025/sm.exe",
@@ -213061,7 +213061,7 @@
   },
   {
     "id": "1524626598647562310",
-    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+    "name": "Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil",
     "icon_hash": "28bd6f93d3c254d15d6cc40b4bfd0743",
     "cover_hash": "25a18a89466a640851dd629f39cd4473",
     "executables": []
