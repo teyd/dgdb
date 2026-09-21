@@ -10496,7 +10496,7 @@
   },
   {
     "id": "1442728871614091295",
-    "name": "Arcade Archives: Argus",
+    "name": "Arcade Archives: ARGUS",
     "icon_hash": "260db4b52d985d502c0c7d5511d7f785",
     "cover_hash": "3daed99bb397a9c606fb61984436e778",
     "executables": []
@@ -10741,7 +10741,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: MAZINGER Z",
+    "name": "Arcade Archives: Mazinger Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10776,7 +10776,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: NAUGHTY BOY",
+    "name": "Arcade Archives: Naughty Boy",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -22934,7 +22934,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "BLESS GLOBAL",
+    "name": "Bless Global",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -55769,7 +55769,7 @@
   },
   {
     "id": "1174042035276230686",
-    "name": "DOOM II: Hell on Earth",
+    "name": "Doom II: Hell on Earth",
     "icon_hash": "d1022c74a7cd92a8f5593f9b02e9d1c9",
     "cover_hash": "3278e4f34a957c73e715f3604a335f8d",
     "executables": [
@@ -87295,7 +87295,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "Hackmud",
+    "name": "hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -125870,7 +125870,7 @@
   },
   {
     "id": "1124351982908493894",
-    "name": "MIR 4",
+    "name": "Mir 4",
     "icon_hash": "7dfbc16b7965f0bedfdd8500f17fc6e8",
     "cover_hash": "eae50e350bc1db9539b062845967e5e2",
     "executables": [
@@ -179337,7 +179337,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "Snwbrd: Freestyle Snowboarding",
+    "name": "SNWBRD: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
