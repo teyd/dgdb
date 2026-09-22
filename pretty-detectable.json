@@ -1327,7 +1327,7 @@
   },
   {
     "id": "1428182872589602867",
-    "name": "420BLAZE IT 2: GAME OF THE YEAR",
+    "name": "420Blaze It 2: Game of the Year",
     "icon_hash": "5f096c06f62992fb2ae44b038afdf2f3",
     "cover_hash": "497f9ea3503c19760102962a9217ae55",
     "executables": []
@@ -10741,7 +10741,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: Mazinger Z",
+    "name": "Arcade Archives: MAZINGER Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10776,7 +10776,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: Naughty Boy",
+    "name": "Arcade Archives: NAUGHTY BOY",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10958,7 +10958,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: The Astyanax",
+    "name": "Arcade Archives: THE ASTYANAX",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -16296,7 +16296,7 @@
   },
   {
     "id": "1480040930370130173",
-    "name": "Bad Pixels",
+    "name": "BAD PIXELS",
     "icon_hash": "b4f72fb6f3ae7043ed7bf1fc0927f018",
     "cover_hash": "08f6b59cc8ace4324ef15bb0e56401a1",
     "executables": []
@@ -41413,7 +41413,7 @@
   },
   {
     "id": "1124353236564983808",
-    "name": "CounterSide",
+    "name": "Counterside",
     "icon_hash": "f515bbc9dc8dae5dd5791e12c12a6621",
     "cover_hash": "bdc72843f8474f05a27ff91069ad196b",
     "executables": [
@@ -42859,7 +42859,7 @@
   },
   {
     "id": "1124353934623002726",
-    "name": "Crisis Core: Final Fantasy VII - Reunion",
+    "name": "CRISIS CORE: FINAL FANTASY VII - REUNION",
     "icon_hash": "19f30e081baccf748a4943b3c322c482",
     "cover_hash": "1eee68bed6001160ebb713c1ecc7c08e",
     "executables": [
@@ -55769,7 +55769,7 @@
   },
   {
     "id": "1174042035276230686",
-    "name": "Doom II: Hell on Earth",
+    "name": "DOOM II: Hell on Earth",
     "icon_hash": "d1022c74a7cd92a8f5593f9b02e9d1c9",
     "cover_hash": "3278e4f34a957c73e715f3604a335f8d",
     "executables": [
@@ -57392,7 +57392,7 @@
     "id": "1440137606288506912",
     "name": "Drakantos",
     "icon_hash": "9bdc42c22db5c2fa9a2924364f04d039",
-    "cover_hash": "c4ad2fa7751c7ccf0981e17b052d11ec",
+    "cover_hash": "8dc81e3ac3992ef4090914811141cd82",
     "executables": []
   },
   {
@@ -84721,6 +84721,19 @@
     "executables": []
   },
   {
+    "id": "1551691007387508878",
+    "name": "Gravebound",
+    "icon_hash": "697b0c16c92cf116b7d21ab364f63e65",
+    "cover_hash": null,
+    "executables": [
+      {
+        "name": "gravebound.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "1440141341962010696",
     "name": "Gravel",
     "icon_hash": "4df6687a945f011dee0b67b0fc1afe93",
@@ -87295,7 +87308,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "hackmud",
+    "name": "Hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -106296,7 +106309,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "KILL la KILL: IF",
+    "name": "Kill la Kill: If",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -125870,7 +125883,7 @@
   },
   {
     "id": "1124351982908493894",
-    "name": "Mir 4",
+    "name": "MIR 4",
     "icon_hash": "7dfbc16b7965f0bedfdd8500f17fc6e8",
     "cover_hash": "eae50e350bc1db9539b062845967e5e2",
     "executables": [
@@ -179337,7 +179350,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "SNWBRD: Freestyle Snowboarding",
+    "name": "Snwbrd: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
