@@ -1327,7 +1327,7 @@
   },
   {
     "id": "1428182872589602867",
-    "name": "420Blaze It 2: Game of the Year",
+    "name": "420BLAZE IT 2: GAME OF THE YEAR",
     "icon_hash": "5f096c06f62992fb2ae44b038afdf2f3",
     "cover_hash": "497f9ea3503c19760102962a9217ae55",
     "executables": []
@@ -5639,7 +5639,13 @@
     "name": "AION 2",
     "icon_hash": "5146eac718876015ae5d3eeadbaad9d7",
     "cover_hash": "06794d884aafbc11a17fd770620030f9",
-    "executables": []
+    "executables": [
+      {
+        "name": "aion2.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
   },
   {
     "id": "451547384975982602",
@@ -9476,7 +9482,7 @@
   },
   {
     "id": "1124355428734742579",
-    "name": "Another Eden",
+    "name": "ANOTHER EDEN",
     "icon_hash": "650b231df0eff9791e5bba979f20577f",
     "cover_hash": "868b4c6cda295a88566d58fcc283d791",
     "executables": [
@@ -10741,7 +10747,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: MAZINGER Z",
+    "name": "Arcade Archives: Mazinger Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10776,7 +10782,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: NAUGHTY BOY",
+    "name": "Arcade Archives: Naughty Boy",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -22318,8 +22324,8 @@
   {
     "id": "1550718404699103293",
     "name": "BLACKWOOD",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "da252a08e74352e78f044627a38acc53",
+    "cover_hash": "d38b1a8f32682dac8b95ebfbbafeffdc",
     "executables": []
   },
   {
@@ -22934,7 +22940,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "Bless Global",
+    "name": "BLESS GLOBAL",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -41413,7 +41419,7 @@
   },
   {
     "id": "1124353236564983808",
-    "name": "Counterside",
+    "name": "CounterSide",
     "icon_hash": "f515bbc9dc8dae5dd5791e12c12a6621",
     "cover_hash": "bdc72843f8474f05a27ff91069ad196b",
     "executables": [
@@ -42859,7 +42865,7 @@
   },
   {
     "id": "1124353934623002726",
-    "name": "CRISIS CORE: FINAL FANTASY VII - REUNION",
+    "name": "Crisis Core: Final Fantasy VII - Reunion",
     "icon_hash": "19f30e081baccf748a4943b3c322c482",
     "cover_hash": "1eee68bed6001160ebb713c1ecc7c08e",
     "executables": [
@@ -87308,7 +87314,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "Hackmud",
+    "name": "hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -101573,8 +101579,8 @@
   {
     "id": "1550718421497417759",
     "name": "Iron Bramble",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "dff5fb774b23d8d4e5e632d475a3cf39",
+    "cover_hash": "85b4e25395c9d7e1542a6600165ea39f",
     "executables": []
   },
   {
@@ -106309,7 +106315,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "Kill la Kill: If",
+    "name": "KILL la KILL: IF",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -106920,6 +106926,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1551805505591185488",
+    "name": "King of Jade: Stone Tycoon",
+    "icon_hash": "10c6e483d68c989f533dd3563fba7fc9",
+    "cover_hash": "34a376b2b83e489d2020720f0e4afc1f",
+    "executables": []
   },
   {
     "id": "1129505182426878115",
@@ -158846,6 +158859,13 @@
     ]
   },
   {
+    "id": "1551805479813128202",
+    "name": "Re:Store the Record Store",
+    "icon_hash": "bbc09a5180093f4c6353aba4aef3668f",
+    "cover_hash": "213e41519c3ecc94f633c623c5658e0a",
+    "executables": []
+  },
+  {
     "id": "1442716261409882205",
     "name": "Re:Touring",
     "icon_hash": "86d11d5ca62a8476eaefd10082d7d2b7",
@@ -167733,8 +167753,8 @@
   {
     "id": "1550718418469003324",
     "name": "Sails",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d2cb9f2aa3cee5c08f35d4f7b4bc218e",
+    "cover_hash": "0eff631873973eb4403b3c0b76636f3b",
     "executables": []
   },
   {
@@ -179350,7 +179370,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "Snwbrd: Freestyle Snowboarding",
+    "name": "SNWBRD: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
@@ -187179,8 +187199,8 @@
   {
     "id": "1550718438060855378",
     "name": "Stink Buddies",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c87d2cd1d154e01651863b390d0ff801",
+    "cover_hash": "0890b57f73e05405cabd074ba3a7c738",
     "executables": []
   },
   {
@@ -194411,8 +194431,8 @@
   {
     "id": "1550718459011276861",
     "name": "Taillights",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c4d26ae6c57695b4c28ef821b20b05d1",
+    "cover_hash": "5174deb878d6823d2a98a416c0dae926",
     "executables": []
   },
   {
@@ -221742,7 +221762,7 @@
   },
   {
     "id": "1129505216962773083",
-    "name": "Valkyrie Connect",
+    "name": "VALKYRIE CONNECT",
     "icon_hash": "3ff8bf2d019560cdc4afa7c10e36c1d1",
     "cover_hash": "36810dabd1373e967753067b7b9cf0bb",
     "executables": [
@@ -229545,7 +229565,7 @@
   {
     "id": "1440133627899023452",
     "name": "Windrose",
-    "icon_hash": "08349a13543c75284187c8423d2ce257",
+    "icon_hash": "280f8bd024894b0708720bee2698e235",
     "cover_hash": "5224b569353297de0ed11a6508ac5cfc",
     "executables": []
   },
