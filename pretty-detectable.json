@@ -866,6 +866,13 @@
     ]
   },
   {
+    "id": "1552168380675653662",
+    "name": "20 More, Somehow Even Smaller, Mazes",
+    "icon_hash": "742af7950ddd5e4b3f1aa5c808777b3d",
+    "cover_hash": "0144a500d0e1f6b0966bd560cab91b92",
+    "executables": []
+  },
+  {
     "id": "1445982102293188709",
     "name": "20 Seconds to Death",
     "icon_hash": "14dd8378355bb238874c29000e39ace8",
@@ -1327,7 +1334,7 @@
   },
   {
     "id": "1428182872589602867",
-    "name": "420BLAZE IT 2: GAME OF THE YEAR",
+    "name": "420Blaze It 2: Game of the Year",
     "icon_hash": "5f096c06f62992fb2ae44b038afdf2f3",
     "cover_hash": "497f9ea3503c19760102962a9217ae55",
     "executables": []
@@ -2435,6 +2442,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168681977421824",
+    "name": "A Needle In a Haystack",
+    "icon_hash": "ad627e159c359ddcfb3db261b574d9f9",
+    "cover_hash": "4a83854b30ec321c53bb57d45717bb3f",
+    "executables": []
   },
   {
     "id": "425455073661812766",
@@ -5534,6 +5548,13 @@
     "name": "Aikano: Yukizora no Triangle",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552168579343065139",
+    "name": "Aim Clicker",
+    "icon_hash": "46d8cb6a8e3ac5bbf81cd074d80c75fe",
+    "cover_hash": "f32e0ebc5f57f686851b3fe86863fb0e",
     "executables": []
   },
   {
@@ -10747,7 +10768,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: Mazinger Z",
+    "name": "Arcade Archives: MAZINGER Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10782,7 +10803,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: Naughty Boy",
+    "name": "Arcade Archives: NAUGHTY BOY",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -12250,6 +12271,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168666940833912",
+    "name": "ArmorSim",
+    "icon_hash": "bb36605188ab734f579fe8cde991ca73",
+    "cover_hash": "a59ed0cefa3bdd3dbab4e66892fabb9f",
+    "executables": []
   },
   {
     "id": "1449600820801835048",
@@ -16881,6 +16909,13 @@
     "id": "1442732485279617084",
     "name": "Balls Race",
     "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552168706774401044",
+    "name": "Balrum",
+    "icon_hash": "02197a52003925d770c99f84d9915988",
     "cover_hash": null,
     "executables": []
   },
@@ -21734,6 +21769,13 @@
     ]
   },
   {
+    "id": "1552168400888008764",
+    "name": "Black Cat Book Club",
+    "icon_hash": "7a60fd5b1ba22c7c2b1e9b1fa61b745d",
+    "cover_hash": "94d1cffb0d96cf3adf6bff4d766a181b",
+    "executables": []
+  },
+  {
     "id": "1124357399898239057",
     "name": "Black Clover: Quartet Knights",
     "icon_hash": "a098e2190d72b9ecaf7a98f9d371fac2",
@@ -22940,7 +22982,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "BLESS GLOBAL",
+    "name": "Bless Global",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -24386,6 +24428,13 @@
     "name": "Bluey: The Videogame",
     "icon_hash": "e57acb1264189794300e83d73cb23dd2",
     "cover_hash": "e90f49e6f494620612fa7d59909ab54c",
+    "executables": []
+  },
+  {
+    "id": "1552168370680635483",
+    "name": "Bluey's Happy Snaps",
+    "icon_hash": "b4d30be21f4203751e0e95dd5791c51e",
+    "cover_hash": "45624a0d514a1e38c030fc4961dc1206",
     "executables": []
   },
   {
@@ -31480,6 +31529,13 @@
     "executables": []
   },
   {
+    "id": "1552168642651889736",
+    "name": "Cards Everywhere!",
+    "icon_hash": "6ca027f66cccc64920237e8e4b6e29a3",
+    "cover_hash": "97f05d6f33d82489115f7511c637b27b",
+    "executables": []
+  },
+  {
     "id": "1441993836481085453",
     "name": "Cards, the Universe and Everything",
     "icon_hash": null,
@@ -31832,6 +31888,13 @@
     "name": "Carry the Pack Rack",
     "icon_hash": "3dd1463e00dc4e0452a6596dec2ddf2f",
     "cover_hash": "a0d106efdbbd688ac66a0cb3287d9556",
+    "executables": []
+  },
+  {
+    "id": "1552168495129559120",
+    "name": "Carry the Patient Together",
+    "icon_hash": "f2001514d4e51eb1c399d2afec9631e3",
+    "cover_hash": "cb215679c2d6244abd96fd6f03aa11a8",
     "executables": []
   },
   {
@@ -34383,6 +34446,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168628504363079",
+    "name": "Character House: Desktop Companion",
+    "icon_hash": "ac866d549e96e83a668a2652767127d7",
+    "cover_hash": "457057df16c68a197ed660cea68446b4",
+    "executables": []
   },
   {
     "id": "1442731249759158295",
@@ -37380,6 +37450,13 @@
     "name": "Cling to Blindness",
     "icon_hash": "c84d31b324fa3a9f0d0b64e1dd85d9f7",
     "cover_hash": "7fe112f85dd76dcc5e98fe66de476954",
+    "executables": []
+  },
+  {
+    "id": "1552168352116641822",
+    "name": "Clive Barker's Hellraiser: Revival",
+    "icon_hash": "303c6f901a9433229d09f940d9338bef",
+    "cover_hash": "66f6a2ed5bbf3e137afdd917282fec95",
     "executables": []
   },
   {
@@ -41419,7 +41496,7 @@
   },
   {
     "id": "1124353236564983808",
-    "name": "CounterSide",
+    "name": "Counterside",
     "icon_hash": "f515bbc9dc8dae5dd5791e12c12a6621",
     "cover_hash": "bdc72843f8474f05a27ff91069ad196b",
     "executables": [
@@ -42865,7 +42942,7 @@
   },
   {
     "id": "1124353934623002726",
-    "name": "Crisis Core: Final Fantasy VII - Reunion",
+    "name": "CRISIS CORE: FINAL FANTASY VII - REUNION",
     "icon_hash": "19f30e081baccf748a4943b3c322c482",
     "cover_hash": "1eee68bed6001160ebb713c1ecc7c08e",
     "executables": [
@@ -42930,6 +43007,13 @@
     "name": "Critical Ops",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552168340389236906",
+    "name": "Critical Shift",
+    "icon_hash": "4520edbbb5be13d72250651fc4881283",
+    "cover_hash": "21c34acc48bcd5d5a379391a655809f8",
     "executables": []
   },
   {
@@ -44217,6 +44301,13 @@
     "name": "Cthulhu: The Cosmic Abyss",
     "icon_hash": "3c8d288aa7f580e66875cf0505992f4e",
     "cover_hash": "3b88e500c7f5187a06aca9569369c6bb",
+    "executables": []
+  },
+  {
+    "id": "1552168600486285403",
+    "name": "Cube",
+    "icon_hash": "cb46a7e111a2823bc7c9fc1e57400ccd",
+    "cover_hash": "29489a18ee4ada4ff919490881f1205f",
     "executables": []
   },
   {
@@ -48487,6 +48578,13 @@
     ]
   },
   {
+    "id": "1552168407942823946",
+    "name": "Deadshot",
+    "icon_hash": "c1495ed116da688002db42b3abe3d29f",
+    "cover_hash": "57b0dda984911c159d1f71dbf73c6570",
+    "executables": []
+  },
+  {
     "id": "1124351862552932444",
     "name": "Deadside",
     "icon_hash": "5add1ee48ec1e33d319132d7116db689",
@@ -48552,6 +48650,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168546656849930",
+    "name": "Dealer's Dice",
+    "icon_hash": "4dddd1bf6cfee1f74c77a345d654d75f",
+    "cover_hash": "9a4b51d3d561f52a190c4b57c132779c",
+    "executables": []
   },
   {
     "id": "1124355998006653030",
@@ -51632,6 +51737,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168566617546923",
+    "name": "Detstvo",
+    "icon_hash": "8a0cbc8b514d5963066c7905eb6df9a0",
+    "cover_hash": "a48cffd94ed13e004ee9aa2c23024bbc",
+    "executables": []
   },
   {
     "id": "1442722165131579393",
@@ -72475,6 +72587,13 @@
     ]
   },
   {
+    "id": "1552168588968984596",
+    "name": "Fireboy & Watergirl 3: The Ice Temple",
+    "icon_hash": "ab2294a0e2cd8b496deb56750f93a005",
+    "cover_hash": "83254f4296b005492c5df2b4bdbf19f2",
+    "executables": []
+  },
+  {
     "id": "1550356092331229314",
     "name": "Fireboy & Watergirl And Friends",
     "icon_hash": "682d1d63fedf44715f910fd828e800ca",
@@ -76643,6 +76762,13 @@
     ]
   },
   {
+    "id": "1552168324610129920",
+    "name": "Free Stars: Children of Infinity",
+    "icon_hash": "eb8df7d2552c04643a6a94c06e35cf6d",
+    "cover_hash": "ab0a147e1ff4818ad0aecf387ece7286",
+    "executables": []
+  },
+  {
     "id": "1442736841039282319",
     "name": "Free Throw Basketball",
     "icon_hash": null,
@@ -77252,6 +77378,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168446043885568",
+    "name": "From the Bunker",
+    "icon_hash": "0bea3d6432998e94590de1d635d4bbd0",
+    "cover_hash": "3690fd809e1f638f520513c05a9ba623",
+    "executables": []
   },
   {
     "id": "1124354717724721243",
@@ -84614,6 +84747,13 @@
     ]
   },
   {
+    "id": "1552168557415243838",
+    "name": "Granule",
+    "icon_hash": "2b38470c506f93b9c72b6f4bf220da31",
+    "cover_hash": "e21b580091827d4f15f9efd751c50d00",
+    "executables": []
+  },
+  {
     "id": "1428185848079192077",
     "name": "Granvir",
     "icon_hash": "758f23d11084ca45f2f8177efb057b51",
@@ -85836,6 +85976,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168606752837743",
+    "name": "Grr Grr Gnomes",
+    "icon_hash": "3114ab122abe1960bee22a4ccc1ae0d9",
+    "cover_hash": "06f83d44380ba566c8f9c30bb3375d4f",
+    "executables": []
   },
   {
     "id": "1440134397105016872",
@@ -87314,7 +87461,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "hackmud",
+    "name": "Hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -95690,6 +95837,13 @@
     "executables": []
   },
   {
+    "id": "1552168469250973716",
+    "name": "How to Grow Your Sausage",
+    "icon_hash": "fb0f55cda55e6778fae8548877a311e5",
+    "cover_hash": "bf75c4957cf73e7475a70e9325dc6c0d",
+    "executables": []
+  },
+  {
     "id": "1330280599436660888",
     "name": "How to Lose One's Virginity",
     "icon_hash": "d98704040dbc297ee8e5aded8827e518",
@@ -98589,8 +98743,8 @@
   {
     "id": "1538397707541159997",
     "name": "IGNOBLE",
-    "icon_hash": "68da4886f4d6be61d9875559c069e475",
-    "cover_hash": "81a1dceb74cfd7998d408fc542d0a175",
+    "icon_hash": "b430d752dd12b2291dc12731cbd49e12",
+    "cover_hash": "d6fe263ede4cfcc900a61632e87f0d17",
     "executables": []
   },
   {
@@ -106193,6 +106347,13 @@
     "executables": []
   },
   {
+    "id": "1552168636087799858",
+    "name": "Kick the Piñata!",
+    "icon_hash": "5370ceb5def6b9adc49df5acc949baef",
+    "cover_hash": "e50d0d481236e99a69d4175dac2327f2",
+    "executables": []
+  },
+  {
     "id": "1442727011272622080",
     "name": "KickBeat: Special Edition",
     "icon_hash": null,
@@ -106315,7 +106476,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "KILL la KILL: IF",
+    "name": "Kill la Kill: If",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -124788,6 +124949,13 @@
     "executables": []
   },
   {
+    "id": "1552168716119187466",
+    "name": "Mimic Busters",
+    "icon_hash": "82e499de359bdd31d6010479d223eea6",
+    "cover_hash": "fc8aaf664575c1d1b0824bd7e460de51",
+    "executables": []
+  },
+  {
     "id": "1321402094867185705",
     "name": "Mimic Logic",
     "icon_hash": "a373ac6217602dc2f43684d6367840a8",
@@ -125959,6 +126127,13 @@
     "name": "Mirai Ninja",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552168393031811103",
+    "name": "Mirklurk: Every Step Matters",
+    "icon_hash": "a47c50e5429ed2d0ae06edcb14645422",
+    "cover_hash": "33cb9a7e56dd32b03e9b1e0a69733348",
     "executables": []
   },
   {
@@ -127175,6 +127350,13 @@
     "name": "MOLOKAUST",
     "icon_hash": "bff83f3fc0f34320dee8adcebddf0961",
     "cover_hash": "c1bd1d6de266b2b514b79687b127ee8e",
+    "executables": []
+  },
+  {
+    "id": "1552168561877979146",
+    "name": "MOLTYN",
+    "icon_hash": "ad21da1b828088359817b63062bc8f30",
+    "cover_hash": "11d3e1df2ea25976272f7aec23257c64",
     "executables": []
   },
   {
@@ -137830,7 +138012,7 @@
     "id": "1527891810524070009",
     "name": "Not Quite Dead",
     "icon_hash": "47e612f0cd40a189e04db7b5f665d3ee",
-    "cover_hash": "b48a719030d200374a43c95ddfbd0bd4",
+    "cover_hash": "447ebcadeb7e844a308d05abf0870452",
     "executables": []
   },
   {
@@ -141291,6 +141473,13 @@
     ]
   },
   {
+    "id": "1552168478796943381",
+    "name": "OpenFront",
+    "icon_hash": "deb4be8e9115f70a266e778ef783161f",
+    "cover_hash": "9a7201368d4784d7bb38b589691bf6c6",
+    "executables": []
+  },
+  {
     "id": "505139561995829278",
     "name": "OpenITG",
     "icon_hash": "ea3654f24c43a325885fdc202f121d95",
@@ -141802,6 +141991,13 @@
     "name": "Ore Factory Squad",
     "icon_hash": "378db331629a60c0caad625c6d446795",
     "cover_hash": "80c8b8cc475d2994ef96f67bd4895552",
+    "executables": []
+  },
+  {
+    "id": "1552168499827310603",
+    "name": "Orebits",
+    "icon_hash": "577a1c50ca31c484e62c8a0e2bc9cb47",
+    "cover_hash": "5c68f64d77f077f7e9d10c7951aa5591",
     "executables": []
   },
   {
@@ -146080,6 +146276,13 @@
     ]
   },
   {
+    "id": "1552168614675746877",
+    "name": "Paver: Tidy Up Together",
+    "icon_hash": "713c6fca23bba2ae1911689f0bba2b7c",
+    "cover_hash": "3fa2db7e5db766791751468323fc7481",
+    "executables": []
+  },
+  {
     "id": "461758710088466432",
     "name": "Pavlov VR",
     "icon_hash": "d7a273dd63dfee624a88f0b6f2ec3c9c",
@@ -148926,6 +149129,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168596095107112",
+    "name": "Pitchside Empire",
+    "icon_hash": "72fa3b2c85277863837366f7a2ea8dee",
+    "cover_hash": "c5f01e3784db53714b7238feae4a505d",
+    "executables": []
   },
   {
     "id": "1442732667459338341",
@@ -151783,6 +151993,13 @@
     "name": "Post Apocalypse Microbe Lab",
     "icon_hash": "9912b9ab697780d57afc058fc564d88b",
     "cover_hash": "45932be86c7516b92f41ea6112349a3d",
+    "executables": []
+  },
+  {
+    "id": "1552168650192986112",
+    "name": "Post Office: Tidy Up!",
+    "icon_hash": "f213d2cab10655ccbe3c8317772438f8",
+    "cover_hash": "67fdc915cb8e8a0a1f2d8ae452bd03aa",
     "executables": []
   },
   {
@@ -159043,6 +159260,13 @@
     ]
   },
   {
+    "id": "1552168416180310056",
+    "name": "Realindustry",
+    "icon_hash": "6370d23762ee613370692e3a23135043",
+    "cover_hash": "9754c10b6954434345ea344f5a6910a9",
+    "executables": []
+  },
+  {
     "id": "1428210073921916999",
     "name": "Realistic Ragdoll Sandbox",
     "icon_hash": "f5ea4681a2c084b770736efdf3414a49",
@@ -163672,6 +163896,13 @@
     "executables": []
   },
   {
+    "id": "1552168484614447204",
+    "name": "Road to Jukai",
+    "icon_hash": "763c4dae3c22041414695ea668c7884e",
+    "cover_hash": "123c8c96486baedc74defd27041cd94c",
+    "executables": []
+  },
+  {
     "id": "1124352602138759241",
     "name": "Road to Vostok",
     "icon_hash": "9f55614c436d6413b50216a95bf4f5ea",
@@ -163683,6 +163914,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168360425562182",
+    "name": "Road Truckers: New Beginning",
+    "icon_hash": "ee530c897b409576fbd28ac491df4a83",
+    "cover_hash": "35d2575c39f116da7c5491b73043da01",
+    "executables": []
   },
   {
     "id": "1374431527349391471",
@@ -172037,6 +172275,13 @@
     "executables": []
   },
   {
+    "id": "1552168524565446657",
+    "name": "Serve or Die",
+    "icon_hash": "b616a6d421c409cca2a610331d2ead2d",
+    "cover_hash": "7fce28b6a3f6f98c48d3dfb5d4fdaabf",
+    "executables": []
+  },
+  {
     "id": "1469531111192526879",
     "name": "Service Please",
     "icon_hash": "57f2b211328b1706f65a7e6a972a0140",
@@ -176657,8 +176902,8 @@
   {
     "id": "1249422857805762672",
     "name": "Skelethrone: The Prey",
-    "icon_hash": "8c0023417e97a6744ae72de5eda59fb3",
-    "cover_hash": "ffc82ca4f6f27f380c94d85f24b331c1",
+    "icon_hash": "6f80745c07d049f91c1e71425bd0b504",
+    "cover_hash": "31fb6d6cdd02b9d040e35c72c8af61dc",
     "executables": [
       {
         "name": "skelethrone the prey/skelethrone - the prey.exe",
@@ -177981,6 +178226,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168673823821885",
+    "name": "Slime Trader",
+    "icon_hash": "366ad4f199d27a689e84e557c42b9c6c",
+    "cover_hash": "4786fb92c663a57d41d00e3153dcb337",
+    "executables": []
   },
   {
     "id": "425455040082345984",
@@ -179370,7 +179622,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "SNWBRD: Freestyle Snowboarding",
+    "name": "Snwbrd: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
@@ -182630,6 +182882,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168517535801365",
+    "name": "Spellchain",
+    "icon_hash": "b5e3970fb595bda111161565173b0de9",
+    "cover_hash": "c18af7563a3abbf02b0de8ffe271a258",
+    "executables": []
   },
   {
     "id": "1402417128568524821",
@@ -186844,6 +187103,13 @@
     "executables": []
   },
   {
+    "id": "1552168452708638800",
+    "name": "StellarDrive",
+    "icon_hash": "896f0bd2caf8bd416feb063461f9bfcd",
+    "cover_hash": "fc944e4856867b2f9de99f7fb7f66255",
+    "executables": []
+  },
+  {
     "id": "363408909962182683",
     "name": "Stellaris",
     "icon_hash": "a7b347a29279465267bf10fb0f6b5b1b",
@@ -189562,6 +189828,13 @@
     "name": "Sudoku",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552168573731082250",
+    "name": "Sudoku Mansion",
+    "icon_hash": "a56cc36e55e63cee44f83285c0a5ab23",
+    "cover_hash": "eb69998a9b3a681db58098c862e56254",
     "executables": []
   },
   {
@@ -192778,7 +193051,7 @@
     "id": "1510483748959945007",
     "name": "Sushiamo",
     "icon_hash": "fbccaf70942753d2a482f81fae371cd7",
-    "cover_hash": "c61cb74215e513072eee487de592fb8c",
+    "cover_hash": "09486db9be2bc4b188a34251c25e88b8",
     "executables": []
   },
   {
@@ -194300,6 +194573,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168461973848094",
+    "name": "Tactical Mission: Target Rush",
+    "icon_hash": "19ac30e702cf4ee7f44431733157e906",
+    "cover_hash": "f49cba25f1fce4e996f9280b0bad6874",
+    "executables": []
   },
   {
     "id": "451545859830710272",
@@ -195948,6 +196228,13 @@
     "name": "Tattoo Removal Simulator",
     "icon_hash": "829fb4b6163418dadd0c89c395a4a8f2",
     "cover_hash": "bb805f336609ea23870d772252b6d5d8",
+    "executables": []
+  },
+  {
+    "id": "1552168507104559104",
+    "name": "Tattoo Shop Simulator",
+    "icon_hash": "2c1924a30c40160046825c4fdcdae092",
+    "cover_hash": "3ea40cbef0d2428dbad0542c83e218dc",
     "executables": []
   },
   {
@@ -198775,6 +199062,19 @@
     "executables": []
   },
   {
+    "id": "1552427210013548626",
+    "name": "The Blood of Dawnwalker",
+    "icon_hash": "a475ecde3f10d7fc6a48813ca2a3335e",
+    "cover_hash": null,
+    "executables": [
+      {
+        "name": "dawnwalker.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "1167341933321011210",
     "name": "The Bloodline",
     "icon_hash": "f18f32fa64a555d63ac492cbeac67c1e",
@@ -199924,6 +200224,13 @@
     "name": "The Czech Run",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552168724856053821",
+    "name": "The Dandelion Endures.",
+    "icon_hash": "f4d1769473eab90e033a5bbf454926b8",
+    "cover_hash": "81394d6768ecac7872a93159e968b256",
     "executables": []
   },
   {
@@ -201739,6 +202046,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168662084096021",
+    "name": "The Grand Book Archive: Tidy Up",
+    "icon_hash": "8b7d3a7dbe31ae52310ea3b5b107f0c9",
+    "cover_hash": "7ed1e1a9e308a619c5553357c84aadad",
+    "executables": []
   },
   {
     "id": "1513022389678772354",
@@ -205634,6 +205948,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168540302344262",
+    "name": "The Plant Shop",
+    "icon_hash": "3e64bc01d49fb5ca4b9f40200ce9ee29",
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1499974276596633700",
@@ -210204,6 +210525,13 @@
     "executables": []
   },
   {
+    "id": "1552168552797310986",
+    "name": "Tidy Up History",
+    "icon_hash": "9b4a8d56a4ac87984c02297cbfe9b7a6",
+    "cover_hash": "8abc4f7a66861eb635ba153e7cb3d76d",
+    "executables": []
+  },
+  {
     "id": "1535861234065342566",
     "name": "Tidy Up Together",
     "icon_hash": "0a4e40e158c19396ee0580dc982079e4",
@@ -214402,6 +214730,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168512116756550",
+    "name": "Toxic Yuri",
+    "icon_hash": "d62c8fa8583ece811d36ff7f563f7f33",
+    "cover_hash": "4f3815d57366685d07afeb7b6a9f8a12",
+    "executables": []
   },
   {
     "id": "454731115027103759",
@@ -227174,6 +227509,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168531687247992",
+    "name": "WE ARE FOOTBALL 2027",
+    "icon_hash": "23ef21bae4c3ebd392518b4610d4033d",
+    "cover_hash": "264b5c92bd944680d32416f800ff7d12",
+    "executables": []
   },
   {
     "id": "1540209083829854340",
