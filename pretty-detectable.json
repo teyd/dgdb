@@ -3390,7 +3390,7 @@
   {
     "id": "1442730442376872038",
     "name": "ACA Neo Geo: Ninja Commando",
-    "icon_hash": "8aa9564f2d3cb41f667fba443b260806",
+    "icon_hash": null,
     "cover_hash": "a586f795d870d2e010992cce71b34399",
     "executables": []
   },
@@ -4481,7 +4481,7 @@
   {
     "id": "1441993110669230191",
     "name": "AFK Arena",
-    "icon_hash": "e30a60d86f65b4eb0b5156926374ea9e",
+    "icon_hash": null,
     "cover_hash": "d14bd643e2745f48c3681c09929ee7c8",
     "executables": []
   },
@@ -4715,7 +4715,7 @@
   {
     "id": "1440140390501191742",
     "name": "Agar.io",
-    "icon_hash": "57716fc993a21b696732dc47ac677864",
+    "icon_hash": null,
     "cover_hash": "4817480ba33d04a5046ae8de40841cc0",
     "executables": []
   },
@@ -7087,7 +7087,7 @@
   {
     "id": "1506495862434693221",
     "name": "Allfiring",
-    "icon_hash": "a4ae8e9a225d50e5f983bde0c7ecebe3",
+    "icon_hash": null,
     "cover_hash": "6f97276b4af3955a891bdd288ee27690",
     "executables": []
   },
@@ -8601,14 +8601,14 @@
   {
     "id": "1441990393683251361",
     "name": "Angry Birds 2",
-    "icon_hash": "f605861e1536140447d18ac665d8d90c",
+    "icon_hash": null,
     "cover_hash": "df1d82668bdb3801687bc53384e38cb5",
     "executables": []
   },
   {
     "id": "1441990560268288212",
     "name": "Angry Birds Friends",
-    "icon_hash": "24add56faeaed2ae7a74dadd65ab7cbe",
+    "icon_hash": null,
     "cover_hash": "836f6cb1dcbc3f1de55dec5d87313314",
     "executables": []
   },
@@ -11433,7 +11433,7 @@
   {
     "id": "1444889020663595129",
     "name": "Archero 2",
-    "icon_hash": "26c58e0069446f34bfe47ddc1383d855",
+    "icon_hash": null,
     "cover_hash": "affa42f6fe464ed1bb8e4b76e26ed28d",
     "executables": []
   },
@@ -11644,7 +11644,7 @@
   {
     "id": "1494048538529628430",
     "name": "Arena Breakout",
-    "icon_hash": "7201719f9680706c142beb8e6e51021a",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -11995,7 +11995,7 @@
   {
     "id": "1441993124996972685",
     "name": "Arknights",
-    "icon_hash": "b8a9480f5ffcc82d0bc87e94976237cb",
+    "icon_hash": null,
     "cover_hash": "f6817fc825b124b8997b950adf8d7864",
     "executables": []
   },
@@ -15064,7 +15064,7 @@
   {
     "id": "1442715046839849001",
     "name": "Avatar World",
-    "icon_hash": "5c992aa31650a486acfcec64edea224b",
+    "icon_hash": null,
     "cover_hash": "e543491f6fe624886fa7339a2a7f2681",
     "executables": []
   },
@@ -15499,7 +15499,7 @@
   {
     "id": "1445984291879260201",
     "name": "Azur Lane",
-    "icon_hash": "cfa06ecfb5d0603071c07e4c3334dc13",
+    "icon_hash": null,
     "cover_hash": "5c05446dac1dd791d5ccbaf7e26aaf1c",
     "executables": []
   },
@@ -16737,7 +16737,7 @@
   {
     "id": "1484039118198407268",
     "name": "Ball Guys : Stumble & Fall",
-    "icon_hash": "89f1b056a33d2b4eb98470f3e03f49ce",
+    "icon_hash": null,
     "cover_hash": "707147dc4f0eda09d0682bf5ef9cd862",
     "executables": []
   },
@@ -17554,7 +17554,7 @@
   {
     "id": "1496350094394654730",
     "name": "BASEBALL 9",
-    "icon_hash": "9f7d50504e589fe560b97b86208612e9",
+    "icon_hash": null,
     "cover_hash": "2c74c8b88c4d377b16c475c2264635e1",
     "executables": []
   },
@@ -19950,7 +19950,7 @@
   {
     "id": "496537107708248064",
     "name": "Bejeweled Blitz",
-    "icon_hash": "f5a38f4d3b46e567685ee4afe9b8aed2",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": [
       {
@@ -21685,7 +21685,7 @@
   {
     "id": "1442733098587389952",
     "name": "BitLife",
-    "icon_hash": "13dc31a542531575bceb4a4660dbbf1b",
+    "icon_hash": null,
     "cover_hash": "f995bd3c4d6979c26092aa22c2776da3",
     "executables": []
   },
@@ -23111,7 +23111,7 @@
   },
   {
     "id": "1549993939354783785",
-    "name": "BLINDFOLD: Hide and Seek",
+    "name": "Blindfold: Hide and Seek",
     "icon_hash": "9f7815b7acb743331438948177de4cb6",
     "cover_hash": "5318f276a683019db41e55b06fae6335",
     "executables": []
@@ -23965,7 +23965,7 @@
   {
     "id": "1445976332080123914",
     "name": "Bloody Bastards",
-    "icon_hash": "3f4a005885fcc673be2f630f0d0d8f4a",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -24248,7 +24248,7 @@
   {
     "id": "1519553316701470740",
     "name": "bloxd.io",
-    "icon_hash": "2111a9c5749029882c8e4b6c0b67886f",
+    "icon_hash": null,
     "cover_hash": "bfd8b3d696da7bf41a8b0b8d73ab28b5",
     "executables": []
   },
@@ -27688,7 +27688,7 @@
   {
     "id": "1442740930959511634",
     "name": "Brown Dust II",
-    "icon_hash": "1583a522884f80d58fa24709706ec477",
+    "icon_hash": null,
     "cover_hash": "e875fe1d90a830d609de9396da6c6491",
     "executables": []
   },
@@ -28206,7 +28206,7 @@
   {
     "id": "1440142084928438435",
     "name": "Bullet Force",
-    "icon_hash": "a5a0c1fd345576b197a2849b5770e4c6",
+    "icon_hash": null,
     "cover_hash": "bfdbffde798671800cf237f6de599062",
     "executables": []
   },
@@ -30495,14 +30495,14 @@
   {
     "id": "1440139657655353394",
     "name": "Candy Crush Saga",
-    "icon_hash": "3268c9a950c07f6ac830cd6b2be40aec",
+    "icon_hash": null,
     "cover_hash": "1b583f5202c4269ba1a0b70ddd5566c8",
     "executables": []
   },
   {
     "id": "1441991036334243901",
     "name": "Candy Crush Soda Saga",
-    "icon_hash": "1ee5da41d3caf40f3a01d31413771ed1",
+    "icon_hash": null,
     "cover_hash": "20598f45878ded58418466fb79e32ba5",
     "executables": []
   },
@@ -34416,7 +34416,7 @@
   {
     "id": "1440138508483166249",
     "name": "Chaos Zero Nightmare",
-    "icon_hash": "b9618b9bbc3600c198595de6b282a0ef",
+    "icon_hash": null,
     "cover_hash": "1e85fc89d09a711db3956663660edce1",
     "executables": []
   },
@@ -36590,7 +36590,7 @@
   {
     "id": "1525351221190201355",
     "name": "City Racing 2",
-    "icon_hash": "c885449b176006490020b6501ec4dd6e",
+    "icon_hash": null,
     "cover_hash": "d567bc4119a514332369c87d2dd4c916",
     "executables": []
   },
@@ -36860,14 +36860,14 @@
   {
     "id": "1441990808399253575",
     "name": "Clash of Clans",
-    "icon_hash": "7ebc32a3c7a4b3724fb2b7aeaf63b411",
+    "icon_hash": null,
     "cover_hash": "500e12538089faeb49651ea1d5908940",
     "executables": []
   },
   {
     "id": "1420796862369239162",
     "name": "Clash Royale",
-    "icon_hash": "31b9c927b189cd3595a41f5c5328935d",
+    "icon_hash": null,
     "cover_hash": "8c55ddecf220245f0b13055d0c4e70dc",
     "executables": [
       {
@@ -40469,14 +40469,14 @@
   {
     "id": "1442736661237731358",
     "name": "Cookie Run: Kingdom",
-    "icon_hash": "8683a01f1c089b781d149f448038cdfa",
+    "icon_hash": null,
     "cover_hash": "72d8e7b8255a45e007c4768b5ed1340c",
     "executables": []
   },
   {
     "id": "1522089834603216916",
     "name": "Cookie Run: OvenBreak",
-    "icon_hash": "a8d83adb28552e85323658f323b83ea8",
+    "icon_hash": null,
     "cover_hash": "08416286a70104b4b5824fb322950325",
     "executables": []
   },
@@ -40490,14 +40490,14 @@
   {
     "id": "1442739405105397760",
     "name": "Cookie Run: Tower of Adventures",
-    "icon_hash": "293dfc3dfd2bd3473c6675d7b8bd446e",
+    "icon_hash": null,
     "cover_hash": "36456f19a6782a3ad71944bdee7d5d1b",
     "executables": []
   },
   {
     "id": "1534411079025950863",
     "name": "CookieRun: Crumble - Idle RPG",
-    "icon_hash": "6bded95fc07f5baf0d56b702ccaa6656",
+    "icon_hash": null,
     "cover_hash": "6bb65f84918031ee1c64f9506aa6b509",
     "executables": []
   },
@@ -42841,7 +42841,7 @@
   },
   {
     "id": "1479320468090519593",
-    "name": "Crimson Desert",
+    "name": "Crimson Desert Enhanced",
     "icon_hash": "cbc37f029df47e475af81bcb92c52353",
     "cover_hash": "c84a7acd47709785fc67382fc161866d",
     "executables": []
@@ -44544,6 +44544,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552530479570493571",
+    "name": "Culdcept Begins",
+    "icon_hash": "887eec1fd0b64095112a5a2a428504e9",
+    "cover_hash": "4b2102a867ea37303b0611792addb4f4",
+    "executables": []
   },
   {
     "id": "1515195709195030628",
@@ -47204,7 +47211,7 @@
   {
     "id": "1471340416833032264",
     "name": "Dawncaster: Deckbuilding RPG",
-    "icon_hash": "7c74567ca70ccace706b6c4a7eb453e9",
+    "icon_hash": null,
     "cover_hash": "35fb4923df94fe95eac598d8b78d4a7b",
     "executables": []
   },
@@ -51530,7 +51537,7 @@
   {
     "id": "1440132216519921696",
     "name": "Destiny: Rising",
-    "icon_hash": "a7449b32c022b36130b95f38cfe1af69",
+    "icon_hash": null,
     "cover_hash": "de97aa4c72e2469590c15ca4e3b23c38",
     "executables": []
   },
@@ -52481,7 +52488,7 @@
   {
     "id": "1504686258973179994",
     "name": "Dicero",
-    "icon_hash": "23fa8a34b36cfab34e550cf39b11aafd",
+    "icon_hash": null,
     "cover_hash": "3e29f364a06d0d05a1c8e97de6ab0aca",
     "executables": []
   },
@@ -53684,6 +53691,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552530449513844847",
+    "name": "Discipline Simulator",
+    "icon_hash": "4f3b12f73836dbe8ef082118a75f075f",
+    "cover_hash": "535e174f2855a796621ec183ff3b7a9b",
+    "executables": []
   },
   {
     "id": "1445982259139317893",
@@ -56775,7 +56789,7 @@
   {
     "id": "1442731908646830180",
     "name": "Dragon Ball Legends",
-    "icon_hash": "4a63df2ad1741c4e6166cb544b9a1682",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -56907,7 +56921,7 @@
   {
     "id": "1441991241620389999",
     "name": "Dragon City",
-    "icon_hash": "2283d3f06bfdd0d4e8c6d1550e536eb8",
+    "icon_hash": null,
     "cover_hash": "020a185aa0e6f10a0defdad035d4d452",
     "executables": []
   },
@@ -57792,6 +57806,13 @@
     "executables": []
   },
   {
+    "id": "1552530654451736646",
+    "name": "DreadHaven: The Last Colony",
+    "icon_hash": "f0140308977557fbc3df9e999fb60100",
+    "cover_hash": "fdbd98c18083220126d0020585304a0e",
+    "executables": []
+  },
+  {
     "id": "1404857036205985835",
     "name": "Dreadline: Net Quota",
     "icon_hash": "189168b24f5f427bdfd2657ad8a96490",
@@ -58220,6 +58241,13 @@
     "name": "Dremica",
     "icon_hash": "0c138c0dbc60c1cfbefc5819f78445d0",
     "cover_hash": "b75990712e3ac2df5b8156645d414797",
+    "executables": []
+  },
+  {
+    "id": "1552530660806361179",
+    "name": "Dressmaker",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -60195,7 +60223,7 @@
   {
     "id": "1509034691410268240",
     "name": "Dungeon Within",
-    "icon_hash": "2974f7695937a941ae33033c5ef69f4e",
+    "icon_hash": null,
     "cover_hash": "227468d548f7c214faede3e95b842b28",
     "executables": []
   },
@@ -61260,7 +61288,7 @@
   {
     "id": "1531874756096295054",
     "name": "EA Sports FC 27",
-    "icon_hash": "92e3953410f824d5dacfbe34810d5403",
+    "icon_hash": "eddb3390e22763c8c7449ea393ca665d",
     "cover_hash": "b9e00e9b011da7dc6f955601593a6ad2",
     "executables": []
   },
@@ -62585,6 +62613,13 @@
     ]
   },
   {
+    "id": "1552530468593737811",
+    "name": "Eldritch Escape",
+    "icon_hash": "452f8abe80bb2856a887544079cec53d",
+    "cover_hash": "9bbf28c8787aaff9fd12fbc31f8134c1",
+    "executables": []
+  },
+  {
     "id": "1442728304485597236",
     "name": "Elea",
     "icon_hash": "809f8be2c692232786bbfad048d49702",
@@ -63435,7 +63470,7 @@
   {
     "id": "1440139121883349032",
     "name": "Empire: Total War",
-    "icon_hash": "f050375358202f0101b732ba1b4f2e4a",
+    "icon_hash": null,
     "cover_hash": "efe773d9099f239bb025d79ebcc9c87d",
     "executables": []
   },
@@ -69410,7 +69445,7 @@
   {
     "id": "1440141913473810465",
     "name": "Farm Heroes Saga",
-    "icon_hash": "50577c1fe814f3f6cebda0cffa1fa450",
+    "icon_hash": null,
     "cover_hash": "f9509cfe2a108a97ee4236594c292100",
     "executables": []
   },
@@ -69670,7 +69705,7 @@
   {
     "id": "1526679125639561356",
     "name": "Farming Simulator 16",
-    "icon_hash": "5d2941c915ecede78ad8de1d9d061cf5",
+    "icon_hash": null,
     "cover_hash": "8500528acc76824e5078367cdadf45f4",
     "executables": []
   },
@@ -69697,7 +69732,7 @@
   {
     "id": "1509999824622190785",
     "name": "Farming Simulator 18",
-    "icon_hash": "0b449203477cda9c42107b789bb503e4",
+    "icon_hash": null,
     "cover_hash": "c39c8fb14cc7680cf24b7f8a735fd9c7",
     "executables": []
   },
@@ -69920,6 +69955,13 @@
     "name": "Fastrak: Metro",
     "icon_hash": "674e277de2ec86b55ca78344bb9da97e",
     "cover_hash": "e8123871a94e1f553e967894231645c1",
+    "executables": []
+  },
+  {
+    "id": "1552530587401846844",
+    "name": "Fat Chance",
+    "icon_hash": "d035b4043367de0ee8f58de097b11983",
+    "cover_hash": "d38d706609ad4a89a0cbb0e6e98f1c01",
     "executables": []
   },
   {
@@ -72587,13 +72629,6 @@
     ]
   },
   {
-    "id": "1552168588968984596",
-    "name": "Fireboy & Watergirl 3: The Ice Temple",
-    "icon_hash": "ab2294a0e2cd8b496deb56750f93a005",
-    "cover_hash": "83254f4296b005492c5df2b4bdbf19f2",
-    "executables": []
-  },
-  {
     "id": "1550356092331229314",
     "name": "Fireboy & Watergirl And Friends",
     "icon_hash": "682d1d63fedf44715f910fd828e800ca",
@@ -72625,6 +72660,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552168588968984596",
+    "name": "Fireboy and Watergirl in the Ice Temple",
+    "icon_hash": "ab2294a0e2cd8b496deb56750f93a005",
+    "cover_hash": "83254f4296b005492c5df2b4bdbf19f2",
+    "executables": []
   },
   {
     "id": "1548543872634720316",
@@ -74765,7 +74807,7 @@
   {
     "id": "1516279507038769202",
     "name": "Football League 2023",
-    "icon_hash": "9f858252a4f2cf5500ded32d6e7d9b29",
+    "icon_hash": null,
     "cover_hash": "95eb5cedce0d5c7dad93a068595bebb0",
     "executables": []
   },
@@ -76724,7 +76766,7 @@
   {
     "id": "1441993244895477830",
     "name": "Free Fire",
-    "icon_hash": "84e391b61aa6d0558351f1f52a462d87",
+    "icon_hash": null,
     "cover_hash": "f8c6f05ea187622ee1d6412e46ec243e",
     "executables": []
   },
@@ -77005,7 +77047,7 @@
   {
     "id": "1441993950360502362",
     "name": "FRIDAY NIGHT FUNKIN'",
-    "icon_hash": "0593d7ae3c5f3dfd702236466d329c5a",
+    "icon_hash": null,
     "cover_hash": "49d9db07ea37a18b4de8043bbf3ac7d0",
     "executables": []
   },
@@ -78747,7 +78789,7 @@
   {
     "id": "1440143350211674122",
     "name": "Gacha Club",
-    "icon_hash": "49892abf4ff5fe28118fc5f089971fee",
+    "icon_hash": null,
     "cover_hash": "fe129b40559ebdd8d768bce1f17602f6",
     "executables": []
   },
@@ -78767,7 +78809,7 @@
   {
     "id": "1440142544188215386",
     "name": "Gacha Life",
-    "icon_hash": "8a41888d2ec32383c3762f39712b5172",
+    "icon_hash": null,
     "cover_hash": "950dd6141e543f713b7a8cf555f7a27e",
     "executables": []
   },
@@ -80831,7 +80873,7 @@
   {
     "id": "1440141974169452664",
     "name": "Geometry Dash World",
-    "icon_hash": "bbabcb54999234397a0c80f9438a83de",
+    "icon_hash": null,
     "cover_hash": "0f8b8badaf0c9f09028f632229ba0078",
     "executables": []
   },
@@ -81666,7 +81708,7 @@
   {
     "id": "1440142318941241354",
     "name": "Girls' Frontline",
-    "icon_hash": "c9906845ce6f3cd262e96b02921a4fb2",
+    "icon_hash": null,
     "cover_hash": "b68ba2494cedd6c52f30971b500f3938",
     "executables": []
   },
@@ -82221,7 +82263,7 @@
   {
     "id": "1474968266723299553",
     "name": "Gnomium: Pocket Edition",
-    "icon_hash": "22ae815f86a65a436777b7c9d65f895f",
+    "icon_hash": null,
     "cover_hash": "555b748157556fb7a62f97458642aba7",
     "executables": []
   },
@@ -82746,7 +82788,7 @@
   {
     "id": "1493468373311422615",
     "name": "GODDESS OF VICTORY: NIKKE",
-    "icon_hash": "e806bb814dbbfa523bc8c84e7fb519d3",
+    "icon_hash": null,
     "cover_hash": "550ba1790e72b9b50dac5af3d11b896c",
     "executables": [
       {
@@ -89055,7 +89097,7 @@
   {
     "id": "1497437382994296842",
     "name": "Harry Potter: Hogwarts Mystery",
-    "icon_hash": "e703c9130e8bec13ad8901f4f0574142",
+    "icon_hash": null,
     "cover_hash": "63f109f6a4cfc14d1a2632e84420863f",
     "executables": []
   },
@@ -90263,7 +90305,7 @@
   {
     "id": "1482214586173100257",
     "name": "Heavenhells",
-    "icon_hash": "86cb99df9bcf2d263aa7148a52f8cda0",
+    "icon_hash": null,
     "cover_hash": "152024b66e8701e6a6c516c3084efd1a",
     "executables": []
   },
@@ -93144,7 +93186,7 @@
   {
     "id": "1440140513306218616",
     "name": "Hill Climb Racing",
-    "icon_hash": "80de2cea411f7dd7d6c37d816665cb3e",
+    "icon_hash": null,
     "cover_hash": "792697083cdaa115406ce366a0bb91bf",
     "executables": []
   },
@@ -93195,6 +93237,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552530437736243301",
+    "name": "HIPS N NOSES",
+    "icon_hash": "d19d331f60c1645963446a513e34ed2e",
+    "cover_hash": "58bae41cc9a481f757fac909776c5ade",
+    "executables": []
   },
   {
     "id": "1441992279933063259",
@@ -94380,7 +94429,7 @@
   {
     "id": "1441992433708695623",
     "name": "Homescapes",
-    "icon_hash": "e7a4b5fe14d5078cbe9c4821d0076f2e",
+    "icon_hash": null,
     "cover_hash": "e85bcb4e5b2befa95420be7ef8e8e594",
     "executables": []
   },
@@ -97970,7 +98019,7 @@
   {
     "id": "1442732414437822469",
     "name": "Identity V",
-    "icon_hash": "35cbc9e12b72cf4b31f979cb2aa4707e",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -98305,7 +98354,7 @@
   {
     "id": "1492001079163093055",
     "name": "Idle Obelisk Miner",
-    "icon_hash": "3bcff5a3bb93dbe8edd5a7b89e535e84",
+    "icon_hash": null,
     "cover_hash": "836a27b9df2858d900dd89c7b6f1e5f7",
     "executables": []
   },
@@ -98741,6 +98790,13 @@
     "executables": []
   },
   {
+    "id": "1552530570553204747",
+    "name": "Ignitement",
+    "icon_hash": "4a57d0072be27d4236be83710ae7b6dd",
+    "cover_hash": "4a79d83daeb5c706e8c41771287b9cbf",
+    "executables": []
+  },
+  {
     "id": "1538397707541159997",
     "name": "IGNOBLE",
     "icon_hash": "b430d752dd12b2291dc12731cbd49e12",
@@ -98937,7 +98993,7 @@
   {
     "id": "1515196228781215766",
     "name": "Illusion Connect",
-    "icon_hash": "501fbefb226b42f40a3f74f2eb2703f8",
+    "icon_hash": null,
     "cover_hash": "4565c3ca37c567fc01976a5f40353293",
     "executables": []
   },
@@ -100284,7 +100340,7 @@
   {
     "id": "1445984272484925513",
     "name": "Infinite Stairs",
-    "icon_hash": "ce332c528fdbbbcb6d05b6b9ef6ad5c0",
+    "icon_hash": null,
     "cover_hash": "dd816e91c094a5cd32d2781e2f9f71d1",
     "executables": []
   },
@@ -100720,7 +100776,7 @@
   {
     "id": "1449239170664104068",
     "name": "Inotia 4: Assassin of Berkel",
-    "icon_hash": "f38755841936ed536903b2dd7c15db44",
+    "icon_hash": null,
     "cover_hash": "d5183f35c8247c7258c32f7cede80292",
     "executables": []
   },
@@ -103308,7 +103364,7 @@
   {
     "id": "1440539272900776008",
     "name": "Jetpack Joyride",
-    "icon_hash": "86e2cdb782fd8e29ea44f29eeb9a604c",
+    "icon_hash": null,
     "cover_hash": "1cbb2b707f48ef740dc144871a60ceb4",
     "executables": []
   },
@@ -103759,7 +103815,7 @@
   {
     "id": "1539484463065596074",
     "name": "JoJo's Bizarre Adventure: Golden Spirit",
-    "icon_hash": "4dd2a47775c18ab22cb24fc754f8a976",
+    "icon_hash": null,
     "cover_hash": "67bc6a90c713c7970b4d050126351c0b",
     "executables": []
   },
@@ -104079,7 +104135,7 @@
   {
     "id": "1478595157673906186",
     "name": "Jujutsu Kaisen: Phantom Parade",
-    "icon_hash": "1091cf29b856fca239a850a20213fcb1",
+    "icon_hash": null,
     "cover_hash": "e24fd63363d4cf48d0f97fd84719ec9c",
     "executables": []
   },
@@ -107211,7 +107267,7 @@
   {
     "id": "1442729913097523292",
     "name": "King of the Monsters",
-    "icon_hash": "0b5622d7b26d6364a8bf3a48e14ae061",
+    "icon_hash": null,
     "cover_hash": "6d98a2148154a4b3def4d0d08fc4d0ac",
     "executables": []
   },
@@ -110267,7 +110323,7 @@
   {
     "id": "1452861022606987315",
     "name": "Last War",
-    "icon_hash": "9b666989cae2250d42dc1abdb268d205",
+    "icon_hash": null,
     "cover_hash": "c9c40347f922e1782bcb4e59517c40d3",
     "executables": []
   },
@@ -115002,7 +115058,7 @@
   {
     "id": "1522089863568953537",
     "name": "LORD NINE: Infinite Class",
-    "icon_hash": "cf12b6acb63d8fb0b1b52e35c0d12e34",
+    "icon_hash": null,
     "cover_hash": "a5ee9fa4d51a48d889b2198d69f1a365",
     "executables": []
   },
@@ -115831,7 +115887,7 @@
   {
     "id": "1445976661484113950",
     "name": "Lost Sword",
-    "icon_hash": "0459d0c595e25953cf225abd77fdc728",
+    "icon_hash": null,
     "cover_hash": "f8dc4888eeee7ddd9e0302b89ce72d21",
     "executables": []
   },
@@ -116532,7 +116588,7 @@
   {
     "id": "1522089841020375041",
     "name": "Lucky Defense",
-    "icon_hash": "2755abd55a4ab9ddcc518ebd7b92acff",
+    "icon_hash": null,
     "cover_hash": "076086980b6902a385c345c4692dde16",
     "executables": []
   },
@@ -118251,7 +118307,7 @@
   {
     "id": "1442721416083673218",
     "name": "Magic Chess: Go Go",
-    "icon_hash": "27bbcab3aa5cb9579d49ba468cd8d045",
+    "icon_hash": null,
     "cover_hash": "f0b64bb9ee8901c20ccd92699891ec1d",
     "executables": []
   },
@@ -119775,7 +119831,7 @@
   {
     "id": "1442731735652499539",
     "name": "Mario Kart Tour",
-    "icon_hash": "c74260e6ed39c80382f03d361f9a2407",
+    "icon_hash": null,
     "cover_hash": "692c197502034d8507f8db5bdb6f66d3",
     "executables": []
   },
@@ -120068,7 +120124,7 @@
   {
     "id": "1522089871924269087",
     "name": "Marvel Collect! by Topps",
-    "icon_hash": "dc38c3a43fd59f82d59129efc96373b0",
+    "icon_hash": null,
     "cover_hash": "cb490c207912305a7a0a4787c104f2ce",
     "executables": []
   },
@@ -120706,6 +120762,13 @@
     "name": "Master of Piece",
     "icon_hash": "c6084b6242004ad5eafce9342de966eb",
     "cover_hash": "cfd1e10209b5b85bec8cd580d775d17e",
+    "executables": []
+  },
+  {
+    "id": "1552530678825099334",
+    "name": "Master Of Pottery",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -122023,7 +122086,7 @@
   {
     "id": "1440541235977912431",
     "name": "Mega Zombie",
-    "icon_hash": "f6a30fa3356e610c9e9677c4f28128ea",
+    "icon_hash": null,
     "cover_hash": "c6b3a125654d39c3a927a96aa9b921f6",
     "executables": []
   },
@@ -122417,7 +122480,7 @@
   {
     "id": "1440541730171519006",
     "name": "Memento Mori",
-    "icon_hash": "ca928b2dd5e8d9fcf448620239b64306",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -125889,7 +125952,7 @@
   {
     "id": "1428207939969355876",
     "name": "MiniLife: Tournament",
-    "icon_hash": "16bb1a55b59b19ea0cd2c12fd56879d3",
+    "icon_hash": null,
     "cover_hash": "11df9c9d8976826e02ccdd5d405b22d2",
     "executables": []
   },
@@ -126938,7 +127001,7 @@
   {
     "id": "1441992389232165056",
     "name": "Mobile Legends: Bang Bang",
-    "icon_hash": "ecf0eb7506bca64417a3d8db635f02dc",
+    "icon_hash": null,
     "cover_hash": "c3cabadf872902decba3a15c99fa8d66",
     "executables": []
   },
@@ -127805,7 +127868,7 @@
   {
     "id": "1445976146561994886",
     "name": "Monoposto",
-    "icon_hash": "77368ae0281ce8b01547dda31d2f6cfd",
+    "icon_hash": null,
     "cover_hash": "87d0f10fbfaf0027f40b0db1f2acb946",
     "executables": []
   },
@@ -128204,7 +128267,7 @@
   {
     "id": "1506501473100632206",
     "name": "Monster Legends",
-    "icon_hash": "1260b06d3d52096a797675b0ef34a57f",
+    "icon_hash": null,
     "cover_hash": "10fbb6b644a1e8ad819ea53e958abf88",
     "executables": []
   },
@@ -139882,6 +139945,13 @@
     ]
   },
   {
+    "id": "1552530597912772619",
+    "name": "Old Market Restored",
+    "icon_hash": "4562016573bd29dc0c9313a00ed68daf",
+    "cover_hash": "0524c7dff7c86534875f58a270f665e6",
+    "executables": []
+  },
+  {
     "id": "1278489330288955433",
     "name": "Old Market Simulator",
     "icon_hash": "d5e971c905767e2bd50f4f125bc48795",
@@ -143022,7 +143092,7 @@
   {
     "id": "1442713322578251938",
     "name": "OUTERPLANE",
-    "icon_hash": "1c0cdde5beb226d4d89601ae9723b1d5",
+    "icon_hash": null,
     "cover_hash": "95376660933a8a2dbdb3cf69bcda0659",
     "executables": []
   },
@@ -144763,6 +144833,13 @@
     "name": "Panzer Corps 2",
     "icon_hash": "f374e21d7ae60991cc05196d80241bfa",
     "cover_hash": "8a8042f27cf9546315d66928815a0fbf",
+    "executables": []
+  },
+  {
+    "id": "1552530429469261874",
+    "name": "Panzer Deck",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -149777,7 +149854,7 @@
   {
     "id": "1442727662325071912",
     "name": "Plague Inc: The Cure",
-    "icon_hash": "9f059b4baeed26b553b0f7279b3d2c14",
+    "icon_hash": null,
     "cover_hash": "c5e73540b76f002e969efe68c33847cc",
     "executables": []
   },
@@ -150965,14 +151042,14 @@
   {
     "id": "1445224235982389408",
     "name": "Pokémon Trading Card Game Live",
-    "icon_hash": "141624eb668fdcd3f3906307c9ff62df",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
   {
     "id": "406638244835622912",
     "name": "Pokémon Trading Card Game Online",
-    "icon_hash": "e55aad5da922feb0daedf9ff6123d7df",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": [
       {
@@ -155538,7 +155615,7 @@
   {
     "id": "1442712013028462633",
     "name": "PunchMan Online",
-    "icon_hash": "da360d826b8a1a8d431e22e88661f39e",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -155830,6 +155907,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1552530619068846211",
+    "name": "Put Back Stuff",
+    "icon_hash": "88f9d61b528f2643bcf2f2159bc4ad4c",
+    "cover_hash": "888b5e9172173b68fe819bf2908c568c",
+    "executables": []
   },
   {
     "id": "1445981442734690427",
@@ -157418,7 +157502,7 @@
   {
     "id": "1441987029339738162",
     "name": "Racing Master",
-    "icon_hash": "1647da4cb0019ecec11769f997552a09",
+    "icon_hash": null,
     "cover_hash": "3f12cd0d6eca77e6e10ada932e9c5ca8",
     "executables": []
   },
@@ -157820,14 +157904,14 @@
   {
     "id": "1488737454109495377",
     "name": "Ragnarok Origin",
-    "icon_hash": "4ff821284317bc705fe9e99a7145bff9",
+    "icon_hash": null,
     "cover_hash": "4eb3936f95ded9a84b20f8dd0f4917b3",
     "executables": []
   },
   {
     "id": "1481493661484187748",
     "name": "Ragnarok X: Next Generation",
-    "icon_hash": "d9acea132403b563795c309baa85b6d1",
+    "icon_hash": null,
     "cover_hash": "5d6feb744f3f970950297d1199ec88e9",
     "executables": []
   },
@@ -159278,6 +159362,13 @@
     "name": "Reality Break",
     "icon_hash": "d249d02588a68b3652073f49c22317ad",
     "cover_hash": "3bb694cdcac347e52156fc93cdd0166e",
+    "executables": []
+  },
+  {
+    "id": "1552530465104203886",
+    "name": "Really Illegal Golf",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -163175,7 +163266,7 @@
   {
     "id": "1441992604911665204",
     "name": "Rise of Kingdoms",
-    "icon_hash": "ed8489f42468145e749afa52c128de88",
+    "icon_hash": null,
     "cover_hash": "4ec4668545e402ba4bac703314ec00cb",
     "executables": []
   },
@@ -165238,7 +165329,7 @@
   {
     "id": "1440141463995285605",
     "name": "RollerCoaster Tycoon 3",
-    "icon_hash": "6be612cadad8f9b8ea20c56a04a828be",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -168053,7 +168144,7 @@
   {
     "id": "1445982945033846784",
     "name": "Saint Seiya EX",
-    "icon_hash": "d8950a1f18e26fe1720a4540f41d1a3f",
+    "icon_hash": null,
     "cover_hash": "5773bdddb27bf8d62c36518a85de8351",
     "executables": []
   },
@@ -170584,6 +170675,13 @@
     ]
   },
   {
+    "id": "1552530638261723206",
+    "name": "Screen Stocks",
+    "icon_hash": "35236c3ec710fa85f162d13e3a927fb6",
+    "cover_hash": "5eeecc05680a6a7a56884cfa25fa876f",
+    "executables": []
+  },
+  {
     "id": "1515195976590299267",
     "name": "Screenbound",
     "icon_hash": "4c3115dcb790be1ca990e66c929c89c6",
@@ -170804,7 +170902,7 @@
   {
     "id": "1441994730933059614",
     "name": "SD Gundam G Generation Eternal",
-    "icon_hash": "395ba2f95bbcb9fc3ebe4cc2ae9a5c83",
+    "icon_hash": null,
     "cover_hash": "49eea55f508fd09505a035008d5301fe",
     "executables": []
   },
@@ -172364,7 +172462,7 @@
   {
     "id": "1441987526230278315",
     "name": "Seven Knights Idle Adventure",
-    "icon_hash": "5bbd08e02fd36374ed2c3ad1ca872363",
+    "icon_hash": null,
     "cover_hash": "60fc3b9b25772f6c255def67b446f799",
     "executables": []
   },
@@ -173023,7 +173121,7 @@
   {
     "id": "1442732673151008879",
     "name": "Shadowgate",
-    "icon_hash": "4192a84de0f865f188770fe07ae784de",
+    "icon_hash": null,
     "cover_hash": "d1b122cdba9b20495f9ccbe8dec31f32",
     "executables": []
   },
@@ -175785,6 +175883,13 @@
     "executables": []
   },
   {
+    "id": "1552530405343760395",
+    "name": "Silent Hill: Townfall",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "425728586192912384",
     "name": "Silent Hunter 4: Wolves of the Pacific",
     "icon_hash": "017849fd4dfd616679e4723ddc9334cd",
@@ -175936,7 +176041,7 @@
   {
     "id": "1440137653243740160",
     "name": "Silver and Blood",
-    "icon_hash": "5b8be62223efa240663d3388671b0b1d",
+    "icon_hash": null,
     "cover_hash": "21b4ba60ab14adff93ee0c732af908ab",
     "executables": []
   },
@@ -175963,7 +176068,7 @@
   {
     "id": "1462282969900122143",
     "name": "Silver Palace",
-    "icon_hash": "9ab4071ea43cedada894103a03c91c41",
+    "icon_hash": null,
     "cover_hash": "b00ef3ac4c4aa67c66da59958bb3c9bb",
     "executables": []
   },
@@ -178257,7 +178362,7 @@
   {
     "id": "1442733092908564652",
     "name": "Slime: Isekai Memories",
-    "icon_hash": "5918a6dfa56150b207bc1e5162e0f51e",
+    "icon_hash": null,
     "cover_hash": "150a7a292fbad7801db28518e01855c1",
     "executables": []
   },
@@ -178339,7 +178444,7 @@
   {
     "id": "1441991558936264755",
     "name": "Slither.io",
-    "icon_hash": "01ab1a0421ba411440758676acb47536",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -179784,7 +179889,7 @@
   },
   {
     "id": "1301606739875074068",
-    "name": "Soccer Manager 2026",
+    "name": "Soccer Manager 2027",
     "icon_hash": "f8c7a325cfbb83d7f33ec0bdbeef08ad",
     "cover_hash": "919bed26f07ffc9a229e850e226365d9",
     "executables": [
@@ -180098,7 +180203,7 @@
   {
     "id": "1441993869372817578",
     "name": "Solar Smash",
-    "icon_hash": "5e709527947b260e56fadd17453fcb5d",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -180656,7 +180761,7 @@
   {
     "id": "1440139180847140997",
     "name": "Sonic CD",
-    "icon_hash": "a41095bb9143564ec9a508986076d0f8",
+    "icon_hash": null,
     "cover_hash": "8064d948b838809fcaa4ec7b0157acd9",
     "executables": []
   },
@@ -183751,6 +183856,13 @@
     ]
   },
   {
+    "id": "1552530535836819507",
+    "name": "SPLIT FPV: Drone Racing",
+    "icon_hash": "840f9702a3b536c08a528c4ebaab5c7c",
+    "cover_hash": "915a7cdc17e2134b5c1eed7e3bda8177",
+    "executables": []
+  },
+  {
     "id": "1124353669320691752",
     "name": "Split or Steal",
     "icon_hash": "42489b604633eb6db94a23f973880e1f",
@@ -184207,7 +184319,7 @@
   {
     "id": "1440141206729392188",
     "name": "Spy Fox in \"Dry Cereal\"",
-    "icon_hash": "14337e487cfb79decd4a6eddc73e64a3",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -184888,7 +185000,7 @@
   {
     "id": "1522814665460158475",
     "name": "Star Sailors",
-    "icon_hash": "64e85b525dd3e41558274f80eef9f8dc",
+    "icon_hash": null,
     "cover_hash": "3e14a4737be2f30604e00bfc2fb61cce",
     "executables": []
   },
@@ -185337,7 +185449,7 @@
   {
     "id": "1441991227485585559",
     "name": "Star Wars: Galaxy of Heroes",
-    "icon_hash": "80afdaf2873bb16bb90c52a91c73799c",
+    "icon_hash": null,
     "cover_hash": "c1b34771c364c211f78f5f975eda0f83",
     "executables": []
   },
@@ -186157,7 +186269,7 @@
   {
     "id": "1451412907748364449",
     "name": "StarSavior",
-    "icon_hash": "561edaf8e53cd141607e7b4ba5b6328e",
+    "icon_hash": null,
     "cover_hash": "c863793a46387f9948d67f4679ea4ab1",
     "executables": []
   },
@@ -186393,7 +186505,7 @@
   {
     "id": "1440541000874590360",
     "name": "State of Survival",
-    "icon_hash": "f759996c8d531d595b3fbb284d47a551",
+    "icon_hash": null,
     "cover_hash": "89be917a57253be77a7a9b9ca07844d1",
     "executables": []
   },
@@ -186963,7 +187075,7 @@
   {
     "id": "1440138512451244063",
     "name": "Stella Sora",
-    "icon_hash": "d9aede38c424a5b7f847a49606f989ca",
+    "icon_hash": null,
     "cover_hash": "ef5735c55e88c1327bcc2ae46de8071e",
     "executables": []
   },
@@ -187331,7 +187443,7 @@
   {
     "id": "1442715836120039465",
     "name": "Stick War: Saga",
-    "icon_hash": "01e3353470a43445689d952dab0160c6",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -190690,7 +190802,7 @@
   {
     "id": "1441993965929889842",
     "name": "Super Bear Adventure",
-    "icon_hash": "b8270508b7cb32b171ebc2aa15993d45",
+    "icon_hash": null,
     "cover_hash": "e0787b648c76ec94f0542e55a847faf6",
     "executables": []
   },
@@ -192932,7 +193044,7 @@
   {
     "id": "1441986972855046317",
     "name": "Survivor.io",
-    "icon_hash": "e5bb7bbf6c3f066d407b00afb63544ff",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -196032,7 +196144,7 @@
   {
     "id": "1440131820447334570",
     "name": "Tarisland",
-    "icon_hash": "a4d9caa3312dd38b55b3b694c3d67501",
+    "icon_hash": null,
     "cover_hash": "3cbf50ddca1252826fbd969407ff1f34",
     "executables": []
   },
@@ -202375,6 +202487,13 @@
   {
     "id": "1442712025640996897",
     "name": "The Hippo G",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552530646868697139",
+    "name": "The Hollowing",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -211754,7 +211873,7 @@
   {
     "id": "1445976203734552649",
     "name": "Toca Life World",
-    "icon_hash": "c58de390e39462362dd7f89e250cd2a0",
+    "icon_hash": null,
     "cover_hash": "b7e643de6470a1d51e130cd6a39f8f18",
     "executables": []
   },
@@ -212515,6 +212634,13 @@
     "name": "Tomba! Special Edition",
     "icon_hash": "1e5b9f9d33186c39ea4108581eedeaea",
     "cover_hash": "ee5d8873c9fe3a4396f98c41979b5fd5",
+    "executables": []
+  },
+  {
+    "id": "1552530496121212948",
+    "name": "Tomboy Adventure 2",
+    "icon_hash": "533e1793f12abc09ca208bc585243310",
+    "cover_hash": "d4cc8af69f94b020babbeb859e216c64",
     "executables": []
   },
   {
@@ -214436,7 +214562,7 @@
   {
     "id": "1441987547998847017",
     "name": "Tower of God: New World",
-    "icon_hash": "5f11804352d00b044b386f000053310b",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -214701,7 +214827,7 @@
   {
     "id": "1441991772195786762",
     "name": "Township",
-    "icon_hash": "2a1da7efdffb00cea12eebeb898bdf79",
+    "icon_hash": null,
     "cover_hash": "53d4ca3db06e0e0d984d144d378d2c1e",
     "executables": []
   },
@@ -215881,7 +216007,7 @@
   {
     "id": "1439429307649757276",
     "name": "Transit King Tycoon",
-    "icon_hash": "482f76b9bc0ef3d9da9660352ce847b7",
+    "icon_hash": null,
     "cover_hash": "50d47272cf15ca1d31da7e2d59682f8c",
     "executables": []
   },
@@ -216354,7 +216480,7 @@
   {
     "id": "1440133817116393542",
     "name": "Treeverse",
-    "icon_hash": "23582f9f391afd02d2e2fc19dbe220ee",
+    "icon_hash": null,
     "cover_hash": "35bd8c0222c6373fb8512d2e12484f53",
     "executables": []
   },
@@ -219812,6 +219938,13 @@
     ]
   },
   {
+    "id": "1552530411731685386",
+    "name": "Undefeated: Genesis",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428211394381090928",
     "name": "Under A New Sun",
     "icon_hash": "1982fffaee0ad5735238e84b465fe363",
@@ -221412,7 +221545,7 @@
   {
     "id": "1440137989341843570",
     "name": "Urban Ninja",
-    "icon_hash": "76b2e829b2fc209b0833f3bebd03916c",
+    "icon_hash": null,
     "cover_hash": "db4cb04333f8ed4c8afd917b11aee6e5",
     "executables": []
   },
@@ -223694,7 +223827,7 @@
   {
     "id": "1468445258097492142",
     "name": "Virtual City Playground",
-    "icon_hash": "b707a84ebb422cc5052a064bfd5346d4",
+    "icon_hash": null,
     "cover_hash": "98655cd0e69f1fef7d0c15d21c380198",
     "executables": []
   },
@@ -224278,7 +224411,7 @@
   {
     "id": "1498886763039428628",
     "name": "Voidpet Dungeon",
-    "icon_hash": "77c53d76319d37a9d1b8d1f820fa8871",
+    "icon_hash": null,
     "cover_hash": "4b3a80f67f2063679c8d8f43c424363d",
     "executables": []
   },
@@ -226316,7 +226449,7 @@
   {
     "id": "1509403007668981780",
     "name": "Warhammer 40,000: Tacticus",
-    "icon_hash": "4a1210479e0484dacd59d22f8c57ff66",
+    "icon_hash": null,
     "cover_hash": null,
     "executables": []
   },
@@ -226676,6 +226809,13 @@
     "name": "Warp Warp",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1552530604921200780",
+    "name": "Warpack",
+    "icon_hash": "d42bc3ae5ad29443a28a05da58c9d797",
+    "cover_hash": "160df9bcf8916ee8dbfb9cf86aba51c0",
     "executables": []
   },
   {
@@ -227310,6 +227450,13 @@
     "name": "Wave Gods: Ammo Night",
     "icon_hash": "ad7b2365b06a2ceacd4636bcac36b110",
     "cover_hash": "c8164aba663065fe767c1aeab83cde43",
+    "executables": []
+  },
+  {
+    "id": "1552530582876065832",
+    "name": "Wavecrashers",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -229068,7 +229215,7 @@
   {
     "id": "1440131390791487569",
     "name": "Whiteout Survival",
-    "icon_hash": "37284990a16ba610b03a074dd8a6266d",
+    "icon_hash": null,
     "cover_hash": "a77c7185de743c223dfb473ed0274234",
     "executables": []
   },
@@ -231534,7 +231681,7 @@
   {
     "id": "1494177172963852319",
     "name": "World of Airports",
-    "icon_hash": "60eb89b81d93e5eea816b240bb600fdc",
+    "icon_hash": null,
     "cover_hash": "ea7257e67f914e6fdb46dc130a83c910",
     "executables": []
   },
@@ -234088,6 +234235,13 @@
     "name": "Ynglet",
     "icon_hash": "0044e56fbf8c8fc16b16d9370914026c",
     "cover_hash": "dfeccbb487e6a6d5123490d70c10f4fb",
+    "executables": []
+  },
+  {
+    "id": "1552530665281691700",
+    "name": "Yo-kai Watch 4",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
