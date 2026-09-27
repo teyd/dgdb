@@ -1334,7 +1334,7 @@
   },
   {
     "id": "1428182872589602867",
-    "name": "420BLAZE IT 2: GAME OF THE YEAR",
+    "name": "420Blaze It 2: Game of the Year",
     "icon_hash": "5f096c06f62992fb2ae44b038afdf2f3",
     "cover_hash": "497f9ea3503c19760102962a9217ae55",
     "executables": []
@@ -10628,7 +10628,7 @@
   },
   {
     "id": "1442727833993613332",
-    "name": "Arcade Archives: Exerion",
+    "name": "Arcade Archives: EXERION",
     "icon_hash": "86fc25defc6a4603088c8fc21d7bd438",
     "cover_hash": "6261d595406fb01706b60fce0495b330",
     "executables": []
@@ -10985,7 +10985,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: THE ASTYANAX",
+    "name": "Arcade Archives: The Astyanax",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -22072,6 +22072,13 @@
     ]
   },
   {
+    "id": "1553254904313684088",
+    "name": "Black Vultures: Prey of Greed",
+    "icon_hash": "f9b6204d5726596dd7c7d685217601f7",
+    "cover_hash": "1a24b88b9d60d36687e3c9cc33d1e61b",
+    "executables": []
+  },
+  {
     "id": "1439433492445270309",
     "name": "Black Widow: Recharged",
     "icon_hash": "5eccacca278264b31de7434573771658",
@@ -22988,7 +22995,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "BLESS GLOBAL",
+    "name": "Bless Global",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -26772,6 +26779,13 @@
     "name": "Breakout Beyond",
     "icon_hash": "8a4779a133f0fc6f9ac127393a70dc92",
     "cover_hash": "4f3939e6deb2fc91100362f080a5db21",
+    "executables": []
+  },
+  {
+    "id": "1553254940602925138",
+    "name": "Breakout Garage",
+    "icon_hash": "19302c8aec31d5bccdd60b6d5e452f34",
+    "cover_hash": "574072de5ac0d8371a0751d5de5901f9",
     "executables": []
   },
   {
@@ -38391,6 +38405,13 @@
     ]
   },
   {
+    "id": "1553255062879338516",
+    "name": "Coin maker simulator",
+    "icon_hash": "965b5303acb3712626b1c0fe2a406fbf",
+    "cover_hash": "1ab17421927add844e2b2e2984991c21",
+    "executables": []
+  },
+  {
     "id": "1428181347867820106",
     "name": "Coin Push RPG",
     "icon_hash": "52dcac23792a986eabcf137a3d3e3d41",
@@ -40337,6 +40358,13 @@
     ]
   },
   {
+    "id": "1553255162443866172",
+    "name": "CONTROL RESONANT",
+    "icon_hash": "1209d8ac186b2a0c7504b4979260ecae",
+    "cover_hash": "3e9f7ec7667d28999c7aaf23b70d2e8d",
+    "executables": []
+  },
+  {
     "id": "1511211155782369291",
     "name": "Control, I'm Not Coming Back",
     "icon_hash": "8926c48bd608184d58a3ccb4d3162ba5",
@@ -41502,7 +41530,7 @@
   },
   {
     "id": "1124353236564983808",
-    "name": "Counterside",
+    "name": "CounterSide",
     "icon_hash": "f515bbc9dc8dae5dd5791e12c12a6621",
     "cover_hash": "bdc72843f8474f05a27ff91069ad196b",
     "executables": [
@@ -51753,7 +51781,7 @@
   },
   {
     "id": "1552168566617546923",
-    "name": "Detstvo",
+    "name": "DETSTVO",
     "icon_hash": "8a0cbc8b514d5963066c7905eb6df9a0",
     "cover_hash": "a48cffd94ed13e004ee9aa2c23024bbc",
     "executables": []
@@ -52725,6 +52753,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1553254957212508170",
+    "name": "DIG Raiders: Anomaly Extraction",
+    "icon_hash": "ca912738729af1eb88df93b4588566de",
+    "cover_hash": "d02e386c02aed56536ef98103936c562",
+    "executables": []
   },
   {
     "id": "1460834496495485142",
@@ -67099,6 +67134,13 @@
     ]
   },
   {
+    "id": "1553255010962513943",
+    "name": "ExoSpace Combat Engineer",
+    "icon_hash": "ec6d426e05f35f6252679a2aecbc5d0e",
+    "cover_hash": "42278d0728a3e36acf2b69c2aeddce96",
+    "executables": []
+  },
+  {
     "id": "1428208670822502480",
     "name": "Exotica 2: Pet Shop Simulator",
     "icon_hash": "b5203a4c7541fe53c50a883e0df875ad",
@@ -69388,6 +69430,13 @@
     ]
   },
   {
+    "id": "1553255022781792276",
+    "name": "Farm & Feast",
+    "icon_hash": "b1065010110dd44867840ec4cc8b468e",
+    "cover_hash": "a969cc4b752320a73ebfad71dafa4834",
+    "executables": []
+  },
+  {
     "id": "1442719303483789433",
     "name": "Farm Champions: Harvest Battle",
     "icon_hash": null,
@@ -69667,6 +69716,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1553254917093990502",
+    "name": "Farming Camp",
+    "icon_hash": "68025435541aeabc8e8761c1f16f4097",
+    "cover_hash": "272eb0c3aed1eb5f03bc55e6cb185f46",
+    "executables": []
   },
   {
     "id": "1245496911104839701",
@@ -87607,6 +87663,13 @@
     ]
   },
   {
+    "id": "1553254977131118714",
+    "name": "Haele 3D: Portrait Studio - Pro",
+    "icon_hash": "fc2d861f7d60cacb31f2cf8ada1d7b1d",
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442732037432807454",
     "name": "Hagwalla Legend",
     "icon_hash": null,
@@ -96907,7 +96970,7 @@
   },
   {
     "id": "1540571713539149854",
-    "name": "HYPERDROP: A Pachinko Roguelite",
+    "name": "HYPERDROP",
     "icon_hash": "d8c50a1462aac390487a62760a28381a",
     "cover_hash": "071a18fb0556e302052a2e1059c22c1f",
     "executables": []
@@ -105517,8 +105580,8 @@
   {
     "id": "1442727882643210270",
     "name": "Karate Champ",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "dc77e7e43185035a5a2475f68e4e4412",
+    "cover_hash": "dbe8b640bfb4c188be2bec957e197900",
     "executables": []
   },
   {
@@ -106538,7 +106601,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "Kill la Kill: If",
+    "name": "KILL la KILL: IF",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -119790,7 +119853,7 @@
   {
     "id": "1542021152371769454",
     "name": "MarginCall",
-    "icon_hash": "afea655deb9b08e24d9f7362543aa7da",
+    "icon_hash": "0e29583072de22bdc012456f12ad7618",
     "cover_hash": "b2d933488d8c6035e422603db631d6b0",
     "executables": []
   },
@@ -123265,6 +123328,13 @@
     "name": "Metal Gear Solid: Master Collection Vol. 2 Bonus Content",
     "icon_hash": "2920c29a2311dc1132bc17901b8e0002",
     "cover_hash": "9737d209cfa0d49a6c1e56314f66c306",
+    "executables": []
+  },
+  {
+    "id": "1553255079681855671",
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -128043,6 +128113,13 @@
     "name": "Monster Energy Supercross: The Official Videogame 5",
     "icon_hash": "7c68fccc2054fdec4e5dcce93e84fe00",
     "cover_hash": "7fa64115876430247e8bf702c4e2aa6b",
+    "executables": []
+  },
+  {
+    "id": "1553255088305344573",
+    "name": "Monster Fantasy",
+    "icon_hash": "f0f0aba3d436f95d58d372fdfc71237f",
+    "cover_hash": "dc2231c619a211d66263e96db320a668",
     "executables": []
   },
   {
@@ -136108,6 +136185,13 @@
     "name": "Nightfall Secrets",
     "icon_hash": "12c9e914380ecd7e0d815548bc094427",
     "cover_hash": "86da5fa11412299e4f3e0a15db8e8c00",
+    "executables": []
+  },
+  {
+    "id": "1553255137303076919",
+    "name": "Nighthawks",
+    "icon_hash": "51afd287dd809804419152506e836291",
+    "cover_hash": "a445738ab4cdccab6500570531e1e0bf",
     "executables": []
   },
   {
@@ -144845,7 +144929,7 @@
     "id": "1552530429469261874",
     "name": "Panzer Deck",
     "icon_hash": "d8f4f14875e4f5eea5ded224c2d1967b",
-    "cover_hash": null,
+    "cover_hash": "a918b059724a57123ebfb20d9ce0b2e0",
     "executables": []
   },
   {
@@ -159380,8 +159464,8 @@
   {
     "id": "1552530465104203886",
     "name": "Really Illegal Golf",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7e3d302301ccc40329489f4743b50df4",
+    "cover_hash": "6cc2db51189db7092c7e3422fdc9f747",
     "executables": []
   },
   {
@@ -169628,6 +169712,13 @@
     "executables": []
   },
   {
+    "id": "1553255112502149211",
+    "name": "Scam With Your Friends",
+    "icon_hash": "27255c1fc0339705c447539441cc3cd3",
+    "cover_hash": "2bf26b0373f7605de4c49d4b391e99ce",
+    "executables": []
+  },
+  {
     "id": "1124353966122225695",
     "name": "Scania Truck Driving Simulator",
     "icon_hash": "a83e309835212b10ba4f21e0f1e07578",
@@ -170713,6 +170804,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1553255119829733406",
+    "name": "SCREENSIDE FISHER",
+    "icon_hash": "f81b4fdeb0c32f44a70d2aa0757e3f76",
+    "cover_hash": "bbdfb2081090c7922f211cea1763cd3f",
+    "executables": []
   },
   {
     "id": "1124358476433469451",
@@ -179740,7 +179838,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "SNWBRD: Freestyle Snowboarding",
+    "name": "Snwbrd: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
@@ -192389,6 +192487,13 @@
     ]
   },
   {
+    "id": "1553255100208779314",
+    "name": "SuperReap",
+    "icon_hash": "de93bf4cf5626adcbc9e6f456b58cbb6",
+    "cover_hash": "66e5fc617cb97042423ea655bdbca47b",
+    "executables": []
+  },
+  {
     "id": "1428179105882574909",
     "name": "Superscout",
     "icon_hash": "642eb2da5a4010bfac99a0b69ffa3cbe",
@@ -202507,8 +202612,8 @@
   {
     "id": "1552530646868697139",
     "name": "The Hollowing",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c221ae298b34728ef806443298892c99",
+    "cover_hash": "aa225dc2e1f5ea83ce88bbe45dcb75c5",
     "executables": []
   },
   {
@@ -206577,6 +206682,13 @@
     "name": "The Rex T",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1553255153635692557",
+    "name": "The Rhapsody of Zephyr Remastered",
+    "icon_hash": "f4dea6892a71335051645f3a4828b3fc",
+    "cover_hash": "6c07a84c0b3499d00459ce85dc1d7e2c",
     "executables": []
   },
   {
@@ -217182,6 +217294,13 @@
     "executables": []
   },
   {
+    "id": "1553255037243887778",
+    "name": "Trivia Deal",
+    "icon_hash": "068ca91431eb488512a29eded0bf89c8",
+    "cover_hash": "e1b109fc33bae4955d30cff36136a487",
+    "executables": []
+  },
+  {
     "id": "1442739360624541826",
     "name": "Trivia for Dummies",
     "icon_hash": null,
@@ -227468,8 +227587,8 @@
   {
     "id": "1552530582876065832",
     "name": "Wavecrashers",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "34e427307b02be4b78b5f9126fb96b9e",
+    "cover_hash": "ea65def84eb180febd2c6429d1de20c7",
     "executables": []
   },
   {
