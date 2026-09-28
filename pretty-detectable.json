@@ -1334,7 +1334,7 @@
   },
   {
     "id": "1428182872589602867",
-    "name": "420Blaze It 2: Game of the Year",
+    "name": "420BLAZE IT 2: GAME OF THE YEAR",
     "icon_hash": "5f096c06f62992fb2ae44b038afdf2f3",
     "cover_hash": "497f9ea3503c19760102962a9217ae55",
     "executables": []
@@ -10628,7 +10628,7 @@
   },
   {
     "id": "1442727833993613332",
-    "name": "Arcade Archives: EXERION",
+    "name": "Arcade Archives: Exerion",
     "icon_hash": "86fc25defc6a4603088c8fc21d7bd438",
     "cover_hash": "6261d595406fb01706b60fce0495b330",
     "executables": []
@@ -10768,7 +10768,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: MAZINGER Z",
+    "name": "Arcade Archives: Mazinger Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10803,7 +10803,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: Naughty Boy",
+    "name": "Arcade Archives: NAUGHTY BOY",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10985,7 +10985,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: The Astyanax",
+    "name": "Arcade Archives: THE ASTYANAX",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -40359,7 +40359,7 @@
   },
   {
     "id": "1553255162443866172",
-    "name": "CONTROL RESONANT",
+    "name": "CONTROL Resonant",
     "icon_hash": "1209d8ac186b2a0c7504b4979260ecae",
     "cover_hash": "3e9f7ec7667d28999c7aaf23b70d2e8d",
     "executables": []
@@ -41530,7 +41530,7 @@
   },
   {
     "id": "1124353236564983808",
-    "name": "CounterSide",
+    "name": "Counterside",
     "icon_hash": "f515bbc9dc8dae5dd5791e12c12a6621",
     "cover_hash": "bdc72843f8474f05a27ff91069ad196b",
     "executables": [
@@ -67135,7 +67135,7 @@
   },
   {
     "id": "1553255010962513943",
-    "name": "ExoSpace Combat Engineer",
+    "name": "eXoSpace Combat Engineer",
     "icon_hash": "ec6d426e05f35f6252679a2aecbc5d0e",
     "cover_hash": "42278d0728a3e36acf2b69c2aeddce96",
     "executables": []
@@ -72691,6 +72691,20 @@
     ]
   },
   {
+    "id": "1548543872634720316",
+    "name": "Fireboy & Watergirl 2: The Light Temple",
+    "icon_hash": "63ce15c9f25c62cbf8955d5749ea9ede",
+    "cover_hash": "7e087fc5e61a87f86868b200d26dadf3",
+    "executables": []
+  },
+  {
+    "id": "1552168588968984596",
+    "name": "Fireboy & Watergirl 3: The Ice Temple",
+    "icon_hash": "ab2294a0e2cd8b496deb56750f93a005",
+    "cover_hash": "83254f4296b005492c5df2b4bdbf19f2",
+    "executables": []
+  },
+  {
     "id": "1550356092331229314",
     "name": "Fireboy & Watergirl And Friends",
     "icon_hash": "682d1d63fedf44715f910fd828e800ca",
@@ -72722,20 +72736,6 @@
         "is_launcher": false
       }
     ]
-  },
-  {
-    "id": "1552168588968984596",
-    "name": "Fireboy and Watergirl in the Ice Temple",
-    "icon_hash": "ab2294a0e2cd8b496deb56750f93a005",
-    "cover_hash": "83254f4296b005492c5df2b4bdbf19f2",
-    "executables": []
-  },
-  {
-    "id": "1548543872634720316",
-    "name": "Fireboy and Watergirl: The Light Temple",
-    "icon_hash": "63ce15c9f25c62cbf8955d5749ea9ede",
-    "cover_hash": "7e087fc5e61a87f86868b200d26dadf3",
-    "executables": []
   },
   {
     "id": "496758262797172736",
@@ -73378,7 +73378,7 @@
   },
   {
     "id": "1129504328848265387",
-    "name": "Five Nights at Freddy's: Help Wanted",
+    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
     "icon_hash": "f452fd2775d1a36230ff2c59efd7bc63",
     "cover_hash": "bf43eb0eb7981e7af66c5effd07de807",
     "executables": [
@@ -87565,7 +87565,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "Hackmud",
+    "name": "hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -94707,7 +94707,7 @@
     "id": "1121201675240210523",
     "name": "Honkai: Star Rail",
     "icon_hash": "444d067889922e42b0af99b13e5d5c72",
-    "cover_hash": "25030b8160fc6aabd09232506009711f",
+    "cover_hash": "2ff3fac14d3090fba0d574091544e89c",
     "executables": [
       {
         "name": "games/starrail.exe",
@@ -158143,7 +158143,7 @@
   },
   {
     "id": "1387990904194732154",
-    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+    "name": "RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY",
     "icon_hash": "c495589f0143be20ff29fce3a07b1fa0",
     "cover_hash": "79fa7a5c07ec36a8ffc3d82aa40b8e34",
     "executables": [
@@ -179838,7 +179838,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "Snwbrd: Freestyle Snowboarding",
+    "name": "SNWBRD: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
