@@ -10523,7 +10523,7 @@
   },
   {
     "id": "1442728871614091295",
-    "name": "Arcade Archives: Argus",
+    "name": "Arcade Archives: ARGUS",
     "icon_hash": "260db4b52d985d502c0c7d5511d7f785",
     "cover_hash": "3daed99bb397a9c606fb61984436e778",
     "executables": []
@@ -10768,7 +10768,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: Mazinger Z",
+    "name": "Arcade Archives: MAZINGER Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10803,7 +10803,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: NAUGHTY BOY",
+    "name": "Arcade Archives: Naughty Boy",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10985,7 +10985,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: THE ASTYANAX",
+    "name": "Arcade Archives: The Astyanax",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -18542,7 +18542,7 @@
   },
   {
     "id": "359510680459673610",
-    "name": "Battlefield 4: Premium Edition",
+    "name": "Battlefield 4",
     "icon_hash": "8005e11a14d7227f73c68a7aff4820ba",
     "cover_hash": "c35252c195bd8b6745924f733d987df3",
     "executables": [
@@ -21485,7 +21485,7 @@
   {
     "id": "1511211414566731989",
     "name": "Bird Game 3",
-    "icon_hash": null,
+    "icon_hash": "af17e3e92f1ae0463b4eb04098d17f88",
     "cover_hash": "dd5ce7b650a0ccbc708e89385e812b12",
     "executables": [
       {
@@ -22995,7 +22995,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "Bless Global",
+    "name": "BLESS GLOBAL",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -23124,7 +23124,7 @@
   },
   {
     "id": "1549993939354783785",
-    "name": "Blindfold: Hide and Seek",
+    "name": "BLINDFOLD: Sound Chase",
     "icon_hash": "9f7815b7acb743331438948177de4cb6",
     "cover_hash": "5318f276a683019db41e55b06fae6335",
     "executables": []
@@ -29724,16 +29724,6 @@
         "name": "cod.exe",
         "os": "win32",
         "is_launcher": false
-      },
-      {
-        "name": "cod26-cod.exe",
-        "os": "win32",
-        "is_launcher": false
-      },
-      {
-        "name": "sp26-cod.exe",
-        "os": "win32",
-        "is_launcher": false
       }
     ]
   },
@@ -30026,7 +30016,18 @@
     "name": "Call of Duty: Modern Warfare 4",
     "icon_hash": "cd03f4a5ad670a01f554c6a2832e2db7",
     "cover_hash": "b84dc72f3c50792e031f4ee8337452ee",
-    "executables": []
+    "executables": [
+      {
+        "name": "cod26-cod.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "sp26-cod.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
   },
   {
     "id": "1402418473128427573",
@@ -37477,7 +37478,18 @@
     "name": "Clive Barker's Hellraiser: Revival",
     "icon_hash": "303c6f901a9433229d09f940d9338bef",
     "cover_hash": "66f6a2ed5bbf3e137afdd917282fec95",
-    "executables": []
+    "executables": [
+      {
+        "name": "hellraiser-win64-shipping.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "hellraiser.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
   },
   {
     "id": "496552265977692181",
@@ -55942,7 +55954,7 @@
   },
   {
     "id": "1174042035276230686",
-    "name": "DOOM II: Hell on Earth",
+    "name": "Doom II: Hell on Earth",
     "icon_hash": "d1022c74a7cd92a8f5593f9b02e9d1c9",
     "cover_hash": "3278e4f34a957c73e715f3604a335f8d",
     "executables": [
@@ -72706,7 +72718,7 @@
   },
   {
     "id": "1550356092331229314",
-    "name": "Fireboy & Watergirl And Friends",
+    "name": "Fireboy & Watergirl and Friends",
     "icon_hash": "682d1d63fedf44715f910fd828e800ca",
     "cover_hash": "c385fc699e41f02053cfd7ba2f303e15",
     "executables": []
@@ -73378,7 +73390,7 @@
   },
   {
     "id": "1129504328848265387",
-    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "name": "Five Nights at Freddy's: Help Wanted",
     "icon_hash": "f452fd2775d1a36230ff2c59efd7bc63",
     "cover_hash": "bf43eb0eb7981e7af66c5effd07de807",
     "executables": [
@@ -87565,7 +87577,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "hackmud",
+    "name": "Hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -106601,7 +106613,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "KILL la KILL: IF",
+    "name": "Kill la Kill: If",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -133361,8 +133373,15 @@
     ]
   },
   {
+    "id": "1442729846613737493",
+    "name": "Natsuiro High School: Seishun Hakusho",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1124356067795685376",
-    "name": "Natsu no Kanata: Beyond Summer",
+    "name": "Natsuno-Kanata: Beyond Summer",
     "icon_hash": "63117711602a934e18a986ddc366c4b2",
     "cover_hash": "0d8aa25c1d8ae56c05245e3d6d6adf8e",
     "executables": [
@@ -133372,13 +133391,6 @@
         "is_launcher": false
       }
     ]
-  },
-  {
-    "id": "1442729846613737493",
-    "name": "Natsuiro High School: Seishun Hakusho",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
   },
   {
     "id": "1442726765712900228",
@@ -158143,7 +158155,7 @@
   },
   {
     "id": "1387990904194732154",
-    "name": "RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY",
+    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
     "icon_hash": "c495589f0143be20ff29fce3a07b1fa0",
     "cover_hash": "79fa7a5c07ec36a8ffc3d82aa40b8e34",
     "executables": [
@@ -179838,7 +179850,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "SNWBRD: Freestyle Snowboarding",
+    "name": "Snwbrd: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
@@ -203273,7 +203285,7 @@
   },
   {
     "id": "1440130398813159515",
-    "name": "The Joy of Creation",
+    "name": "THE JOY OF CREATION",
     "icon_hash": "b9cf3faa9c71064af8bbfb36bc73dcc1",
     "cover_hash": "e3bff062d997dbbea7ec791b97b4623e",
     "executables": []
@@ -232126,7 +232138,7 @@
   {
     "id": "1553234742529364018",
     "name": "World of Warcraft: Forever",
-    "icon_hash": null,
+    "icon_hash": "2545836bb433906f74f1fa5785a1342e",
     "cover_hash": null,
     "executables": [
       {
