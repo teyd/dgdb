@@ -1334,7 +1334,7 @@
   },
   {
     "id": "1428182872589602867",
-    "name": "420BLAZE IT 2: GAME OF THE YEAR",
+    "name": "420Blaze It 2: Game of the Year",
     "icon_hash": "5f096c06f62992fb2ae44b038afdf2f3",
     "cover_hash": "497f9ea3503c19760102962a9217ae55",
     "executables": []
@@ -1685,8 +1685,8 @@
   {
     "id": "1554705221379162144",
     "name": "771",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "61c2a378994ed151302d232b84224bb4",
+    "cover_hash": "230911700025d536e3f062870e3d5644",
     "executables": []
   },
   {
@@ -6533,13 +6533,6 @@
     "executables": []
   },
   {
-    "id": "1549993576686030928",
-    "name": "Algolemeth",
-    "icon_hash": "a780099420f909a6650bd232219b7efc",
-    "cover_hash": "8903395e5d86965ef13a374d8f446eda",
-    "executables": []
-  },
-  {
     "id": "1538034684502741012",
     "name": "Alice and the Devil's Prison",
     "icon_hash": "4695d3b0392ed350c1fbb41ece847544",
@@ -10544,7 +10537,7 @@
   },
   {
     "id": "1442728871614091295",
-    "name": "Arcade Archives: ARGUS",
+    "name": "Arcade Archives: Argus",
     "icon_hash": "260db4b52d985d502c0c7d5511d7f785",
     "cover_hash": "3daed99bb397a9c606fb61984436e778",
     "executables": []
@@ -10649,7 +10642,7 @@
   },
   {
     "id": "1442727833993613332",
-    "name": "Arcade Archives: EXERION",
+    "name": "Arcade Archives: Exerion",
     "icon_hash": "86fc25defc6a4603088c8fc21d7bd438",
     "cover_hash": "6261d595406fb01706b60fce0495b330",
     "executables": []
@@ -11006,7 +10999,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: The Astyanax",
+    "name": "Arcade Archives: THE ASTYANAX",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -14673,6 +14666,13 @@
     "executables": []
   },
   {
+    "id": "1555066990027214918",
+    "name": "Augmented Yut",
+    "icon_hash": "19986a72f3f1d2a269f92843cc8a393b",
+    "cover_hash": "6ffdcb8fe3363b6b711ac336f1d26542",
+    "executables": []
+  },
+  {
     "id": "1428184569835683951",
     "name": "Aunt Fatima",
     "icon_hash": "149ff9d8a570934f6afde0bef4d67def",
@@ -17692,7 +17692,7 @@
   {
     "id": "1445975998846865458",
     "name": "Bash the Teacher! School Prank",
-    "icon_hash": "3694d758edf2d1ace412a5a11226f004",
+    "icon_hash": null,
     "cover_hash": "35f419507244402e5475ba65a8c46f75",
     "executables": []
   },
@@ -20176,19 +20176,6 @@
     "executables": [
       {
         "name": "bendy and the ink machine demo/bendy and the ink machine - demo.exe",
-        "os": "win32",
-        "is_launcher": false
-      }
-    ]
-  },
-  {
-    "id": "1406338135973171393",
-    "name": "Bendy: Lone Wolf",
-    "icon_hash": "ededc95afcb1c3350f626b4573d172b6",
-    "cover_hash": "852795620db82836145f0eac8dc58064",
-    "executables": [
-      {
-        "name": "bendy lone wolf/bendy - lone wolf.exe",
         "os": "win32",
         "is_launcher": false
       }
@@ -22956,7 +22943,7 @@
   {
     "id": "1445982955653697618",
     "name": "Bleach: Soul Resonance",
-    "icon_hash": "423b79ddda1af6c7fe4edc3e115d2934",
+    "icon_hash": null,
     "cover_hash": "91b5b82f8f7c413caf0ee63eb3474290",
     "executables": []
   },
@@ -25678,6 +25665,19 @@
     ]
   },
   {
+    "id": "1406338135973171393",
+    "name": "Boris and the Dark Survival",
+    "icon_hash": "ededc95afcb1c3350f626b4573d172b6",
+    "cover_hash": "852795620db82836145f0eac8dc58064",
+    "executables": [
+      {
+        "name": "bendy lone wolf/bendy - lone wolf.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "1192844983779205170",
     "name": "Born Again",
     "icon_hash": "789a5729acedbd4cab1743c050a5e39b",
@@ -27266,7 +27266,7 @@
   },
   {
     "id": "1442711859017814106",
-    "name": "Bright Paw: Definitive Edition",
+    "name": "Bright Paw",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -29386,8 +29386,8 @@
   {
     "id": "1554705344163352596",
     "name": "C.U.B.E",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "47a9e5c2db09d20e4ed51a526f7b966c",
+    "cover_hash": "445b97ad2f7eaaf5b5173d089b917e42",
     "executables": []
   },
   {
@@ -40427,7 +40427,7 @@
   },
   {
     "id": "1553255162443866172",
-    "name": "CONTROL Resonant",
+    "name": "CONTROL RESONANT",
     "icon_hash": "1209d8ac186b2a0c7504b4979260ecae",
     "cover_hash": "3e9f7ec7667d28999c7aaf23b70d2e8d",
     "executables": []
@@ -45211,8 +45211,8 @@
   {
     "id": "1554704946312773675",
     "name": "Cyber Cleaner Simulator",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "3e3a818f7c645e14ebfebe6c8189a8a1",
+    "cover_hash": "c82930f6338bfe14e90f340b25106507",
     "executables": []
   },
   {
@@ -46045,6 +46045,13 @@
     "executables": []
   },
   {
+    "id": "1428172022873063434",
+    "name": "DanMachi Battle Chronicle",
+    "icon_hash": "c99c091312e79be3ae4e74a061bb367c",
+    "cover_hash": "71098e3ad803ecdace046c4077269aca",
+    "executables": []
+  },
+  {
     "id": "505515309726433328",
     "name": "Danmaku Amanojaku: Impossible Spell Card",
     "icon_hash": "a2810be3d6d57555d7cbb2d685345a0e",
@@ -46562,6 +46569,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1442720984678535198",
+    "name": "Dark Steel",
+    "icon_hash": null,
+    "cover_hash": "1bec481d1d80375c15b767de15b470a3",
+    "executables": []
   },
   {
     "id": "1124359863099736145",
@@ -56045,7 +56059,7 @@
   },
   {
     "id": "1174042035276230686",
-    "name": "DOOM II: Hell on Earth",
+    "name": "Doom II: Hell on Earth",
     "icon_hash": "d1022c74a7cd92a8f5593f9b02e9d1c9",
     "cover_hash": "3278e4f34a957c73e715f3604a335f8d",
     "executables": [
@@ -59840,6 +59854,13 @@
     "executables": []
   },
   {
+    "id": "1549993576686030928",
+    "name": "Dungeon Automata",
+    "icon_hash": "a780099420f909a6650bd232219b7efc",
+    "cover_hash": "8903395e5d86965ef13a374d8f446eda",
+    "executables": []
+  },
+  {
     "id": "1506495777558630522",
     "name": "Dungeon Baller",
     "icon_hash": "4714b95817307d97bd9c96642ccbba4f",
@@ -60274,8 +60295,8 @@
   {
     "id": "1554704952381931591",
     "name": "Dungeon Treaders",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "8d7210df110a623f108843ec635664d2",
+    "cover_hash": "0a0055e036e2c1d33c5036f8401f4922",
     "executables": []
   },
   {
@@ -60511,8 +60532,8 @@
   {
     "id": "1554705241713147986",
     "name": "Dungeons & Dynasties",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "a2ccc0134f72920b1acd7d5b099b8f90",
+    "cover_hash": "9596737e772367e52939ccc0b4d17ce0",
     "executables": []
   },
   {
@@ -60731,7 +60752,7 @@
   },
   {
     "id": "1515195902673813614",
-    "name": "Durak Online by Pokerist",
+    "name": "Durak Online",
     "icon_hash": "2247d610c07a20f520ac3812b37c06f4",
     "cover_hash": "199ae71c5637774f7c74c6947eee6fd2",
     "executables": []
@@ -63233,8 +63254,8 @@
   {
     "id": "1554705353537749012",
     "name": "Elysium",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7b619c25565fdad337ad0a4b442f0ea0",
+    "cover_hash": "28face3f7098d02033132257bdd01215",
     "executables": []
   },
   {
@@ -71635,13 +71656,6 @@
     ]
   },
   {
-    "id": "1442720984678535198",
-    "name": "Fight Legends: Mortal Fighting",
-    "icon_hash": null,
-    "cover_hash": "1bec481d1d80375c15b767de15b470a3",
-    "executables": []
-  },
-  {
     "id": "1480041127577915473",
     "name": "Fight Life: Vanguard",
     "icon_hash": "bcc686208a9a6ebb26304c6d8e0855bb",
@@ -72840,6 +72854,13 @@
     "name": "Fireboy & Watergirl 3: The Ice Temple",
     "icon_hash": "ab2294a0e2cd8b496deb56750f93a005",
     "cover_hash": "83254f4296b005492c5df2b4bdbf19f2",
+    "executables": []
+  },
+  {
+    "id": "1555066973157720185",
+    "name": "Fireboy & Watergirl 4: The Crystal Temple",
+    "icon_hash": "8dc64519d16e9cbad01396b917dcf375",
+    "cover_hash": "ae25607ce87c9d0c63e23b83ffb62503",
     "executables": []
   },
   {
@@ -79923,6 +79944,13 @@
     "executables": []
   },
   {
+    "id": "1555066980963192852",
+    "name": "Garage: Tidy Up!",
+    "icon_hash": "72592a86103bbde20d00adcdfcb96838",
+    "cover_hash": "ca352adb821bb412bd800414c1e4f412",
+    "executables": []
+  },
+  {
     "id": "1124358053467275357",
     "name": "Garbage",
     "icon_hash": "9eb9019cea03af39e04c1c95bba89c6a",
@@ -83772,7 +83800,7 @@
   {
     "id": "1442721926564024340",
     "name": "Good Coffee, Great Coffee",
-    "icon_hash": "a8f75780e15cf43e30dc123b9484be0c",
+    "icon_hash": null,
     "cover_hash": "04805e816d41908ad4eb1ce931f13137",
     "executables": []
   },
@@ -83801,6 +83829,13 @@
     "name": "Good Guys",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1555066955474534401",
+    "name": "Good Job",
+    "icon_hash": "a45844f85632ae0deb02d0d539f8a4c6",
+    "cover_hash": "b1f37b1890065b594e89956773c84c2c",
     "executables": []
   },
   {
@@ -84613,8 +84648,8 @@
   },
   {
     "id": "1523176937764159558",
-    "name": "Grand Summoners - Anime RPG",
-    "icon_hash": "3e927d9648f6205aa5f87940808fefb6",
+    "name": "Grand Summoners",
+    "icon_hash": null,
     "cover_hash": "6b470a27eb2b447bae84f4415f7ca24b",
     "executables": []
   },
@@ -84647,7 +84682,7 @@
   {
     "id": "1440541602861944842",
     "name": "Grand Theft Auto III: The Definitive Edition",
-    "icon_hash": "654313f1c5e225681f73dc7e9fe2d9c2",
+    "icon_hash": null,
     "cover_hash": "d1ef62877c0ddcb32b0848b50bbf3998",
     "executables": []
   },
@@ -87703,7 +87738,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "hackmud",
+    "name": "Hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -92449,7 +92484,7 @@
   },
   {
     "id": "1442729566891147385",
-    "name": "Heroine Anthem: [Zero]",
+    "name": "Heroine Anthem Zero",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -102315,13 +102350,6 @@
     "executables": []
   },
   {
-    "id": "1428172022873063434",
-    "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle",
-    "icon_hash": "c99c091312e79be3ae4e74a061bb367c",
-    "cover_hash": "71098e3ad803ecdace046c4077269aca",
-    "executables": []
-  },
-  {
     "id": "1442736305669668864",
     "name": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
     "icon_hash": null,
@@ -102610,8 +102638,8 @@
   {
     "id": "1554704908706381854",
     "name": "Isle of Reveries",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "8ef7eb88bd722920cab9b35730013284",
+    "cover_hash": "56d3e37cc5c91da7eacd274861469c0b",
     "executables": []
   },
   {
@@ -110473,7 +110501,7 @@
   {
     "id": "1512296220813692948",
     "name": "Last Origin R+",
-    "icon_hash": "2f71ac2401a57a92cc323a2878dec9ce",
+    "icon_hash": null,
     "cover_hash": "888642221f516b360d99146a4fa2f1c4",
     "executables": []
   },
@@ -118170,7 +118198,7 @@
   },
   {
     "id": "1445982778226380922",
-    "name": "Madfut 26",
+    "name": "MADFUT 26",
     "icon_hash": null,
     "cover_hash": "3a69f65b5a7b605b2d79ec4729bd1a73",
     "executables": []
@@ -122486,8 +122514,8 @@
   {
     "id": "1554705288278577242",
     "name": "Megastore Chaos",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "80e39423315b05aa4a7b377c06292f93",
+    "cover_hash": "6f158822aafda3f3fb19666f2efdd304",
     "executables": []
   },
   {
@@ -125627,6 +125655,13 @@
     ]
   },
   {
+    "id": "1554947773751627928",
+    "name": "Minecraft Dungeons II",
+    "icon_hash": "51cd00de689f380d0819d0244800efe5",
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1439435363859828908",
     "name": "Minecraft Preview",
     "icon_hash": "ab845bbff7fb9e5891c459e135fba032",
@@ -126422,7 +126457,7 @@
   },
   {
     "id": "1124351982908493894",
-    "name": "Mir 4",
+    "name": "MIR 4",
     "icon_hash": "7dfbc16b7965f0bedfdd8500f17fc6e8",
     "cover_hash": "eae50e350bc1db9539b062845967e5e2",
     "executables": [
@@ -134409,6 +134444,13 @@
     "executables": []
   },
   {
+    "id": "1555067015050436669",
+    "name": "Needle In A Haystack",
+    "icon_hash": "81b868cf157382245e330007266efe1d",
+    "cover_hash": "eaaee659e97e63bc1b59d2baa8b2724e",
+    "executables": []
+  },
+  {
     "id": "1129504660135366739",
     "name": "NEEDY STREAMER OVERLOAD",
     "icon_hash": "5023147c7f609ef6665c4acc3a8dde65",
@@ -138726,7 +138768,7 @@
     "id": "1470616226995765409",
     "name": "NTE: Neverness to Everness",
     "icon_hash": "e9a6d14e304637d878c04f35251eaf7d",
-    "cover_hash": "bd8258d42d4a444c661769df68383396",
+    "cover_hash": "27be1c4da8d90646439e1049009cec98",
     "executables": [
       {
         "name": "htgame.exe",
@@ -139060,7 +139102,7 @@
   },
   {
     "id": "1442717089835253882",
-    "name": "O-Void: Console Edition",
+    "name": "O-Void",
     "icon_hash": "6eda9384b7a6ac4e7d2d2e88cce66da7",
     "cover_hash": "a9ee92bcd932158d1a3b523bd40906ae",
     "executables": []
@@ -144769,7 +144811,7 @@
   },
   {
     "id": "1428224367162036244",
-    "name": "Pajama Sam: No Need to Hide When It's Dark Outside",
+    "name": "Pajama Sam In: No Need to Hide When It's Dark Outside",
     "icon_hash": "029dad9fc2a6054d1e86476139cd5f37",
     "cover_hash": "db1844eac2bb3da042eb39353d066b63",
     "executables": []
@@ -145574,7 +145616,7 @@
   },
   {
     "id": "1398168449724846100",
-    "name": "Parallel Experiment",
+    "name": "Parallel Lab",
     "icon_hash": "4ef3ef7b9bf4ebe18acceccb308bf70f",
     "cover_hash": "e080b7fad2bbf6bc6452a3762e792213",
     "executables": [
@@ -156255,8 +156297,8 @@
   {
     "id": "1554705183152537710",
     "name": "Put Your Toys Away Together!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "604a8e8c1368b278a6a9f915dc895d74",
+    "cover_hash": "5cc5dfc8ba90f053d1421d8d5b6cc9b5",
     "executables": []
   },
   {
@@ -158029,8 +158071,8 @@
   {
     "id": "1554704962221514832",
     "name": "Radiotext",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "f110afbdb47cc43d96b5f5d81988bc54",
+    "cover_hash": "3030943244697f97af6cef87036586dd",
     "executables": []
   },
   {
@@ -158397,7 +158439,7 @@
   },
   {
     "id": "1387990904194732154",
-    "name": "RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY",
+    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
     "icon_hash": "c495589f0143be20ff29fce3a07b1fa0",
     "cover_hash": "79fa7a5c07ec36a8ffc3d82aa40b8e34",
     "executables": [
@@ -162910,8 +162952,8 @@
   {
     "id": "1554705104643424304",
     "name": "RhythMania",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "f09265494c68d0c0a2ab8d16498ce037",
+    "cover_hash": "008e6144525806786ea469ca03876017",
     "executables": []
   },
   {
@@ -171524,8 +171566,8 @@
   {
     "id": "1554705100843520072",
     "name": "Seaside Wash",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "bcacd81539f7cd7eb157aec71a84b9ce",
+    "cover_hash": "ff459c7ae6069c84793c31d41064bca0",
     "executables": []
   },
   {
@@ -176399,8 +176441,8 @@
   {
     "id": "1554705335325958294",
     "name": "Sill Sticks",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "2deb6708f5451d8cc82f330e67802494",
+    "cover_hash": "b4a64fbfa61a11bbea8150d734d40fa1",
     "executables": []
   },
   {
@@ -188037,7 +188079,7 @@
   {
     "id": "1484039107800858735",
     "name": "StoneAge: Idle Adventure",
-    "icon_hash": "f31888f93f9f07045eaa611b5bdb3b97",
+    "icon_hash": null,
     "cover_hash": "f4bd861b747150ea1635d41028b2eb0a",
     "executables": []
   },
@@ -196188,8 +196230,8 @@
   {
     "id": "1554705216027234314",
     "name": "Tank Battle Classic",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e2251b6743e770a34ddf733fad4064ae",
+    "cover_hash": "a5bdf08ab715e2130f030d04c1f86100",
     "executables": []
   },
   {
@@ -203385,6 +203427,19 @@
     ]
   },
   {
+    "id": "443158085247303690",
+    "name": "The Jackbox Party Pack",
+    "icon_hash": "137266c073c2aa8a7ee01825b6188b03",
+    "cover_hash": "48fc6b85ebe0898bc583e72ea02910d7",
+    "executables": [
+      {
+        "name": "the jackbox party pack 3.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "463963734507782144",
     "name": "The Jackbox Party Pack",
     "icon_hash": "8ec769c7a50b3a2bef6c8bd7e2ff4003",
@@ -203431,19 +203486,6 @@
     "executables": [
       {
         "name": "the jackbox party pack 2.exe",
-        "os": "win32",
-        "is_launcher": false
-      }
-    ]
-  },
-  {
-    "id": "443158085247303690",
-    "name": "The Jackbox Party Pack 3",
-    "icon_hash": "137266c073c2aa8a7ee01825b6188b03",
-    "cover_hash": "48fc6b85ebe0898bc583e72ea02910d7",
-    "executables": [
-      {
-        "name": "the jackbox party pack 3.exe",
         "os": "win32",
         "is_launcher": false
       }
@@ -203576,7 +203618,7 @@
   },
   {
     "id": "1440130398813159515",
-    "name": "The Joy of Creation",
+    "name": "THE JOY OF CREATION",
     "icon_hash": "b9cf3faa9c71064af8bbfb36bc73dcc1",
     "cover_hash": "e3bff062d997dbbea7ec791b97b4623e",
     "executables": []
@@ -206021,8 +206063,8 @@
   {
     "id": "1554705116437942354",
     "name": "The Only Droid",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "60afa05ce1819941b5cd3c518645c6e9",
+    "cover_hash": "ce8facad78e9ef82e61ea61c86f9c759",
     "executables": []
   },
   {
@@ -206774,8 +206816,8 @@
   {
     "id": "1554704902972772362",
     "name": "The Rabbit Haul",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "2fbeece266a1e77a791a8e0f54b44c69",
+    "cover_hash": "4b1a43363f4ac74bf9ec6fef2bb2e1db",
     "executables": []
   },
   {
@@ -208327,7 +208369,7 @@
   },
   {
     "id": "1124355785351254126",
-    "name": "The Swords of Ditto: Mormo's Curse",
+    "name": "The Swords of Ditto",
     "icon_hash": "8a96a3ee3ce9a84c0dd21b6b646cea08",
     "cover_hash": "25f3698eb19e412a3f81aed0099ed513",
     "executables": [
@@ -210070,8 +210112,8 @@
   {
     "id": "1554705251821424711",
     "name": "They Are Adorable",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d0fdfca675a7a7f336aa429defc8bb70",
+    "cover_hash": "50a2bc4f13a408aa51152e86130075ac",
     "executables": []
   },
   {
@@ -222162,7 +222204,7 @@
   },
   {
     "id": "1428223057889071205",
-    "name": "US Conflict: Tank Battles",
+    "name": "US Conflict",
     "icon_hash": "5d055f1e1597e0f8c8fefc856e1a324d",
     "cover_hash": "7ac8ab14c782bf5a016a679c8a2d0831",
     "executables": []
@@ -225749,9 +225791,9 @@
   },
   {
     "id": "1554705155314950215",
-    "name": "Wand & Order: Tidy up the magic shop!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Wand & Order: Tidy Up the Magic Shop!",
+    "icon_hash": "55413b263ef08f86e4ef1f94b0f412b3",
+    "cover_hash": "a5f91c06c261253564e16617e5bc0d58",
     "executables": []
   },
   {
