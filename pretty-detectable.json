@@ -3823,13 +3823,6 @@
     "executables": []
   },
   {
-    "id": "1442735932427079774",
-    "name": "Acrylic Nails!",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
     "id": "1442728271782608987",
     "name": "Act It Out! A Game of Charades",
     "icon_hash": null,
@@ -5674,13 +5667,7 @@
     "name": "AION 2",
     "icon_hash": "5146eac718876015ae5d3eeadbaad9d7",
     "cover_hash": "06794d884aafbc11a17fd770620030f9",
-    "executables": [
-      {
-        "name": "aion2.exe",
-        "os": "win32",
-        "is_launcher": false
-      }
-    ]
+    "executables": []
   },
   {
     "id": "451547384975982602",
@@ -10782,7 +10769,7 @@
   },
   {
     "id": "1442713050993135749",
-    "name": "Arcade Archives: MAZINGER Z",
+    "name": "Arcade Archives: Mazinger Z",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10817,7 +10804,7 @@
   },
   {
     "id": "1442734322128916531",
-    "name": "Arcade Archives: NAUGHTY BOY",
+    "name": "Arcade Archives: Naughty Boy",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -10999,7 +10986,7 @@
   },
   {
     "id": "1442737663558811792",
-    "name": "Arcade Archives: THE ASTYANAX",
+    "name": "Arcade Archives: The Astyanax",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -15079,7 +15066,7 @@
     "id": "1478591389196615770",
     "name": "Avatar Legends: The Fighting Game",
     "icon_hash": "425591ca66bb7d671dc52f8b08f79c43",
-    "cover_hash": "83ab9bbe303ad29a1a88eb49b5379fa3",
+    "cover_hash": "cfe31463879730f2dc1777b9b3c9ba7a",
     "executables": []
   },
   {
@@ -23010,7 +22997,7 @@
   },
   {
     "id": "451132630390538270",
-    "name": "BLESS GLOBAL",
+    "name": "Bless Global",
     "icon_hash": "bc772e5cbdc678d3137476b09ab2de7c",
     "cover_hash": null,
     "executables": [
@@ -23219,17 +23206,17 @@
     ]
   },
   {
-    "id": "1442712617339588768",
-    "name": "Block Blast",
-    "icon_hash": "e8025625fe3abd5c581ccf2a0cffa8d4",
-    "cover_hash": "f35025acec575b6a304794111dfc2b15",
-    "executables": []
-  },
-  {
     "id": "1509397867012292741",
     "name": "Block Blast Gem Find Puzzle",
     "icon_hash": "2c277e461db76d3b8aeb0dc4090670e1",
     "cover_hash": "0ef003e3051c1d9a33fb994d2a35ee40",
+    "executables": []
+  },
+  {
+    "id": "1442712617339588768",
+    "name": "Block Blast!",
+    "icon_hash": null,
+    "cover_hash": "f35025acec575b6a304794111dfc2b15",
     "executables": []
   },
   {
@@ -33046,13 +33033,6 @@
     "executables": []
   },
   {
-    "id": "1461199834299105353",
-    "name": "Catch and Feed",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
     "id": "1440140934569394226",
     "name": "Catch Me",
     "icon_hash": "173a08b8e339058b424ac49a0508f3cc",
@@ -40428,7 +40408,7 @@
   {
     "id": "1553255162443866172",
     "name": "CONTROL RESONANT",
-    "icon_hash": "1209d8ac186b2a0c7504b4979260ecae",
+    "icon_hash": "db5d1d13a42d766609871ae024e471b0",
     "cover_hash": "3e9f7ec7667d28999c7aaf23b70d2e8d",
     "executables": []
   },
@@ -41994,13 +41974,6 @@
         "is_launcher": false
       }
     ]
-  },
-  {
-    "id": "1468447665388912874",
-    "name": "Craftsman: Building Craft",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
   },
   {
     "id": "1428208984850042922",
@@ -59902,13 +59875,6 @@
     ]
   },
   {
-    "id": "1445224837764354109",
-    "name": "Dungeon Crawlers",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
     "id": "1440541100048908333",
     "name": "Dungeon Crusher: Soul Hunters",
     "icon_hash": null,
@@ -73537,7 +73503,7 @@
   },
   {
     "id": "1129504328848265387",
-    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "name": "Five Nights at Freddy's: Help Wanted",
     "icon_hash": "f452fd2775d1a36230ff2c59efd7bc63",
     "cover_hash": "bf43eb0eb7981e7af66c5effd07de807",
     "executables": [
@@ -87738,7 +87704,7 @@
   },
   {
     "id": "1440141099212738610",
-    "name": "Hackmud",
+    "name": "hackmud",
     "icon_hash": "7a6d427620667a15166c52ccedc432dc",
     "cover_hash": null,
     "executables": []
@@ -91157,7 +91123,7 @@
   },
   {
     "id": "1428212039494537397",
-    "name": "Hellmaster",
+    "name": "Hellmaster: The Legend of Dante",
     "icon_hash": "02afd1a527701df3fbfc8dddd4d278ed",
     "cover_hash": "466db0e8a4fdd46ef1ee336987dd7545",
     "executables": []
@@ -92876,7 +92842,7 @@
     "id": "1440901540410822828",
     "name": "Hidden Cats in Spooky Village",
     "icon_hash": "3d58d1861822859c8483d70efbbfafa7",
-    "cover_hash": null,
+    "cover_hash": "e19236ed8ec1f452b44c78b79a62028e",
     "executables": []
   },
   {
@@ -106809,7 +106775,7 @@
   },
   {
     "id": "1124357342394335324",
-    "name": "KILL la KILL: IF",
+    "name": "Kill la Kill: If",
     "icon_hash": "e5aceb845e2298d77f084540753f9f8b",
     "cover_hash": "2f7d5aab824240fc70dfa3023d1430d2",
     "executables": [
@@ -132846,7 +132812,7 @@
   },
   {
     "id": "1428246880214712451",
-    "name": "MySims: Kingdom",
+    "name": "MySims Kingdom",
     "icon_hash": "2d1c10b86216c7b59f35b22b7e907e5e",
     "cover_hash": "698a53643e08448f51b2a898dcba9ec3",
     "executables": []
@@ -135017,7 +134983,7 @@
   },
   {
     "id": "1445977009376333864",
-    "name": "Neon Runners: Craft & Dash",
+    "name": "Neon Runners",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -158439,7 +158405,7 @@
   },
   {
     "id": "1387990904194732154",
-    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+    "name": "RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY",
     "icon_hash": "c495589f0143be20ff29fce3a07b1fa0",
     "cover_hash": "79fa7a5c07ec36a8ffc3d82aa40b8e34",
     "executables": [
@@ -173661,8 +173627,8 @@
   {
     "id": "1428185216630915235",
     "name": "Shadows of Chroma Tower",
-    "icon_hash": "3f47a667b673334b02a8be0a82171452",
-    "cover_hash": "25662fce28df8166ba0458f6a06ba6bd",
+    "icon_hash": "22edf958e15d110d3a02aba24c205276",
+    "cover_hash": "d9f195b2a6cf5838165c9f1810e2e3e0",
     "executables": []
   },
   {
@@ -180162,7 +180128,7 @@
   },
   {
     "id": "1442715029052063765",
-    "name": "SNWBRD: Freestyle Snowboarding",
+    "name": "Snwbrd: Freestyle Snowboarding",
     "icon_hash": "669886e1b7c641e2a3e39bd6c0b25b41",
     "cover_hash": "5d7c93b8bb63506c6ba38b6858ffb709",
     "executables": []
@@ -183044,13 +183010,6 @@
     ]
   },
   {
-    "id": "1445982722601517286",
-    "name": "Spartan Runner",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
     "id": "1442721527673126952",
     "name": "Spartan Survivors",
     "icon_hash": null,
@@ -183714,13 +183673,6 @@
   {
     "id": "1442738061871026247",
     "name": "Spider Solitaire Collection",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
-    "id": "1445180290267087011",
-    "name": "Spider Solitaire: Card Games",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -205076,7 +205028,7 @@
   {
     "id": "1442738528193744949",
     "name": "The Letter",
-    "icon_hash": "dff2b31d500335390126f35e3399114e",
+    "icon_hash": null,
     "cover_hash": "d77f45c5135fe5da2dfc392b99808986",
     "executables": []
   },
@@ -215725,13 +215677,6 @@
   {
     "id": "1442713140336001135",
     "name": "Tractor Journey",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
-    "id": "1445981707709845585",
-    "name": "Tractor Mania",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
