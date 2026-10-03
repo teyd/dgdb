@@ -2558,6 +2558,13 @@
     "executables": []
   },
   {
+    "id": "1555430138647412807",
+    "name": "A Place for Every Potion",
+    "icon_hash": "87c268351013186159fcc8c625dc2b40",
+    "cover_hash": "7c0f2daddc8c4d1d0b24e18c741c6d9c",
+    "executables": []
+  },
+  {
     "id": "1124359292045242539",
     "name": "A Place, Forbidden",
     "icon_hash": "08459e14e4cb4b33a9d431120612898d",
@@ -3484,6 +3491,13 @@
     "executables": []
   },
   {
+    "id": "1555430079805526146",
+    "name": "Acame",
+    "icon_hash": "ce521ed7daa3c3c9ee3f5bbc6b191eb2",
+    "cover_hash": "06e4a1006092751c2a58181efc8a3c72",
+    "executables": []
+  },
+  {
     "id": "1124355188652781738",
     "name": "Acceleration of SUGURI 2",
     "icon_hash": "00a420678456ecd414cfabfae9a2a5f0",
@@ -3601,6 +3615,20 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1555429996472967269",
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "icon_hash": "9d130ae19ed062501e6761382be0e0fb",
+    "cover_hash": "8a9869a0fb91ac0222cd3d1bec0b8db3",
+    "executables": []
+  },
+  {
+    "id": "1555430167550099567",
+    "name": "Ace Combat Zero: The Belkan War",
+    "icon_hash": "a725c2c9cd4b7d0638c9dd07d6a9439a",
+    "cover_hash": "7bf270da47a6d0498da5c4af05b9d86b",
+    "executables": []
   },
   {
     "id": "1124358003953512588",
@@ -6422,7 +6450,7 @@
     "id": "1554704936871395423",
     "name": "Alchemortis",
     "icon_hash": "50dea13f92938473bed5725763000963",
-    "cover_hash": "3338123712b23675f62ddb13a85fe22b",
+    "cover_hash": "ba08020afd330b2de84d03feb2e21264",
     "executables": []
   },
   {
@@ -55059,7 +55087,7 @@
     "id": "1440136007721812150",
     "name": "Dojo Masters",
     "icon_hash": "52767cd0b5a9c3de8a2b31b0888e424f",
-    "cover_hash": "0b70a1fef5f17334a3b8aaab9f902a7d",
+    "cover_hash": "1180f694c8d4ab1231b43b41a1de2b65",
     "executables": []
   },
   {
@@ -58725,7 +58753,7 @@
     "id": "1458299854492008501",
     "name": "Drive Me Broke",
     "icon_hash": "774c895afd28947b297f7263624cd6d8",
-    "cover_hash": "127bd4b0bbdb1bcb31360a0ecca8fac8",
+    "cover_hash": "c06b0ef9e487f73d7a944a8badcbc839",
     "executables": []
   },
   {
@@ -66654,6 +66682,13 @@
     "executables": []
   },
   {
+    "id": "1555430095882158212",
+    "name": "Everyone's Tier List!",
+    "icon_hash": "e623895e3a6d0aab2df6f7db304cf2c8",
+    "cover_hash": "5fb8f6e3dcf20a35d38bc3bf8995f3fa",
+    "executables": []
+  },
+  {
     "id": "1440140790600044677",
     "name": "EVERYTHING",
     "icon_hash": "533997061d7019bf25341e69686ab767",
@@ -68539,19 +68574,6 @@
     ]
   },
   {
-    "id": "1312146099141869690",
-    "name": "Fallen ~Makina and the City of Ruins~",
-    "icon_hash": "156c1b5550508b8b40b7326db3b41847",
-    "cover_hash": null,
-    "executables": [
-      {
-        "name": "fallen ~makina and the city of ruins~/nw.exe",
-        "os": "win32",
-        "is_launcher": false
-      }
-    ]
-  },
-  {
     "id": "1251657506745356400",
     "name": "Fallen Aces",
     "icon_hash": "b7cf2a597d2687284e510dde4df21cf4",
@@ -68656,6 +68678,19 @@
     "icon_hash": "1c3b6a2b12b5493a46c6f3ddc5062a8e",
     "cover_hash": "dbd2e6108d9a657722fafc2e1dfdef89",
     "executables": []
+  },
+  {
+    "id": "1312146099141869690",
+    "name": "Fallen: Makina and the City of Ruins",
+    "icon_hash": "156c1b5550508b8b40b7326db3b41847",
+    "cover_hash": null,
+    "executables": [
+      {
+        "name": "fallen ~makina and the city of ruins~/nw.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
   },
   {
     "id": "1507219913478111326",
@@ -68966,7 +69001,7 @@
     "id": "1549993646638628938",
     "name": "Fangstorm",
     "icon_hash": "eab6f2c6ba9464a238feaf92ea63b0a8",
-    "cover_hash": "863c4f2941179bd570242f129b2f5447",
+    "cover_hash": "afaff018ec0ff6d30ea003109fa21e9d",
     "executables": []
   },
   {
@@ -93199,6 +93234,13 @@
     ]
   },
   {
+    "id": "1555430118405447810",
+    "name": "High Roller Penny",
+    "icon_hash": "2f36164c7604fe3f526529444c44c85e",
+    "cover_hash": "ad03f4cc3d1adda075e8cd4c92f66828",
+    "executables": []
+  },
+  {
     "id": "1124359082527178752",
     "name": "High School Simulator 2018",
     "icon_hash": "73ad59e1f15f885c58f6851c4abe28f0",
@@ -103993,6 +104035,13 @@
     "name": "Johnny Turbo's Arcade: Break Thru",
     "icon_hash": "b68e82bd5b6de801dea9f588bed9d707",
     "cover_hash": "73fc981b2a4049e315b2856057f4275b",
+    "executables": []
+  },
+  {
+    "id": "1555430066177970289",
+    "name": "Joint Venture",
+    "icon_hash": "8bc0aad1951874c2340fdb4ec706a1a4",
+    "cover_hash": "1687acb641eee682a10e4886107ff92b",
     "executables": []
   },
   {
@@ -119114,6 +119163,13 @@
     "executables": []
   },
   {
+    "id": "1555430024260100167",
+    "name": "Maid Cafe Coop",
+    "icon_hash": "d3cd978d6bc12e99a5420aa2309501e2",
+    "cover_hash": "d5f66d0852831da46dc6d9743351fb04",
+    "executables": []
+  },
+  {
     "id": "1440131541840691210",
     "name": "Maid Cafe on Electric Street",
     "icon_hash": "f60f554b298643a873c59944cc22af19",
@@ -122481,7 +122537,7 @@
     "id": "1554705288278577242",
     "name": "Megastore Chaos",
     "icon_hash": "80e39423315b05aa4a7b377c06292f93",
-    "cover_hash": "6f158822aafda3f3fb19666f2efdd304",
+    "cover_hash": "7ae0eeddf98e154970abb22f3a3b2d25",
     "executables": []
   },
   {
@@ -128924,7 +128980,7 @@
   },
   {
     "id": "1282445419770806365",
-    "name": "Monument Valley II: Panoramic Edition",
+    "name": "Monument Valley II",
     "icon_hash": "d9adfc48ba0ae989134434db1e2396b1",
     "cover_hash": "e36e5555638f768e4b824394d9e28c8a",
     "executables": [
@@ -167640,6 +167696,13 @@
     ]
   },
   {
+    "id": "1555430051674071171",
+    "name": "Rust & Shine",
+    "icon_hash": "e72891d8d5d97345617a4389fad96b9b",
+    "cover_hash": "a5b0b756b9f1f11afb6acb73c245b9f5",
+    "executables": []
+  },
+  {
     "id": "1124352818556452914",
     "name": "Rustangelo",
     "icon_hash": "65607529c9ce4dd769bbe2cfc0108c5f",
@@ -201304,7 +201367,7 @@
     "id": "1442734318907691069",
     "name": "The Dungeon Experience",
     "icon_hash": "678e35547e28e1738db326a7829dc4ea",
-    "cover_hash": null,
+    "cover_hash": "a2d3767f4f5ca1c89e2d232c0f5dfc60",
     "executables": []
   },
   {
@@ -201372,7 +201435,7 @@
     "id": "1124352954720333935",
     "name": "The Elder Scrolls II: Daggerfall",
     "icon_hash": "46a91fe0a7ac2a3017177288ae173cd6",
-    "cover_hash": null,
+    "cover_hash": "0a032f70a879bdf8d198c9b8a3cbb17c",
     "executables": [
       {
         "name": "the elder scrolls daggerfall/dosbox-0.74/dosbox.exe",
