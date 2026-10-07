@@ -21493,6 +21493,13 @@
     ]
   },
   {
+    "id": "1557241168213971054",
+    "name": "Birb",
+    "icon_hash": "6ec0ec5866fb457cce23d1ec822ec11c",
+    "cover_hash": "8bb863f14a82fab209b8f5f125a2c56c",
+    "executables": []
+  },
+  {
     "id": "1453945647798681726",
     "name": "Bird",
     "icon_hash": "640d5d8867042c4ee5517f6ee759a161",
@@ -26079,6 +26086,13 @@
     "executables": []
   },
   {
+    "id": "1557241135645196398",
+    "name": "Bowl Big",
+    "icon_hash": "2c6fbc628e2a7f85d832d374737560e4",
+    "cover_hash": "6442c28cab9be9fef1cd5419e8127c64",
+    "executables": []
+  },
+  {
     "id": "1445981186722893968",
     "name": "Bowling (Story Six) (Pammy Version) - Project: Summer Ice",
     "icon_hash": null,
@@ -27544,7 +27558,7 @@
   {
     "id": "1442738039364390942",
     "name": "Broken Ranks",
-    "icon_hash": "bfc9b19189003365d9fd0303f7265443",
+    "icon_hash": null,
     "cover_hash": "3a4dbefafb8c7e98d6e76f8a73409178",
     "executables": []
   },
@@ -32661,6 +32675,13 @@
     "name": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
     "icon_hash": "76f12fdb323c3979c2f31e8dc068000f",
     "cover_hash": "edcbf32607744cac9714d10ffcd3106e",
+    "executables": []
+  },
+  {
+    "id": "1557241121229377607",
+    "name": "Castlevania: Belmont's Curse",
+    "icon_hash": "ce8449a94f47da8ac9f39c2f48356249",
+    "cover_hash": "c93388ee7f6fb5ce773068adfd36577d",
     "executables": []
   },
   {
@@ -39756,6 +39777,13 @@
     ]
   },
   {
+    "id": "1557241532740796487",
+    "name": "Compound Interest",
+    "icon_hash": "699da9ec1b77a2c9550738b8fb2c98ec",
+    "cover_hash": "bfeb73ac75ce09d52e538295aa4a73f1",
+    "executables": []
+  },
+  {
     "id": "1221896594266521650",
     "name": "Computer Repair Shop",
     "icon_hash": "832b7cf63c7b131563d6c3cb23619e27",
@@ -41078,6 +41106,13 @@
     "executables": []
   },
   {
+    "id": "1557241506467676181",
+    "name": "Corrupted Veil",
+    "icon_hash": "2173bb89ae9189f8b00ba32517f5b27f",
+    "cover_hash": "82ed8a5674598a0e1ec453cd994876f4",
+    "executables": []
+  },
+  {
     "id": "1124354931873304647",
     "name": "Corruption of Champions II",
     "icon_hash": "74caedeeb8f998df09697bfa83a46bef",
@@ -41906,6 +41941,13 @@
     "name": "Crabmeat",
     "icon_hash": "0b7d345316101d0067171361158a97c3",
     "cover_hash": "8dde26ad3786bd0f84a0e17c14eac1c9",
+    "executables": []
+  },
+  {
+    "id": "1557241179609763890",
+    "name": "Crack the Pack",
+    "icon_hash": "a333e8894c4006fee395aee421994edb",
+    "cover_hash": "85d8f56e05c9e0478b4e863d92962d33",
     "executables": []
   },
   {
@@ -52825,6 +52867,13 @@
     ]
   },
   {
+    "id": "1557241159640813660",
+    "name": "diffiCULT",
+    "icon_hash": "564a2545b705938db5e95bc27a46a684",
+    "cover_hash": "a7d212488d7935891fd26d5a000a16c2",
+    "executables": []
+  },
+  {
     "id": "1442717716224937984",
     "name": "Difficult Climbing Game",
     "icon_hash": null,
@@ -55893,6 +55942,13 @@
     "executables": []
   },
   {
+    "id": "1557241241614290945",
+    "name": "DONUT PANIC",
+    "icon_hash": "aaeecdd5c51f00bfe8d6e3c83ed6c360",
+    "cover_hash": "58a144dc94e8d866307191af567f454d",
+    "executables": []
+  },
+  {
     "id": "1442718461053898851",
     "name": "Donut Plus",
     "icon_hash": null,
@@ -57853,6 +57909,13 @@
     "executables": []
   },
   {
+    "id": "1557241466525323294",
+    "name": "Drawaoke: Sing, Scribble, Showdown!",
+    "icon_hash": "9dc32f28a73a061e6359569e0c0691fd",
+    "cover_hash": "e2776f69005a5c46b74cf65e8a4c7cdd",
+    "executables": []
+  },
+  {
     "id": "1442729034902405182",
     "name": "DrawFighters",
     "icon_hash": null,
@@ -59310,6 +59373,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557241151780556921",
+    "name": "Dual Protocol: The Case of Eva & Miles",
+    "icon_hash": "96e097e7a631cbb1b0d51b719af2f193",
+    "cover_hash": "c662d2286d0d78fbb18d921f4e0d59b0",
+    "executables": []
   },
   {
     "id": "425454898759598080",
@@ -63254,6 +63324,13 @@
     ]
   },
   {
+    "id": "1557241415602413629",
+    "name": "Elta: Defy All Gods",
+    "icon_hash": "7ae3c9c6433cfeeb22915719c39bb14c",
+    "cover_hash": "5439864fce388454ce66f2ce042d63bd",
+    "executables": []
+  },
+  {
     "id": "1124358066553499679",
     "name": "Elven Assassin",
     "icon_hash": "2a36d82b0b1d27284d02aa32f98df461",
@@ -63938,6 +64015,13 @@
     "name": "Encounter: The Lost Cards",
     "icon_hash": "a244ec55bc3beb1a31f24f9e6007f847",
     "cover_hash": "867dfc36b1c49566b2f03c1f6eabba7b",
+    "executables": []
+  },
+  {
+    "id": "1557241131677261834",
+    "name": "End of Abyss",
+    "icon_hash": "4e2bac9b729e300a05a101600661bc6f",
+    "cover_hash": "8d79cc4b0fc4ea9edb546c7324ee9ead",
     "executables": []
   },
   {
@@ -65286,6 +65370,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557241539418128464",
+    "name": "Escape from Playtime",
+    "icon_hash": "1b9bf198a4ba083598dde9f9bbda0361",
+    "cover_hash": "46399dce4a270ef1aedb8e1a2aa389b2",
+    "executables": []
   },
   {
     "id": "1124353548164026479",
@@ -79667,6 +79758,13 @@
     "executables": []
   },
   {
+    "id": "1557241500125896816",
+    "name": "Game Keeper: Somebody Messed Up My Shop!",
+    "icon_hash": "ee6edb63104807850dbb1dbe87bab2ed",
+    "cover_hash": "09a0644700a954d36bb431fe027d34b5",
+    "executables": []
+  },
+  {
     "id": "1124359095701487687",
     "name": "Game Master Engine",
     "icon_hash": "11bd94a7a5950cda0eb056fd67fe4129",
@@ -82484,6 +82582,13 @@
     "executables": []
   },
   {
+    "id": "1557241358849282130",
+    "name": "GnomeBoozled",
+    "icon_hash": "83ebe5faf115f06cf8e8d44184cac601",
+    "cover_hash": "f1ddd60debdfa65061fbf3a3a849c86a",
+    "executables": []
+  },
+  {
     "id": "1374794658370027650",
     "name": "Gnomes",
     "icon_hash": "48326ba8797a8e705d636fe9fe162446",
@@ -83754,6 +83859,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557241204452630549",
+    "name": "Gone Feral",
+    "icon_hash": "832c7a54008c6021ef129d5edaf2df25",
+    "cover_hash": "d2f836a7bc4995f7d299e6ea98324ad2",
+    "executables": []
   },
   {
     "id": "1399104920015343708",
@@ -85430,6 +85542,13 @@
     "executables": []
   },
   {
+    "id": "1557241294730825738",
+    "name": "Greed & Darkness",
+    "icon_hash": "3b38dc7e382de8609563c6a64156ea27",
+    "cover_hash": "0e343a105db726f68f2e18939875a3c7",
+    "executables": []
+  },
+  {
     "id": "1428185290266120214",
     "name": "Greed is Good",
     "icon_hash": "7bd21aeba4385cccd97ed982907f9c95",
@@ -85732,6 +85851,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557241322170093629",
+    "name": "Gridiron Remastered",
+    "icon_hash": "b59fd5e9e7132b7f74ee68938a7c804f",
+    "cover_hash": "cc9021330fb889945297ecb5c631fd41",
+    "executables": []
   },
   {
     "id": "1440137574244159620",
@@ -96294,6 +96420,13 @@
     "executables": []
   },
   {
+    "id": "1557241268487323688",
+    "name": "HR: Human Remains",
+    "icon_hash": "9d673631ac7854bab8c8f143a00fd745",
+    "cover_hash": "e378972cd11e59cfb9d4869f47d5d893",
+    "executables": []
+  },
+  {
     "id": "1124356358473527356",
     "name": "HROT",
     "icon_hash": "ad37419c9b915106161e0290a783a6f1",
@@ -102267,6 +102400,13 @@
     ]
   },
   {
+    "id": "1557241188279648256",
+    "name": "Iron Pact",
+    "icon_hash": "0f45bd8d76ef154f4e2c53972208f8a9",
+    "cover_hash": "82b550e45faf330f2f530d3ba2ddba10",
+    "executables": []
+  },
+  {
     "id": "1363952722709188639",
     "name": "IRON REBELLION",
     "icon_hash": "ede52a8db739d73371b4df89f284a7b1",
@@ -102553,6 +102693,13 @@
     "name": "Island of Penance",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1557241255572934667",
+    "name": "Island Restoration",
+    "icon_hash": "3137a2fce3c59f49e7f75d502b60bd70",
+    "cover_hash": "d14b58fc4bd32cbd40db169dc95d2c7b",
     "executables": []
   },
   {
@@ -112419,6 +112566,13 @@
     "executables": []
   },
   {
+    "id": "1557241340331429929",
+    "name": "Leonardo's Island",
+    "icon_hash": "279b644c1336e340758d434d5c77c044",
+    "cover_hash": "2d105d34424d531163481365e8caa735",
+    "executables": []
+  },
+  {
     "id": "1428211955017191548",
     "name": "Lessaria: Fantasy Kingdom Sim",
     "icon_hash": "3c461fc3e695a4c8cfdb2040804454e7",
@@ -112680,6 +112834,13 @@
     "name": "Let's Sing Country",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1557241384946237460",
+    "name": "Let's Tidy Up!: Treasure",
+    "icon_hash": "55d5e8f632711ce5ad84ea8774cb0a1c",
+    "cover_hash": "9f859887ca9865f6fb6b6b9d7754512f",
     "executables": []
   },
   {
@@ -114832,6 +114993,13 @@
     "name": "Loftia",
     "icon_hash": "9db0aee64768b2339537a6e0fde2598b",
     "cover_hash": "701eb2b541cd1024978afb64735ad72b",
+    "executables": []
+  },
+  {
+    "id": "1557241458535174224",
+    "name": "Log Drop",
+    "icon_hash": "fa2ab18ce626a60ad09c7f2e08428653",
+    "cover_hash": "7513516fd8193b7317e63995af613ec8",
     "executables": []
   },
   {
@@ -117130,6 +117298,13 @@
     "executables": []
   },
   {
+    "id": "1557241441955225660",
+    "name": "LumberBoy",
+    "icon_hash": "e9a415f4e0a3490e91cd081324756ab8",
+    "cover_hash": "86f174160b6339f0a6a2ac37a54b1aa7",
+    "executables": []
+  },
+  {
     "id": "1124357677473087579",
     "name": "Lumberjack's Dynasty",
     "icon_hash": "b69deeb8152485dd3c28a361e5a050f6",
@@ -117301,6 +117476,13 @@
     "name": "Lunar Ascendant",
     "icon_hash": "f14e4674c919cbf0b0fdeb0be635ae4a",
     "cover_hash": "57b90196245aec674941b39a9340aea2",
+    "executables": []
+  },
+  {
+    "id": "1557241331732979762",
+    "name": "Lunar Drifter",
+    "icon_hash": "314e94bde6848f528af43645eb44eaba",
+    "cover_hash": "6da30dec711b13ff5663354c9acfe6c5",
     "executables": []
   },
   {
@@ -118269,7 +118451,7 @@
   },
   {
     "id": "1445982778226380922",
-    "name": "MADFUT 26",
+    "name": "MADFUT 27",
     "icon_hash": null,
     "cover_hash": "3a69f65b5a7b605b2d79ec4729bd1a73",
     "executables": []
@@ -120092,7 +120274,7 @@
     "id": "1428223713928810496",
     "name": "March of Giants",
     "icon_hash": "a534bce92a7a3a3eca4eb15c197de7bb",
-    "cover_hash": "31aafee677c9f7b932253df97445bf3f",
+    "cover_hash": "8bfa13a802b65630c085656a60636c24",
     "executables": [
       {
         "name": "thelineclient-win64-shipping.exe",
@@ -127716,6 +127898,13 @@
     ]
   },
   {
+    "id": "1557241486242877480",
+    "name": "MOGGED: Looksmaxx or Die",
+    "icon_hash": "f685f060e8a914e5b739276698f583e0",
+    "cover_hash": "4f2bbf632ec0f5da3ff5e7aef16ec6bb",
+    "executables": []
+  },
+  {
     "id": "1440134546065457232",
     "name": "Mohrta",
     "icon_hash": "4ac1b9a3d1ee14f204f05fe5b5e19ecd",
@@ -129967,8 +130156,8 @@
   {
     "id": "1524626563725922394",
     "name": "Motion Soccer Pro",
-    "icon_hash": "1f80df23dd3ba518ce94f9ef14d391c2",
-    "cover_hash": "4109b68c8f89cbbcf7d6485fc9a928fa",
+    "icon_hash": "277b7d792e0d44b11621eb718da8b8cd",
+    "cover_hash": "5fcbe4b3c8f1a7630127c557ad098fa8",
     "executables": []
   },
   {
@@ -134914,6 +135103,13 @@
     ]
   },
   {
+    "id": "1557241247909814322",
+    "name": "NEO TITAN",
+    "icon_hash": "0f80ae972948a3127362ac162a52f010",
+    "cover_hash": "42c13147eef4aa4d390d2198ec681a16",
+    "executables": []
+  },
+  {
     "id": "1442728138542026782",
     "name": "Neo Turf Masters",
     "icon_hash": "cac0006be4238db0a4c0df2f9dfefb4d",
@@ -135737,6 +135933,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557241516072632341",
+    "name": "New World: Shadows Entwined",
+    "icon_hash": "2ae6eb87141a7cb37ff0e87f890cbe93",
+    "cover_hash": "8aa2e0cff06349c004eedd79cf8b8c27",
+    "executables": []
   },
   {
     "id": "1442720026808291410",
@@ -139364,6 +139567,13 @@
     "name": "Oblivion Override",
     "icon_hash": "53930920f6c7155c5d466a1579580d5f",
     "cover_hash": "68cf76f16d49728c4e8c2267e38e5563",
+    "executables": []
+  },
+  {
+    "id": "1557241369838489650",
+    "name": "Oboro no Ichi",
+    "icon_hash": "c2368a6d1bcf10feafa32dc54ca07b82",
+    "cover_hash": "6f646e083bedb82f6aa3a06d2c201a4d",
     "executables": []
   },
   {
@@ -158168,6 +158378,13 @@
     "executables": []
   },
   {
+    "id": "1557241172748009532",
+    "name": "RADIOSOL",
+    "icon_hash": "e74897edb729d28d012572c74b9d36e1",
+    "cover_hash": "765688f83d9a0c2ae7e784fdfbd31bb2",
+    "executables": []
+  },
+  {
     "id": "1554704962221514832",
     "name": "Radiotext",
     "icon_hash": "f110afbdb47cc43d96b5f5d81988bc54",
@@ -159002,6 +159219,13 @@
     "executables": []
   },
   {
+    "id": "1557241452084465694",
+    "name": "Rally Together",
+    "icon_hash": "90e153a443487054f372bf9186cd3f94",
+    "cover_hash": "d38a7c872da506c5f2358ac378902946",
+    "executables": []
+  },
+  {
     "id": "1442714813880078446",
     "name": "Ralph and the Blue Ball",
     "icon_hash": "b4626c9f96050774f200b0d56fb23aab",
@@ -159765,6 +159989,13 @@
     "name": "Real Car Drift Racing",
     "icon_hash": "4965f8975908a44233fd3a6f77bab416",
     "cover_hash": "06d5ed46123027aa3d8a24d6433f1038",
+    "executables": []
+  },
+  {
+    "id": "1557241593700814979",
+    "name": "Real Chess Online",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -168457,6 +168688,13 @@
     "executables": []
   },
   {
+    "id": "1557241395562029158",
+    "name": "Safari-TV",
+    "icon_hash": "a6f48239033aaf6eb1f2db4f85071c03",
+    "cover_hash": "bc03c70c526cf23cd4af8780bba24c4c",
+    "executables": []
+  },
+  {
     "id": "1437603426975350815",
     "name": "Safeguard Saga",
     "icon_hash": "629b17c932f71c1939092c0cf5032474",
@@ -172409,6 +172647,13 @@
     "id": "1442731526096818216",
     "name": "Sengoku Koihime: Otome Kenran Sengoku Emaki",
     "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1557241584565620766",
+    "name": "Sengoku Rance",
+    "icon_hash": "12fae079e17d7554fdb1aaa423ec7103",
     "cover_hash": null,
     "executables": []
   },
@@ -184547,6 +184792,13 @@
     ]
   },
   {
+    "id": "1557241376628805652",
+    "name": "Spooky Ride",
+    "icon_hash": "f4cf52f6c22536721f75dcae890beb35",
+    "cover_hash": "a85bb7beee0d49c6748ce14ae1b0ab53",
+    "executables": []
+  },
+  {
     "id": "1124359186709491864",
     "name": "Spooky Station",
     "icon_hash": "5c4e6bcf5bb7a1fdb8b33b4f4c89f6b0",
@@ -187434,6 +187686,13 @@
     "executables": []
   },
   {
+    "id": "1557241194734419998",
+    "name": "Steel Gullet",
+    "icon_hash": "87e98b9b8a8851a5a699c68d9f3213c8",
+    "cover_hash": "95a11e2e4eadd1eadf40f658c3b78fa0",
+    "executables": []
+  },
+  {
     "id": "1357036913244111019",
     "name": "Steel Hunters",
     "icon_hash": "782704151e5a2c134fec8803a664c776",
@@ -187979,6 +188238,13 @@
     "name": "Sticker/Ball",
     "icon_hash": "79417a122cf6696bfd3a14d8ecb1f1dd",
     "cover_hash": "ea0547d6600ac52c86154c7d12aaf5cd",
+    "executables": []
+  },
+  {
+    "id": "1557241261302353971",
+    "name": "Stickility",
+    "icon_hash": "94b352187993b5669163a050cb08a60d",
+    "cover_hash": "a302e4494bd31838e35b7e4225aecbdf",
     "executables": []
   },
   {
@@ -188585,6 +188851,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557241568417812480",
+    "name": "Story of the Needle in a Haystack",
+    "icon_hash": "6a2b82730831ebae43e6d6d1f7f88604",
+    "cover_hash": "aab1c1ada2cca95804ef9d8aa5441e1f",
+    "executables": []
   },
   {
     "id": "1445981210013860013",
@@ -196263,6 +196536,13 @@
     "name": "Tametsi",
     "icon_hash": "9f399f9e34e74dba8483ad6aa30add87",
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1557241405192146944",
+    "name": "Tandem Together",
+    "icon_hash": "58048e86b849dbd6613f91687c02ca50",
+    "cover_hash": "5dff7946fcdd5b1ebfbd54aca664f85e",
     "executables": []
   },
   {
@@ -211241,6 +211521,13 @@
     "executables": []
   },
   {
+    "id": "1557241525086326894",
+    "name": "Tidy Up the Flower Shop",
+    "icon_hash": "ecf90f7bbbec7b7cd6433404ce83906f",
+    "cover_hash": "6d64e22bff154a8a3d57883fbf3887a7",
+    "executables": []
+  },
+  {
     "id": "1535861234065342566",
     "name": "Tidy Up Together",
     "icon_hash": "0a4e40e158c19396ee0580dc982079e4",
@@ -218582,6 +218869,13 @@
     "executables": []
   },
   {
+    "id": "1557241276028424222",
+    "name": "Tunnel Escape Fates Entwined",
+    "icon_hash": "45dbf8f10ce447f3300ccd3d08588fc1",
+    "cover_hash": "df957bcd19911e204af7750bb3a78e8e",
+    "executables": []
+  },
+  {
     "id": "1445981139499221042",
     "name": "Tunnel Lords",
     "icon_hash": null,
@@ -222185,6 +222479,13 @@
     "name": "Urban Trial Tricky: Deluxe Edition",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1557241354025828403",
+    "name": "Urban Yuri: A Lady's Romance Manifesto",
+    "icon_hash": "7f365919d5ac3f0578d52e1d7fcaf598",
+    "cover_hash": "4dd042f5ed7b0fb666f14809503ae810",
     "executables": []
   },
   {
@@ -237184,6 +237485,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557241288582234223",
+    "name": "ZONE L.O.S.T.",
+    "icon_hash": "8840eeb6ad9f0ad5908dfaf1faab5b65",
+    "cover_hash": "bf5ef1dc7069fcc6080542b1cfbcbc16",
+    "executables": []
   },
   {
     "id": "1442722184333103114",
