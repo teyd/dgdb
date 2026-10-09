@@ -3104,6 +3104,13 @@
     "executables": []
   },
   {
+    "id": "1557966441133641761",
+    "name": "Abandoned Gameshop",
+    "icon_hash": "cf743f0445fe043ff80dfe2edf7f6dfd",
+    "cover_hash": "1dae9132852198a9f9d6207876c926b6",
+    "executables": []
+  },
+  {
     "id": "1361083598870020267",
     "name": "ABI-DOS",
     "icon_hash": "2f85b9d4e15d41633dfb7e2aa2b07ea3",
@@ -12032,7 +12039,7 @@
     "id": "1461154307171811401",
     "name": "ARKNIGHTS: ENDFIELD",
     "icon_hash": "a1c43f46f274856e6fb9edc8afda149d",
-    "cover_hash": "ad75eaf2f6ac04d55cbcefe77c143ce7",
+    "cover_hash": "6fc2f2ca05bae68eff40593943d4879e",
     "executables": [
       {
         "name": "endfield.exe",
@@ -48854,6 +48861,19 @@
     "executables": []
   },
   {
+    "id": "1557866763339960340",
+    "name": "Deadzone Rogue 2",
+    "icon_hash": "c3f7b5252c4432f37e18709e27d7058e",
+    "cover_hash": null,
+    "executables": [
+      {
+        "name": "deadzone2steam.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "1370762368723845120",
     "name": "Deadzone: Rogue",
     "icon_hash": "0f02e286f85b7148482b4a3bf204b613",
@@ -49753,6 +49773,13 @@
     "name": "Decoration Rush",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1557966379976499270",
+    "name": "Decrepit",
+    "icon_hash": "3e95154b48dc589254283cca696ca525",
+    "cover_hash": "4c3c5c07e0af2c0db4661e5c67492c47",
     "executables": []
   },
   {
@@ -59423,6 +59450,13 @@
     ]
   },
   {
+    "id": "1557966469176889354",
+    "name": "Dub Party",
+    "icon_hash": "20ce730f02fee845c7f8a12db3de7e4c",
+    "cover_hash": "6d8e1d4cbd2eca022cf2e3e538cad062",
+    "executables": []
+  },
+  {
     "id": "1542021194713141319",
     "name": "Dub Rumble",
     "icon_hash": "7616edf03b901edc2138f4721229c549",
@@ -59672,6 +59706,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557966435022671902",
+    "name": "Dude, Trust Me",
+    "icon_hash": "70a7a7d545b81fdeb3b8c2078a64e55d",
+    "cover_hash": "c927d3d1f6e4a13b4f0efb3e1de36006",
+    "executables": []
   },
   {
     "id": "1124352561210740877",
@@ -67627,6 +67668,13 @@
     "name": "Express Rider Simulator",
     "icon_hash": "71b3e372ca28a2c34a7fddbb8abfbcc0",
     "cover_hash": "6e4733141fcc8c8074b75e7c503f1bf6",
+    "executables": []
+  },
+  {
+    "id": "1468444864566792386",
+    "name": "Exterminauts",
+    "icon_hash": "1df2e2f05ca03548eb653ec65d7fe24f",
+    "cover_hash": "19e02049e6ddc043b7a2a763da6db448",
     "executables": []
   },
   {
@@ -75863,6 +75911,13 @@
     "executables": []
   },
   {
+    "id": "1557966462226931732",
+    "name": "ForgeTax",
+    "icon_hash": "051d456143d958d130a18653e0883738",
+    "cover_hash": "93b02282836c9a780643654c8dd3e2d4",
+    "executables": []
+  },
+  {
     "id": "1124355580568555560",
     "name": "Forgive Me Father",
     "icon_hash": "db7d4a865f4a75857232e6d2f6cf10c4",
@@ -80719,7 +80774,7 @@
   },
   {
     "id": "1267209993695002705",
-    "name": "Gearblocks",
+    "name": "GearBlocks",
     "icon_hash": "8a587c8a70f727e9fde7803540028cf9",
     "cover_hash": "f8dfa1d843c7fa52c4a4778071937773",
     "executables": [
@@ -87417,6 +87472,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557966409139753000",
+    "name": "Guns of Eschaton",
+    "icon_hash": "b34d2cc496769f5d7fee55cbbd02f221",
+    "cover_hash": "716aacb00619544a3ee8d90a51a4ee6e",
+    "executables": []
   },
   {
     "id": "1428177886472306769",
@@ -97713,6 +97775,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557966476042969219",
+    "name": "I Am Plague",
+    "icon_hash": "935cc7036ad7690fb690e619f5e50653",
+    "cover_hash": "e11a5f92e6db17efea13e95f39fcffa8",
+    "executables": []
   },
   {
     "id": "1124358703898968124",
@@ -130980,6 +131049,13 @@
     "executables": []
   },
   {
+    "id": "1557966403498287174",
+    "name": "MR. RECORDS",
+    "icon_hash": "57dcf125217b74059e8ccf9210cbc45c",
+    "cover_hash": "85ad4b8afa27f0ffe499d6d3ff49b9a6",
+    "executables": []
+  },
+  {
     "id": "1124356526505738322",
     "name": "Mr. Shifty",
     "icon_hash": "90af995bdd7799a06d25e4d5a8048c2b",
@@ -139283,7 +139359,7 @@
   {
     "id": "1440130403292807260",
     "name": "Nugget Royale",
-    "icon_hash": "ededd21189205340b63eac79562dcdde",
+    "icon_hash": null,
     "cover_hash": "3ef64b744c74427ceec1025ee66451f5",
     "executables": []
   },
@@ -146203,7 +146279,7 @@
   },
   {
     "id": "1440135842952642560",
-    "name": "Parisian Brasserie Simulator",
+    "name": "Parisian Bistro Simulator",
     "icon_hash": "5c686dfa68ffe118258ff8650ada4f94",
     "cover_hash": "a8cdae7715e3ed877b0bf63ce1c8a375",
     "executables": []
@@ -154805,13 +154881,6 @@
     "executables": []
   },
   {
-    "id": "1468444864566792386",
-    "name": "Project EXT",
-    "icon_hash": "17d072593d2d94db76dd7c4e10aed33c",
-    "cover_hash": "19e02049e6ddc043b7a2a763da6db448",
-    "executables": []
-  },
-  {
     "id": "1440130637708132484",
     "name": "Project F",
     "icon_hash": "f131ab516743d912d750414592216200",
@@ -159477,6 +159546,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557966427019935885",
+    "name": "RAT TAG!",
+    "icon_hash": "c4f01ac08283196756e2a8de1bbbebe2",
+    "cover_hash": "1518445fc97681ac813269709ee64acd",
+    "executables": []
   },
   {
     "id": "1418673105802625165",
@@ -171196,8 +171272,8 @@
   {
     "id": "406637935417622558",
     "name": "SCP: Secret Laboratory",
-    "icon_hash": "dfd35a709138afb52c1b09dc4665860f",
-    "cover_hash": "b22b4845cf7bce052cd95240dde05773",
+    "icon_hash": "cfa0fec28c3ad0687b45c0132defb616",
+    "cover_hash": "3afcca658f98cdc9dd4bc799fb7d264b",
     "executables": [
       {
         "name": "scpsl.exe",
@@ -173682,7 +173758,7 @@
   },
   {
     "id": "1227271880893796372",
-    "name": "Shadow Corridor 2: Ame no Yohira",
+    "name": "Shadow Corridor 2: Ama no Yohira",
     "icon_hash": "448cbd89b2af8b020dd060a54adb6f15",
     "cover_hash": "f1af498f365367acaea8e2649c979eb2",
     "executables": [
@@ -187780,7 +187856,7 @@
     "id": "1557241194734419998",
     "name": "STEEL GULLET",
     "icon_hash": "87e98b9b8a8851a5a699c68d9f3213c8",
-    "cover_hash": "95a11e2e4eadd1eadf40f658c3b78fa0",
+    "cover_hash": "a6081d57f60d328f3336e8cc395d3f96",
     "executables": []
   },
   {
@@ -213775,7 +213851,7 @@
   },
   {
     "id": "1545645088393269349",
-    "name": "Too Many Toys",
+    "name": "Too Many Toys!",
     "icon_hash": "c2889393224892cc60aed63ccc2852d3",
     "cover_hash": "1767125fcb3540bd1f2fa583c87c2a96",
     "executables": []
@@ -225026,6 +225102,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1557966419784634369",
+    "name": "Vital Decisions",
+    "icon_hash": "fc6a9fb7b84060597a02f5126f3d8177",
+    "cover_hash": "15839176020cc465c44d7c15ff6c6446",
+    "executables": []
   },
   {
     "id": "1445976266573480037",
