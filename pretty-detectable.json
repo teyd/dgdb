@@ -2917,8 +2917,8 @@
   {
     "id": "1395963422537154691",
     "name": "A Webbing Journey",
-    "icon_hash": "1891a7627cfe698c1c85692d178df7f1",
-    "cover_hash": "77bad8edbd866e7a094c1c4e9d2ecb9b",
+    "icon_hash": "c3b6c85d5501f3980793d48eca1d88c2",
+    "cover_hash": "376d9f5904dd2984e8cfee5be5d8090c",
     "executables": [
       {
         "name": "a webbing journey/a webbing journey.exe",
@@ -6125,8 +6125,8 @@
   {
     "id": "1499612054007320627",
     "name": "Airsoft Online",
-    "icon_hash": "b68ae6abfa70b2ecd375a7bb9be07cac",
-    "cover_hash": "621d6623052f1c7fe34e87f6ad594bcc",
+    "icon_hash": "a70e97b157b54e7664808c0ba6a3b28d",
+    "cover_hash": "5d21defb3fbf83dcd297f4fe034c7236",
     "executables": []
   },
   {
@@ -13057,6 +13057,13 @@
     "name": "Aspire: Ina's Tale",
     "icon_hash": "4b816268e6746b52d73db3d87467aa2d",
     "cover_hash": "48dfd1666c9d018f6a31276afcda8676",
+    "executables": []
+  },
+  {
+    "id": "1558329175960588338",
+    "name": "Aspis",
+    "icon_hash": "8020756ac9a8efabc9a4c7037e4c9338",
+    "cover_hash": "22e6991b6a3a5fcab9eee322fa137bf4",
     "executables": []
   },
   {
@@ -45139,8 +45146,8 @@
   {
     "id": "1554704893292585100",
     "name": "Curve Fever Pro",
-    "icon_hash": "6c9bacae4360a671e4d1d57c5bddef00",
-    "cover_hash": null,
+    "icon_hash": "bb103de31eb02b7f575e7b8c45314feb",
+    "cover_hash": "c62a5998837e74b104b3dc0e67440ae2",
     "executables": []
   },
   {
@@ -48466,6 +48473,13 @@
   {
     "id": "1442722033204203703",
     "name": "Dead Space: Ignition",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1558329224690016326",
+    "name": "Dead Spin",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -60369,8 +60383,8 @@
   {
     "id": "1445976554705387636",
     "name": "Dungeon Settlers",
-    "icon_hash": "a5508d1f5f5ec1e16812d5670a69b89c",
-    "cover_hash": "f64ca0bd9ea2d19a22aa3381653da541",
+    "icon_hash": "576c2dc66b44934c1f1c8799f5c45526",
+    "cover_hash": "0781d2763aa321f1116b7b2edd45de81",
     "executables": []
   },
   {
@@ -65609,7 +65623,7 @@
   },
   {
     "id": "1428223814088790116",
-    "name": "ESCAPE Protocol : Online",
+    "name": "Escape Protocol: Online",
     "icon_hash": "29843b4c550cd7aabed2550dbc0de955",
     "cover_hash": "6a0b81446ce5826f2e31f38a0b2b511e",
     "executables": []
@@ -75541,6 +75555,13 @@
     "name": "Football Pitch Simulator",
     "icon_hash": "f8b634c5f7aa9f1b987020bf43109ebb",
     "cover_hash": "306e244acd12d6b90464b33c320b75de",
+    "executables": []
+  },
+  {
+    "id": "1558329214279622736",
+    "name": "Football Referee Life Simulator 26",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -112663,6 +112684,13 @@
     ]
   },
   {
+    "id": "1558329284219895922",
+    "name": "Lenin Street Geek Shop",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442740115238686731",
     "name": "Lent: The Easter Bunny - Lent's Adventure: Story One",
     "icon_hash": null,
@@ -120895,7 +120923,7 @@
     "id": "1314395942253756416",
     "name": "Marvel Rivals",
     "icon_hash": "2dd7882b887306ab5afad03452869ad8",
-    "cover_hash": "a8e76eb42ee20d85b61d0abd593fee1f",
+    "cover_hash": "ddfdd542275573a097aa9bcddfba7cf5",
     "executables": [
       {
         "name": "marvelrivals/marvelrivals_launcher.exe",
@@ -132198,7 +132226,7 @@
   },
   {
     "id": "1442740164362375350",
-    "name": "My brother ate my pudding",
+    "name": "My Brother Ate My Pudding",
     "icon_hash": "25a420964446c31e5c82c30d31d05860",
     "cover_hash": "046f48e9f993f7e2b38b6983a1d38e56",
     "executables": []
@@ -158945,6 +158973,13 @@
     ]
   },
   {
+    "id": "1558329270445805608",
+    "name": "Railminer",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1124358417620938874",
     "name": "Railroad Corporation",
     "icon_hash": "f40d70ef438adf6b99352352ad46b6dc",
@@ -159632,6 +159667,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1558329218033516674",
+    "name": "RATSHOT",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1351857790565744731",
