@@ -14013,6 +14013,13 @@
     ]
   },
   {
+    "id": "1558690790425759774",
+    "name": "At Fate's End",
+    "icon_hash": "4f43b1b257c213a702d27f5da66abc00",
+    "cover_hash": "36a80013dab876f0e7737691ec4b97b6",
+    "executables": []
+  },
+  {
     "id": "1124353642993041478",
     "name": "At Home Alone",
     "icon_hash": "a6cdf9b88927a37f79367d6f78ecf632",
@@ -48481,7 +48488,7 @@
     "id": "1558329224690016326",
     "name": "DEAD SPIN",
     "icon_hash": "4ad668ba5a0ee4091820465f6f12ac01",
-    "cover_hash": null,
+    "cover_hash": "1c508b951a11c576442787842b582577",
     "executables": []
   },
   {
@@ -112679,8 +112686,8 @@
   {
     "id": "1558329284219895922",
     "name": "Lenin Street Geek Shop",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "4261fff159a71690fb65a50b9cbb074b",
+    "cover_hash": "95687ffc462b2cc4f1be000aadf38292",
     "executables": []
   },
   {
@@ -158975,8 +158982,8 @@
   {
     "id": "1558329270445805608",
     "name": "Railminer",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "9d0392db4887c674921600398a21609f",
+    "cover_hash": "fed3875897f8413c5a91bf219ffc92d3",
     "executables": []
   },
   {
@@ -159672,7 +159679,7 @@
     "id": "1558329218033516674",
     "name": "RATSHOT",
     "icon_hash": "71117968bd848f58a52f4a842d314c51",
-    "cover_hash": null,
+    "cover_hash": "89ee09393336b56fecf59ef26aaf0392",
     "executables": []
   },
   {
@@ -161227,7 +161234,7 @@
     "id": "1558329214279622736",
     "name": "Referee Life Simulator 2026",
     "icon_hash": "69f2e34fe809ec2b350334638fd46a54",
-    "cover_hash": null,
+    "cover_hash": "25a4e49e9ebe3e72fa06acf1d2d6a631",
     "executables": []
   },
   {
@@ -186440,6 +186447,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1558690808205414410",
+    "name": "STAR WARS: Galactic Racer",
+    "icon_hash": "78d391e39b8cd75dc4f95f29ce1cfdfa",
+    "cover_hash": "2c7a58eff727061c1cf60b1df15c494a",
+    "executables": []
   },
   {
     "id": "1441991227485585559",
