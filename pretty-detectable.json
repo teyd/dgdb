@@ -2532,9 +2532,9 @@
   },
   {
     "id": "1559416092886179911",
-    "name": "A Normal Quiz Game where you try to solve questions but the questions have tricks and gimmicks and if you get them wrong you have to beat a wacky punishment but they are kinda fun so you lowkey wanna do them even if it means getting the question wrong.",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "A Normal Quiz Game Where You Try to Solve Questions but the Questions Have Tricks and Gimmicks and if You Get Them Wrong You Have to Beat a Wacky Punishment but They Are Kinda Fun So You Lowkey Wanna Do Them Even if It Means Getting the Question Wrong.",
+    "icon_hash": "2421f2bcfb30e4afd248af8def584c73",
+    "cover_hash": "fd1290398c21ad8120b75dcb4c04f43b",
     "executables": []
   },
   {
@@ -11734,7 +11734,7 @@
     "id": "504424067877699614",
     "name": "Argentum Online",
     "icon_hash": "82c51de2183a18130c3ead334f7ae234",
-    "cover_hash": "9852435325a091b15b48d83a417d9439",
+    "cover_hash": "981451ccb2fc14449e78fcf9f39d1958",
     "executables": [
       {
         "name": "argentum.exe",
@@ -16303,8 +16303,8 @@
   {
     "id": "1559415905832804383",
     "name": "Bad Bitch Blasters",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e5a858955620c8ad9731c7517b9b2d3e",
+    "cover_hash": "608f802989e04397f196bf5aa9b4e974",
     "executables": []
   },
   {
@@ -16383,8 +16383,8 @@
   {
     "id": "1559415909901140050",
     "name": "Bad Magpie",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "b063898a5894e3db796bd7fc4439b5e4",
+    "cover_hash": "d764ed3b171f4e41d260fa518728ddc8",
     "executables": []
   },
   {
@@ -31311,8 +31311,8 @@
   {
     "id": "1559415937776615446",
     "name": "Car Park Capital",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d84d9cbe4e191e0a197dba0bff91370f",
+    "cover_hash": "c0792ccf98f112efdad88f27292ffd96",
     "executables": []
   },
   {
@@ -32028,8 +32028,8 @@
   {
     "id": "1559415993879625813",
     "name": "Carry On Together",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e69ddab3fb1563192e2ee62ac7679a16",
+    "cover_hash": "a9ad04b5a551635e60c83dbe24428151",
     "executables": []
   },
   {
@@ -34713,8 +34713,8 @@
   {
     "id": "1559416022102966343",
     "name": "Chat, Should We Head Over There?",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d2dbf079fa2ca66e2e8fc0bd7028fa5c",
+    "cover_hash": "6b78639735b74b151b34d3daafecdaaa",
     "executables": []
   },
   {
@@ -40607,9 +40607,9 @@
   },
   {
     "id": "1559415838568874097",
-    "name": "Cook, Serve, Delicious: Re-Mustard!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Cook, Serve, Delicious: Remustard!",
+    "icon_hash": "089cbb7f18f5205dd02995e196733ec9",
+    "cover_hash": "82df947f0ee52051f8c0df2cc07cab64",
     "executables": []
   },
   {
@@ -49079,9 +49079,9 @@
   },
   {
     "id": "1559416154458554368",
-    "name": "Death by Taxes",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Death By Taxes",
+    "icon_hash": "8283df758a4188193165f00fb680dabf",
+    "cover_hash": "6318a73ada621a432926887369d18219",
     "executables": []
   },
   {
@@ -66738,8 +66738,8 @@
   {
     "id": "1559415888698941550",
     "name": "Everfront",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "52202bb7b18212819f0b0bece3bdc3d3",
+    "cover_hash": "5b4c8dc42eb91b42225edcaf1d22b572",
     "executables": []
   },
   {
@@ -69179,8 +69179,8 @@
   {
     "id": "1559415924329816174",
     "name": "False Echo",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "ed85c213c97e34f6dd782493b99b8c96",
+    "cover_hash": "a4dbec1a6f02c5ea428f64e59c472ad6",
     "executables": []
   },
   {
@@ -86236,8 +86236,8 @@
   {
     "id": "1559415950044954635",
     "name": "GrimKeep",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "8ece0bad6c468b52880e5d2b7f81e303",
+    "cover_hash": "12a3e8216ddc6e783688312bfa9e61d0",
     "executables": []
   },
   {
@@ -88410,7 +88410,7 @@
     "id": "1440132640333103207",
     "name": "Half Sword",
     "icon_hash": "115166322f05979100cb9a4a27ff1e77",
-    "cover_hash": "b94533b3cc5db6d39a71f513e45022cf",
+    "cover_hash": "5cba8db87de76f3734cc38ab4b2f6b6d",
     "executables": []
   },
   {
@@ -91084,9 +91084,9 @@
   },
   {
     "id": "1559415861838745730",
-    "name": "Hela",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Hela: Of Mice & Magic",
+    "icon_hash": "0bcbf41e3b9b960294da1378df94c8a8",
+    "cover_hash": "be89b9867e127bf66288e7a34165839a",
     "executables": []
   },
   {
@@ -92925,8 +92925,8 @@
   {
     "id": "1559416128248356935",
     "name": "Hex Reverse",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "55ea51e42bd0f529da829dc3a6359d6a",
+    "cover_hash": "63fbed194ceeac56ee1df0559806384c",
     "executables": []
   },
   {
@@ -106723,8 +106723,8 @@
   {
     "id": "1559415897733595136",
     "name": "Keep Watering",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "33a2c8b8b3db7b8e9bcd5db63b2da879",
+    "cover_hash": "e2c9c1669d2b1dbcbe64e86f1a401776",
     "executables": []
   },
   {
@@ -110255,8 +110255,8 @@
   {
     "id": "1559415947536629840",
     "name": "LA Cops",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c337aaf3f79428f748211421ceeb0aab",
+    "cover_hash": "a4c0e511848609f6f9e9243794fa97a1",
     "executables": []
   },
   {
@@ -113864,8 +113864,8 @@
   {
     "id": "1559416096296144936",
     "name": "Lightspeed Lina",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "fc93baeeba0bed7e72caf954aeb05319",
+    "cover_hash": "103003e2935facf0d8fbbbed2fd0fc72",
     "executables": []
   },
   {
@@ -114905,8 +114905,8 @@
   {
     "id": "1559415915051876362",
     "name": "LIVING HELL",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "00634f2f702e9b7b51d419f1b938fae2",
+    "cover_hash": "4e1fc975f052d4bdbbd664fa59fb9e27",
     "executables": []
   },
   {
@@ -115290,8 +115290,8 @@
   {
     "id": "1559415920433172480",
     "name": "Logic Arrows",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7000a1aedc4d4c3ea79d8fac9885c8e7",
+    "cover_hash": "397d5e2eeac98307665617f20ff8d139",
     "executables": []
   },
   {
@@ -116074,8 +116074,8 @@
   {
     "id": "1559416144664723570",
     "name": "Lost & Found",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "8bab14aa3e37b90ecc582e4b2ac19815",
+    "cover_hash": "326be4a9b6fd4deacee7de9d64ed6ed1",
     "executables": []
   },
   {
@@ -119525,8 +119525,8 @@
   {
     "id": "1559415894004727898",
     "name": "Magnavale: Eternal Soul",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "574d8198fbead230ed69fec0358a06ac",
+    "cover_hash": "79d1371faddfb26af60fd3a5862ab801",
     "executables": []
   },
   {
@@ -143931,8 +143931,8 @@
   {
     "id": "1559415964821356625",
     "name": "Outbreak Z",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "cae4aae29eccbffa2053973e6b43e52e",
+    "cover_hash": "69d7d8b1bcedc24ab9fbde55bd907601",
     "executables": []
   },
   {
@@ -146045,9 +146045,9 @@
   },
   {
     "id": "1559415900694642800",
-    "name": "Paperhead",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "PAPERHEAD",
+    "icon_hash": "7115c785bd7aba46b235c0705f270908",
+    "cover_hash": "6f859f0618f6213fcc59984a5bef17f4",
     "executables": []
   },
   {
@@ -156296,6 +156296,13 @@
     ]
   },
   {
+    "id": "1559416031280234557",
+    "name": "PUBG Ded.Net",
+    "icon_hash": "d5533ba020ca00d8ae9a78022de131e6",
+    "cover_hash": "70214a9d53ab0494281a05305cd84582",
+    "executables": []
+  },
+  {
     "id": "1402418385052237944",
     "name": "PUBG LITE",
     "icon_hash": "956a19b684d710c39c7c485d8369826b",
@@ -156385,13 +156392,6 @@
         "is_launcher": false
       }
     ]
-  },
-  {
-    "id": "1559416031280234557",
-    "name": "PUBG: DED.NET",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
   },
   {
     "id": "452140668265955339",
@@ -165656,9 +165656,9 @@
   },
   {
     "id": "1559415870164566057",
-    "name": "Rockbeasts",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "ROCKBEASTS",
+    "icon_hash": "fc23d92e90a5d4ca4fb0ae8f75a27892",
+    "cover_hash": "69c8a4ea405b2e75c3a98bf637b36992",
     "executables": []
   },
   {
@@ -171711,8 +171711,8 @@
   {
     "id": "1559415956252393512",
     "name": "Scratch It! Lucky Cards",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "003a4ab381ce217c498533e324824987",
+    "cover_hash": "13632b052474895104ed3214c465fbfa",
     "executables": []
   },
   {
@@ -180343,8 +180343,8 @@
   {
     "id": "1559416133633843221",
     "name": "SNAPTIC",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "eb360da4ed4eb58dc6632592ef85de23",
+    "cover_hash": "5cfc25b746ceaefd976718e2ee96cfbe",
     "executables": []
   },
   {
@@ -182707,8 +182707,8 @@
   {
     "id": "1559415928972779631",
     "name": "Sous Raccoon",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c5c8d70f36b93cee4fa6cf94a1a05ff8",
+    "cover_hash": "e925682372c42d66481defed5086430b",
     "executables": []
   },
   {
@@ -194624,8 +194624,8 @@
   {
     "id": "1559415984580861954",
     "name": "Swarmvore",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "9ec49562f9813dc34b646749a29f5989",
+    "cover_hash": "c63896786027d38c5465c525445489c5",
     "executables": []
   },
   {
@@ -197736,8 +197736,8 @@
   {
     "id": "1559416148540260413",
     "name": "Tavernia",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c7b32b729459f4de0bd92b3b318be00e",
+    "cover_hash": "ecb3170091c124bffa03d468a7eef67f",
     "executables": []
   },
   {
@@ -199475,8 +199475,8 @@
   {
     "id": "1559416115191480320",
     "name": "That Which Remains",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "00e28857007e02a77661252379522c75",
+    "cover_hash": "14f88442690616084733433f80d2b366",
     "executables": []
   },
   {
@@ -203512,8 +203512,8 @@
   {
     "id": "1559416138390052944",
     "name": "The Greedy Knight",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "0a5850ea734ae5a7ef4de54ee308375a",
+    "cover_hash": "d78ce4dc2fe9011f80a763fcccf01c79",
     "executables": []
   },
   {
@@ -206775,8 +206775,8 @@
   {
     "id": "1559415976607621123",
     "name": "The Ninth Legion",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "217e2d7fc7cb7f10e61be27cf3c81e5b",
+    "cover_hash": "8fe836fe472245fda6a6360432f21455",
     "executables": []
   },
   {
@@ -211908,7 +211908,7 @@
     "id": "1535136061376696375",
     "name": "Tidal Nexus Online",
     "icon_hash": "fbfcd8f353601d1139cbe7e8bcc3414e",
-    "cover_hash": "ce2c478c08c0449b0e397770a13da02d",
+    "cover_hash": "3acb1adbd94482501d3ef3f56bb52aee",
     "executables": []
   },
   {
@@ -214118,8 +214118,8 @@
   {
     "id": "1559415932915556423",
     "name": "Too Deep To Quit",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "f7d9cfb2f67c6245e54dcfcb96c4ed98",
+    "cover_hash": "7d315f6fe0f37a1833b5aae81f419301",
     "executables": []
   },
   {
@@ -215246,8 +215246,8 @@
   {
     "id": "1559416122854346865",
     "name": "Touhou Garden of the Yukkuri",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "12bbaf10e912c96403ba4f0df8e334c4",
+    "cover_hash": "de4907dfbbe85e95fbcf4683b6945864",
     "executables": []
   },
   {
@@ -216086,8 +216086,8 @@
   {
     "id": "1559416035264831529",
     "name": "Towers of Babble",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "3c24e1c2ac07d1f39f6a079551d85e6f",
+    "cover_hash": "b8e9f1431ad408b50703cee952d67265",
     "executables": []
   },
   {
@@ -216661,7 +216661,7 @@
   {
     "id": "1559415981670015027",
     "name": "Traffic Architect",
-    "icon_hash": null,
+    "icon_hash": "7dfde6f39ef936a4fa14e5bcf720e0d5",
     "cover_hash": null,
     "executables": []
   },
@@ -221825,8 +221825,8 @@
   {
     "id": "1559416131071115265",
     "name": "Unharvest",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "aa1e2658312e1eed6ccdeccd60e27d51",
+    "cover_hash": "a473b7e40dda61e4632225c45d1354c2",
     "executables": []
   },
   {
@@ -225074,6 +225074,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1559588343023534261",
+    "name": "Vindictus: Defying Fate",
+    "icon_hash": "68f0f384a64f71a80fa330bc79adee87",
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1441987315235946546",
@@ -237918,8 +237925,8 @@
   {
     "id": "1559416099211190282",
     "name": "Zombillionaire",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "bcfad9221efd7ba5d2b34fb789b89050",
+    "cover_hash": "4aebc136e3a0f08520306eca902728f8",
     "executables": []
   },
   {
