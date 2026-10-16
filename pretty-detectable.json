@@ -7951,6 +7951,13 @@
     "executables": []
   },
   {
+    "id": "1560140412042215525",
+    "name": "Amiko Legends",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442739523233648651",
     "name": "Ammo Pigs: Cocked and Loaded",
     "icon_hash": null,
@@ -13984,6 +13991,13 @@
     "name": "Astrumis: Survive Together",
     "icon_hash": "ad873dbce919aad51cb0492505154ec2",
     "cover_hash": "29a0e24c3ddbbeda813a175dfe29082c",
+    "executables": []
+  },
+  {
+    "id": "1560140407214448700",
+    "name": "ASUKA x Redline Reverie",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -21633,6 +21647,13 @@
     "name": "Birds of War",
     "icon_hash": "5c72f44e66fa951356120250a165e722",
     "cover_hash": "dc1e59a1c168c53edf87dcbe778d6bfd",
+    "executables": []
+  },
+  {
+    "id": "1560140432472543353",
+    "name": "Birds Organized Neatly",
+    "icon_hash": "40a9ea28c1fca14dda713e19cd22f4a3",
+    "cover_hash": "9ad88965ec1247a4fd74fb9b995b49f0",
     "executables": []
   },
   {
@@ -43723,6 +43744,13 @@
     "executables": []
   },
   {
+    "id": "1560140561011318784",
+    "name": "Crowd Favorites",
+    "icon_hash": "4fdc64d8b5c071c5d9d96656b158376b",
+    "cover_hash": "283d0e49b0e56caf66a8f540437d8658",
+    "executables": []
+  },
+  {
     "id": "1442719936211325009",
     "name": "Crowd Run",
     "icon_hash": null,
@@ -62245,6 +62273,13 @@
     "executables": []
   },
   {
+    "id": "1560140522557935656",
+    "name": "Echo Mates",
+    "icon_hash": "620837d7d6be75867c583c8d6460f23c",
+    "cover_hash": "6ef19002348accc140d9240b4c6e042b",
+    "executables": []
+  },
+  {
     "id": "1290991723844997121",
     "name": "Echo Point Nova",
     "icon_hash": "eb7732ab9ad57157b6a2eb85f4d124dd",
@@ -72959,6 +72994,13 @@
     "executables": []
   },
   {
+    "id": "1560140575108374538",
+    "name": "Find the Needle: One in Ten Million",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1445981390108758167",
     "name": "Find Will - Uma's adventure",
     "icon_hash": null,
@@ -77820,6 +77862,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1560140514316132413",
+    "name": "FROG IN THE HOLE!",
+    "icon_hash": "24c04fc76ce943f8a9ce56d25d07b15f",
+    "cover_hash": "287683e05422a1d88a1f6723b446f63c",
+    "executables": []
   },
   {
     "id": "1519190770593304626",
@@ -120471,6 +120520,13 @@
     "executables": []
   },
   {
+    "id": "1560140535472201839",
+    "name": "MAR: Millions Are Rising",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1451409609632911453",
     "name": "Marathon",
     "icon_hash": "0789970679c92682465f591ad2587cb7",
@@ -122262,6 +122318,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1560140476235911238",
+    "name": "Meat Without Master",
+    "icon_hash": "eca0bea1f6d3e677707e4a7c00497075",
+    "cover_hash": "08a2f65a7e784f5112651675ad4f4a6c",
+    "executables": []
   },
   {
     "id": "1440135693476167872",
@@ -146454,6 +146517,13 @@
     "executables": []
   },
   {
+    "id": "1560140420489416744",
+    "name": "Paraxima",
+    "icon_hash": "2173dfb56216260aebed5de91be3e06b",
+    "cover_hash": "c7ab6f1c660e8aaeb575049f03e8d069",
+    "executables": []
+  },
+  {
     "id": "1428172820680278147",
     "name": "Parcel Corps",
     "icon_hash": "712a6e3f20dd9f48a09e14cae271b03d",
@@ -150474,7 +150544,7 @@
   {
     "id": "1440136175720599642",
     "name": "Pixel Royale 3D",
-    "icon_hash": "5131f6180014f112f7983f625c60f769",
+    "icon_hash": "a929411c7a70ff5a9a48277f05544093",
     "cover_hash": "9c92107b0038b73a2ab4000580a93f4e",
     "executables": []
   },
@@ -153430,6 +153500,13 @@
     "name": "Power Fantasy",
     "icon_hash": "2bd377d991b29f5517d427b76d495a7a",
     "cover_hash": "d3f0bb78d3c6d605f6a8956887517282",
+    "executables": []
+  },
+  {
+    "id": "1560140452966047744",
+    "name": "Power Network Tycoon",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -180393,7 +180470,7 @@
     "id": "1559416133633843221",
     "name": "SNAPTIC",
     "icon_hash": "eb360da4ed4eb58dc6632592ef85de23",
-    "cover_hash": "5cfc25b746ceaefd976718e2ee96cfbe",
+    "cover_hash": "77170cb7a89dd3fb3b55961f41a25867",
     "executables": []
   },
   {
@@ -180904,6 +180981,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1560140438957064233",
+    "name": "Snowed In",
+    "icon_hash": "ee640f3d2e7a83a2c31bee88d142c2a9",
+    "cover_hash": "88e6c4ca0cb94eaad1a4cc025f0be238",
+    "executables": []
   },
   {
     "id": "1539484453313839114",
@@ -183323,6 +183407,13 @@
     "name": "Space KaBAAM 3",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1560140488172896337",
+    "name": "Space Manager",
+    "icon_hash": "e7484cd3bf37d810d5f11af6fcb6ae58",
+    "cover_hash": "71b09703b29a556c998a906169459a05",
     "executables": []
   },
   {
@@ -187374,6 +187465,13 @@
     "executables": []
   },
   {
+    "id": "1560140578941960242",
+    "name": "STARHOME",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428209933630836889",
     "name": "Stario: Haven Tower",
     "icon_hash": "da398bc6dcda8470a3eef3ddac5859ef",
@@ -190748,6 +190846,13 @@
     "name": "Subliminal",
     "icon_hash": "dd0a7633c3da847d3cb4dca564ef0355",
     "cover_hash": "a0b2ad0d2553ea133c467e8ee79a51ec",
+    "executables": []
+  },
+  {
+    "id": "1560140498528636948",
+    "name": "Sublustrum",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -200030,6 +200135,13 @@
     ]
   },
   {
+    "id": "1560140507202457611",
+    "name": "The Backrooms: Threshold",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1197238942865555597",
     "name": "The Backrooms: Unbounded",
     "icon_hash": "1f1e9334e7ca7203d1415035a4b6c93f",
@@ -202128,6 +202240,13 @@
     "name": "The Doors of Trithius",
     "icon_hash": "85c24f5aa94cc76ced687c725bb430ee",
     "cover_hash": "6d95a1f4f0082c36d85668c6fd461f4a",
+    "executables": []
+  },
+  {
+    "id": "1560140554149429309",
+    "name": "The Drawratos",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -216015,6 +216134,13 @@
     ]
   },
   {
+    "id": "1560140493810049106",
+    "name": "Tower Tactics 2",
+    "icon_hash": "89bd0532641aeed4b9d9ae08ebb4b4b8",
+    "cover_hash": "0caba01b18396a17a4684f690b772804",
+    "executables": []
+  },
+  {
     "id": "1124358384104263751",
     "name": "Tower Tactics: Liberation",
     "icon_hash": "532b1b6844ed0a4a47e58a2ccacc8bba",
@@ -216725,7 +216851,7 @@
     "id": "1559415981670015027",
     "name": "Traffic Architect",
     "icon_hash": "7dfde6f39ef936a4fa14e5bcf720e0d5",
-    "cover_hash": null,
+    "cover_hash": "77b7e85a6dca7fbb2064de03d397d160",
     "executables": []
   },
   {
@@ -219103,14 +219229,14 @@
   },
   {
     "id": "1441991658471161967",
-    "name": "True Fear: Forsaken Souls Part 1",
+    "name": "True Fear: Forsaken Souls - Part 1",
     "icon_hash": "015b19b9fe2bd5c5908fecf939632ad8",
     "cover_hash": "c8069496270ccc8e3cb644b04e56dd58",
     "executables": []
   },
   {
     "id": "1445118952698286080",
-    "name": "True Fear: Forsaken Souls Part 2",
+    "name": "True Fear: Forsaken Souls - Part 2",
     "icon_hash": "3ed981033a0b7e57fcab2eb47c0389d9",
     "cover_hash": "dfbce5781a8047ca08131302f91c2036",
     "executables": []
@@ -220794,7 +220920,7 @@
     "id": "1124355655193604187",
     "name": "Ultimate Zombie Defense",
     "icon_hash": "9ad074fd13fc3fef9509ffd13cee1396",
-    "cover_hash": null,
+    "cover_hash": "1c209d3e5f69ed6510b414e34828496d",
     "executables": [
       {
         "name": "ultimate zombie defense/ultimatezombiedefense_64.exe",
@@ -225652,8 +225778,8 @@
   {
     "id": "1440136304968077342",
     "name": "Voice of Chernobyl",
-    "icon_hash": "2e8088fa545776ca1f80016b80ec24f6",
-    "cover_hash": "fd3eb6bb68845effa7a76ad5f4a0ade2",
+    "icon_hash": "9f0b34aaec39eb174c412bc258e1eab4",
+    "cover_hash": "75270564e233cc90b26f0ce4bbafbd00",
     "executables": []
   },
   {
