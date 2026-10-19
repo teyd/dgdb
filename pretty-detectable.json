@@ -10275,6 +10275,13 @@
     ]
   },
   {
+    "id": "1561228996899897364",
+    "name": "Apple Crumble",
+    "icon_hash": "d1c40b7bcb02d8324a9e3c74a46d6bfc",
+    "cover_hash": "85f494fe79c365e15bda04be218d32b3",
+    "executables": []
+  },
+  {
     "id": "1542021185393655879",
     "name": "Apple Faces Up",
     "icon_hash": "55c4cd0f1c9487d066b9576e91b37d23",
@@ -14830,7 +14837,7 @@
   },
   {
     "id": "1479318370309509130",
-    "name": "Australia Did It",
+    "name": "Australia Did It: End-of-the-World Railway Defense Business",
     "icon_hash": "22411d0aac90694b686468a9f512c104",
     "cover_hash": "15ddf97e2f07c94baa06fcc87c294d8e",
     "executables": []
@@ -17136,6 +17143,13 @@
     "name": "BANDIT KNIGHT",
     "icon_hash": "3872550b60273ee86d3f8f353d3dae23",
     "cover_hash": "8e46c2a91149373537bdb6a385519121",
+    "executables": []
+  },
+  {
+    "id": "1561228974279893042",
+    "name": "Bandit Simulator TD",
+    "icon_hash": "853f8d9f87ebe8c0512fa5f153b85fde",
+    "cover_hash": "93173709d0a61d4f5e5288ba082fd94a",
     "executables": []
   },
   {
@@ -25886,6 +25900,13 @@
     "executables": []
   },
   {
+    "id": "1561228962393231370",
+    "name": "Bottled by Bears",
+    "icon_hash": "fa653b72f33ffb9241be7adb6f410fe6",
+    "cover_hash": "2338ec166c4d43065c27afae1b4268d7",
+    "executables": []
+  },
+  {
     "id": "1442720595791057006",
     "name": "Bottop",
     "icon_hash": null,
@@ -30590,6 +30611,13 @@
     "name": "Campus Life",
     "icon_hash": "153cdeea747edaad615ae82a0d1748df",
     "cover_hash": "c3bf1b84ad8c3aaa3f13c25da6251064",
+    "executables": []
+  },
+  {
+    "id": "1561229069289398383",
+    "name": "Can 'Em All",
+    "icon_hash": "b6f5e074675f4361eda7c2d0978ad3a1",
+    "cover_hash": "00e4a980158b04a61b9154e16388dca3",
     "executables": []
   },
   {
@@ -41871,7 +41899,7 @@
     "id": "1439433057688883293",
     "name": "Cowboy Life Simulator",
     "icon_hash": "b2076a3b2a3e1e1fa98d4b51a0edbf3f",
-    "cover_hash": null,
+    "cover_hash": "902ac1739259358f46883aa95fabf154",
     "executables": []
   },
   {
@@ -49152,6 +49180,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1561229005238046781",
+    "name": "Death Dealer",
+    "icon_hash": "420a39ef9e0de0214d8f5fe544683095",
+    "cover_hash": "a2b324e1fba674b1e34ffeb815b44a9b",
+    "executables": []
   },
   {
     "id": "1124359637219692634",
@@ -75330,6 +75365,13 @@
     "executables": []
   },
   {
+    "id": "1561229085038878820",
+    "name": "Foole's World",
+    "icon_hash": "b3bc1328c9ebea0632f6fe57908e4ff0",
+    "cover_hash": "75498960e218bcfc9111c3e90d55c41c",
+    "executables": []
+  },
+  {
     "id": "1442712185179476110",
     "name": "Foolish Mortals",
     "icon_hash": "0a208c268a46c96fb1a21acd6d7ef2ef",
@@ -79911,8 +79953,8 @@
   {
     "id": "1550718463012638860",
     "name": "Galumb",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "85232a21dde72d946a6780688bd3bd58",
+    "cover_hash": "bf60d8aa7fae223ea79af8ce1f6a66e6",
     "executables": []
   },
   {
@@ -85979,6 +86021,13 @@
     "name": "Greenhouse: Tidy Up!",
     "icon_hash": "9ed5494b8e2088a1abf8c24f6d6eab6a",
     "cover_hash": "4083e5562986885fb4d29172cdec1af0",
+    "executables": []
+  },
+  {
+    "id": "1561229048762605599",
+    "name": "Greenrise",
+    "icon_hash": "45d062f3ef64710ccec627cd81b10b3a",
+    "cover_hash": "66d8f1842714fa048c61ce0b4edde4d8",
     "executables": []
   },
   {
@@ -95773,6 +95822,13 @@
     "executables": []
   },
   {
+    "id": "1561228991837380738",
+    "name": "Horns of Deliverance",
+    "icon_hash": "af0460df5c59089727a6aace2679449b",
+    "cover_hash": "bb6d82d8abbe488f5fae32d729b6ec04",
+    "executables": []
+  },
+  {
     "id": "1305653529758924911",
     "name": "Horny Villa",
     "icon_hash": "ae4d60c55aae4c55249843970d6aa946",
@@ -97478,7 +97534,7 @@
     "id": "1488739767125545000",
     "name": "Hyper Echelon",
     "icon_hash": "0ea8cb45f89e92ea0f140b274e723d47",
-    "cover_hash": null,
+    "cover_hash": "022b2596f3b08e401727fb5c936a1f2a",
     "executables": []
   },
   {
@@ -101563,8 +101619,8 @@
   },
   {
     "id": "1449239170664104068",
-    "name": "Inotia 4: Assassin of Berkel",
-    "icon_hash": null,
+    "name": "Inotia 4",
+    "icon_hash": "f38755841936ed536903b2dd7c15db44",
     "cover_hash": "d5183f35c8247c7258c32f7cede80292",
     "executables": []
   },
@@ -104354,7 +104410,7 @@
     "id": "1411432808815132743",
     "name": "Jigsaw Puzzles",
     "icon_hash": "ccd8c2cd71f8ff1c121c4aa7d42a5a1b",
-    "cover_hash": null,
+    "cover_hash": "18b8d9eb258707006c2c2d66a7e04123",
     "executables": []
   },
   {
@@ -116860,6 +116916,13 @@
     "executables": []
   },
   {
+    "id": "1561229045100847114",
+    "name": "LOTTERY",
+    "icon_hash": "e1d818b9de76e882accf970ad5d7ae1f",
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428176499957305534",
     "name": "Lotus Lantern: Rescue Mother",
     "icon_hash": "87ff971acfde1c04257e60c85f3c9a2e",
@@ -122782,6 +122845,13 @@
     "name": "MediEvil: Resurrection",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1561229134628257793",
+    "name": "Medium Rare",
+    "icon_hash": "11385813fb276fded70a590c52364d33",
+    "cover_hash": "8ef0f27836fe5bd359e4b45055ec32ce",
     "executables": []
   },
   {
@@ -130328,6 +130398,13 @@
     "name": "Mortar Master",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1561228983696232519",
+    "name": "Mortuus",
+    "icon_hash": "51538e1ae4d10cc1f3383b6a1fd26876",
+    "cover_hash": "2d4cd5b81e6bf026f83ffb21d8272532",
     "executables": []
   },
   {
@@ -147728,6 +147805,13 @@
     ]
   },
   {
+    "id": "1561229023692984400",
+    "name": "Paystreak",
+    "icon_hash": "9492f0b73ad3bc01ee7a554560257b2f",
+    "cover_hash": "333a34d5448c0a6f93a1520dae1b88bd",
+    "executables": []
+  },
+  {
     "id": "1428171034334330961",
     "name": "PBA Pro Bowling 2023",
     "icon_hash": "ba895e7bd0a087097bb11d30815a75dd",
@@ -162101,6 +162185,13 @@
     ]
   },
   {
+    "id": "1561229018915676191",
+    "name": "Remote Reaper: FPV Drone",
+    "icon_hash": "162d80ae5ff5597615b0b5a07b9c4a8f",
+    "cover_hash": "df298e5ca5b906856b96473da9c4099f",
+    "executables": []
+  },
+  {
     "id": "1124359517728161902",
     "name": "Remothered: Tormented Fathers",
     "icon_hash": "7023ab8ccba94b3b752f5546c24605c4",
@@ -164354,6 +164445,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1561229126751359036",
+    "name": "Rip It! Card Collector",
+    "icon_hash": "0d9862a4b7ec20f5213287b0aa2d73e6",
+    "cover_hash": "411412ef875ff0916a550dba1b837ffd",
+    "executables": []
   },
   {
     "id": "1188269841535213638",
@@ -173107,6 +173205,13 @@
     "name": "Selfloss",
     "icon_hash": "d4a19a99a8100434aae1b0b0ee50c4e8",
     "cover_hash": "9beaa97750e43ba1c2456cd2a3fb5372",
+    "executables": []
+  },
+  {
+    "id": "1561229039874609222",
+    "name": "Selkie's Salvage&Co.",
+    "icon_hash": "68f35e0b6636324699847895fde539a5",
+    "cover_hash": "d96227ceac740c6f9035be1e6668747c",
     "executables": []
   },
   {
@@ -187504,6 +187609,13 @@
     "executables": []
   },
   {
+    "id": "1561229055238348810",
+    "name": "Starlathe",
+    "icon_hash": "f1b8edf5ae3189b313987eeec5aab145",
+    "cover_hash": "1f4b6205f5e89e4fd5e63d6864544ab5",
+    "executables": []
+  },
+  {
     "id": "1428181208138776668",
     "name": "Starless Abyss",
     "icon_hash": "ccc7fbb6eb9dc2ead783b0dfbefd8eaa",
@@ -194781,6 +194893,13 @@
     "executables": []
   },
   {
+    "id": "1561229060938399855",
+    "name": "Swarmbreaker",
+    "icon_hash": "4250a1127741e3d9fb0d8bcf961a1647",
+    "cover_hash": "4113f07a6fe907859c10b66a30d689d4",
+    "executables": []
+  },
+  {
     "id": "1519190697226272889",
     "name": "Swarmdustry",
     "icon_hash": "48eaa934f6a910b5b4bc2bc2230eec70",
@@ -199603,6 +199722,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1561229078143574076",
+    "name": "Thank You Bus Driver",
+    "icon_hash": "3c6d31b7627bbdb97c03012037ea24f1",
+    "cover_hash": "a49d3eabc1a6b06171c5fef52b2e3031",
+    "executables": []
   },
   {
     "id": "1445976100156215397",
@@ -209992,7 +210118,7 @@
     "id": "1445992094840782920",
     "name": "The Use of Life",
     "icon_hash": "46241b8f2afd85a84f09bca56d30e807",
-    "cover_hash": null,
+    "cover_hash": "d8e30c8389022cc7808afb4e28050e69",
     "executables": []
   },
   {
@@ -211324,6 +211450,13 @@
     "name": "Thief Simulator 3",
     "icon_hash": "9d9d136ccbe534698be05b875546648f",
     "cover_hash": "ea8c293957321c653a1d7ce8475c5d0e",
+    "executables": []
+  },
+  {
+    "id": "1561229093750448200",
+    "name": "Thief Simulator 3",
+    "icon_hash": "8c0a28d95aecb0a485d7d52a41308b6e",
+    "cover_hash": "34d974a20628bf83bc4759b68912af0f",
     "executables": []
   },
   {
@@ -215054,6 +215187,13 @@
     ]
   },
   {
+    "id": "1561229116915720203",
+    "name": "Total War: SHOGUN 2 - Complete Edition",
+    "icon_hash": "c85e7bab52fe6126af9680993ffd1cca",
+    "cover_hash": "5ec1ada1eb66c6f188937ac030abec0b",
+    "executables": []
+  },
+  {
     "id": "1124354396462002308",
     "name": "Total War: Three Kingdoms",
     "icon_hash": "147085830b1e265524429bd111da0ce8",
@@ -216160,7 +216300,7 @@
   },
   {
     "id": "1560140493810049106",
-    "name": "Tower Tactics 2",
+    "name": "Tower Tactics II",
     "icon_hash": "89bd0532641aeed4b9d9ae08ebb4b4b8",
     "cover_hash": "0caba01b18396a17a4684f690b772804",
     "executables": []
@@ -232051,6 +232191,13 @@
     "name": "Witch and Council",
     "icon_hash": "b34443769b9f419f1390fe06c41e609f",
     "cover_hash": "0a803556ecce78b2615ad62b6f643e0a",
+    "executables": []
+  },
+  {
+    "id": "1561229033579221012",
+    "name": "Witch Cabin Cleanup",
+    "icon_hash": "dbfce105d673bd42a96ed1e413ad8a5d",
+    "cover_hash": "4b5ded37bcbb62a2d1d419f2f13d539c",
     "executables": []
   },
   {
