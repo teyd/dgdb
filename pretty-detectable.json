@@ -25959,7 +25959,7 @@
     "id": "1561228962393231370",
     "name": "Bottled by Bears",
     "icon_hash": "fa653b72f33ffb9241be7adb6f410fe6",
-    "cover_hash": "2338ec166c4d43065c27afae1b4268d7",
+    "cover_hash": "57f37893fb0bf398b9369c2e33559155",
     "executables": []
   },
   {
@@ -153536,8 +153536,15 @@
   {
     "id": "1552168650192986112",
     "name": "Post Office: Tidy Up",
-    "icon_hash": "f213d2cab10655ccbe3c8317772438f8",
+    "icon_hash": "7d98de70703db85a4ef59b37a4a36b96",
     "cover_hash": "67fdc915cb8e8a0a1f2d8ae452bd03aa",
+    "executables": []
+  },
+  {
+    "id": "1562836866657554524",
+    "name": "Post Office: Tidy Up!",
+    "icon_hash": "c9360ab8c3f78066140c6f543bf1183f",
+    "cover_hash": "b7c38973f0053e480357ac66a2b5e746",
     "executables": []
   },
   {
@@ -162858,6 +162865,13 @@
     ]
   },
   {
+    "id": "1562677993157959791",
+    "name": "Resident Evil 2",
+    "icon_hash": "0cff889128e055481b0affd4713071be",
+    "cover_hash": "2d7dc616c440d16beb3c97487179474f",
+    "executables": []
+  },
+  {
     "id": "1129504852653916222",
     "name": "Resident Evil 2 \"R.P.D. Demo\"",
     "icon_hash": "9010c65ebae88a9b0f0bb69ad981d6cc",
@@ -162988,19 +163002,6 @@
     ]
   },
   {
-    "id": "1124353293301330070",
-    "name": "Resident Evil 7 Teaser: Beginning Hour",
-    "icon_hash": "cca27b0caaa68ba1817bd250684bcb34",
-    "cover_hash": null,
-    "executables": [
-      {
-        "name": "resident evil 7 biohazard demo/re7trial.exe",
-        "os": "win32",
-        "is_launcher": false
-      }
-    ]
-  },
-  {
     "id": "443160369192632330",
     "name": "Resident Evil 7: Biohazard",
     "icon_hash": "0b954aa7f4b795d6c33497c381e1883a",
@@ -163008,6 +163009,19 @@
     "executables": [
       {
         "name": "re7.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
+    "id": "1124353293301330070",
+    "name": "Resident Evil 7: Biohazard",
+    "icon_hash": "cca27b0caaa68ba1817bd250684bcb34",
+    "cover_hash": "3363075de6aee643ce1cde3a06600ba8",
+    "executables": [
+      {
+        "name": "resident evil 7 biohazard demo/re7trial.exe",
         "os": "win32",
         "is_launcher": false
       }
