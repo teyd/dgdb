@@ -1464,7 +1464,7 @@
   },
   {
     "id": "1537310211881046029",
-    "name": "500 Finger Fillet",
+    "name": "500 FINGER FILLET",
     "icon_hash": "75ac7941c7fc79be766b8fb9151c3fdf",
     "cover_hash": "eb4185f0229f9f75836a44abfe79c77a",
     "executables": []
@@ -3362,6 +3362,13 @@
     "name": "ABYSSAL BLADE",
     "icon_hash": "840dde048d2aebbfa1eac52b3774c124",
     "cover_hash": "b7e069ade51797af7e9c4da080b8aaeb",
+    "executables": []
+  },
+  {
+    "id": "1563039741534937100",
+    "name": "Abyssal Lapidary",
+    "icon_hash": "7a73209b30775dc77834de55b6b0e0a4",
+    "cover_hash": "042b48714f1143c708339cd4e9be7abc",
     "executables": []
   },
   {
@@ -6692,6 +6699,13 @@
     "executables": []
   },
   {
+    "id": "1563039848917377056",
+    "name": "Alien Archeologist",
+    "icon_hash": "b40acae4d3e6e17a003d375f3161adf6",
+    "cover_hash": "1db141c8257daf5c4c1109d38da3b511",
+    "executables": []
+  },
+  {
     "id": "496527138141503538",
     "name": "Alien Breed 2: Assault",
     "icon_hash": "1cd3eab7dc58977a7ec819ce70e88ec0",
@@ -7094,6 +7108,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563039718126391396",
+    "name": "All Rats on Deck",
+    "icon_hash": "76598a9fe3a416d290b865d05b3e3a01",
+    "cover_hash": "39ba6a2df4106c0914ba7c33c15ebbc7",
+    "executables": []
   },
   {
     "id": "1439066783284727951",
@@ -9477,6 +9498,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563039939254423643",
+    "name": "Anomaly Inspector Simulator",
+    "icon_hash": "7ad7a32a8bc3bd6b0bc86e192a571205",
+    "cover_hash": "9904b3b1caeb97644801c205e71f975f",
+    "executables": []
   },
   {
     "id": "1442718019624112249",
@@ -16435,6 +16463,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563039907067330590",
+    "name": "Bad House",
+    "icon_hash": "3f2e954a331ad56025002e01b1c4c03d",
+    "cover_hash": "f9d631def63c9d0683d95094457b5a9e",
+    "executables": []
   },
   {
     "id": "1559415909901140050",
@@ -29964,7 +29999,7 @@
     "id": "1539812812854132867",
     "name": "Call of Duty",
     "icon_hash": "532b24566a2cdde9646052b7e4d43bc0",
-    "cover_hash": "4027307ff885cb7fd10185f220c40e05",
+    "cover_hash": "7f8275b121cbd881753bad14969257ea",
     "executables": [
       {
         "name": "cod.exe",
@@ -30613,6 +30648,13 @@
     "name": "Camelot Unchained",
     "icon_hash": "afb4a3ec7aebd07e60b4b0943902c557",
     "cover_hash": "40462ebb000a0a2cc69f834804b431b1",
+    "executables": []
+  },
+  {
+    "id": "1563039759935217747",
+    "name": "Camp Whittlewood",
+    "icon_hash": "d0deae1d06daffebfc4a0edef5d614c6",
+    "cover_hash": "47d07b568a10b6a700857465d6540662",
     "executables": []
   },
   {
@@ -31409,7 +31451,7 @@
   },
   {
     "id": "1491890746616315994",
-    "name": "Car Mechanic Simulator 2026",
+    "name": "Car Mechanic Simulator 2027",
     "icon_hash": "463277b2e9c8f138d2186295910707ee",
     "cover_hash": "8153fa37826f04285c5088a1e90549a4",
     "executables": []
@@ -37398,6 +37440,13 @@
     "name": "Clean Start",
     "icon_hash": "f315987d36065dc522d112b9585a7d28",
     "cover_hash": "2d51f4370c73e99b1c99e1d37b511bac",
+    "executables": []
+  },
+  {
+    "id": "1563039978546532404",
+    "name": "Clean Start",
+    "icon_hash": "c619671ce8ca6a5f07947445af3fc3ce",
+    "cover_hash": "617849ed0bccd813c74366294212ebc4",
     "executables": []
   },
   {
@@ -45365,6 +45414,13 @@
     "name": "Curved Space",
     "icon_hash": "9d1bea4bf2ae5c67337ee1f93a8f7213",
     "cover_hash": "14ac3102df30f9626a7e279150235520",
+    "executables": []
+  },
+  {
+    "id": "1563039768223158294",
+    "name": "Custom Fire",
+    "icon_hash": "5b46a0fff86b6433dcbe505c1f14946c",
+    "cover_hash": "df1f5253f2afd4e37979a5da60d59d2f",
     "executables": []
   },
   {
@@ -57163,6 +57219,13 @@
     "name": "Dracula's Legacy",
     "icon_hash": "8317e5d8f9744fb57feba0d9fd178612",
     "cover_hash": "25afe2f5e99ae74790cf11131f939b41",
+    "executables": []
+  },
+  {
+    "id": "1563039774846095521",
+    "name": "Draftula",
+    "icon_hash": "95451e56d9e28a36b0878c5bbd83b1fb",
+    "cover_hash": "92a74526407f04879d2d3daa56cf9d65",
     "executables": []
   },
   {
@@ -80929,6 +80992,13 @@
     ]
   },
   {
+    "id": "1563039838054125668",
+    "name": "Gas N Cars",
+    "icon_hash": "b18a45cad9812d48ce3ce8e76085c118",
+    "cover_hash": "4415e106d6c61221e34a940ae67212ba",
+    "executables": []
+  },
+  {
     "id": "1428181533746794647",
     "name": "Gas Station Manager",
     "icon_hash": "6be64f38d9c8e4d8937dd32f737081b6",
@@ -92711,6 +92781,13 @@
     ]
   },
   {
+    "id": "1563039894798864495",
+    "name": "Here Comes the Horde",
+    "icon_hash": "0044c50e00706564e913e686a8c42f5d",
+    "cover_hash": "9c7951f2d20fa3f47baf523e07e6a9cc",
+    "executables": []
+  },
+  {
     "id": "1477144010618568854",
     "name": "Here Comes the Swarm",
     "icon_hash": "5b96de1f2b53395e27a11a0d5ef4b640",
@@ -100062,6 +100139,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563039730298392719",
+    "name": "Immortal Dao Idle",
+    "icon_hash": null,
+    "cover_hash": "23f3e6c71f4c3f08461cd3552e4b8cee",
+    "executables": []
   },
   {
     "id": "1442730292275052658",
@@ -114010,6 +114094,13 @@
     ]
   },
   {
+    "id": "1563039951505981493",
+    "name": "Life, the Universe, and Restaurants",
+    "icon_hash": "ccdac5e2b080907b3081eabd04785358",
+    "cover_hash": "326f622ac40bea848f510ab04b004150",
+    "executables": []
+  },
+  {
     "id": "1442716415693160549",
     "name": "Lifecraft",
     "icon_hash": "f7defaff4aa502955af87b71867fea4c",
@@ -116467,6 +116558,13 @@
     "name": "Lost Artifacts: Mysterious Book",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1563039901077737622",
+    "name": "Lost Budapest",
+    "icon_hash": "c663bd2982720ef3ba2fd932bedd1c56",
+    "cover_hash": "3acdd7ec3ab6a59bf968e8c94b9fb2a9",
     "executables": []
   },
   {
@@ -129787,6 +129885,13 @@
     "executables": []
   },
   {
+    "id": "1563039966118813767",
+    "name": "Monsters & Memories",
+    "icon_hash": "82aa2b743bad3ceff3e135a38cc26749",
+    "cover_hash": "a8a91b1cfae8ba02bcd056657062407b",
+    "executables": []
+  },
+  {
     "id": "1428223041313181828",
     "name": "Monsters Are Coming!",
     "icon_hash": "72a996317bbac2a6e3c3438950e345c9",
@@ -136362,6 +136467,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563039959076700171",
+    "name": "Never Wither",
+    "icon_hash": "aacd7f84a3b84b000cdac99a12f3edfc",
+    "cover_hash": "deb4feafa64942af90842853c3b94607",
+    "executables": []
   },
   {
     "id": "1124359869781266532",
@@ -148248,6 +148360,13 @@
     ]
   },
   {
+    "id": "1563039874100109363",
+    "name": "PeeVPee",
+    "icon_hash": "3ce0c746af3f01840e54bf17bacd134b",
+    "cover_hash": "c86a8a2d469f366dfb45963c85703453",
+    "executables": []
+  },
+  {
     "id": "1512296147782340708",
     "name": "PeeWee Purpdrank's FOENEM Clicker",
     "icon_hash": "c8863456f87d60ed5117f5191067ba07",
@@ -150641,6 +150760,13 @@
     ]
   },
   {
+    "id": "1563039788347560026",
+    "name": "Pitchfork",
+    "icon_hash": "0ff20698e9bbf55a1ef7aadbb6b05cb5",
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1552168596095107112",
     "name": "Pitchside Empire",
     "icon_hash": "72fa3b2c85277863837366f7a2ea8dee",
@@ -150920,6 +151046,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563039798904496172",
+    "name": "Pixel Survivors: Defense",
+    "icon_hash": "c36bd3fe580830a43d27caf47c5437d8",
+    "cover_hash": "8db30a2094b4ac1afdb64facff3ad171",
+    "executables": []
   },
   {
     "id": "466733503720062996",
@@ -162577,6 +162710,13 @@
     ]
   },
   {
+    "id": "1563039831091585084",
+    "name": "Rent A Car Together",
+    "icon_hash": "11358cd4f8a8c6b83bb97cf6bd484e89",
+    "cover_hash": "85c09a2be26d261656199a5f3ffec100",
+    "executables": []
+  },
+  {
     "id": "1536947977418182686",
     "name": "Rent Due",
     "icon_hash": "9ad665f05d78acfc37ebea9d64282003",
@@ -164953,6 +165093,13 @@
     "executables": []
   },
   {
+    "id": "1563039884053184553",
+    "name": "Rise of the Merchants",
+    "icon_hash": "a8c207bd20ca4058447228cc171453ef",
+    "cover_hash": "ede88e2e797cd3bc7bcbd3f59b2c3b15",
+    "executables": []
+  },
+  {
     "id": "1440129837988843604",
     "name": "Rise of the Ronin",
     "icon_hash": "586c2565f2f4dce465ac4935110a1f05",
@@ -166822,6 +166969,13 @@
     "name": "RogueDiceR",
     "icon_hash": "d9b37c8f594fda8c4e081a25111373f4",
     "cover_hash": "174d13c6443790998da03a1ab2bd9da1",
+    "executables": []
+  },
+  {
+    "id": "1563039750795829349",
+    "name": "Roguefort",
+    "icon_hash": "e57a8a9419c119a2e5c429587a46156f",
+    "cover_hash": "c2a3d19266ba41c534a719feccd22c74",
     "executables": []
   },
   {
@@ -171500,6 +171654,13 @@
     "executables": []
   },
   {
+    "id": "1563039864734097458",
+    "name": "Scawy Game",
+    "icon_hash": "47f08151f52bca751374071a02b2ef2d",
+    "cover_hash": "832500ea06ffd994b1e15060f94a8fe7",
+    "executables": []
+  },
+  {
     "id": "1173291173532676247",
     "name": "Scene Investigators",
     "icon_hash": "e96be6544964fbf52babae939714f809",
@@ -172411,6 +172572,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563039970665570425",
+    "name": "Screw It!",
+    "icon_hash": "674a2aabf606a321aec20d96b6c0812c",
+    "cover_hash": "4da1f95391cc684f7547b1372116c2f3",
+    "executables": []
   },
   {
     "id": "1445981938434445373",
@@ -178935,8 +179103,8 @@
   {
     "id": "1562315175502159872",
     "name": "Skibidi Wars",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "058b00a38ff43c80be8951dac1debde4",
+    "cover_hash": "2d4d430fd8b1263b797159c5bb2ff89b",
     "executables": []
   },
   {
@@ -203635,6 +203803,13 @@
     "name": "The First Million",
     "icon_hash": "bc9961d15c3a334e949943d44a2e267f",
     "cover_hash": "cd016e881d62e71068f07a8bfcec3365",
+    "executables": []
+  },
+  {
+    "id": "1563039929901129738",
+    "name": "The First Pixel",
+    "icon_hash": "10882e6f75783f71ac6793e34aee0d6a",
+    "cover_hash": "6ebd03b9886e426325504356e27f88dd",
     "executables": []
   },
   {
