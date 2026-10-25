@@ -8252,6 +8252,13 @@
     ]
   },
   {
+    "id": "1563401957152923731",
+    "name": "AMPANIC",
+    "icon_hash": "74dc8ba446c0a7b703812d0d5e70e4f6",
+    "cover_hash": "91d7a11ea22eb88abb6d31565fc4f56c",
+    "executables": []
+  },
+  {
     "id": "1390708794790514839",
     "name": "Ampersat",
     "icon_hash": "8e44f5607ad7385cb848f99ffdebc601",
@@ -23704,6 +23711,13 @@
     ]
   },
   {
+    "id": "1563402319092256840",
+    "name": "Blood & Canvas: Bareknuckle Boxing",
+    "icon_hash": "bab243027924f8bb1ae9d550450bf164",
+    "cover_hash": "027988e031c9d1ff1037eff8819a5300",
+    "executables": []
+  },
+  {
     "id": "1442731108587536476",
     "name": "Blood & Truth",
     "icon_hash": null,
@@ -38773,6 +38787,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563402099952451615",
+    "name": "Coin Harvest",
+    "icon_hash": "3315895047443738d10474b78976976c",
+    "cover_hash": "130124f0aff9072de532dddc40c186e2",
+    "executables": []
   },
   {
     "id": "1553255062879338516",
@@ -56223,6 +56244,13 @@
     "executables": []
   },
   {
+    "id": "1563402033384661055",
+    "name": "Don't Stop The Pop!",
+    "icon_hash": "a3672df79804123ebd03453330b30f22",
+    "cover_hash": "8cffd44b0ec5751f4d7bb26e67a7851b",
+    "executables": []
+  },
+  {
     "id": "1426071805860515943",
     "name": "Don't Stop, Girlypop!",
     "icon_hash": "0df929d1ff3f8a9dcb3b2c1cbc74e189",
@@ -60228,6 +60256,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563402281620086815",
+    "name": "Dumpster Gang",
+    "icon_hash": "2cd8ca61fcfc2a4ba19a559d1c7bb543",
+    "cover_hash": "e21867d02df62b67229268fb6cdcdc3d",
+    "executables": []
   },
   {
     "id": "1428223315763265536",
@@ -64884,6 +64919,13 @@
     "executables": []
   },
   {
+    "id": "1563402367783931924",
+    "name": "Engagement",
+    "icon_hash": "11ac845011b89b904378c0fbe570bc31",
+    "cover_hash": "4ee1c8ec0a32b04662c73bb0267cb244",
+    "executables": []
+  },
+  {
     "id": "1124357023476232202",
     "name": "Engine Evolution",
     "icon_hash": "88acb838fa61ff7854e78a37ea5440cd",
@@ -67052,6 +67094,13 @@
     "name": "Everhood: Eternity Edition",
     "icon_hash": "b738848271def1e8dc3e3c932036f531",
     "cover_hash": "e742c60d5f6c9bf3feab4967793a461b",
+    "executables": []
+  },
+  {
+    "id": "1563402392387719269",
+    "name": "Everlast",
+    "icon_hash": "3ca54ae20572412e48f6d64386129d73",
+    "cover_hash": "cbc77a31727c32a50ccce78fe36dcf31",
     "executables": []
   },
   {
@@ -69589,6 +69638,13 @@
     "name": "Fangstorm",
     "icon_hash": "eab6f2c6ba9464a238feaf92ea63b0a8",
     "cover_hash": "afaff018ec0ff6d30ea003109fa21e9d",
+    "executables": []
+  },
+  {
+    "id": "1563402048664502373",
+    "name": "Fangtopia",
+    "icon_hash": "80c591ab5cda06f5657f8462aec5f446",
+    "cover_hash": "ee467aa498851706be63323182a7ffbc",
     "executables": []
   },
   {
@@ -73540,6 +73596,13 @@
     "executables": []
   },
   {
+    "id": "1563402182898880715",
+    "name": "Firefighters Code Red",
+    "icon_hash": "5c60e467d79177c33e894c4fe5a10d3b",
+    "cover_hash": "9d8cd9e0de2529f27e6bdcaf9566fba7",
+    "executables": []
+  },
+  {
     "id": "1442731351873683528",
     "name": "Firefighters: Plant Fire Department",
     "icon_hash": null,
@@ -76046,6 +76109,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563401979990900877",
+    "name": "For The Cat! Sorcerer's Revenge",
+    "icon_hash": "08cad06734dbc32039e34d87dc78d05f",
+    "cover_hash": "cf347d8f11e09d3a65427a2873655fc2",
+    "executables": []
   },
   {
     "id": "1549993848141512757",
@@ -84152,6 +84222,13 @@
     "executables": []
   },
   {
+    "id": "1563402381616742420",
+    "name": "Golden Trivia Show",
+    "icon_hash": "2b2ff28479c4fcecc559d0280c2f3ac0",
+    "cover_hash": "c1c79f7c6ee3dc2d0f2cc7ca75f827ec",
+    "executables": []
+  },
+  {
     "id": "1440138918845612195",
     "name": "GoldenEye 007",
     "icon_hash": "ebfa2a26bb8b9c3d46ec881c6126110e",
@@ -86466,6 +86543,13 @@
     ]
   },
   {
+    "id": "1563402116322828358",
+    "name": "Grilluminati",
+    "icon_hash": "59e94a277732fc788a93f51f4a81acc4",
+    "cover_hash": "40ae4d387ff712a2299aa69ed0013d0d",
+    "executables": []
+  },
+  {
     "id": "1124352820431310908",
     "name": "Grim Clicker",
     "icon_hash": "6ad83dffe9437a9dde6ae9096114e0c9",
@@ -88625,6 +88709,13 @@
     "executables": []
   },
   {
+    "id": "1563401996260872252",
+    "name": "Hair Removal Salon Simulator",
+    "icon_hash": "eb418d1773e7abc4d6b0425e9a058755",
+    "cover_hash": "2ee4019d6fe5d4b112ded6553d705265",
+    "executables": []
+  },
+  {
     "id": "1428175971894431968",
     "name": "Hairdresser Simulator",
     "icon_hash": "a800d87953ff635f9d7994c961fb0fd7",
@@ -88756,6 +88847,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563402001210155019",
+    "name": "Half Grip",
+    "icon_hash": "6fba791f57f72c109f1e0f03d1052f20",
+    "cover_hash": "321d9be6f2b805736c4d894db24c9a9f",
+    "executables": []
   },
   {
     "id": "1124356981906485349",
@@ -92848,6 +92946,13 @@
     "executables": []
   },
   {
+    "id": "1563402130545442817",
+    "name": "Heritage Flipper",
+    "icon_hash": "d48d27b98a76b10b0f3032e7add6eb90",
+    "cover_hash": "9d3ecf7e2c09296aa429add9313e1304",
+    "executables": []
+  },
+  {
     "id": "1442717518937722971",
     "name": "Heritage of Eternal Splitting",
     "icon_hash": null,
@@ -96228,6 +96333,13 @@
     "name": "Horse Magnifier: The Full Horse",
     "icon_hash": "5d70f84249e550067217cb60054f53f5",
     "cover_hash": "cf2fea82b8934ea1d77eb0a555e91909",
+    "executables": []
+  },
+  {
+    "id": "1563402022471073902",
+    "name": "Horse Race Tests: Life is Pain",
+    "icon_hash": "2ee2ed491959caa5d2e53cf2cd84f19e",
+    "cover_hash": "56f61fd95f427e1f55b9eb743ab0e167",
     "executables": []
   },
   {
@@ -100143,7 +100255,7 @@
   {
     "id": "1563039730298392719",
     "name": "Immortal Dao Idle",
-    "icon_hash": null,
+    "icon_hash": "eafd9fb81bb1cc76bf33dc46dfac75b4",
     "cover_hash": "23f3e6c71f4c3f08461cd3552e4b8cee",
     "executables": []
   },
@@ -108006,6 +108118,13 @@
     "name": "KillScript",
     "icon_hash": "35f0de64554c8f59b8d5e93c202db084",
     "cover_hash": "a96cc6f2e9e280afabf5dd39e3d2217a",
+    "executables": []
+  },
+  {
+    "id": "1563402006335590461",
+    "name": "KILLSEC",
+    "icon_hash": "80693123b05a9d75cf2046726670119b",
+    "cover_hash": "2182c9c4a8e8ccff84203ebd2e9e6414",
     "executables": []
   },
   {
@@ -122610,6 +122729,20 @@
     "executables": []
   },
   {
+    "id": "1563402189790122206",
+    "name": "Me and You",
+    "icon_hash": "f4e13dca4f6f0fdd141cc0d2ebd46316",
+    "cover_hash": "ee5b6a23c27c06f50686bc0a9f0f1f0e",
+    "executables": []
+  },
+  {
+    "id": "1563402070965616641",
+    "name": "Meadgard",
+    "icon_hash": "d96a904a5138198e3844160b18c3a7bd",
+    "cover_hash": "bd73d73df9822f44a1cdec9066819d17",
+    "executables": []
+  },
+  {
     "id": "1124353754347622470",
     "name": "Meadow",
     "icon_hash": "14318bdeef9bf17c5890143b86b21a76",
@@ -123706,6 +123839,13 @@
     "name": "Melon Sandbox",
     "icon_hash": null,
     "cover_hash": "ef2085ca6b4a866254d7d37dd98258a6",
+    "executables": []
+  },
+  {
+    "id": "1563402107564982353",
+    "name": "Meltdown Crew",
+    "icon_hash": "7eef601ab18e3d2ff6a4e857e8dbfdc6",
+    "cover_hash": "1e27f9049bae824feab747d06b9af1ac",
     "executables": []
   },
   {
@@ -126012,8 +126152,8 @@
   {
     "id": "1440137907200327840",
     "name": "Mik",
-    "icon_hash": "83804298abfa00b41de38ab18660d694",
-    "cover_hash": "b21841e9d1ab78506892b51c78e9ce5f",
+    "icon_hash": "700d49e0d91f99ce3062509b22781080",
+    "cover_hash": "f40671449988deaaef9ab277efbccb45",
     "executables": []
   },
   {
@@ -134754,6 +134894,13 @@
     "executables": []
   },
   {
+    "id": "1563402216356708442",
+    "name": "NAUTUS",
+    "icon_hash": "88b3373206355131b6fd4a00848a6589",
+    "cover_hash": "5a59e7f830939364f4c412d5a27fa16f",
+    "executables": []
+  },
+  {
     "id": "1124352766521917552",
     "name": "Naval Action",
     "icon_hash": "8d3e4ba1389453966ba654d5effe8544",
@@ -135685,7 +135832,7 @@
     "id": "1560760495248777256",
     "name": "Nekome: Nazi Hunter",
     "icon_hash": "76893bb31171ae3f3d0f3999bc053891",
-    "cover_hash": null,
+    "cover_hash": "24922b680c037aad32247ba706f6e065",
     "executables": [
       {
         "name": "nekomedemo.exe",
@@ -136413,6 +136560,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563402086450724895",
+    "name": "Never Be Alone",
+    "icon_hash": "2fa65d1ab382dba6afa2ed7cfe9942e4",
+    "cover_hash": "a50c5000c8b8e5fd71606c31f4f3d8d3",
+    "executables": []
   },
   {
     "id": "1124356810678222858",
@@ -148007,6 +148161,13 @@
     "executables": []
   },
   {
+    "id": "1563402311278264330",
+    "name": "Pawnshop Together",
+    "icon_hash": "6657d7084d6ae4bc208f4d2ec82cc8d1",
+    "cover_hash": "166b9fb3ddb2d483eac1a67728dcc081",
+    "executables": []
+  },
+  {
     "id": "1428187754314858507",
     "name": "Pawperty Damage",
     "icon_hash": "da526edb2cbc64d177d0f3d8dd71661d",
@@ -153083,6 +153244,13 @@
     "executables": []
   },
   {
+    "id": "1563401986609774653",
+    "name": "polymorphite",
+    "icon_hash": "5b5dd0f387924eea32de5c4613ce0f1e",
+    "cover_hash": "56beed597459ea9223de897a1045f9c2",
+    "executables": []
+  },
+  {
     "id": "1428180718256656526",
     "name": "PolyPine",
     "icon_hash": "790419e550a103522bfc0299e0abbe76",
@@ -158131,6 +158299,13 @@
     "executables": []
   },
   {
+    "id": "1563402302419767347",
+    "name": "Quadrillion Carrots",
+    "icon_hash": "2db5327f08dd5891e534806edc9932d7",
+    "cover_hash": "37714ba5d65277670f42596ca310c146",
+    "executables": []
+  },
+  {
     "id": "1336818690225864766",
     "name": "Quadrober Simulator",
     "icon_hash": "3867575f2ca576fcd4fea90983c7b679",
@@ -161365,6 +161540,13 @@
     ]
   },
   {
+    "id": "1563401894511120436",
+    "name": "ReBlade: The Death Spiral",
+    "icon_hash": "55ea52d602db1dc8499034426f1eae6d",
+    "cover_hash": "723fd6ded5295993d14ef3d0978c8984",
+    "executables": []
+  },
+  {
     "id": "1442730170309021726",
     "name": "Reborn: A Samurai Awakens",
     "icon_hash": null,
@@ -162104,6 +162286,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563402262406242534",
+    "name": "Refund This Game",
+    "icon_hash": "0cb1ddf68ea8edf557f0b65c172772d6",
+    "cover_hash": "6f9e819c17ae2372f2ef2b430fee236c",
+    "executables": []
   },
   {
     "id": "1442727822677246136",
@@ -164526,6 +164715,13 @@
     "name": "Riders Republic",
     "icon_hash": "76a3661f75f29b622f854135021f8565",
     "cover_hash": "30157300c25ff322c3b706be03e85e44",
+    "executables": []
+  },
+  {
+    "id": "1563402204319055932",
+    "name": "Rideshare \"Stimulator\"",
+    "icon_hash": "4718bfe1cc18043448f49e38a9708c1b",
+    "cover_hash": "37fccfb9ea18f671f8340052febf3990",
     "executables": []
   },
   {
@@ -179753,6 +179949,13 @@
     ]
   },
   {
+    "id": "1563402355192504361",
+    "name": "Slam Tank",
+    "icon_hash": "ae520f6302f95ce86c04e440810f2243",
+    "cover_hash": "5f50a593bf3453556679c389cd6ec96d",
+    "executables": []
+  },
+  {
     "id": "1519553299551092836",
     "name": "SLAMPUNKS",
     "icon_hash": "ba3b65fcc80e442c8a21d0895572c632",
@@ -180210,6 +180413,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563402361618043063",
+    "name": "Slime Break",
+    "icon_hash": "3b704e4b938175a6ecfa6cd43bdf9658",
+    "cover_hash": "1c9c1161af53e8b3f0a35c56edaaf737",
+    "executables": []
   },
   {
     "id": "504037755018412033",
@@ -183064,6 +183274,13 @@
     "name": "Sort of Magic",
     "icon_hash": "93191214c66243a90f459e552f2557e7",
     "cover_hash": "252a948d1a86021f9eb22c9e3086b50f",
+    "executables": []
+  },
+  {
+    "id": "1563402375044272260",
+    "name": "Sort The Bunnies",
+    "icon_hash": "58bf1e3b4a1020b7b3045fc50a7adbe2",
+    "cover_hash": "9c599c31a1a94917ada3b709d8acb846",
     "executables": []
   },
   {
@@ -189575,6 +189792,13 @@
     ]
   },
   {
+    "id": "1563402138208706590",
+    "name": "Stillborn Slayer",
+    "icon_hash": "a2e0d3926c6511e315022fe9ab139bae",
+    "cover_hash": "05aaefb267610acaf762370b7982853c",
+    "executables": []
+  },
+  {
     "id": "1550718438060855378",
     "name": "Stink Buddies",
     "icon_hash": "c87d2cd1d154e01651863b390d0ff801",
@@ -195370,6 +195594,13 @@
     ]
   },
   {
+    "id": "1563402325005967511",
+    "name": "Swarm Idle",
+    "icon_hash": "57b016ce48ddf4de87700fd1f8416aac",
+    "cover_hash": "d06a8f96c9dc75f2d82bac8e6d4dbcfd",
+    "executables": []
+  },
+  {
     "id": "1442720531651756032",
     "name": "Swarm Madness",
     "icon_hash": null,
@@ -198716,6 +198947,13 @@
     "name": "TDS",
     "icon_hash": "7cb76e8c793fb39e4ed1c4d0b2f093b6",
     "cover_hash": "a01c932eb1cfdd13fff0ef7ff7989e73",
+    "executables": []
+  },
+  {
+    "id": "1563402402055585913",
+    "name": "Tea Runners: Turkish Teahouse Simulator",
+    "icon_hash": "a1695d083c937bb21cac6af0da29ccd7",
+    "cover_hash": "ea991ffc440b476663dac8cbbe58938d",
     "executables": []
   },
   {
@@ -211397,6 +211635,13 @@
     ]
   },
   {
+    "id": "1563401930863026199",
+    "name": "The Wolf Among Us Remastered",
+    "icon_hash": "066f0520664b8aa8694cdd72d90b4f54",
+    "cover_hash": "dbb8007e46c3a48a3b773d40bc88d1d9",
+    "executables": []
+  },
+  {
     "id": "1455017645815365779",
     "name": "The Wonderful 101: Remastered",
     "icon_hash": "118efdc347aac346acd3e94ff74c3278",
@@ -212858,6 +213103,13 @@
     "name": "Tidy Up the Flower Shop",
     "icon_hash": "ecf90f7bbbec7b7cd6433404ce83906f",
     "cover_hash": "6d64e22bff154a8a3d57883fbf3887a7",
+    "executables": []
+  },
+  {
+    "id": "1563402330878119978",
+    "name": "Tidy Up the Town",
+    "icon_hash": "23cdd989629f81370d0b8f09311c8c83",
+    "cover_hash": "749fb9f33a461b356181622e0bdcb969",
     "executables": []
   },
   {
@@ -219697,6 +219949,13 @@
     "executables": []
   },
   {
+    "id": "1563401881496322091",
+    "name": "Tropico 7",
+    "icon_hash": "510cae7ae608664f2a7c751d052b666e",
+    "cover_hash": "9ca76f98df02cc9d1d68690ea67ae573",
+    "executables": []
+  },
+  {
     "id": "1442712172336779335",
     "name": "Trouble Witches Final! Episode 01: Daughters of Amalgam",
     "icon_hash": "b9a734bf94630651878c475d4d151373",
@@ -222744,6 +223003,13 @@
     ]
   },
   {
+    "id": "1563402165433929810",
+    "name": "UNFROST",
+    "icon_hash": "2413da39ddea5f6e8ff8d568d50a5f95",
+    "cover_hash": "b9a4e3682a66e6948678bbd38357099b",
+    "executables": []
+  },
+  {
     "id": "1559416131071115265",
     "name": "Unharvest",
     "icon_hash": "aa1e2658312e1eed6ccdeccd60e27d51",
@@ -225657,6 +225923,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563402043564105788",
+    "name": "Victory Banner",
+    "icon_hash": "a51b96aafb60b1aa5e372f38350e0c2c",
+    "cover_hash": "f840c05a505ecc80c0f7afbd994d64dc",
+    "executables": []
   },
   {
     "id": "1439431486016196741",
@@ -230001,6 +230274,13 @@
     "executables": []
   },
   {
+    "id": "1563402293855133706",
+    "name": "We Are So Cooked",
+    "icon_hash": "4a97290c350c30ba5dc85c6ba507a540",
+    "cover_hash": "6267d4484a1896b95a3fa5a299e8f1e0",
+    "executables": []
+  },
+  {
     "id": "1540209083829854340",
     "name": "WE ARE SO DEAD",
     "icon_hash": "ae91a9ae5374c56d30a5deb5df17ed67",
@@ -232052,6 +232332,13 @@
     "name": "Wilderings: The Lost Spring",
     "icon_hash": "0ef1e27eef7c13ccb2b5a12a1512c1e7",
     "cover_hash": "9d8298541a2f16828a8d1ce10e22b95f",
+    "executables": []
+  },
+  {
+    "id": "1563402077487628308",
+    "name": "WILDERLOCKE",
+    "icon_hash": "1c1248ece224d2072aa93b30e0952af9",
+    "cover_hash": "c43e4652c8ad0b2a3345229024c96ce3",
     "executables": []
   },
   {
