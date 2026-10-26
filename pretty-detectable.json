@@ -236,8 +236,8 @@
   {
     "id": "1562315211527028807",
     "name": "10 Million Pixels",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "bbc71014c73d87d156624a30a2a3913d",
+    "cover_hash": "a3854386116d299de19a430fe9ed07fc",
     "executables": []
   },
   {
@@ -1964,6 +1964,13 @@
     ]
   },
   {
+    "id": "1563765258194255902",
+    "name": "99 NIGHTS IN THE APOCALYPSE",
+    "icon_hash": "882f55645a748b48c8a604d6dfb6c211",
+    "cover_hash": "ca97a160a24cede3b6c34e70d3c8a76e",
+    "executables": []
+  },
+  {
     "id": "504399459426369587",
     "name": "9Dragons",
     "icon_hash": "e70e4e6205ba9e56870cc6ebaaad0842",
@@ -2247,8 +2254,8 @@
   {
     "id": "1562315371699241020",
     "name": "A Game About Needle In A Haystack",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "8f35daca77040fb7a0ab15b10d40accd",
+    "cover_hash": "e7a8cda4f58aeca5232b3002261f7049",
     "executables": []
   },
   {
@@ -2634,6 +2641,13 @@
     "name": "A Planet Full of Cats",
     "icon_hash": "44c53113808e656719f7d719ed1ded4a",
     "cover_hash": "73e136c65cb5c8fc75155768dff3d7da",
+    "executables": []
+  },
+  {
+    "id": "1563765372669403227",
+    "name": "A Pond Hunt",
+    "icon_hash": "1643a55fb920fa7dcbe1310d3b7c8cc6",
+    "cover_hash": "1601b7f97c8fea3d3fb7a4f161673819",
     "executables": []
   },
   {
@@ -3890,6 +3904,13 @@
     "name": "Act It Out! A Game of Charades",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1563765102413348947",
+    "name": "Act Normal",
+    "icon_hash": "ec938a81ada21cc6094a4facb3ad03a6",
+    "cover_hash": "2d923e5e39697aee2f33723ff31bcba2",
     "executables": []
   },
   {
@@ -5507,6 +5528,13 @@
     ]
   },
   {
+    "id": "1563764875765878784",
+    "name": "AI Olympius",
+    "icon_hash": "b8bb846e8b089a53a05970f48c43d159",
+    "cover_hash": "356173b14dd07774582e7afa3802742c",
+    "executables": []
+  },
+  {
     "id": "1509034590541451386",
     "name": "AI Pixel Battle",
     "icon_hash": "d2f755351991cbef19b7b67f320abcbb",
@@ -6622,6 +6650,13 @@
     "name": "Alice in Wonderland: Extended Edition",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1563765431049654292",
+    "name": "Alice Nation",
+    "icon_hash": "4bc283ae8e6cfe64d98b856af77c863b",
+    "cover_hash": "99b836acfedf2869724005ac96c041f6",
     "executables": []
   },
   {
@@ -15619,8 +15654,8 @@
   {
     "id": "1562315011806728243",
     "name": "Azimuth",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "59ef660e4ba47b1fe56bba444f4ed8b3",
+    "cover_hash": "9dd8afc3f38641e6cc58f614fb22fed7",
     "executables": []
   },
   {
@@ -17021,6 +17056,13 @@
     ]
   },
   {
+    "id": "1563764957344960514",
+    "name": "Ballistic Brews",
+    "icon_hash": "07e636b420bc2e70367078015e7c9715",
+    "cover_hash": "327bb9ae5108ae2897f8b50b1c4740b3",
+    "executables": []
+  },
+  {
     "id": "1402416791744942120",
     "name": "Ballistic Overkill",
     "icon_hash": "4a85261c527b1002b26050a3710073b0",
@@ -17138,8 +17180,8 @@
   {
     "id": "1562315185795104820",
     "name": "Banana Airways",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "03bcd99f6c26babcd9fc90e31fee65ea",
+    "cover_hash": "05a65382427982d739e185993c4952ee",
     "executables": []
   },
   {
@@ -18186,6 +18228,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563765468551061504",
+    "name": "Battle Bears Gold",
+    "icon_hash": "deb01def7bbe3be4b14b34f598047d2f",
+    "cover_hash": "81b87d2e5c1186621ed054fa8c229336",
+    "executables": []
   },
   {
     "id": "1124352209107308655",
@@ -19708,8 +19757,8 @@
   {
     "id": "1562314977086410792",
     "name": "Beautiful Light",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "a19fa1b002580ea91a393b0ef461b5f0",
+    "cover_hash": "fe79992ef2898b4ed4ca7c3cb5d81575",
     "executables": []
   },
   {
@@ -21811,8 +21860,8 @@
   {
     "id": "1562315014818242560",
     "name": "Biryado",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "daf60c32d22ecc1f81f38a51a6f0ea4f",
+    "cover_hash": "7d009451ade096294d4a6988dc0473ab",
     "executables": []
   },
   {
@@ -22752,6 +22801,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563765460950847518",
+    "name": "Blades & Trades",
+    "icon_hash": "21d88d4d0fc93310c40c607d0ea13904",
+    "cover_hash": "c9363f644a1ff5db490c90dfddf5e83c",
+    "executables": []
   },
   {
     "id": "1437240467229245612",
@@ -25936,6 +25992,13 @@
     ]
   },
   {
+    "id": "1563765269913018419",
+    "name": "Boss After Boss",
+    "icon_hash": "347bb1a21bac94be5fadd6e0e7a5d3e6",
+    "cover_hash": "a8cd973d83fa3c8fc1d3dadab5611adc",
+    "executables": []
+  },
+  {
     "id": "1440135923646857276",
     "name": "BOSS FIGHTERS",
     "icon_hash": "d8e4744b3d9fd937a274af85ff81a339",
@@ -27241,8 +27304,8 @@
   {
     "id": "1562315383170535454",
     "name": "Brick by Brick: Tidy Up the Small Town!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "62a4660a63f1eb351e217fb8f64898a1",
+    "cover_hash": "e0f194d98df849fdc385d24c78742872",
     "executables": []
   },
   {
@@ -32337,8 +32400,8 @@
   {
     "id": "1562315131872874616",
     "name": "Cartel Pilots Wanted",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e9c285ab6004617d849ffa26b72c51fb",
+    "cover_hash": "d3f89a85175ed0fc1f26c172593f9954",
     "executables": []
   },
   {
@@ -34401,6 +34464,13 @@
     ]
   },
   {
+    "id": "1529699961799835760",
+    "name": "CH13: Rest Stop",
+    "icon_hash": "dbc88e2242b19e3ee227cd6fea7c5afd",
+    "cover_hash": "e272f11099242eeabe9052ea7e0fd16a",
+    "executables": []
+  },
+  {
     "id": "1442731498334584974",
     "name": "Chack'n Pop",
     "icon_hash": null,
@@ -34649,13 +34719,6 @@
     "name": "Channel 4 Midnight",
     "icon_hash": "bc6b866f859bad437df7a4f34e57a9af",
     "cover_hash": "38c83dc64f16455155fed828569e8494",
-    "executables": []
-  },
-  {
-    "id": "1529699961799835760",
-    "name": "Channel13: Rest Stop",
-    "icon_hash": "dbc88e2242b19e3ee227cd6fea7c5afd",
-    "cover_hash": "e272f11099242eeabe9052ea7e0fd16a",
     "executables": []
   },
   {
@@ -37528,8 +37591,8 @@
   {
     "id": "1562315101242130442",
     "name": "Clear the Snow",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "9eeb05a87f8a2664894fc0fb4318c50a",
+    "cover_hash": "7067cf5c8af0384e537955715bd30eb5",
     "executables": []
   },
   {
@@ -42125,6 +42188,13 @@
     "executables": []
   },
   {
+    "id": "1563764949178781757",
+    "name": "Cozy Interiors",
+    "icon_hash": "9c263559435b5c8c27baa115f335af55",
+    "cover_hash": "9dabe846c31295cdd49d30f43ba725b8",
+    "executables": []
+  },
+  {
     "id": "1440134352171438292",
     "name": "Cozy Island",
     "icon_hash": "1f068b6a2581672489e4bd96af693a5d",
@@ -45562,8 +45632,8 @@
   {
     "id": "1562314964209766452",
     "name": "Cyan Heart",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e83d6a28541bb3b46e91a12968b09396",
+    "cover_hash": "05a7ba95d32c8b455f9a5f5b50983f33",
     "executables": []
   },
   {
@@ -45770,6 +45840,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563764911094632499",
+    "name": "Cyberfrags '69",
+    "icon_hash": "a11b2e0d65c3fc18d640e1cd39431a9b",
+    "cover_hash": "989f3b9fb2f0fdf91d04b9c27885067b",
+    "executables": []
   },
   {
     "id": "787443973538971748",
@@ -46850,6 +46927,13 @@
     "name": "Dark Sector",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1563764943956742325",
+    "name": "Dark Side Void",
+    "icon_hash": "aace730c2979ccdc8e21b781d03b242a",
+    "cover_hash": "3d31f0551d3fbdaa719b9ee1e9425127",
     "executables": []
   },
   {
@@ -48974,6 +49058,13 @@
     "name": "Deadline Escape",
     "icon_hash": "870d6d22878916c5cdffe7ad07c7f0d1",
     "cover_hash": "813da06d8fe02836793f74439a86d307",
+    "executables": []
+  },
+  {
+    "id": "1563765422367440946",
+    "name": "DEADLINE: Afterlife Processing",
+    "icon_hash": "c6a2fb35c5507fad087030730a8c9069",
+    "cover_hash": "cc2c180bc565c6b7fcc313abe763f038",
     "executables": []
   },
   {
@@ -55350,6 +55441,13 @@
     ]
   },
   {
+    "id": "1563764866844725278",
+    "name": "Dodo Duckie",
+    "icon_hash": "557647dda2664fa079f23dacc2d6dd97",
+    "cover_hash": "479d32b3e12cd48b63aab1e2d3461e60",
+    "executables": []
+  },
+  {
     "id": "1439430295546892288",
     "name": "Dodo Peak",
     "icon_hash": "29c05736df06d917ed45f91e07bab147",
@@ -59274,6 +59372,13 @@
     "executables": []
   },
   {
+    "id": "1563764899468017784",
+    "name": "Drive UP: Together",
+    "icon_hash": "f70f4d9b70bd91eeefde4bd0aeaf68db",
+    "cover_hash": "5ddcda80ebeae3e9f7772dc5e80c4cb1",
+    "executables": []
+  },
+  {
     "id": "1479318355029524522",
     "name": "Drive With Friends",
     "icon_hash": "1dc0ad6a7202271396bb9f234f9091c6",
@@ -60407,6 +60512,13 @@
     "executables": []
   },
   {
+    "id": "1563765295477293166",
+    "name": "Dungeon Buster",
+    "icon_hash": "302b87431caf396e45fd0357592f71c0",
+    "cover_hash": "31a10321db06deea7e98c5d408666f8e",
+    "executables": []
+  },
+  {
     "id": "1440136402787635260",
     "name": "Dungeon CEO",
     "icon_hash": "3aaec48adbde6bb881ed41c74c022014",
@@ -60801,6 +60913,13 @@
     "name": "Dungeon Survivors",
     "icon_hash": "c5335c61d84df6a28dd189eb3352717a",
     "cover_hash": "ba8577f46aeaff461cefdb8f35deaccd",
+    "executables": []
+  },
+  {
+    "id": "1563764933043167383",
+    "name": "Dungeon Sweeper Plus",
+    "icon_hash": "98ef7ac36eeb22c1ab8b6aa60e2b114a",
+    "cover_hash": "409310b63029efa0ccee4cd744cd0bf6",
     "executables": []
   },
   {
@@ -62295,8 +62414,8 @@
   {
     "id": "1562315039564627968",
     "name": "EarthX 2",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "cce8dd688bfc145339f3ecc6404f5425",
+    "cover_hash": "3dbb4fd0cbd3f3e04300b1f797a10fbf",
     "executables": []
   },
   {
@@ -67391,6 +67510,13 @@
     ]
   },
   {
+    "id": "1563765437022474500",
+    "name": "Evil Moon: Unspoken",
+    "icon_hash": "d038ac694983b70d6bd6906a4867afee",
+    "cover_hash": "cb8811860490cc3c5011cb6e9aeae80c",
+    "executables": []
+  },
+  {
     "id": "1440129964727861289",
     "name": "Evil Nun: The Broken Mask",
     "icon_hash": "be25f8ff54fdb101db687d18f8bde7f3",
@@ -69112,8 +69238,8 @@
   {
     "id": "1562315215683592292",
     "name": "FAKE ME",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "3a5abcef412f9ce28ddc871d0795f657",
+    "cover_hash": "010fedb79c741e0f7abcb7ceb1c25342",
     "executables": []
   },
   {
@@ -71506,8 +71632,8 @@
   {
     "id": "1562315077489660026",
     "name": "Feather's Edge",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "607ded119d8bd8ad8b0706536a4fbcda",
+    "cover_hash": "e5e373e7846aed4136d6b00dea3f554a",
     "executables": []
   },
   {
@@ -71854,9 +71980,9 @@
   },
   {
     "id": "1562315284788944896",
-    "name": "Fenestra: my focus, her future",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Fenestra: My Focus, Her Future",
+    "icon_hash": "f8413316030823e83cf52f6b5d62ff4d",
+    "cover_hash": "7a42bdc4d77b964dda7e2b4376029d07",
     "executables": []
   },
   {
@@ -72470,8 +72596,8 @@
   {
     "id": "1562315390070161560",
     "name": "Figure Me Out",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "a06dfb5e76e1d8e9162ff8772fb4f340",
+    "cover_hash": "4406891cd5d14ded1114bb2ac002ce81",
     "executables": []
   },
   {
@@ -73832,8 +73958,8 @@
   {
     "id": "1562315122985271296",
     "name": "FirstPlate",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "ff08eebd680f5e612e6355039f54388e",
+    "cover_hash": "6361bb176c27019f5f3a71b0783bb4d1",
     "executables": []
   },
   {
@@ -74338,6 +74464,13 @@
     "name": "Five Nights with Creg",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1563765019076731030",
+    "name": "Five Nights with Maids",
+    "icon_hash": "d4d93047984c7753599ac2600cad3616",
+    "cover_hash": "a48a730a75d0cca45b0da1605d3cb983",
     "executables": []
   },
   {
@@ -75670,6 +75803,13 @@
     "name": "Football Academy Manager",
     "icon_hash": "92f68a08709679116de3e0826bb9034c",
     "cover_hash": "2b68a0f4eb7271c579354498129797ef",
+    "executables": []
+  },
+  {
+    "id": "1563765347306442792",
+    "name": "Football Academy Simulator",
+    "icon_hash": "08f931764663176d47bb5db346403f69",
+    "cover_hash": "9d25ec264e7c979ddf7bbbca02798a4b",
     "executables": []
   },
   {
@@ -82599,6 +82739,13 @@
     "name": "Giggleland",
     "icon_hash": "8bd54ecb306d69040c2e56825a1d50ec",
     "cover_hash": "781c8123f4bdf7e894d12e147ddf961b",
+    "executables": []
+  },
+  {
+    "id": "1563765219992408155",
+    "name": "Gildoria: Organize a Dragon's Hoard",
+    "icon_hash": "44f87433caa40de1fe1f80e250d4442d",
+    "cover_hash": "57e8e4a1617f3106138cded530d0d8d3",
     "executables": []
   },
   {
@@ -90803,8 +90950,8 @@
   {
     "id": "1562315297011138652",
     "name": "Hay! One Billion!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "350f69c01c7a657baea241df99058bef",
+    "cover_hash": "d66ba76e322a18164f485d6b5e5b4e35",
     "executables": []
   },
   {
@@ -91143,9 +91290,9 @@
   },
   {
     "id": "1562315351855865856",
-    "name": "Heartfall — A Tale in Three Lives",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Heartfall: A Tale in Three Lives",
+    "icon_hash": "a3c695473ded157d0db83adc829df7be",
+    "cover_hash": "ffdc2947daef391e01b091e9aa585bd8",
     "executables": []
   },
   {
@@ -103068,6 +103215,13 @@
     "executables": []
   },
   {
+    "id": "1563764975690842222",
+    "name": "Iron Hunters",
+    "icon_hash": "97ccaded84f81cca9ab7ee01f6bd6787",
+    "cover_hash": "6f86f1ff4685ba0d5fcc49b88a0cff1d",
+    "executables": []
+  },
+  {
     "id": "1519915564242567228",
     "name": "Iron Inc.",
     "icon_hash": "045cbb94a3d904b23fc20ec5ee8a268d",
@@ -106356,6 +106510,13 @@
     ]
   },
   {
+    "id": "1563764924889571378",
+    "name": "Kaiju Princess: Super Survivor Showdown",
+    "icon_hash": "a882b57eb16a6b63a34347a59395abb0",
+    "cover_hash": "5b259ea8fdef79c290f7890893e45be8",
+    "executables": []
+  },
+  {
     "id": "1428187847550046208",
     "name": "Kaimeishi",
     "icon_hash": "5361aa431b3b196dd0f447ef0ffb5f81",
@@ -107514,8 +107675,8 @@
   {
     "id": "1562315320830464040",
     "name": "Keyboard Chaos",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7ae33a6a34b87d00e37d5949d4199f78",
+    "cover_hash": "955d2180250c74bd4f15d81205812ea9",
     "executables": []
   },
   {
@@ -114655,8 +114816,8 @@
   {
     "id": "1562315266895912981",
     "name": "LIMP MODE",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "71a82e193d06024e843a3e81906550f1",
+    "cover_hash": "175d40fd186dc6364cdcf79bbfe846da",
     "executables": []
   },
   {
@@ -115437,8 +115598,8 @@
   {
     "id": "1562315071307128882",
     "name": "Livin' the Cream: Ice Cream Simulator",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "15326e74931d991394adfcc69e829f5d",
+    "cover_hash": "0abe30afe36ccd2565ea82978c21b636",
     "executables": []
   },
   {
@@ -120565,6 +120726,13 @@
     "name": "Malignant Survivors",
     "icon_hash": "83d53a5c1713f5f22ff66610fa44bc35",
     "cover_hash": "f9630164b7a263fd3f5342250f746cd7",
+    "executables": []
+  },
+  {
+    "id": "1563765125654122536",
+    "name": "Malignus",
+    "icon_hash": "29f5c8f3852bb77f92df04d805327d94",
+    "cover_hash": "9d7bf0b47b5275c8be934dc7a9f6c5bd",
     "executables": []
   },
   {
@@ -125856,8 +126024,8 @@
   {
     "id": "1562315202756739163",
     "name": "Midnight Moving Crew",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "6f6f0f95130ca41332fb411eee92caa0",
+    "cover_hash": "2b600eb6f3419581ebc6852f74397d41",
     "executables": []
   },
   {
@@ -129455,8 +129623,8 @@
   {
     "id": "1562315302404882502",
     "name": "Monster Cuisine",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "511d422df33ff1c05476a09ae5f4b2e1",
+    "cover_hash": "752c4dc999de8e0fc95f4ee9b2bd6938",
     "executables": []
   },
   {
@@ -131130,6 +131298,13 @@
     "name": "Motocross Ramp Madness",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1563764995349553312",
+    "name": "Motocross The Force",
+    "icon_hash": "1234f40dca38cde945cf3a11717cd0a0",
+    "cover_hash": "de880421ec3a3ebe3c9a45e4b344687b",
     "executables": []
   },
   {
@@ -138651,7 +138826,7 @@
   {
     "id": "1562315193114034217",
     "name": "No Body No Problem!",
-    "icon_hash": null,
+    "icon_hash": "da3061ff2467d2fa05e95162a2030449",
     "cover_hash": null,
     "executables": []
   },
@@ -142305,8 +142480,8 @@
   {
     "id": "1562315327973367888",
     "name": "One Million Coins",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "daeda08f23ed5543ddcbe1dddcf842a3",
+    "cover_hash": "fd1a1c90a8c2f177f690ed3c774839cf",
     "executables": []
   },
   {
@@ -152246,9 +152421,9 @@
   },
   {
     "id": "1562315043046039643",
-    "name": "Playrooms",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "PLAYROOMS",
+    "icon_hash": "42c5757f3001b970c78fa9eda7b543fd",
+    "cover_hash": "71e3c0330cab6b9a52ba4a70d5b703b8",
     "executables": []
   },
   {
@@ -152984,8 +153159,8 @@
   {
     "id": "1562315009294344312",
     "name": "Police Station Simulator",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c5d6989020fe73b6cc212adc127abbb9",
+    "cover_hash": "e2f62946557f364c7820d46448c58771",
     "executables": []
   },
   {
@@ -158750,8 +158925,8 @@
   {
     "id": "1562315343190425701",
     "name": "Quiet Bloom",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7109e6aef8b8804910178dd1c545b5ba",
+    "cover_hash": "6bb97f83d1232c76fe14f933f37b585f",
     "executables": []
   },
   {
@@ -161261,8 +161436,8 @@
   {
     "id": "1562315085018439761",
     "name": "Realm of Taiwu",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "cb37e4e0349b0004aade4ea1fb87460d",
+    "cover_hash": "043c796a159db2071f7b72cd2599ba8b",
     "executables": []
   },
   {
@@ -161714,6 +161889,13 @@
     "name": "Recovery Elf 2017",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1563765413299494963",
+    "name": "Recycle Rivals",
+    "icon_hash": "6795b153171dd12a26315cc6abf40ae9",
+    "cover_hash": "9095df4c5883a1c0d535c4aa11c9817d",
     "executables": []
   },
   {
@@ -166396,6 +166578,13 @@
     "executables": []
   },
   {
+    "id": "1563765453216546856",
+    "name": "Rock Band Simulator",
+    "icon_hash": "530e213bcee86d5f64df5bfc5faee683",
+    "cover_hash": "686b4adeb95f8d37666fdfbde47c29c2",
+    "executables": []
+  },
+  {
     "id": "1442715861134868621",
     "name": "Rock Canvas",
     "icon_hash": null,
@@ -167231,8 +167420,8 @@
   {
     "id": "1562315229147308032",
     "name": "Roll for Order: Sort Every Set!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "481bb1df97f1b4fdea32b23cca19f5e2",
+    "cover_hash": "dde13c8217c82cb33d5fda40f99c78c0",
     "executables": []
   },
   {
@@ -173234,6 +173423,13 @@
     "executables": []
   },
   {
+    "id": "1563765186802753536",
+    "name": "Seaworks: Trap Season",
+    "icon_hash": "85d5a2948c4aa1cbdf67630228b723a3",
+    "cover_hash": "19c10c119f567639d9c013992f01337e",
+    "executables": []
+  },
+  {
     "id": "1441991075492532346",
     "name": "Sébastien Loeb Rally Evo",
     "icon_hash": "a45afc058c161955987ef0b9381f354b",
@@ -173777,8 +173973,8 @@
   {
     "id": "1562315356024868924",
     "name": "Seikyu Let’s Go!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "01eeb4c2c5c7b7cbbd06172a475b9d18",
+    "cover_hash": "667299a1f1a3671c6f2280917a88bea6",
     "executables": []
   },
   {
@@ -175351,8 +175547,8 @@
   {
     "id": "1562315062041907332",
     "name": "Shadows of War 2",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "31d34989c64fe670f3a3b3c3195a6f9f",
+    "cover_hash": "26c5cab38ad7920999007be43603de62",
     "executables": []
   },
   {
@@ -180600,6 +180796,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563765080984916090",
+    "name": "Sloppy Forgeries",
+    "icon_hash": "8c6ba438b7fb759f5a7c6b80956d00ed",
+    "cover_hash": "b7dbff28ad13e2aa3b9f2e2fc8c98e6f",
+    "executables": []
   },
   {
     "id": "1439425554314035250",
@@ -189808,8 +190011,8 @@
   {
     "id": "1562315107818668062",
     "name": "Stinker Golf",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "1e2ef93b144e398c3e017cc3c8a6d035",
+    "cover_hash": "acc5ddf793d9957d150132be156cd369",
     "executables": []
   },
   {
@@ -196451,6 +196654,13 @@
     "executables": []
   },
   {
+    "id": "1563764968019730594",
+    "name": "Syncblade",
+    "icon_hash": "bba3311f04b78a221c77efd6a954be9a",
+    "cover_hash": "3e619cc65bae19765ddc32fdd82293fb",
+    "executables": []
+  },
+  {
     "id": "1151064810419662858",
     "name": "SYNCED",
     "icon_hash": "376dd54e1f29243c3a73b22d951f2cbf",
@@ -196742,8 +196952,8 @@
   {
     "id": "1530062579735593051",
     "name": "Table Of Truth",
-    "icon_hash": "55386071361da05558d3e7d0abb73f43",
-    "cover_hash": "7b2b8396a317881292f9877ec691538e",
+    "icon_hash": "0e50fa5544e22df654c5431586df1ee6",
+    "cover_hash": "55a1e4d773372406a2cf8165905d5756",
     "executables": []
   },
   {
@@ -209406,6 +209616,13 @@
     "executables": []
   },
   {
+    "id": "1563765156327071825",
+    "name": "The Serena Villa Files",
+    "icon_hash": "a53a72b8ab06833d7456f76334b9a321",
+    "cover_hash": "46ea9bda8726b5dc11594145d5c1754e",
+    "executables": []
+  },
+  {
     "id": "1124359134532358244",
     "name": "The Settlers : Heritage of Kings - History Edition",
     "icon_hash": "5b75a611ac6169a131bb3aa1d29096b8",
@@ -213250,9 +213467,9 @@
   },
   {
     "id": "1562315277062901790",
-    "name": "TIMBER! Idle Village Builder",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Timber!",
+    "icon_hash": "2ba3295f39d7b41bf9350a5c4380274d",
+    "cover_hash": "6b612d4e547b0f8d57ad99696f9bef80",
     "executables": []
   },
   {
@@ -217564,6 +217781,13 @@
     ]
   },
   {
+    "id": "1563765041621241947",
+    "name": "Toymaker: Threads of Joy",
+    "icon_hash": "07600e6a918d2b4fdad88fdc5c1fba2e",
+    "cover_hash": "e84f3132c8f17e3cf74fa54c74a52b00",
+    "executables": []
+  },
+  {
     "id": "1468444722308583604",
     "name": "TR-49",
     "icon_hash": "ae36a926482fe8e447827a98222b3b95",
@@ -217881,8 +218105,8 @@
   {
     "id": "1562315171857301505",
     "name": "Trailblazers: Into the March",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "4b36e514d450c5ade6188f82f1a4c50e",
+    "cover_hash": "7f4eec55df73dcbc4ac58e41704ff3ba",
     "executables": []
   },
   {
@@ -227020,8 +227244,8 @@
   {
     "id": "1562315218284187729",
     "name": "Voidwood",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "3290bd166470e34ec5e1a6f0cd918cb6",
+    "cover_hash": "08d5b37ad9bde2bd27ad6cd614ad8949",
     "executables": []
   },
   {
@@ -227615,6 +227839,13 @@
     ]
   },
   {
+    "id": "1563765396404961382",
+    "name": "Waifu Curator",
+    "icon_hash": "bd2a65a76de20a35d0aa52e09a36453e",
+    "cover_hash": "49e95b0d5dc84753d237bc95d712d54c",
+    "executables": []
+  },
+  {
     "id": "1310666439455281182",
     "name": "Waifu Fighter",
     "icon_hash": "d6951b643b5ab28fdd44ce05ac80d8b2",
@@ -228009,8 +228240,8 @@
   {
     "id": "1562315179461709855",
     "name": "War Footing",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "20a4964ec4e8dfe3eaf3856095fc2ec4",
+    "cover_hash": "25de7b48c99cb1216508563d645085f8",
     "executables": []
   },
   {
@@ -231451,6 +231682,13 @@
     "executables": []
   },
   {
+    "id": "1563765283011825664",
+    "name": "When Chests Rain Tons of Loot",
+    "icon_hash": "3468be67b51d512df79c285b8f1b91bb",
+    "cover_hash": "d2004e74dc2d73572a3a2d9836535721",
+    "executables": []
+  },
+  {
     "id": "1124356580104753322",
     "name": "When Ski Lifts Go Wrong",
     "icon_hash": "034e25d9f0958d63ac951f4e90a182c1",
@@ -231887,6 +232125,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1563765320538132550",
+    "name": "Who's Cheating?",
+    "icon_hash": "2de3246dffe1b7e427d0aa51b6f0eb8c",
+    "cover_hash": "1649c76b248761534f14f44422a0c071",
+    "executables": []
   },
   {
     "id": "1208548447968297010",
@@ -235101,8 +235346,8 @@
   {
     "id": "1562315290673553408",
     "name": "Worst Class Ever",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "82cbac5a91ca57c91ea8d61fe4142f55",
+    "cover_hash": "c0b73a420c4c8b1ae25d86a29d410a42",
     "executables": []
   },
   {
