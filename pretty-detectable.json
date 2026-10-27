@@ -134107,7 +134107,7 @@
     "id": "1393457132669501532",
     "name": "Mycopunk",
     "icon_hash": "4ef66f1edb98df45eb1b1e6232245f47",
-    "cover_hash": "9fe178b2c69cedea3ef3316d25aa175c",
+    "cover_hash": "c431a64e6e22ecc6bde898482e1a477f",
     "executables": [
       {
         "name": "mycopunk/mycopunk.exe",
@@ -159189,13 +159189,6 @@
     ]
   },
   {
-    "id": "1428188279433597048",
-    "name": "R.E.P.O.: Ghost Haul",
-    "icon_hash": "8eca277a3bf2922a2a0808f505051b96",
-    "cover_hash": "145d071a0cd6f350e21625504587157e",
-    "executables": []
-  },
-  {
     "id": "1445976465274572810",
     "name": "R.I.P.: Reincarnation Insurance Program",
     "icon_hash": "58b0bfce30251883da5b317a51742461",
@@ -169078,24 +169071,6 @@
     "icon_hash": "71ecda744a5d4f0fe052f691ec1aa4df",
     "cover_hash": "1ec90a74ce6d084743abd06ea6b3d4c3",
     "executables": []
-  },
-  {
-    "id": "1162151882039504916",
-    "name": "RuneLite",
-    "icon_hash": "3f6589f21e7b6948f57c491744cfdf42",
-    "cover_hash": null,
-    "executables": [
-      {
-        "name": "runelite.app",
-        "os": "darwin",
-        "is_launcher": false
-      },
-      {
-        "name": "runelite/runelite.exe",
-        "os": "win32",
-        "is_launcher": false
-      }
-    ]
   },
   {
     "id": "1479318077630840917",
@@ -226505,7 +226480,13 @@
     "name": "Vindictus: Defying Fate",
     "icon_hash": "68f0f384a64f71a80fa330bc79adee87",
     "cover_hash": null,
-    "executables": []
+    "executables": [
+      {
+        "name": "vindictus defying fate demo/vindictus.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
   },
   {
     "id": "1441987315235946546",
