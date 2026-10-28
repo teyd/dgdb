@@ -1306,6 +1306,13 @@
     "executables": []
   },
   {
+    "id": "1564489563571888298",
+    "name": "4 Penny Coffins",
+    "icon_hash": "4ee4c00dc2aae6c0a436cf6c4a37e174",
+    "cover_hash": "458752507fa0706ab4b0d1cfece85ba3",
+    "executables": []
+  },
+  {
     "id": "1445982511632224358",
     "name": "4 Pics 1 Word Quiz",
     "icon_hash": null,
@@ -6591,6 +6598,13 @@
     "executables": []
   },
   {
+    "id": "1564490255640301679",
+    "name": "Alea",
+    "icon_hash": "7ba1d58413780e86c7feda6ac211797c",
+    "cover_hash": "e80b64b76b8b110130ce144625283766",
+    "executables": []
+  },
+  {
     "id": "1519915424366596167",
     "name": "Aleef: Desktop Pet Collector",
     "icon_hash": "cc4243002618ec799c33734239ed08fe",
@@ -11611,6 +11625,13 @@
     "name": "Archery Legend",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1564490082495373384",
+    "name": "Archi Vista",
+    "icon_hash": "6763120dd3b70790188f7d9ecb1857d5",
+    "cover_hash": "bc74688b4fdf4f5fe4d21d40d731552e",
     "executables": []
   },
   {
@@ -16978,6 +16999,13 @@
     "name": "Ball Race 3: Jump",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1564490262397452338",
+    "name": "Ball Race 5: Volleyball",
+    "icon_hash": "01f4fe729c42c3423ad98176121610e6",
+    "cover_hash": "e1c5d9cf182f00015e0b71fc78a08d3b",
     "executables": []
   },
   {
@@ -28414,6 +28442,13 @@
     "executables": []
   },
   {
+    "id": "1564490050283249789",
+    "name": "Buggos: Death Squad",
+    "icon_hash": "c7384a2182788983bc6ad9fdf0e2bfd5",
+    "cover_hash": "24f0dda69330692357e28bc49e5586f7",
+    "executables": []
+  },
+  {
     "id": "1442729866809311312",
     "name": "BugsBox",
     "icon_hash": null,
@@ -35498,6 +35533,13 @@
     ]
   },
   {
+    "id": "1564490094595801209",
+    "name": "Chief? About That File...",
+    "icon_hash": "e721edff5b9aa14970e61e280a6d036f",
+    "cover_hash": "1f703ece7d6716c9177e7f7c5fd6d2d6",
+    "executables": []
+  },
+  {
     "id": "1444530218730524844",
     "name": "Chikaro",
     "icon_hash": "2df0dbee715d6c00c42a8753f1dfe0e4",
@@ -38228,6 +38270,13 @@
     ]
   },
   {
+    "id": "1564489735483822101",
+    "name": "Clown Around",
+    "icon_hash": "18681a41eec136bf11d8e065afec50e4",
+    "cover_hash": "0fed7eeaac60d76057b95245b8224837",
+    "executables": []
+  },
+  {
     "id": "1124356924268359700",
     "name": "Clown House",
     "icon_hash": "f58284e65f6d05df5177ba8380b17c42",
@@ -38259,6 +38308,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564489749094203562",
+    "name": "Clowntown",
+    "icon_hash": "e5b5523b6bea7f381b7cd7283f9e9a43",
+    "cover_hash": "7d40857e14b0a4f2d954b8a9119e2f7c",
+    "executables": []
   },
   {
     "id": "1124360600324157510",
@@ -40556,6 +40612,13 @@
     "name": "Construction Simulator 3",
     "icon_hash": "8c37d3d2dbbd631da702e05180dbf0ea",
     "cover_hash": "8ddbebaa01d4e24823bd64de20a7608e",
+    "executables": []
+  },
+  {
+    "id": "1564489549906841700",
+    "name": "Construction Simulator: Evolution",
+    "icon_hash": "d8d7e77a8b905030cd4fd1fc92c6cead",
+    "cover_hash": "5afc977a6d4424788bdca8d976188821",
     "executables": []
   },
   {
@@ -48795,6 +48858,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564490273210241066",
+    "name": "Dead Sector",
+    "icon_hash": "37f92d3331d7d62ccda7f42dcc2e61a6",
+    "cover_hash": "29c6ea7e7c179670aecb3173b6baa2cc",
+    "executables": []
   },
   {
     "id": "1171539593330446467",
@@ -71290,6 +71360,13 @@
     "executables": []
   },
   {
+    "id": "1564489581737410690",
+    "name": "Father, Son & Holy Guns",
+    "icon_hash": "61139e09fb81cd14684453c6ac8c4fda",
+    "cover_hash": "22f63d529ced06276c39cd23e2d16816",
+    "executables": []
+  },
+  {
     "id": "1249513404964798564",
     "name": "Father's Day",
     "icon_hash": "6265438220b9524b24eec7351d05517e",
@@ -73206,6 +73283,13 @@
     "name": "Finalizer: Super Transformation",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1564490034722373703",
+    "name": "Finals Week",
+    "icon_hash": "63696fc41abe9457bd784f7ef77f2999",
+    "cover_hash": "c58305bf768e5adf9532c22db156e115",
     "executables": []
   },
   {
@@ -79957,13 +80041,6 @@
     "executables": []
   },
   {
-    "id": "1442716949728727182",
-    "name": "Gakuen Idolmaster",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
     "id": "1440129628198011011",
     "name": "Gal Guardians: Demon Purge",
     "icon_hash": "99a240bf30ed4b1e20aaf2a5852031a5",
@@ -80089,6 +80166,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564489828383588433",
+    "name": "Galactic Disharmony",
+    "icon_hash": "31a24f93ce5fcd42e735e852c9507187",
+    "cover_hash": "f70351c69ebab55f17edcd73a9073745",
+    "executables": []
   },
   {
     "id": "1440132691323256984",
@@ -90372,6 +90456,13 @@
     "executables": []
   },
   {
+    "id": "1564489514481881128",
+    "name": "Harvest Moon: Echoes of Teradea",
+    "icon_hash": "05dbdf04066b3c8b44ed677fda83fbf1",
+    "cover_hash": "6bcca7bfa41dfc51c0531ef36e6f1587",
+    "executables": []
+  },
+  {
     "id": "1124357812244467762",
     "name": "Harvest Moon: Light of Hope",
     "icon_hash": "6c8612ac1efbf666f31e68737bae3f2a",
@@ -93537,6 +93628,13 @@
     "name": "Heroland",
     "icon_hash": "ccf9c6e1bef7aa7702606876d5a04d77",
     "cover_hash": "2a39b42646296035c89a0fff716b2c56",
+    "executables": []
+  },
+  {
+    "id": "1564490059024040007",
+    "name": "Heroll: If",
+    "icon_hash": "21158015daf5b2e61ce0e8706040c5c6",
+    "cover_hash": "784f778d446ccab53a528ad8eb951ea1",
     "executables": []
   },
   {
@@ -97341,6 +97439,13 @@
     "executables": []
   },
   {
+    "id": "1564490069753204836",
+    "name": "Hubble Bubble",
+    "icon_hash": "0a3127aefb3434d166db1e73937830dc",
+    "cover_hash": "9ea74bf22ee18616beb930a80e9580ae",
+    "executables": []
+  },
+  {
     "id": "1477506548006912173",
     "name": "Hubert",
     "icon_hash": "4d138b276450f64fe0de19490019867a",
@@ -99924,6 +100029,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564489960768147506",
+    "name": "Idlescape",
+    "icon_hash": "00167b15b7615d3b5e3ce23cab44e1aa",
+    "cover_hash": "a732e35a8e85fc65cc159c0d4a516f17",
+    "executables": []
   },
   {
     "id": "1341756283589754900",
@@ -102568,6 +102680,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564489615564472401",
+    "name": "Into the Crypt",
+    "icon_hash": "c989d40348e389b9a0f0e2330d7dfbd8",
+    "cover_hash": "e06e7904acd8c8aa376146ed0bd00b0b",
+    "executables": []
   },
   {
     "id": "1440540978594185336",
@@ -111094,6 +111213,13 @@
     "executables": []
   },
   {
+    "id": "1564489990686113803",
+    "name": "Ladder Lad",
+    "icon_hash": "bcbc668278fa45f5dc0363893aadc319",
+    "cover_hash": "d0d27706084b96a23561e934e49dbbcf",
+    "executables": []
+  },
+  {
     "id": "1442737589571551327",
     "name": "Ladders by POWGI",
     "icon_hash": null,
@@ -111583,6 +111709,13 @@
     "name": "Last Hope Bunker: Zombie Survival",
     "icon_hash": "473d4190570a0a9ebc687d0c00f6090b",
     "cover_hash": "50b3f007d380dd48392c680a021efb20",
+    "executables": []
+  },
+  {
+    "id": "1564489917373878313",
+    "name": "Last Hour of an Epic to the Moon RPG",
+    "icon_hash": "6189be25e1c051caa67419aa7da2e446",
+    "cover_hash": "87efc27537ca2440b22e54ad3b2106be",
     "executables": []
   },
   {
@@ -112152,6 +112285,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564489852265955338",
+    "name": "Leafborn",
+    "icon_hash": "169a674f6c722fb08067e48882de2887",
+    "cover_hash": "b159a58cf223284872b85425911dce12",
+    "executables": []
   },
   {
     "id": "1124356301825265684",
@@ -131766,6 +131906,13 @@
     ]
   },
   {
+    "id": "1564489789208789073",
+    "name": "Moving Castle",
+    "icon_hash": "ef7b06b957b137ef4a8d7e5b100a384d",
+    "cover_hash": "b53c61b3a22253371fdc9a1cf44b4efd",
+    "executables": []
+  },
+  {
     "id": "1482214472058798140",
     "name": "Moving Day: Make It Home",
     "icon_hash": "b3a82a829666ef3b036511a77a93ebed",
@@ -136668,6 +136815,13 @@
     "name": "Netherworld Covenant",
     "icon_hash": "bb131482f5dd3c553123235cc01df5c2",
     "cover_hash": "7916ba38c3ad73bab2cd8f3df6e15d3c",
+    "executables": []
+  },
+  {
+    "id": "1564489555397312612",
+    "name": "Netherwyn",
+    "icon_hash": "fcbf5928765571587d4535baa44c5cd6",
+    "cover_hash": "2f97385cfa59dd3aed0d11006b63d740",
     "executables": []
   },
   {
@@ -141669,6 +141823,13 @@
     ]
   },
   {
+    "id": "1564489635705393173",
+    "name": "Okko the Exiled",
+    "icon_hash": "d1f0e163982730127893403a31ae0757",
+    "cover_hash": "183e78514051e628d0592c37326da36a",
+    "executables": []
+  },
+  {
     "id": "1442738513136193612",
     "name": "Oktoberfest Break",
     "icon_hash": null,
@@ -145988,6 +146149,13 @@
     ]
   },
   {
+    "id": "1564490117903814666",
+    "name": "Pack A Plush!",
+    "icon_hash": "a1d99d71033d14979f4ac4c2028c0976",
+    "cover_hash": "0d504d9c4dfc4b8032a81876d0ec8938",
+    "executables": []
+  },
+  {
     "id": "1482214430505959569",
     "name": "Pack and Ship: Warehouse Simulator",
     "icon_hash": "2d839160cc0911ad1abc633c48641c25",
@@ -146141,6 +146309,13 @@
     "name": "Paint Ball",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1564490103202521210",
+    "name": "Paint Gang",
+    "icon_hash": "ac2493b4cdb14e85051cec044b10bcd0",
+    "cover_hash": "ff79b79c6a9a3e4501388c65bcd62567",
     "executables": []
   },
   {
@@ -148529,6 +148704,13 @@
     "name": "PC Store Simulator",
     "icon_hash": "9c9ff45c8b6bae9b239b24d47fc5aad2",
     "cover_hash": "7ed1bead9eec6cd80327b5411bd4fa6f",
+    "executables": []
+  },
+  {
+    "id": "1564490178134016042",
+    "name": "PC Store Together",
+    "icon_hash": "cedeeabd30ef5aa95dba5a42cae984dc",
+    "cover_hash": "b9b0914c035108f16e1cfa33d1376f12",
     "executables": []
   },
   {
@@ -151761,6 +151943,13 @@
     "executables": []
   },
   {
+    "id": "1564489975150416035",
+    "name": "Plague Lords",
+    "icon_hash": "bd77a33ed76061eaec77130beed232d3",
+    "cover_hash": "a68418e0b8393d4a28b9b03f67f6f0e8",
+    "executables": []
+  },
+  {
     "id": "1445976830178885683",
     "name": "Plague Lords: Witch Hunt",
     "icon_hash": "085f5731fc0b351d15d9fa255d7b689f",
@@ -153572,6 +153761,13 @@
     "name": "Pool of Madness",
     "icon_hash": "94eb0c9acdaa0b24d14625a4439da49e",
     "cover_hash": "983b4834d9726b85203c5118e4c7bb70",
+    "executables": []
+  },
+  {
+    "id": "1564490284845244476",
+    "name": "Pool of Radiance: Ruins of Myth Drannor",
+    "icon_hash": "4830458d160e7078a782653773da1b85",
+    "cover_hash": "abe9f9be5b1544cbfa095d9f971655fc",
     "executables": []
   },
   {
@@ -155678,6 +155874,13 @@
     ]
   },
   {
+    "id": "1564489688088322058",
+    "name": "PRO: Push React Outgun",
+    "icon_hash": "e3e439e772bb03499d215c60f1fa7ea1",
+    "cover_hash": "eff530e15e715ee0cbe4849dfc1ff889",
+    "executables": []
+  },
+  {
     "id": "1535136090162335835",
     "name": "Probably Stolen",
     "icon_hash": "7f6d7a11143bd272324dd7dd6724b3b0",
@@ -156152,6 +156355,13 @@
     ]
   },
   {
+    "id": "1564489702533496872",
+    "name": "Project Hunt",
+    "icon_hash": "1f477e82bf456828fe056872a42dbd1a",
+    "cover_hash": "1985b116f456c16515ee1f874f56a746",
+    "executables": []
+  },
+  {
     "id": "1124353763960963102",
     "name": "Project Kat: Paper Lily Prologue",
     "icon_hash": "568d782b2a6ec897aa2b8b0e139a9e31",
@@ -156297,6 +156507,13 @@
     "name": "Project Saturn",
     "icon_hash": "adaaef13dfda54aec82e347082fd7bd6",
     "cover_hash": "d4e4e2a71669f62ff5c19c720be9b412",
+    "executables": []
+  },
+  {
+    "id": "1564489711253323847",
+    "name": "Project SEVER",
+    "icon_hash": "f367fbe1fa625896682e8110ff74ccbd",
+    "cover_hash": "7d4fdd42cb1f55002bfebd51a7c9ce85",
     "executables": []
   },
   {
@@ -164082,6 +164299,13 @@
     ]
   },
   {
+    "id": "1564489885887242350",
+    "name": "Retroneer",
+    "icon_hash": "ea9cd59da5bd894e0741f86d789c271f",
+    "cover_hash": "5c7292e0fdc233c22cb47205b5660b4b",
+    "executables": []
+  },
+  {
     "id": "1442714304875859978",
     "name": "Retropolis 2: Never Say Goodbye",
     "icon_hash": "4cc3ef4248122b790155f3b4bc13851e",
@@ -169503,6 +169727,13 @@
     ]
   },
   {
+    "id": "1564489592131035287",
+    "name": "Rustmourne",
+    "icon_hash": "6eaf767df9b6ac627f38a38b3c6c2c49",
+    "cover_hash": "db436d584ff2de4de7f32e37a9e78288",
+    "executables": []
+  },
+  {
     "id": "1442735358457413663",
     "name": "Rusty Gun",
     "icon_hash": "b33a21286ba82e5b4be5bc9ea66898ba",
@@ -172831,6 +173062,13 @@
     "name": "SCREAM NOTE",
     "icon_hash": "5a27d5756b53f9fe4f6f8c8e1d7c1862",
     "cover_hash": "586db27e53a5e084638b3b6b8cc5d7cc",
+    "executables": []
+  },
+  {
+    "id": "1564489810092232764",
+    "name": "Scream Operator: Haunted House Manager",
+    "icon_hash": "d15dd7ebc7e9f45a600d236c02c6e6a1",
+    "cover_hash": "537f6808b1924482b4582a00b02920dd",
     "executables": []
   },
   {
@@ -178038,6 +178276,13 @@
     "executables": []
   },
   {
+    "id": "1564489769256226936",
+    "name": "Silberheim Evolving Card Game",
+    "icon_hash": "b0b4898462173e5f3513efb86c77af67",
+    "cover_hash": "aaf122f5e5e6213b1144576631047171",
+    "executables": []
+  },
+  {
     "id": "425443601154048020",
     "name": "Silence",
     "icon_hash": "642b329c95bf18cbfeb63e34338d8fa6",
@@ -179546,6 +179791,13 @@
     "name": "Skinfreak",
     "icon_hash": "4124f42a22cb2e781d60a534d597c042",
     "cover_hash": "9818421c91bc9e709f4c2d821a9e15dd",
+    "executables": []
+  },
+  {
+    "id": "1564489943680549025",
+    "name": "Skingdom",
+    "icon_hash": "38ebaecd5a272734ea1fd84705f1de01",
+    "cover_hash": "06d65149141b498cb7ffcd025461ad1b",
     "executables": []
   },
   {
@@ -188888,6 +189140,13 @@
     "name": "State of Survival",
     "icon_hash": null,
     "cover_hash": "89be917a57253be77a7a9b9ca07844d1",
+    "executables": []
+  },
+  {
+    "id": "1564489665011253362",
+    "name": "StateOS: The Political Sandbox",
+    "icon_hash": "0bd06c7091b433c9c0134cc59a6cd783",
+    "cover_hash": "f4b9a741f728bc3f20ff76cabc8cc759",
     "executables": []
   },
   {
@@ -203314,6 +203573,13 @@
     "executables": []
   },
   {
+    "id": "1564489680630710425",
+    "name": "The Doll Shop",
+    "icon_hash": "1f873c7eb4c80e94edc22abee98c27a1",
+    "cover_hash": "7bdebb967f2721e1af3eb8fa89601d8b",
+    "executables": []
+  },
+  {
     "id": "1442732661570535546",
     "name": "The Door",
     "icon_hash": null,
@@ -213312,6 +213578,13 @@
     "executables": []
   },
   {
+    "id": "1564490204331380867",
+    "name": "Tie Down",
+    "icon_hash": "120ecd87f305396cb96720a7b7ec9469",
+    "cover_hash": "894ae2cc494f6b6d4df60d4baa35251c",
+    "executables": []
+  },
+  {
     "id": "1428172308044054658",
     "name": "TIEBREAK",
     "icon_hash": "fcfe5df0e8e5e08a798b7247d6764aa9",
@@ -219254,6 +219527,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564490238603300924",
+    "name": "Trenchhold TD",
+    "icon_hash": "653fb2bac1cd0072b57de1d0be8ae170",
+    "cover_hash": "6ef517a4b3a0536625713480c7b9f80a",
+    "executables": []
   },
   {
     "id": "1124359590994268261",
@@ -229707,6 +229987,13 @@
     "executables": []
   },
   {
+    "id": "1564490022864814110",
+    "name": "Warrior Cats: Clans of the Forest",
+    "icon_hash": "4a5c7ef2fd96d69f61f0783335f7144f",
+    "cover_hash": "283580dcd9bb0c576b6dd6034e0757a7",
+    "executables": []
+  },
+  {
     "id": "1428210239831806055",
     "name": "Warrior Maiden Lecia and the Lost Fortress",
     "icon_hash": "fc8f18650f9feae103511b5ef2e7fb7e",
@@ -233224,6 +233511,13 @@
     "name": "Winx Club: The Magic Is Back",
     "icon_hash": "4659110fea55b0a1077fbb1de41998dc",
     "cover_hash": "ee1ef703e933f368ae1bf40d45f1f335",
+    "executables": []
+  },
+  {
+    "id": "1564490110597333046",
+    "name": "Wipe Them Out!",
+    "icon_hash": "d49aa463009eede64c7ed54ac11d2532",
+    "cover_hash": "159c7bf5f46a86d5858c72a9370f4768",
     "executables": []
   },
   {
