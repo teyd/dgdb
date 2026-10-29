@@ -29007,6 +29007,13 @@
     ]
   },
   {
+    "id": "1564851528454512730",
+    "name": "Burg Tag",
+    "icon_hash": "e955299713aadb62ce21df3679358a6b",
+    "cover_hash": "0ad7bfcb1198cf381712f0dd81aaa84d",
+    "executables": []
+  },
+  {
     "id": "1243141458253316208",
     "name": "Burger",
     "icon_hash": "05b935ddf13e13c09418ad318a6c98b4",
@@ -29380,8 +29387,8 @@
   {
     "id": "1501423700531085382",
     "name": "Bus Manager 26",
-    "icon_hash": "aaaf862b38154daef58dee519e65c950",
-    "cover_hash": "ff267d1dae336f59b05c81ddc2c36e78",
+    "icon_hash": "cf70001802bd676a52b3d0d887fcc9c5",
+    "cover_hash": "f8c93f3226c116b1d0e0d52d02d12c13",
     "executables": []
   },
   {
@@ -73692,6 +73699,13 @@
     "executables": []
   },
   {
+    "id": "1564851449165512845",
+    "name": "Fire and Water: Spirits of the Forest",
+    "icon_hash": "c3a3664b90ed123c2aa8672ec4210f5e",
+    "cover_hash": "5a5de2d65200e281c74cfb95b1f954bc",
+    "executables": []
+  },
+  {
     "id": "1124354829578424450",
     "name": "Fire Pro Wrestling World",
     "icon_hash": "646ea810f5e15515713a72822fc773ea",
@@ -93263,7 +93277,7 @@
     "id": "1124353276201152583",
     "name": "Hero Zero",
     "icon_hash": "7f6759f2ffec773dd659a96774038a29",
-    "cover_hash": "356a77698d7cf2577c8f4909d460549f",
+    "cover_hash": "04657b19d680869c43d9dfa428ad6484",
     "executables": [
       {
         "name": "hero zero/hero zero.exe",
@@ -159080,6 +159094,13 @@
     "executables": []
   },
   {
+    "id": "1564851521340842035",
+    "name": "QuestAway",
+    "icon_hash": "5421ccfde13c6340579322db1aad1eac",
+    "cover_hash": "59af6c7e5b7e6f2d6754a27ec5d01153",
+    "executables": []
+  },
+  {
     "id": "1442739771460948049",
     "name": "Quick Mafs Advanced",
     "icon_hash": null,
@@ -173175,7 +173196,7 @@
     "id": "1563039970665570425",
     "name": "Screw It!",
     "icon_hash": "674a2aabf606a321aec20d96b6c0812c",
-    "cover_hash": "4da1f95391cc684f7547b1372116c2f3",
+    "cover_hash": "178e29e92a597c57c3dd0709ad70e046",
     "executables": []
   },
   {
@@ -227311,6 +227332,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1564851413794820119",
+    "name": "Void Core",
+    "icon_hash": "797d24c7d5751fb69f4091834334e54b",
+    "cover_hash": "7a4b26eea05f1f5a4f36621023664b4a",
+    "executables": []
   },
   {
     "id": "1151185644048097340",
