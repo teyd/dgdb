@@ -1911,6 +1911,13 @@
     "executables": []
   },
   {
+    "id": "1565576406409416836",
+    "name": "9.8",
+    "icon_hash": "7c1f2c286cf17042e7ef3fc0c73c46a7",
+    "cover_hash": "7f4d2baa6ce215841c3b6ae1fd728d3a",
+    "executables": []
+  },
+  {
     "id": "1442720569786372196",
     "name": "90s Extreme Skiing",
     "icon_hash": "b7ec37e0cce7dac206f163215e76dade",
@@ -4752,6 +4759,13 @@
     "executables": []
   },
   {
+    "id": "1565576663125991465",
+    "name": "Aftermath Z: Red Pine Lake",
+    "icon_hash": "702f6ce56867d808afe4614e9aa03d09",
+    "cover_hash": "8409c0e4d239b61fab16c37073225ace",
+    "executables": []
+  },
+  {
     "id": "1129505856510246952",
     "name": "Afterparty",
     "icon_hash": "13baf3c54ae846b0b0a34c7506fc7d82",
@@ -5310,6 +5324,13 @@
     "name": "Agent Walker: Secret Journey",
     "icon_hash": "abfe9106dd3a118a69b03577b299eaf9",
     "cover_hash": "9f28379951db570479d2259236957181",
+    "executables": []
+  },
+  {
+    "id": "1565576310586089482",
+    "name": "Agents 404",
+    "icon_hash": "5724a0255f7591809c7b099af56f7a94",
+    "cover_hash": "917488478ddb93d39040d7b4e380bf0a",
     "executables": []
   },
   {
@@ -7250,6 +7271,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576372804522075",
+    "name": "Allogloom",
+    "icon_hash": "fc9bea4cfa1007b0e54ff252d25ba814",
+    "cover_hash": "c9727e3576d5354f38432c22315d7ba4",
+    "executables": []
   },
   {
     "id": "1445976546228834344",
@@ -11986,6 +12014,13 @@
     "executables": []
   },
   {
+    "id": "1565576282832511046",
+    "name": "Arisen Force: Vonimir",
+    "icon_hash": "dd91ca0ee1a8fb567f7a8abec6aceaec",
+    "cover_hash": "c8163c5ba03211d20cd52bf40ed61bb6",
+    "executables": []
+  },
+  {
     "id": "1458807581958213652",
     "name": "Aristoputas",
     "icon_hash": "2ab5ce1892bd36220e4334e4e27031fd",
@@ -15989,6 +16024,13 @@
     "executables": []
   },
   {
+    "id": "1565576418409185320",
+    "name": "Backdraft",
+    "icon_hash": "2e99a7d5835c180f46d63e8b3415503b",
+    "cover_hash": "28e610179de5a3cf626de3f2e48f178f",
+    "executables": []
+  },
+  {
     "id": "1458945886200791144",
     "name": "Backframes: Escape Together",
     "icon_hash": "7810fe3b76e6ba0dbfcb1a45d9e7ecb3",
@@ -17494,6 +17536,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576511099109476",
+    "name": "Bao Bao's Cozy Cleaning Services",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1428182313442738197",
@@ -19538,6 +19587,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576333197844500",
+    "name": "Beat a Boo!",
+    "icon_hash": "edb97e15e4998d5313943ca0da332dd6",
+    "cover_hash": "af72f0b158a43daa7d5278f8e824399b",
+    "executables": []
   },
   {
     "id": "1341167354805096478",
@@ -24866,6 +24922,13 @@
     "name": "Boat Together",
     "icon_hash": "112ecbac7d61cc064e58c55a64c2f085",
     "cover_hash": "e521af56ad62c111c6d02d34d051fdbf",
+    "executables": []
+  },
+  {
+    "id": "1565214160462024744",
+    "name": "BOB LOGISTICS",
+    "icon_hash": "6a5c072e4e7632bc4315753063744940",
+    "cover_hash": "40aacd673111353afe3c771554e50aac",
     "executables": []
   },
   {
@@ -32600,6 +32663,13 @@
     ]
   },
   {
+    "id": "1565214141256306758",
+    "name": "CASE: Animatronics Redux",
+    "icon_hash": "9371a1e3dba35163d6d5d8d93837547c",
+    "cover_hash": "8c8895e194e2279b7994294249e883ce",
+    "executables": []
+  },
+  {
     "id": "1233039833740345395",
     "name": "Case: Online",
     "icon_hash": "636546d2220d36abab70cb1580f1bfce",
@@ -37576,6 +37646,13 @@
     "executables": []
   },
   {
+    "id": "1565214206607888464",
+    "name": "Clean Tides",
+    "icon_hash": "d5e06e4e1aabdaab157141b8844b75b6",
+    "cover_hash": "d89db5d5a4bf407400b3154fddc248c9",
+    "executables": []
+  },
+  {
     "id": "1442721639283298464",
     "name": "Clean Up Earth",
     "icon_hash": "ae1b60aa68183ff1a4d9ef96822ed54f",
@@ -37649,6 +37726,13 @@
     "name": "Cleared Hot",
     "icon_hash": "9244312bd27528789ffcb7cf26e76210",
     "cover_hash": "b7cfe7ebfc6c753f1c0f5a7cda8e3ebb",
+    "executables": []
+  },
+  {
+    "id": "1565576571467599962",
+    "name": "Click & Mine",
+    "icon_hash": "fe0a0f3f49b47355774ffc7c6082e341",
+    "cover_hash": "c1e850f34c667f7e9bb17bc9c4880bcb",
     "executables": []
   },
   {
@@ -38604,6 +38688,13 @@
     "name": "Code Exit",
     "icon_hash": "4eac7a136e314a554403dc4b66f469a6",
     "cover_hash": "687ef98550d6e001f87162089b65417a",
+    "executables": []
+  },
+  {
+    "id": "1565576637838401667",
+    "name": "Code of the Savage",
+    "icon_hash": "1a41862eb0fc252edf7271c8505212d0",
+    "cover_hash": "bebee7462c79c643e8e669193d12056b",
     "executables": []
   },
   {
@@ -45118,6 +45209,13 @@
     "name": "Cuboid",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1565576600739774524",
+    "name": "Cucina Stellata",
+    "icon_hash": "11b757d81c39f43b33e01423d5a10c29",
+    "cover_hash": "52cd43f1f03f13dcb98ca8d581252ea4",
     "executables": []
   },
   {
@@ -58120,6 +58218,13 @@
     ]
   },
   {
+    "id": "1565214024939872396",
+    "name": "Dragon's Brew",
+    "icon_hash": "5d1b75d0add1863127ab8a86fd61a2a5",
+    "cover_hash": "75c2dd0bbf3acaa7e4f7959d8ab64f45",
+    "executables": []
+  },
+  {
     "id": "1428235343055949834",
     "name": "Dragon's Crown",
     "icon_hash": "cd96bc16c10f71b8fd0e220025465c6b",
@@ -59452,7 +59557,7 @@
     "id": "1563764899468017784",
     "name": "Drive UP: Together",
     "icon_hash": "f70f4d9b70bd91eeefde4bd0aeaf68db",
-    "cover_hash": "5ddcda80ebeae3e9f7772dc5e80c4cb1",
+    "cover_hash": "54eca11a34f72624f7f953d63838ea71",
     "executables": []
   },
   {
@@ -63994,6 +64099,13 @@
     "executables": []
   },
   {
+    "id": "1565576589188800583",
+    "name": "Elven Huntress: Sunveil",
+    "icon_hash": "af48d0d36c23b48c8a392c330e8b57d0",
+    "cover_hash": "6e63f1cb0648aa7188c5b0fe390d6cae",
+    "executables": []
+  },
+  {
     "id": "1442713155636826223",
     "name": "Elves Christmas Hentai Puzzle",
     "icon_hash": "cf8507ef357aba5a8c043d14bd0ae881",
@@ -68139,6 +68251,13 @@
     ]
   },
   {
+    "id": "1565213951757787196",
+    "name": "Expedition of the Guild",
+    "icon_hash": "2711b2be9c641012120cd8d8e9839f30",
+    "cover_hash": "54ea86c8e6679063371eb8a24436c7c0",
+    "executables": []
+  },
+  {
     "id": "1440137682578571375",
     "name": "Expedition to the Backrooms",
     "icon_hash": "c7c5cbfc73d362f2b447d99cbfb5faca",
@@ -68284,6 +68403,13 @@
     "name": "Extinction Day",
     "icon_hash": "f30c5bed17383743e09ec86edf63c7f5",
     "cover_hash": "1b21826f6dcddd1c8b4082a4f3cd2028",
+    "executables": []
+  },
+  {
+    "id": "1565576466694021261",
+    "name": "Extreme Cleaning Simulator",
+    "icon_hash": "180cb39457ae23c204eae3e995ac1500",
+    "cover_hash": "9b8d0c666f21baa7409a66bfd4b4f9ec",
     "executables": []
   },
   {
@@ -69404,6 +69530,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576538118815905",
+    "name": "Fallbearers",
+    "icon_hash": "25eee68ea4b94d5cc3a889aaf815e7f6",
+    "cover_hash": "fb5e7655ad3f76b8e89dc50c393993f7",
+    "executables": []
   },
   {
     "id": "1251657506745356400",
@@ -70982,6 +71115,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576434624364655",
+    "name": "Fast Food: Restaurant Simulator",
+    "icon_hash": "a426a67b3e33f6677aa51658fd40bfdc",
+    "cover_hash": "2c45daf45bf56b71123417928e07f81b",
+    "executables": []
   },
   {
     "id": "1440137517558141028",
@@ -76291,6 +76431,13 @@
     ]
   },
   {
+    "id": "1565576399308333236",
+    "name": "Football Story",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442717814321319946",
     "name": "Football Striker 2024",
     "icon_hash": null,
@@ -80583,6 +80730,13 @@
     "executables": []
   },
   {
+    "id": "1565576348674555984",
+    "name": "Game is Full of Bugs",
+    "icon_hash": "e045f31e46353af9af79ea9a47462f26",
+    "cover_hash": "614e4f2b722a54a312a1af2288148bf3",
+    "executables": []
+  },
+  {
     "id": "1557241500125896816",
     "name": "Game Keeper: Somebody Messed Up My Shop!",
     "icon_hash": "ee6edb63104807850dbb1dbe87bab2ed",
@@ -81515,6 +81669,13 @@
     "executables": []
   },
   {
+    "id": "1565576297835536426",
+    "name": "Gear.Club Unlimited 3",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1441989007939469441",
     "name": "Gearbits",
     "icon_hash": "b2330ff966021e2059e3bdf70f058277",
@@ -82414,7 +82575,7 @@
     "id": "1549993901862158406",
     "name": "Ghost in the SQL Data",
     "icon_hash": "9c971494b9a20ed041407ca675735184",
-    "cover_hash": "01c2c6c72a323ffd31e8ae0c227c9ab3",
+    "cover_hash": "a4162739421b15cc0912a8b032e6e6c9",
     "executables": []
   },
   {
@@ -87999,6 +88160,13 @@
     "name": "Gunboat God",
     "icon_hash": "b348f1f12956ae7344e921876a5c1274",
     "cover_hash": "c3cebf688c5105a55addf05540779c3f",
+    "executables": []
+  },
+  {
+    "id": "1565213926109614230",
+    "name": "GUNBOAT-8",
+    "icon_hash": "e973f13e2a9510d72b429dc9e99b5b00",
+    "cover_hash": "aa32cd152552d5fa54593e1406b9bb8f",
     "executables": []
   },
   {
@@ -95344,6 +95512,13 @@
     ]
   },
   {
+    "id": "1565213943029305385",
+    "name": "HollowCity:EscapeFromSeoul",
+    "icon_hash": "3fc42d34ae78aaf177746f279f4ba7c2",
+    "cover_hash": "89e131afffb29ebf3f632758ac30a104",
+    "executables": []
+  },
+  {
     "id": "1361491258803224738",
     "name": "Hollywood Animal",
     "icon_hash": "eafc6cf3bf5bb8e7731995f0d8d83cbb",
@@ -98398,6 +98573,13 @@
     "name": "Hypermarket Simulator Empire 2024",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1565576693580828693",
+    "name": "Hypernet Explorer",
+    "icon_hash": "c3155999aeb4611b3b6e62439d859aa5",
+    "cover_hash": "adc8b77e6bf324c90cb2569cdfdbbe3c",
     "executables": []
   },
   {
@@ -104096,10 +104278,24 @@
     ]
   },
   {
+    "id": "1565214167734943775",
+    "name": "IT THINKS!",
+    "icon_hash": "ecfc05d867a0b88b35ae2379e0d84f99",
+    "cover_hash": "f9d97e163ebbeffea25045fbbe03915e",
+    "executables": []
+  },
+  {
     "id": "1486569008256782356",
     "name": "It Works: Electronics Repair Simulator",
     "icon_hash": "e9aeecb61669f411b385a9922a44746e",
     "cover_hash": "693a4a23b4d247d9bb327296248099b8",
+    "executables": []
+  },
+  {
+    "id": "1565576612735352952",
+    "name": "It's About Pirates",
+    "icon_hash": "5bc6f596a65b07f38933e5776f10b417",
+    "cover_hash": "f242bd9303d812eca377a8f16d30366a",
     "executables": []
   },
   {
@@ -106231,6 +106427,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576761285148804",
+    "name": "Just Dying",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1511211374565654678",
@@ -110224,6 +110427,13 @@
     "name": "Knuckle Heads",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1565213962453131274",
+    "name": "Knuckle Paradise",
+    "icon_hash": "62b048bf69149ce7e492189876db82f6",
+    "cover_hash": "6fb429fbc529bcdaf016af3e8cebcf90",
     "executables": []
   },
   {
@@ -114975,6 +115185,13 @@
     "executables": []
   },
   {
+    "id": "1565214154795655279",
+    "name": "Line Clear",
+    "icon_hash": "4f1bde37d042ec7935f90beb53e96b74",
+    "cover_hash": "2f58126928b5f17873f17c89ebcd8dad",
+    "executables": []
+  },
+  {
     "id": "1445982502538969190",
     "name": "Line Connect Puzzle",
     "icon_hash": null,
@@ -116668,6 +116885,13 @@
     "name": "Looters",
     "icon_hash": "de31cf0f35fdf066128891244bd76b2d",
     "cover_hash": "5fae5c7ccbf06a4d1881eb4a5333c353",
+    "executables": []
+  },
+  {
+    "id": "1565576581026545675",
+    "name": "Lootlands",
+    "icon_hash": "fcffb3f3ef2092ccd3770b52327cfde4",
+    "cover_hash": "a3625c30a92463b673f458d6e50e338f",
     "executables": []
   },
   {
@@ -120555,6 +120779,13 @@
     "executables": []
   },
   {
+    "id": "1565214182494707803",
+    "name": "Maiba Taya",
+    "icon_hash": "ccf5cd948f6d9c4088094f68b33f9f06",
+    "cover_hash": "56cb4a2990c855993d9452ddb99cfa23",
+    "executables": []
+  },
+  {
     "id": "1555430024260100167",
     "name": "Maid Cafe Coop",
     "icon_hash": "d3cd978d6bc12e99a5420aa2309501e2",
@@ -122928,6 +123159,13 @@
     "executables": []
   },
   {
+    "id": "1565213978425171978",
+    "name": "Mayday: The Survival Island",
+    "icon_hash": "091ff0f2a6915317294fc37f8eacc944",
+    "cover_hash": "726d9e98f31e0550f7e3dcdfd43a3e89",
+    "executables": []
+  },
+  {
     "id": "1442736058717438062",
     "name": "Mayhem Brawler",
     "icon_hash": "4ceda09e7e6b620dab8cfadf9e565302",
@@ -124579,6 +124817,13 @@
     "name": "Meowjiro",
     "icon_hash": "0b370baf4a37c637e061fc11ffea817c",
     "cover_hash": "fcc47330f8c199326fec8b33dfd4fe9a",
+    "executables": []
+  },
+  {
+    "id": "1565214081869156456",
+    "name": "Merc Commander",
+    "icon_hash": "4872796b35a472b3212d3701fa2ecb38",
+    "cover_hash": "bb1fcabed892bc27aaf0d888b0c829a1",
     "executables": []
   },
   {
@@ -126490,6 +126735,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576772680941710",
+    "name": "Mike Goes on Hike",
+    "icon_hash": "8bc8852be27b2dccfaa5176c967111d2",
+    "cover_hash": "446a9190a5d5e8735e13789dec153682",
+    "executables": []
   },
   {
     "id": "1428188821899444354",
@@ -132007,6 +132259,13 @@
     "executables": []
   },
   {
+    "id": "1565576687108755538",
+    "name": "Mozentum",
+    "icon_hash": "1873110405bec459bf7c633fab73527a",
+    "cover_hash": "ef9a4f140ce84b5a189a80c1c144547c",
+    "executables": []
+  },
+  {
     "id": "1435790322125897728",
     "name": "MR DONALD",
     "icon_hash": "4d1a799b5128f99cd8faaedd557558bf",
@@ -132549,6 +132808,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565214032548466810",
+    "name": "MUPO",
+    "icon_hash": "f4db05dd1bc8c9ab736935b69fecbdbc",
+    "cover_hash": "6e0b4564065c0747da9aa6550be65285",
+    "executables": []
   },
   {
     "id": "1445980815933706282",
@@ -133952,6 +134218,13 @@
     "name": "My Online Universe (Tomi's Story One)",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1565576811927310397",
+    "name": "My Own Hero Party",
+    "icon_hash": "ddca6c929243f2a1f643cae5c74ed9af",
+    "cover_hash": "163daa5a724b7e7c573355a809f56343",
     "executables": []
   },
   {
@@ -140619,6 +140892,13 @@
     "executables": []
   },
   {
+    "id": "1565213936893169736",
+    "name": "Number Machine",
+    "icon_hash": "2e1d9fdbc9ed291872913a734e084022",
+    "cover_hash": "1cf2bd63cbb73e4d159343c804189dd7",
+    "executables": []
+  },
+  {
     "id": "1440137165324419164",
     "name": "Numbra",
     "icon_hash": "9ba067c7abe09e8003e23e314384a144",
@@ -142628,8 +142908,8 @@
   {
     "id": "1534411003016511488",
     "name": "One Map: Never Ending Battle Royale",
-    "icon_hash": "7dd099cb3a3dd8c3b3eb2c36151d9227",
-    "cover_hash": "1263423df42b6168d288ce3b26c68d43",
+    "icon_hash": "feb4b130c1c6337154ce988dc318636d",
+    "cover_hash": "2ecb0c15abb88324b108c4408307e98d",
     "executables": []
   },
   {
@@ -142664,6 +142944,13 @@
     "name": "One More Bang",
     "icon_hash": "43e71d7b65ebfab00b519b42fbf0417d",
     "cover_hash": "ac41065dadae687afc29697cd32882af",
+    "executables": []
+  },
+  {
+    "id": "1565214149645045881",
+    "name": "One More Flight",
+    "icon_hash": "802451e5ff878a726a3c8ca376ece3c5",
+    "cover_hash": "bd73eb344e55be4a14dab872a0382fdc",
     "executables": []
   },
   {
@@ -142744,6 +143031,13 @@
     "name": "One Piece: Grand Cruise",
     "icon_hash": "574d15a5f16d508088c5f4f410da1ff0",
     "cover_hash": "30d1bb16750513c7c82e74f636728fbe",
+    "executables": []
+  },
+  {
+    "id": "1565213908124303470",
+    "name": "One Piece: Grand Gourmet",
+    "icon_hash": "7ad9aa46d7b3da9fa3c2bcd43d1f699d",
+    "cover_hash": "2b17c370a2b0745cc49965d239690274",
     "executables": []
   },
   {
@@ -143223,6 +143517,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576624076759071",
+    "name": "Only Fans",
+    "icon_hash": "1adcc40bb43fe69940db3b51617f80c5",
+    "cover_hash": "929d59075a09e877efc6398d10118ae1",
+    "executables": []
   },
   {
     "id": "1124358242085126224",
@@ -144228,6 +144529,13 @@
     "name": "Orion",
     "icon_hash": "1011220a829ad09775bb8d7604ff155c",
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1565214040035295282",
+    "name": "Orion Blue",
+    "icon_hash": "4e6d1f6c0cf396453ada254f900faa3d",
+    "cover_hash": "4b9a843704b505ba86ae872c4d2d6e45",
     "executables": []
   },
   {
@@ -146181,6 +146489,13 @@
     "name": "Pack My Order",
     "icon_hash": "6c50d82ee026f2ecedb4e57f426a3e1d",
     "cover_hash": "d84da8dbbc5804d25744490503c9394f",
+    "executables": []
+  },
+  {
+    "id": "1565214222118551764",
+    "name": "Pack Ripper",
+    "icon_hash": "171b6ea587c7992c18c12f377b62d4f1",
+    "cover_hash": "53e3ec4a78aad811c41a4b45c39d423e",
     "executables": []
   },
   {
@@ -151303,6 +151618,13 @@
     "name": "Pitchside Empire",
     "icon_hash": "72fa3b2c85277863837366f7a2ea8dee",
     "cover_hash": "c5f01e3784db53714b7238feae4a505d",
+    "executables": []
+  },
+  {
+    "id": "1565214046054129704",
+    "name": "PITH",
+    "icon_hash": "d2c21db4cedbd30908d20093ba74c023",
+    "cover_hash": "87a064bd3f40883522ca5b4bedd1d885",
     "executables": []
   },
   {
@@ -171374,6 +171696,13 @@
     "executables": []
   },
   {
+    "id": "1565214096737960007",
+    "name": "Sand Cruiser",
+    "icon_hash": "18773417b3397e95770525b91974f2bc",
+    "cover_hash": "1e56e3fa1a4971dca8564d7c0c11edc4",
+    "executables": []
+  },
+  {
     "id": "1246810684738769016",
     "name": "SAND LAND",
     "icon_hash": "bf9f88d2b91128d16f668e32d7187ca6",
@@ -172539,7 +172868,7 @@
   },
   {
     "id": "1477143963390574713",
-    "name": "SCOPECREEP",
+    "name": "ScopeCreep",
     "icon_hash": "18a94258645d9c79ab56156b87b53228",
     "cover_hash": "4b68f62f8a2d994606864c079ad45038",
     "executables": []
@@ -173714,6 +174043,13 @@
     "name": "Second Stellar",
     "icon_hash": "589cc22d12e65b119002ed0ade902175",
     "cover_hash": "b1cd1f84f2587d2ad6f71dee04a3da43",
+    "executables": []
+  },
+  {
+    "id": "1565576715571429408",
+    "name": "Second Stone",
+    "icon_hash": "e520cfce9c0a483bab32fbbe02dfcf7c",
+    "cover_hash": "8605e238d5cd5f4289e1afefce4b5dff",
     "executables": []
   },
   {
@@ -176867,6 +177203,13 @@
     "executables": []
   },
   {
+    "id": "1565576557701894204",
+    "name": "SHIFU: Traffic Masters",
+    "icon_hash": "44e3cec8656f74f37ab1e55c5813a587",
+    "cover_hash": "28e37b5d150c57d8d7102a9f6e598627",
+    "executables": []
+  },
+  {
     "id": "1442732127094309045",
     "name": "Shikhondo: Soul Eater",
     "icon_hash": null,
@@ -178525,6 +178868,13 @@
     "executables": []
   },
   {
+    "id": "1565214197166379028",
+    "name": "Silk Collector: Tidy Up the Clothing Store!",
+    "icon_hash": "9da805fcee10680e54a5ad47a9e2084f",
+    "cover_hash": "65e6a7b43734b74c6dc48c95d68b4ade",
+    "executables": []
+  },
+  {
     "id": "1428184770571145257",
     "name": "Silkbulb Test",
     "icon_hash": "b5c8a9dce2a911a86e1755f25c726b09",
@@ -179267,6 +179617,13 @@
     ]
   },
   {
+    "id": "1565576739260727327",
+    "name": "Sister Compass: Slow Life Loving with My Sisters on a Deserted Island",
+    "icon_hash": "fa868361e43fbefa9b28c34339c45f9b",
+    "cover_hash": "226b12cc029b9fcd5e618bac04ad1ddf",
+    "executables": []
+  },
+  {
     "id": "1428189621912600807",
     "name": "Sister Lumina and the Hypnosis Cult",
     "icon_hash": "b2825b28db366e68ccfb09ac27a144df",
@@ -179660,6 +180017,13 @@
     "executables": []
   },
   {
+    "id": "1565214125498302514",
+    "name": "Ski Lines: Trail Map",
+    "icon_hash": "399d962df0c6eb7b7eb43a10f19499b3",
+    "cover_hash": "2e66e5a8bec858cc304115f4966f9ff8",
+    "executables": []
+  },
+  {
     "id": "1137415007789916210",
     "name": "Ski Region Simulator",
     "icon_hash": "879a1c3d61d6636402cd9cb46735bdea",
@@ -179859,6 +180223,13 @@
     "name": "Skorecery",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1565214071605698571",
+    "name": "SKROLL",
+    "icon_hash": "bf52e6c594cd8e3c3711b3ad9726d854",
+    "cover_hash": "99f052d3cce7089c38f53f8256104841",
     "executables": []
   },
   {
@@ -185330,6 +185701,13 @@
     "executables": []
   },
   {
+    "id": "1565576702485209118",
+    "name": "Spectral Map",
+    "icon_hash": "db1b15e7958a64cbbbb9551b28ab2948",
+    "cover_hash": "08e62b859a53349789498a8079759f4b",
+    "executables": []
+  },
+  {
     "id": "1280180479013945437",
     "name": "Spectral Scream",
     "icon_hash": "759462b56a7ce1e81c65a37df7dfd209",
@@ -185759,6 +186137,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576746743635998",
+    "name": "Spellogger",
+    "icon_hash": "bec314e0fc127edeaa904a4313e4f1f0",
+    "cover_hash": "c5dafefb2374c40a149743d6a01ae027",
+    "executables": []
   },
   {
     "id": "1214663775169413170",
@@ -189223,6 +189608,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576820751990925",
+    "name": "STATO",
+    "icon_hash": "a15c6f83c60f7e72c21596ffbe3a3f83",
+    "cover_hash": "d65e8b02e479e84ba7dce98399f3ea53",
+    "executables": []
   },
   {
     "id": "1402417033467138259",
@@ -195053,6 +195445,13 @@
     "executables": []
   },
   {
+    "id": "1565576787235311749",
+    "name": "SUPERPANEL",
+    "icon_hash": "b947317ebf7354bec2964742228c9a6d",
+    "cover_hash": "6e140eedfdafaeefc01502995ee4a6bf",
+    "executables": []
+  },
+  {
     "id": "1457735613553049620",
     "name": "SuperPantsu Tentikun",
     "icon_hash": "cbe36ca160968fdd343f6d17288dec56",
@@ -199573,6 +199972,13 @@
     ]
   },
   {
+    "id": "1565214060839047358",
+    "name": "Tearoom of Terror",
+    "icon_hash": "9be3ff27d479062237fe8fe3818fa941",
+    "cover_hash": "5c1c08c0093efdc1cd8ee3e2cfec7b07",
+    "executables": []
+  },
+  {
     "id": "1428223802537414738",
     "name": "Tears of Metal",
     "icon_hash": "67ce7b3a1d418381ecf9727054c54bf3",
@@ -201054,6 +201460,13 @@
     "executables": []
   },
   {
+    "id": "1565576780104863864",
+    "name": "The 9th Dragon",
+    "icon_hash": "9d594d5ee6f4925eac24bb44ea281819",
+    "cover_hash": "c7d5a7a445fe62868012de0c78b15f27",
+    "executables": []
+  },
+  {
     "id": "1124355951516995694",
     "name": "The Adventure Pals",
     "icon_hash": "5c5734a98fd4aa0cd7464f000412cd78",
@@ -201794,6 +202207,13 @@
     "name": "The Big Lez Video Game",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1565214089993519108",
+    "name": "The Big Suck",
+    "icon_hash": "fb5c829df6873f5933ec6609f8cdc4e3",
+    "cover_hash": "bacb92f6a4a3edb84f2ec5265aa6329b",
     "executables": []
   },
   {
@@ -203365,6 +203785,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576834232352899",
+    "name": "THE DEAD WE KNEW: Open World Survival",
+    "icon_hash": "bf3f0697048cb5935f2a59c2bbcc0ba6",
+    "cover_hash": "0fa127be43db1a34bc503180b1ecf91f",
+    "executables": []
   },
   {
     "id": "1428211561390149692",
@@ -213781,6 +214208,13 @@
     ]
   },
   {
+    "id": "1565576493520916500",
+    "name": "Timberworks",
+    "icon_hash": "57ba40eacd11f33710d16a74c5d8623f",
+    "cover_hash": "47049b385edfe56884c4ab390aea676e",
+    "executables": []
+  },
+  {
     "id": "479894252726517760",
     "name": "Time Clickers",
     "icon_hash": "118a4e0bfcbc3fed44da02a4ba13c71b",
@@ -214009,6 +214443,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565214214258298960",
+    "name": "Tin Coffins",
+    "icon_hash": "80f729f256346c6d110374cedebcd845",
+    "cover_hash": "97595255c24a0cae36e9d54ab879e88f",
+    "executables": []
   },
   {
     "id": "1439429390239797359",
@@ -216620,6 +217061,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576680074903562",
+    "name": "Toto's Journey",
+    "icon_hash": "eb4d6fecfada7e9cd4cdc98ebc3a15c2",
+    "cover_hash": "2d4be8054442f31e5a6552548944bbdb",
+    "executables": []
   },
   {
     "id": "1442714786772287569",
@@ -222294,6 +222742,13 @@
     "executables": []
   },
   {
+    "id": "1565214110512054272",
+    "name": "Ultimate Pet Shop Simulator",
+    "icon_hash": "426090693e8194082d04bdf991704a6c",
+    "cover_hash": "ce34a8d71adcf5baed44776fba00dbcb",
+    "executables": []
+  },
+  {
     "id": "1441987639216439429",
     "name": "Ultimate Racing 2D",
     "icon_hash": "30bec0318a445dc05c7895d92e1e8183",
@@ -223164,6 +223619,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565576752321929256",
+    "name": "UNDERDEEP",
+    "icon_hash": "e082050f8ef3fdb12c8353731b62ddaa",
+    "cover_hash": "cd7886fb3b28b12b64ac74650671d4d9",
+    "executables": []
   },
   {
     "id": "1223059111025840349",
@@ -225126,6 +225588,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1565214228074332252",
+    "name": "Valdrin",
+    "icon_hash": "d5291467bc4938afb10f056d16b11cda",
+    "cover_hash": "5ca8f0f4a5bf93684e5cc4d657c49607",
+    "executables": []
   },
   {
     "id": "1445980716323307684",
@@ -233312,6 +233781,13 @@
     "executables": []
   },
   {
+    "id": "1565214000713834526",
+    "name": "Windwoven",
+    "icon_hash": "56f2b7ce8ea8cb922a606062e4021fa9",
+    "cover_hash": "0f7ffe391f7714f7dbcd102cf11e8360",
+    "executables": []
+  },
+  {
     "id": "1507219924412534784",
     "name": "Winemaker Simulator",
     "icon_hash": "cccff864ee50bee047492231e65bbcc6",
@@ -235134,6 +235610,11 @@
         "is_launcher": false
       },
       {
+        "name": "_retail_/world of warcraft.app",
+        "os": "darwin",
+        "is_launcher": false
+      },
+      {
         "name": "_retail_/wow-64.exe",
         "os": "win32",
         "is_launcher": false
@@ -235182,6 +235663,16 @@
     "icon_hash": "2545836bb433906f74f1fa5785a1342e",
     "cover_hash": "ec95a3c41836083a000bf86ed3040861",
     "executables": [
+      {
+        "name": "_forever_/world of warcraft.app",
+        "os": "darwin",
+        "is_launcher": false
+      },
+      {
+        "name": "_forever_/wow.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
       {
         "name": "wowb.exe",
         "os": "win32",
