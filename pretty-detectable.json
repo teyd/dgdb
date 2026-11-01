@@ -3266,6 +3266,13 @@
     ]
   },
   {
+    "id": "1566301837714399368",
+    "name": "Absolute Dap",
+    "icon_hash": "3fe5125ca2be172227a9afc85011ec94",
+    "cover_hash": "ebdfdfa87b86d445289b28081bb8dbf6",
+    "executables": []
+  },
+  {
     "id": "1124354685646680186",
     "name": "Absolute Drift",
     "icon_hash": "b987b5452b2b0d6c22d1533fbc569cd1",
@@ -35427,6 +35434,13 @@
     "executables": []
   },
   {
+    "id": "1566301956668923974",
+    "name": "Chess Solitairen",
+    "icon_hash": "bfbfe17295d441ed91cf0b59e39ae476",
+    "cover_hash": "4e1d33d3eb09af68033082eae22260df",
+    "executables": []
+  },
+  {
     "id": "1440136717305643119",
     "name": "Chess Ultimate",
     "icon_hash": "48f7869a9613b10338a4735fc937420d",
@@ -52111,7 +52125,7 @@
   },
   {
     "id": "1518103399164416203",
-    "name": "Desk Space: Idle Spacefleet clicker",
+    "name": "Desk Space: Idle Spacefleet Clicker",
     "icon_hash": "0c2a452761b0fa5af39ce607931b2332",
     "cover_hash": "5a41a318db8e0f42bf5e9f898c21cdac",
     "executables": []
@@ -82461,6 +82475,13 @@
     "executables": []
   },
   {
+    "id": "1566301788804616212",
+    "name": "Geoplanetical",
+    "icon_hash": "5f369055bf28a4f3c09adaca736a12d4",
+    "cover_hash": "3a218f168758b9c34013707abf1085dc",
+    "executables": []
+  },
+  {
     "id": "1442732948075053106",
     "name": "Georifters",
     "icon_hash": "d88e7ff6baf05f0c95f694f2102deb32",
@@ -96051,6 +96072,13 @@
     "executables": []
   },
   {
+    "id": "1566301894853402816",
+    "name": "Home Reset: Organizing Simulator",
+    "icon_hash": "62a1daba2def031f5b9d0b3f9023e0ca",
+    "cover_hash": "e717a2e733397877179c8e2856a77bed",
+    "executables": []
+  },
+  {
     "id": "1203263649020514315",
     "name": "Home Safety Hotline",
     "icon_hash": "68c90672aa6857cccf5634953d3fbdff",
@@ -107796,6 +107824,13 @@
     ]
   },
   {
+    "id": "1479317952976126063",
+    "name": "Keelblade",
+    "icon_hash": "ddc13b2de9e3c062f834f3fbe605b03b",
+    "cover_hash": "19f0dcd460ed3fbce1a8b8564d44fb20",
+    "executables": []
+  },
+  {
     "id": "1445976376028037312",
     "name": "Keep",
     "icon_hash": "5399d25079a7dabebeac61bbee3c6ddf",
@@ -108872,6 +108907,13 @@
     "name": "Kimochii Classroom",
     "icon_hash": "0eb4a0c5227af2f939046ce3cdf0e2cd",
     "cover_hash": "1290053a92c657ce5ae7c133d4b3b5b2",
+    "executables": []
+  },
+  {
+    "id": "1566301947932311563",
+    "name": "Kimodameshi Online",
+    "icon_hash": "e90012f7e6590f9c22653bb795e7e58e",
+    "cover_hash": "04b77b5356070e6df5bc46bc5c45ef1b",
     "executables": []
   },
   {
@@ -110822,6 +110864,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1566301712418078761",
+    "name": "Kopernicus: Incremental Suffering",
+    "icon_hash": "02835a61b4c1f89fe73c21e727269847",
+    "cover_hash": "611584f5f9c8ad570e87114648b3b2ef",
+    "executables": []
   },
   {
     "id": "1526801895891402833",
@@ -120195,6 +120244,13 @@
     ]
   },
   {
+    "id": "1566301870300069919",
+    "name": "MAFIA HOTEL",
+    "icon_hash": "9c1d59b19270e72b691b411ec014a2bc",
+    "cover_hash": "515aa488e03ccded324b9d224f1dc347",
+    "executables": []
+  },
+  {
     "id": "425443244285886494",
     "name": "Mafia II",
     "icon_hash": "4c58f02d685fd245fc4411c1195dbc87",
@@ -128314,6 +128370,13 @@
     ]
   },
   {
+    "id": "1566301912607891597",
+    "name": "miniopolis",
+    "icon_hash": "85508d3cdcc22322a8dc1b2a6545510c",
+    "cover_hash": "08748719de2bd9dba97bcdc3d3f9ff39",
+    "executables": []
+  },
+  {
     "id": "1245059067014156309",
     "name": "Minishoot' Adventures",
     "icon_hash": "c654753a198e0ea47d8a3a66521ee288",
@@ -134590,7 +134653,7 @@
   {
     "id": "1440138584668504134",
     "name": "My Sleeper",
-    "icon_hash": "ab9c4956075bbba45d2dfd5ffe5e7428",
+    "icon_hash": "66e4f410a61e6139fa628c8d7fe0d116",
     "cover_hash": "7d5b117f6bd94031fee1d194ae95723d",
     "executables": []
   },
@@ -137381,6 +137444,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1566301814545060002",
+    "name": "Network & Cyber Security Simulator",
+    "icon_hash": "93474f96f381aa7a9d279887ffe16753",
+    "cover_hash": "9e63411c759c703186a53dc697498cea",
+    "executables": []
   },
   {
     "id": "1442732799638372423",
@@ -142063,6 +142133,13 @@
     "name": "Offbeat",
     "icon_hash": "80e09a8b38aad8fa3015582b1f0bb463",
     "cover_hash": "95454153a7bba0d99e858e60f34c9b5f",
+    "executables": []
+  },
+  {
+    "id": "1566301681283502143",
+    "name": "Office Party",
+    "icon_hash": "20fedf9239e26287014a6c25fd93ba45",
+    "cover_hash": "d79d51338f8225432cba6a5484c7c015",
     "executables": []
   },
   {
@@ -147887,7 +147964,7 @@
   },
   {
     "id": "1398168449724846100",
-    "name": "Parallel Lab",
+    "name": "Parallel Experiment",
     "icon_hash": "4ef3ef7b9bf4ebe18acceccb308bf70f",
     "cover_hash": "e080b7fad2bbf6bc6452a3762e792213",
     "executables": [
@@ -150464,6 +150541,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1566301629798424648",
+    "name": "Phantom Blade Zero",
+    "icon_hash": "837532b9ffb411d366e96f18954d2bf3",
+    "cover_hash": "3babff198ea742e8b67b0b1fd5c49e31",
+    "executables": []
   },
   {
     "id": "1440541545135865926",
@@ -156460,6 +156544,13 @@
     "name": "Pro Flight Simulator Deluxe",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1566301697133908048",
+    "name": "Pro Football Referee",
+    "icon_hash": "238eeff08d6ddc4f77cd09cdcc76b516",
+    "cover_hash": "65deef622a000610a848b7cec2c99b32",
     "executables": []
   },
   {
@@ -167081,6 +167172,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1566301766029410356",
+    "name": "ROB RUN",
+    "icon_hash": "e5f0a835bb7e36b33729513a33405292",
+    "cover_hash": "f594ad51c5a672835496be58c8303de3",
+    "executables": []
   },
   {
     "id": "1442719106544439317",
@@ -192772,6 +192870,13 @@
     "executables": []
   },
   {
+    "id": "1566301795834273852",
+    "name": "Studs Up!",
+    "icon_hash": "020766451db425daac3a4d275994c6d2",
+    "cover_hash": "b875d6fe3e332baaa5c6f1d7280ae8eb",
+    "executables": []
+  },
+  {
     "id": "1441994319073378365",
     "name": "STUFFED",
     "icon_hash": "9ac94e842883e742386193f2781d809e",
@@ -209308,6 +209413,13 @@
     "executables": []
   },
   {
+    "id": "1566301935336689705",
+    "name": "The Onion Voting Simulator 3D",
+    "icon_hash": "24a1ff7a0096e67e38ebb2aca546454e",
+    "cover_hash": "94f9f4af05f80ff88ee24db33cf41ebe",
+    "executables": []
+  },
+  {
     "id": "1554705116437942354",
     "name": "The Only Droid",
     "icon_hash": "60afa05ce1819941b5cd3c518645c6e9",
@@ -220598,13 +220710,6 @@
     "executables": []
   },
   {
-    "id": "1479317952976126063",
-    "name": "Triarchy",
-    "icon_hash": "ddc13b2de9e3c062f834f3fbe605b03b",
-    "cover_hash": "19f0dcd460ed3fbce1a8b8564d44fb20",
-    "executables": []
-  },
-  {
     "id": "1124360391850479697",
     "name": "Tribal Hunter",
     "icon_hash": "05531a813bf7c0076e93072ab3e41fea",
@@ -227710,7 +227815,7 @@
     "id": "1559588343023534261",
     "name": "Vindictus: Defying Fate",
     "icon_hash": "68f0f384a64f71a80fa330bc79adee87",
-    "cover_hash": null,
+    "cover_hash": "1a194de3eef9b9f377fba85dd1d77096",
     "executables": [
       {
         "name": "vindictus defying fate demo/vindictus.exe",
@@ -231769,6 +231874,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1566301779480809482",
+    "name": "We Build Below",
+    "icon_hash": "5d79e6932c2fb4f164f5fb3af05dd307",
+    "cover_hash": "e201d6c96b8d7baf5a315a0120592d39",
+    "executables": []
   },
   {
     "id": "1545645095074795531",
@@ -238696,6 +238808,13 @@
     "name": "You Are Being Followed",
     "icon_hash": null,
     "cover_hash": "449eba1edb4ee665caf8167755d880f6",
+    "executables": []
+  },
+  {
+    "id": "1565939100815462430",
+    "name": "You Are Empty: Absolute Edition",
+    "icon_hash": "68f242b4380f981533d62f8f7b82a555",
+    "cover_hash": "4ba72325fb0cbeb838e90f5173aa885e",
     "executables": []
   },
   {
