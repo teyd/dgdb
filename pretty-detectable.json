@@ -53932,7 +53932,7 @@
   {
     "id": "1479318206530326693",
     "name": "Dimenshot",
-    "icon_hash": "40f33e1bcd2551ca7577c97c2d3d37ac",
+    "icon_hash": "08aab7869ddcd97a0c4e44c347b7c515",
     "cover_hash": "a3534d909668445e97780ae90ed3b8fe",
     "executables": []
   },
@@ -54680,7 +54680,7 @@
     "id": "1552530449513844847",
     "name": "Discipline Simulator",
     "icon_hash": "4f3b12f73836dbe8ef082118a75f075f",
-    "cover_hash": "535e174f2855a796621ec183ff3b7a9b",
+    "cover_hash": "7b18be40adb5a0332c1151ff1689e7f2",
     "executables": []
   },
   {
@@ -236223,11 +236223,6 @@
       {
         "name": "_retail_/wow.exe",
         "os": "win32",
-        "is_launcher": false
-      },
-      {
-        "name": "world of warcraft.app",
-        "os": "darwin",
         "is_launcher": false
       }
     ]
