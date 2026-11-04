@@ -2112,6 +2112,13 @@
     ]
   },
   {
+    "id": "1567388640282157116",
+    "name": "A Dark Cave",
+    "icon_hash": "720c0dc3c924d5feb9ae563b84075415",
+    "cover_hash": "00176ef87b91606085e8f5ce33c2b832",
+    "executables": []
+  },
+  {
     "id": "1183136060226678834",
     "name": "A Date with Death",
     "icon_hash": "f2b92b27f93ee91f77c48bffce2d60fb",
@@ -8884,6 +8891,13 @@
     "executables": []
   },
   {
+    "id": "1567388346894782474",
+    "name": "Anhedonia: Sanctuary of Ash",
+    "icon_hash": "3430d5f6244fcd2fa491994a18616367",
+    "cover_hash": "e61727d2f96001f4255d7929e238f045",
+    "executables": []
+  },
+  {
     "id": "1440137714295898112",
     "name": "Ani Idle",
     "icon_hash": "d656f77e94a557d47214176a7655a0b8",
@@ -9616,6 +9630,13 @@
     "name": "Anomaly Protocol",
     "icon_hash": "2b8b709c9e5e1dd93d8cda857b8591f6",
     "cover_hash": "d5a4a9034357bfcc66bb673892a68963",
+    "executables": []
+  },
+  {
+    "id": "1567388704538890380",
+    "name": "Anomaly Sector",
+    "icon_hash": "f9b3aeae6b5f1f09b679e8db370bcecd",
+    "cover_hash": "afe3f557765b4079a4df5680d668d5c6",
     "executables": []
   },
   {
@@ -10515,6 +10536,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388846923190376",
+    "name": "Aqua Factory Simulator",
+    "icon_hash": "943e39fadbc3051d76059b30b35c3f71",
+    "cover_hash": "70eec1929426da4c25d7e71a3d82f72f",
+    "executables": []
   },
   {
     "id": "1442727360586580178",
@@ -12442,6 +12470,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388966200545320",
+    "name": "Armor Sandbox",
+    "icon_hash": "44f78fb7e56cc45df99595d94e0e6958",
+    "cover_hash": "9c4d4f86a4318b6610bc182f49684ac0",
+    "executables": []
   },
   {
     "id": "1440541706742137025",
@@ -20062,6 +20097,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388321225777243",
+    "name": "Beekeeper Simulator",
+    "icon_hash": "0ebae9328d3beead52d2af78792875a1",
+    "cover_hash": "4ec0513b27d107824b9d44af69f2fffe",
+    "executables": []
   },
   {
     "id": "1499612064316919968",
@@ -27934,6 +27976,13 @@
     "executables": []
   },
   {
+    "id": "1567388648415166514",
+    "name": "Broken Oath",
+    "icon_hash": "7caac64cc4631ddf344192b27382df35",
+    "cover_hash": "18e314bf6510686d9ccb876a8305ebb1",
+    "executables": []
+  },
+  {
     "id": "1442737942421569596",
     "name": "Broken Pieces",
     "icon_hash": "977068e8a9fb00dbb0366005b73279b1",
@@ -33565,6 +33614,13 @@
     "executables": []
   },
   {
+    "id": "1567388916879728753",
+    "name": "CATCAR Pit Crew",
+    "icon_hash": "c09af399b2e1081b6182a3555a671493",
+    "cover_hash": "8e48958f4af90ba0796f22e40aba7637",
+    "executables": []
+  },
+  {
     "id": "1440140934569394226",
     "name": "Catch Me",
     "icon_hash": "173a08b8e339058b424ac49a0508f3cc",
@@ -35224,6 +35280,13 @@
     "name": "Checkout: Cashier Simulator",
     "icon_hash": "17035015bed1143513ab53873198dcc0",
     "cover_hash": "7af5ccb060debec6b6112151a1e1b077",
+    "executables": []
+  },
+  {
+    "id": "1567388748587466784",
+    "name": "Checkpoint '38",
+    "icon_hash": "62d6da6fef06a721a63644b5f6d1cddb",
+    "cover_hash": "a6ac051b41a0a6cd2ffe9b60d68413a4",
     "executables": []
   },
   {
@@ -38569,6 +38632,13 @@
     "name": "Clutter 14",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567388734691876884",
+    "name": "Cluttermancer: Tidy Up the Nightmare Alley",
+    "icon_hash": "c253b8ba40fe025bf72d8f9234a840ba",
+    "cover_hash": "c4bf086e446212742cc9a795ca0ebde9",
     "executables": []
   },
   {
@@ -42351,6 +42421,13 @@
     "executables": []
   },
   {
+    "id": "1567388668560408676",
+    "name": "Cozy Banker",
+    "icon_hash": "5a1d765e7866af5fe8e6380e7653f8bd",
+    "cover_hash": "e2f1e11cf7f179931dab3db68a3c0b6a",
+    "executables": []
+  },
+  {
     "id": "1493448825904566344",
     "name": "Cozy Builder",
     "icon_hash": "6b72f5b9c418b062546ac7000caf65b3",
@@ -45006,8 +45083,8 @@
   {
     "id": "1440138069054324766",
     "name": "Crystallium",
-    "icon_hash": "97910e0809502177d7b987117df8be6c",
-    "cover_hash": "94b8653ed96ad7c0db49ce7e279fe319",
+    "icon_hash": "d73efdffcf0d3412373ba807dd93272b",
+    "cover_hash": "5c060f63af2c049577c4c6ea70b9e1af",
     "executables": []
   },
   {
@@ -45614,6 +45691,13 @@
     "name": "Curse of Pirates",
     "icon_hash": "0bbdf8968a926410900f98b6027e0177",
     "cover_hash": "2bc8b054cfd39673df8f90b04c774cb9",
+    "executables": []
+  },
+  {
+    "id": "1567388451056255046",
+    "name": "Curse of Resthaven",
+    "icon_hash": "5d06f11987a00348f42d9fac082ca012",
+    "cover_hash": "c64a86951b4e39449597ee64918a1943",
     "executables": []
   },
   {
@@ -49881,6 +49965,13 @@
     "executables": []
   },
   {
+    "id": "1567388681210306683",
+    "name": "Death Row",
+    "icon_hash": "97402eb349e7083583a38d45176737ad",
+    "cover_hash": "68826d739a390c0c2e3b90daa413c1ff",
+    "executables": []
+  },
+  {
     "id": "1477506529212236070",
     "name": "Death Scourges",
     "icon_hash": "eaba8014ea29a9618ad5f45f9c109b4e",
@@ -50853,6 +50944,13 @@
     "name": "DeepOne",
     "icon_hash": "48d3b827ff9d35b776b48b807623f5c7",
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567388597966082150",
+    "name": "DEEPWARD",
+    "icon_hash": "6d55fe0f3cb8dc905f40281a357329c1",
+    "cover_hash": "5e0892159aa750125bc7de20ee6e3417",
     "executables": []
   },
   {
@@ -52813,6 +52911,13 @@
     ]
   },
   {
+    "id": "1567388296282247188",
+    "name": "Deus Mantle",
+    "icon_hash": "fada1f2f7e6a6532a4a7108fa8936bb5",
+    "cover_hash": "7ab2bcacc422bb99505525b5424c115f",
+    "executables": []
+  },
+  {
     "id": "1451412870616060087",
     "name": "Deviation Game",
     "icon_hash": "a446539dddbed6f16f36259ea6e449fc",
@@ -54192,6 +54297,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388339957530685",
+    "name": "Dinolords",
+    "icon_hash": "461d070609e7b3db3560134b89267276",
+    "cover_hash": "9f57dd9920bc810a84f5d5ca7af855db",
+    "executables": []
   },
   {
     "id": "1124354954438656100",
@@ -56231,6 +56343,13 @@
     "name": "Domino Master",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567388979941081239",
+    "name": "Dominoes Together",
+    "icon_hash": "6ec39793e3e8d1b0272e8ace18301c5f",
+    "cover_hash": "2c73ecab18b8b1db024604211a7189a6",
     "executables": []
   },
   {
@@ -62650,6 +62769,13 @@
     "name": "Earth of Oryn",
     "icon_hash": "15b8067a4927c310687cbcbb6b8011f7",
     "cover_hash": "b307eddae4ce12e1bdfe9bd3d6883b12",
+    "executables": []
+  },
+  {
+    "id": "1567388604978692168",
+    "name": "Earth Simulator",
+    "icon_hash": "08a7a517a32aaff5009cbb8981fe00ba",
+    "cover_hash": "075ef250fdc29bef4dfd0e0014195a36",
     "executables": []
   },
   {
@@ -70002,6 +70128,13 @@
     "executables": []
   },
   {
+    "id": "1567388753947791400",
+    "name": "False Oath",
+    "icon_hash": "ef9a41be482e7760e9aee8be303e2867",
+    "cover_hash": "8e7d941aea34a8d631c8b3b114b4412e",
+    "executables": []
+  },
+  {
     "id": "1442713033922056222",
     "name": "Falsepine",
     "icon_hash": "02d680c5f0ec1fb0bd20f53be711bbc5",
@@ -70087,6 +70220,13 @@
     "name": "Family Tennis",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567388814073143417",
+    "name": "Family Time",
+    "icon_hash": "8c3325d0a5b1a862e1a234b7fbe31c3c",
+    "cover_hash": "97ec862a82566f94bd58afd14c1d1b0f",
     "executables": []
   },
   {
@@ -70868,6 +71008,13 @@
     "name": "Farm Slider",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567388759929004173",
+    "name": "Farm to Fortune",
+    "icon_hash": "6def527543d901d5cfcffd4357a79dc7",
+    "cover_hash": "a5f1590ffc4bb45e0687e444ddb2843c",
     "executables": []
   },
   {
@@ -72948,6 +73095,13 @@
     "name": "Figment 2: Creed Valley",
     "icon_hash": "c9f0c406125b67cdfec50d86b2597f91",
     "cover_hash": "b7a6edb93decf362b996f8069da1d108",
+    "executables": []
+  },
+  {
+    "id": "1567388435251994624",
+    "name": "Figure Drawing Garden",
+    "icon_hash": "09e0617de36cea7c70013def486d0c0b",
+    "cover_hash": "9d4a87ab07cefd8e86d5f0d77dacd0f1",
     "executables": []
   },
   {
@@ -80898,6 +81052,13 @@
     "executables": []
   },
   {
+    "id": "1567388796108931215",
+    "name": "Game Market Mayhem",
+    "icon_hash": "837f2f997249ac91ed408611fe165121",
+    "cover_hash": "6ef478d5e7574dc585fe2a7aaac97de3",
+    "executables": []
+  },
+  {
     "id": "1124359095701487687",
     "name": "Game Master Engine",
     "icon_hash": "11bd94a7a5950cda0eb056fd67fe4129",
@@ -87432,6 +87593,13 @@
     "executables": []
   },
   {
+    "id": "1567388327957495939",
+    "name": "Grobnopolis: Last Days",
+    "icon_hash": "ba6b5d00fe18c54ce7df121007ef3133",
+    "cover_hash": "dd26660d2792a5534f66f845f20611f5",
+    "executables": []
+  },
+  {
     "id": "1253061777118330900",
     "name": "Grocery Store Simulator",
     "icon_hash": "d3212bc13b0cdb3d89c5850cb3d69b13",
@@ -89762,6 +89930,13 @@
     "executables": []
   },
   {
+    "id": "1567388900039729202",
+    "name": "Halloween On Goober Street",
+    "icon_hash": "640811abd596f5883b59c0128a10f341",
+    "cover_hash": "e0bf81c62e38bcc4e819cdc90cb437e1",
+    "executables": []
+  },
+  {
     "id": "1442719110407651378",
     "name": "Halloween Pumpkin Brawl",
     "icon_hash": null,
@@ -90262,6 +90437,13 @@
     "name": "Handgun Football",
     "icon_hash": "5b86ff08b886bac02ac8668e2bd4bec1",
     "cover_hash": "f33861a6ffd7dfad08546ca848ed2ca7",
+    "executables": []
+  },
+  {
+    "id": "1567388972533944391",
+    "name": "Handle with Care!",
+    "icon_hash": "f4b4a74d95c5f17c19b668c31c31e43f",
+    "cover_hash": "f873e94dd03690546206b07c20175904",
     "executables": []
   },
   {
@@ -92311,7 +92493,7 @@
   },
   {
     "id": "1413282594195378287",
-    "name": "Hell is Us",
+    "name": "Hell Is Us",
     "icon_hash": "eaca8b565be1235871287b70862cd560",
     "cover_hash": "fc159b6f65b9b551124e0e9810ac1595",
     "executables": [
@@ -97703,6 +97885,13 @@
     "executables": []
   },
   {
+    "id": "1567388820792414389",
+    "name": "How to Hunt",
+    "icon_hash": "24ce14d8ad162e6cc3d6bf6d1aea36b0",
+    "cover_hash": "4329094cd0cccbe2f3ca78d07ab10c16",
+    "executables": []
+  },
+  {
     "id": "1330280599436660888",
     "name": "How to Lose One's Virginity",
     "icon_hash": "d98704040dbc297ee8e5aded8827e518",
@@ -100137,6 +100326,13 @@
     "executables": []
   },
   {
+    "id": "1567388949377450035",
+    "name": "Idle Legions",
+    "icon_hash": "c7fc981266ac626d039614c0d3bead7c",
+    "cover_hash": "33d6f3e644095d83830007d3c32f18f8",
+    "executables": []
+  },
+  {
     "id": "1428223258762940487",
     "name": "Idle Mobile Game Simulator",
     "icon_hash": "4e2e756e19d50ca34b1a155c531c7a41",
@@ -100612,6 +100808,13 @@
     "name": "If Red Then Stop",
     "icon_hash": "aa5c2edbce4c7919616efd1a7b296dcf",
     "cover_hash": "bd9e6dec4db703a49a57b0b5bc337a2f",
+    "executables": []
+  },
+  {
+    "id": "1567388552495501462",
+    "name": "if you stay",
+    "icon_hash": "fa2f47f41f68c7fc2782825482a484a2",
+    "cover_hash": "f8f39e05d4a4b5d7e46c2e2281b928d9",
     "executables": []
   },
   {
@@ -114777,6 +114980,13 @@
     "executables": []
   },
   {
+    "id": "1567388768489570515",
+    "name": "Life Is a Dungeon: Lean Into It.",
+    "icon_hash": "c766617c8d44502c7248887565d74804",
+    "cover_hash": "00ec998783fea6b2ac4d6d90e85f986a",
+    "executables": []
+  },
+  {
     "id": "1428180297609908324",
     "name": "Life is Feudal: Arden",
     "icon_hash": "77207093a53ac14e468eb61050746eed",
@@ -116579,8 +116789,8 @@
   {
     "id": "1440130614530539580",
     "name": "Loftia",
-    "icon_hash": "2949c0c3e7a4b8580de137a2288bf0d9",
-    "cover_hash": "701eb2b541cd1024978afb64735ad72b",
+    "icon_hash": "87bc1c9677ca8de8f4aba53f51f3ba06",
+    "cover_hash": "b1029092aa71eff0d7fe9d1220077e31",
     "executables": []
   },
   {
@@ -119745,6 +119955,13 @@
     "executables": []
   },
   {
+    "id": "1567388878376140973",
+    "name": "Mad Dvizhuha: Benzovoz",
+    "icon_hash": "96d222204e8abcb3d880c213e6bf099d",
+    "cover_hash": "c6de98070b91a99c4ac862feb6696771",
+    "executables": []
+  },
+  {
     "id": "1124358575536488529",
     "name": "Mad Experiments: Escape Room",
     "icon_hash": "7364cf9fafb4d0c3f06db95851f11950",
@@ -120874,6 +121091,13 @@
     "executables": []
   },
   {
+    "id": "1567388287134339122",
+    "name": "Magma",
+    "icon_hash": "399dd599cc2834ab833a0062bbb74687",
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442727859700502702",
     "name": "MagMax",
     "icon_hash": null,
@@ -121741,7 +121965,22 @@
     "cover_hash": "fa07954eabfd2492282932c43a13cbaa",
     "executables": [
       {
-        "name": "maplestory.exe",
+        "name": "appdata/maplestory.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "maple/maplestory.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "maplestory.app",
+        "os": "darwin",
+        "is_launcher": false
+      },
+      {
+        "name": "maplestory/maplestory.exe",
         "os": "win32",
         "is_launcher": false
       }
@@ -121766,6 +122005,11 @@
     "icon_hash": "fe17ff11b4cb337c3d03185ac8cdd997",
     "cover_hash": null,
     "executables": [
+      {
+        "name": "maplestory classic world.app",
+        "os": "darwin",
+        "is_launcher": false
+      },
       {
         "name": "mscw/maplestory.exe",
         "os": "win32",
@@ -127388,6 +127632,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388827817877574",
+    "name": "Mimic2: Idle MMORPG",
+    "icon_hash": "b790459bb650afe67f1a41c12ab9a0cd",
+    "cover_hash": "012c6743a9ed43c1639174c818685050",
+    "executables": []
   },
   {
     "id": "1517741379411771514",
@@ -134850,6 +135101,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388778232811632",
+    "name": "Mycelarium",
+    "icon_hash": "6bd26349518fdc4bb730d396b97dcef0",
+    "cover_hash": "e3c0e9baed90ee35a76afac035cd0129",
+    "executables": []
   },
   {
     "id": "1520278040725159996",
@@ -143550,6 +143808,13 @@
     "executables": []
   },
   {
+    "id": "1567388445767106591",
+    "name": "One Week Away",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442732876423630981",
     "name": "One Word by POWGI",
     "icon_hash": null,
@@ -145839,6 +146104,13 @@
     "executables": []
   },
   {
+    "id": "1567388538347978773",
+    "name": "Outliers: Incrementum",
+    "icon_hash": "ba56d3a46f415551d54659702ee8a343",
+    "cover_hash": "06f4d3aa05c51291d4dd2832f537d219",
+    "executables": []
+  },
+  {
     "id": "1445976333288079360",
     "name": "Outlive 25",
     "icon_hash": "c3d3e28a1d63f6afcf69f7ec11e5da65",
@@ -147205,8 +147477,8 @@
   {
     "id": "1402416829808509029",
     "name": "Paladins Strike",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "75c82ca9029123cb22c8b55173558b77",
+    "cover_hash": "223785b39e2e4dd8d92c36ff8da4a271",
     "executables": []
   },
   {
@@ -148341,6 +148613,13 @@
     "executables": []
   },
   {
+    "id": "1567388610716766299",
+    "name": "PARRY IT",
+    "icon_hash": "6ea73aea96b69f77b9e6854782c7be7b",
+    "cover_hash": "a2bf21da83c2944b71803eb882dd74f5",
+    "executables": []
+  },
+  {
     "id": "1441264625365811382",
     "name": "ParryMaster",
     "icon_hash": "1eeaf8bf4d13c32f7cfbc82efdf23e38",
@@ -149382,6 +149661,13 @@
     "name": "PC Building Simulator 2",
     "icon_hash": "c0e3f58a8cdf34f94da1c04e94319638",
     "cover_hash": "c9edde0746a51b1004fb07b5730ba26a",
+    "executables": []
+  },
+  {
+    "id": "1567388380516458516",
+    "name": "PC Cafe Simulator",
+    "icon_hash": "207c471d9be864f11f52d675cda44de8",
+    "cover_hash": "d53d588c5194c0455e381a2417ae02f1",
     "executables": []
   },
   {
@@ -152829,6 +153115,13 @@
     "executables": []
   },
   {
+    "id": "1567388574268129370",
+    "name": "Planet Harvester: Incremental Odyssey",
+    "icon_hash": "af2a3b54864d4c6130cd0206f380814e",
+    "cover_hash": "3813ab7845c3afd91e7c2c6ece25df1d",
+    "executables": []
+  },
+  {
     "id": "1519553242936377505",
     "name": "Planet Killer",
     "icon_hash": "4449f4856591a9d75534bf4fd8b5d997",
@@ -155203,6 +155496,13 @@
     "executables": []
   },
   {
+    "id": "1567388743349043341",
+    "name": "Powder Park",
+    "icon_hash": "a4accb38258ffe9cea19b2f3f4050c25",
+    "cover_hash": "41596fd938982c67f856300e2b9f09f7",
+    "executables": []
+  },
+  {
     "id": "1124359270117421066",
     "name": "Power & Revolution",
     "icon_hash": "fdad821f1bf00bb0988fa5799c99b540",
@@ -156100,6 +156400,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388619365290034",
+    "name": "Prinny Party: Going Overboard!",
+    "icon_hash": "842e05049a42fcac1203c27f0670d6f4",
+    "cover_hash": "3acedde0ff381303050075ce43c09338",
+    "executables": []
   },
   {
     "id": "1548543913415942324",
@@ -159610,6 +159917,13 @@
     "executables": []
   },
   {
+    "id": "1567388958223245332",
+    "name": "Quarantine Lab Sort",
+    "icon_hash": "f49a49fe1ff3b2f99b2fc3073a802825",
+    "cover_hash": "a13490c61b54741a2e43eb33d126df71",
+    "executables": []
+  },
+  {
     "id": "1456486661754978364",
     "name": "Quarantine Zombies",
     "icon_hash": "9c1a54c566ebfbed83d2fab6efd0250f",
@@ -161652,10 +161966,24 @@
     "executables": []
   },
   {
+    "id": "1567388355493240883",
+    "name": "Rasen",
+    "icon_hash": "3902fe9abcdf54c0998d6501a0631962",
+    "cover_hash": "6dc6738260049336a4798e4461bc7e60",
+    "executables": []
+  },
+  {
     "id": "1441994907035238552",
     "name": "Raskulls",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567388364494340167",
+    "name": "Rat Game",
+    "icon_hash": "a290ebb37073ceb88e10ad530467f37e",
+    "cover_hash": "b8b7d580adf3333d6c5190f7df6583c4",
     "executables": []
   },
   {
@@ -169383,6 +169711,13 @@
     "name": "RP7: Spin Your Own Encounter",
     "icon_hash": "df13f7830440da223125524b99d56c3b",
     "cover_hash": "4c3368db1a09ca6a056f99f06a6e6976",
+    "executables": []
+  },
+  {
+    "id": "1567388462083215411",
+    "name": "RPG Chess",
+    "icon_hash": "ee2364dbe0bebade2f9080e4b3a513f3",
+    "cover_hash": "3ededf68bcf0c027e4667466064868d4",
     "executables": []
   },
   {
@@ -177276,6 +177611,13 @@
     ]
   },
   {
+    "id": "1567388410887278652",
+    "name": "Shelf Heroes",
+    "icon_hash": "b6cdddc581bf6d4bf9c348f93bfee795",
+    "cover_hash": "bf91b5e476851f2e85d661ae583d64ae",
+    "executables": []
+  },
+  {
     "id": "1428177833423015997",
     "name": "Shell Runner",
     "icon_hash": "4428e447dbaed5b93f601864ea4ffcf0",
@@ -179281,6 +179623,13 @@
     ]
   },
   {
+    "id": "1567388474276061194",
+    "name": "Silent Wounds: The Doll",
+    "icon_hash": "3a8793838cf49879d89d6b4fce6433d3",
+    "cover_hash": "f9f630ce0934cf5efd1baff3a5d780ef",
+    "executables": []
+  },
+  {
     "id": "1124355894361215047",
     "name": "Silica",
     "icon_hash": "96ac912b7554ec48ac9213672578f4d1",
@@ -179414,7 +179763,7 @@
   {
     "id": "1462282969900122143",
     "name": "Silver Palace",
-    "icon_hash": null,
+    "icon_hash": "9ab4071ea43cedada894103a03c91c41",
     "cover_hash": "b00ef3ac4c4aa67c66da59958bb3c9bb",
     "executables": []
   },
@@ -181630,6 +181979,13 @@
     "executables": []
   },
   {
+    "id": "1567388587362623561",
+    "name": "SliceShot Padel",
+    "icon_hash": "97c1d35d2fbba5d1462e77f296107405",
+    "cover_hash": "f90697e8f6af71aa0385a29ca8144707",
+    "executables": []
+  },
+  {
     "id": "1442715360351748177",
     "name": "Slick Slack",
     "icon_hash": null,
@@ -182609,13 +182965,6 @@
     "id": "1442730513587765289",
     "name": "Sneaky Bears",
     "icon_hash": "55890bf7639698fdac488372c44cbc40",
-    "cover_hash": null,
-    "executables": []
-  },
-  {
-    "id": "1480696600031400078",
-    "name": "Snek 3",
-    "icon_hash": "f8bd713c66106815048573540b64752b",
     "cover_hash": null,
     "executables": []
   },
@@ -183697,6 +184046,13 @@
     "name": "Solbrain: Knight of Darkness",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567388373088469063",
+    "name": "Solbrand",
+    "icon_hash": "fc16b7a3bd2480f813bfc12b5db0c1e2",
+    "cover_hash": "4a91f57304b86b2a3bc48c2fbae8385d",
     "executables": []
   },
   {
@@ -190874,6 +191230,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388935934451823",
+    "name": "Stick A Fork",
+    "icon_hash": "a19ccf72134eb33efa189ee0b6a0cc35",
+    "cover_hash": "bff35862f9a5d901a5f8a709b5e5c780",
+    "executables": []
   },
   {
     "id": "1517741253557489777",
@@ -201841,6 +202204,13 @@
     "executables": []
   },
   {
+    "id": "1567388580182098081",
+    "name": "Thalassomania",
+    "icon_hash": "6380fd723e4eb1ce2195718384eb6ad2",
+    "cover_hash": "89da38e191e9dd02858221eb944f47e5",
+    "executables": []
+  },
+  {
     "id": "1440138893381861416",
     "name": "Thalassophobia",
     "icon_hash": "377d949dd61dc679382823e02b065ae4",
@@ -205765,6 +206135,13 @@
     ]
   },
   {
+    "id": "1567388697983193189",
+    "name": "The Gastarbeiters",
+    "icon_hash": "02fcac1d09810297e4953c305290887f",
+    "cover_hash": "678502abccd821a49cb9b1887e47c006",
+    "executables": []
+  },
+  {
     "id": "1521727631458828288",
     "name": "The Gate Must Stand",
     "icon_hash": "74187690baa968b57e5bb77abd40791d",
@@ -206214,6 +206591,13 @@
     "executables": []
   },
   {
+    "id": "1567388485403541634",
+    "name": "The Hat Man",
+    "icon_hash": "ec585c37b3a38488845acd65cf35d737",
+    "cover_hash": "efb764771f5a00a1ae526a0657b3db59",
+    "executables": []
+  },
+  {
     "id": "1539484330353496184",
     "name": "The Headlands",
     "icon_hash": "739e7e275de68f7f44702a309aadcd1b",
@@ -206232,6 +206616,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567388499613720649",
+    "name": "The Hearth and Harbour",
+    "icon_hash": "bd2c183fe19c75623ee3c3bf119f05af",
+    "cover_hash": "14fb27fb8e60301949e4a456ab50c444",
+    "executables": []
   },
   {
     "id": "1124360034575462490",
@@ -212870,6 +213261,13 @@
     "executables": []
   },
   {
+    "id": "1567388720699543662",
+    "name": "The Winery: Winemaking Simulator",
+    "icon_hash": "3db2b66fdceafe1e78cfe3ea7fdb0226",
+    "cover_hash": "4776b5954451d44574dde0590ec20748",
+    "executables": []
+  },
+  {
     "id": "1428210781521973369",
     "name": "The Wings of Dawn",
     "icon_hash": "3086b901c320ec8f6e0de6d51e231308",
@@ -214522,6 +214920,13 @@
     "executables": []
   },
   {
+    "id": "1567388833996218519",
+    "name": "Tidy Farm",
+    "icon_hash": "d736c807cda767140d6a575101cb3a01",
+    "cover_hash": "aeea84af570c32cb6700b28051c1717e",
+    "executables": []
+  },
+  {
     "id": "1546370115107561503",
     "name": "Tidy Mart",
     "icon_hash": "cc21f352d7586e24e5de61502055e4e0",
@@ -215042,6 +215447,13 @@
     "name": "Tinhead",
     "icon_hash": "015ff8249911d7bf44a6b3d0f5cb2838",
     "cover_hash": "ba5093badfc6628a49762bc28f695318",
+    "executables": []
+  },
+  {
+    "id": "1567388626554331219",
+    "name": "Tinker Islands",
+    "icon_hash": "82350d5b690729c35a25e199a7ff0641",
+    "cover_hash": "37b7f9218bc7973454ba11e60b09cd04",
     "executables": []
   },
   {
@@ -219161,7 +219573,7 @@
     "id": "1129504266848051290",
     "name": "Trackmania",
     "icon_hash": "ad68f22e68c2a36e04559bfb948df4f3",
-    "cover_hash": null,
+    "cover_hash": "942bed9b04cb6f238a6245b915799dff",
     "executables": [
       {
         "name": "trackmania/trackmania.exe",
@@ -223938,6 +224350,13 @@
     "executables": []
   },
   {
+    "id": "1567388523080847481",
+    "name": "Undead Development 2",
+    "icon_hash": "6d198e5e78604f24a3f80db519521ffe",
+    "cover_hash": "c5bae733809f9f146bbda7984845eb0b",
+    "executables": []
+  },
+  {
     "id": "1124357347360395374",
     "name": "Undead Horde",
     "icon_hash": "817d2a4208f60e1af0b649f00cfb5d60",
@@ -225790,6 +226209,13 @@
     "name": "USAC: Code Breach",
     "icon_hash": "631014fe496f9ef7c1702f967743a0fb",
     "cover_hash": "23d94e69acfe2c307eb27e77403ab2d8",
+    "executables": []
+  },
+  {
+    "id": "1567388593721446430",
+    "name": "Usagi Shima",
+    "icon_hash": "8cfdeda107676100eac75aab2760439d",
+    "cover_hash": "e084788872bd69f50920d02aa153c6eb",
     "executables": []
   },
   {
@@ -232952,6 +233378,13 @@
     "executables": []
   },
   {
+    "id": "1567388941487833108",
+    "name": "Wheel of Death",
+    "icon_hash": "f70bebff52e3467a6cddd57b7d5e0e26",
+    "cover_hash": "fc1b30b5529afadc4429a205b007a87e",
+    "executables": []
+  },
+  {
     "id": "1440141697005916310",
     "name": "Wheel of Fortune",
     "icon_hash": null,
@@ -233111,6 +233544,13 @@
     "name": "Where the Forest Ends",
     "icon_hash": "12b2183038904a73ea829fee996e5fd9",
     "cover_hash": "93aafdd88da897dcaef9be219e6038bc",
+    "executables": []
+  },
+  {
+    "id": "1567388788605329458",
+    "name": "Where the Seeds Fall",
+    "icon_hash": "aa012c0849444b96032b067d943c283d",
+    "cover_hash": "688867d24f64bb0d265963ce36ced53b",
     "executables": []
   },
   {
