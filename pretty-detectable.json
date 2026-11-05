@@ -3004,6 +3004,13 @@
     "executables": []
   },
   {
+    "id": "1567751010615697431",
+    "name": "A Whole Wolfrush",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442733809933095004",
     "name": "A Winter's Daydream",
     "icon_hash": "59379468ba091803c501069f4dbbe770",
@@ -3297,6 +3304,13 @@
     "name": "Absolute Matter",
     "icon_hash": "a04686b34aae410cc7c485563bfacb66",
     "cover_hash": "10f7d58d8e2c6533789f9ebb4a59ca9e",
+    "executables": []
+  },
+  {
+    "id": "1567751025220263995",
+    "name": "ABSOLUTELY NOTHING GOOD",
+    "icon_hash": "3e8e6399df1cdbdc8c4845806b936501",
+    "cover_hash": "f731de5bff6485b5be5533108d61ab63",
     "executables": []
   },
   {
@@ -7109,6 +7123,13 @@
     "name": "Alisa's Grimoire",
     "icon_hash": "e0c70fbd2aac56f90cebbdd3d1ff361c",
     "cover_hash": "3b46b5ff68b83e9a33be50cbfa690fd1",
+    "executables": []
+  },
+  {
+    "id": "1567751167516213328",
+    "name": "All 4 Naught",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -17023,6 +17044,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751241042231329",
+    "name": "Balingo",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1442720912137785396",
@@ -39874,6 +39902,13 @@
     "executables": []
   },
   {
+    "id": "1567750968299233393",
+    "name": "Come to my party!",
+    "icon_hash": "d28d5e299f5a755b6f7ef0918cb457ec",
+    "cover_hash": "37c49125887b14db4e687467397454e3",
+    "executables": []
+  },
+  {
     "id": "1124353194303176735",
     "name": "Come with Me",
     "icon_hash": "0ac15208d5b02ffbe62f52d6451e4c3f",
@@ -41508,6 +41543,13 @@
   {
     "id": "1442734639134412913",
     "name": "Corbid! A Colorful Adventure",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567750994606166097",
+    "name": "Cordura",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -43955,6 +43997,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751197215957024",
+    "name": "Croc 2: Kingdom of the Gobbos",
+    "icon_hash": "61ec60b6f456d337cdffbcb4f376d96e",
+    "cover_hash": "ab5f0157b1f141a687bb82c26589839a",
+    "executables": []
   },
   {
     "id": "1442728096171167896",
@@ -53667,6 +53716,13 @@
     ]
   },
   {
+    "id": "1567750999001792642",
+    "name": "Diecast",
+    "icon_hash": "7bb9876a04c2f1f311370655aaff86b1",
+    "cover_hash": "14919f16402dbdd8a280e77587c06f3e",
+    "executables": []
+  },
+  {
     "id": "1124359858204966963",
     "name": "Dies Irae: Amantes Amentes",
     "icon_hash": "568bb6542683d307aa3ad9f4aeadb05d",
@@ -55835,7 +55891,7 @@
   {
     "id": "1563764866844725278",
     "name": "Dodo Duckie",
-    "icon_hash": "557647dda2664fa079f23dacc2d6dd97",
+    "icon_hash": "81afbaf70f53033c66db23b484cdf0cd",
     "cover_hash": "479d32b3e12cd48b63aab1e2d3461e60",
     "executables": []
   },
@@ -72486,7 +72542,7 @@
     "id": "1562315284788944896",
     "name": "Fenestra: My Focus, Her Future",
     "icon_hash": "f8413316030823e83cf52f6b5d62ff4d",
-    "cover_hash": "7a42bdc4d77b964dda7e2b4376029d07",
+    "cover_hash": "5ddafaaf750eb486fc485576c21f7ff7",
     "executables": []
   },
   {
@@ -76169,7 +76225,7 @@
     "id": "1565577752407441458",
     "name": "Folk-Tography",
     "icon_hash": "9e6f8130901e9e5614355bb0089b729a",
-    "cover_hash": "72be9a5fe61f7ba599bc78da9b0b3586",
+    "cover_hash": "9b941267623742fb83dbcb5fe888c83c",
     "executables": []
   },
   {
@@ -81984,6 +82040,13 @@
     ]
   },
   {
+    "id": "1567750987551346688",
+    "name": "Gear Up Einstein!",
+    "icon_hash": "77d9b4b24e77f16e94af52cf5f6bf7ff",
+    "cover_hash": "38b5863fd328358c0cd142b89a0e8ba8",
+    "executables": []
+  },
+  {
     "id": "1442737496244092968",
     "name": "Gear.Club Unlimited 2: Ultimate Edition",
     "icon_hash": "3a10103fe453ebcb3a55499549d4be19",
@@ -82819,6 +82882,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751296189206618",
+    "name": "Ghillie Wars",
+    "icon_hash": "5e5fcbf15e11282dbbebeca5ebf87ce2",
+    "cover_hash": "4a0b9559ca478e7c80f44f249d15b355",
+    "executables": []
   },
   {
     "id": "1124354082665144541",
@@ -88485,6 +88555,13 @@
     ]
   },
   {
+    "id": "1567751157995143208",
+    "name": "Gun Restoration Shop Simulator",
+    "icon_hash": "40e576883722ca6d1c950f4e7f6a201c",
+    "cover_hash": "97b5dc04c48d90acf6b48b04d6cff5d3",
+    "executables": []
+  },
+  {
     "id": "1442719973230510121",
     "name": "Gun Shop Dealer Simulator",
     "icon_hash": null,
@@ -90637,6 +90714,13 @@
     "name": "Happy Little Farm",
     "icon_hash": "00f6616802bc40790665355faf3a4af6",
     "cover_hash": "ff627cfbbcd06a5f71fd233870ba58ce",
+    "executables": []
+  },
+  {
+    "id": "1567751332541235351",
+    "name": "Happy Propaganda",
+    "icon_hash": "db95d707a340af828587610a1d5b569b",
+    "cover_hash": "2ed44fd176f8510369fe6634112072d7",
     "executables": []
   },
   {
@@ -99809,6 +99893,13 @@
     "executables": []
   },
   {
+    "id": "1567751367706157177",
+    "name": "IAFT Fear Diagnosis",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1124354261615136858",
     "name": "Ib",
     "icon_hash": "53e42e449f45aa708f5bda6d7ddd4fbb",
@@ -100009,6 +100100,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751137577148489",
+    "name": "Ichorous",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1124354439298433154",
@@ -101787,6 +101885,13 @@
     "executables": []
   },
   {
+    "id": "1567751376887349410",
+    "name": "Incremental Traffic",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1519553040514941078",
     "name": "Incrempire",
     "icon_hash": "8086d6832a61ee053169699223db3645",
@@ -102934,6 +103039,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751175972061266",
+    "name": "Inside Job",
+    "icon_hash": "df19239c86abc47619702d42790bb6af",
+    "cover_hash": "bf476287d0437fbf4e98c606e4733de4",
+    "executables": []
   },
   {
     "id": "1124351718134661200",
@@ -107032,6 +107144,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751430578765854",
+    "name": "Just Weeding",
+    "icon_hash": "9f880bdaba7bf63dfbaf453e9d2cc806",
+    "cover_hash": "3fb0e60d33695767568fc57167c48ddb",
+    "executables": []
   },
   {
     "id": "425457887339348005",
@@ -114329,6 +114448,13 @@
     "executables": []
   },
   {
+    "id": "1567751383170424832",
+    "name": "Let 'Em Cast",
+    "icon_hash": "2379a87fc33615e07938816b04f9ad7f",
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "505256510453186560",
     "name": "Let It Die",
     "icon_hash": "5360e438d48b9c6c19416cae8c2e6a35",
@@ -114735,6 +114861,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751439906775153",
+    "name": "LEVELS",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1214089996059938889",
@@ -116432,7 +116565,7 @@
     "id": "1562315071307128882",
     "name": "Livin' the Cream: Ice Cream Simulator",
     "icon_hash": "15326e74931d991394adfcc69e829f5d",
-    "cover_hash": "0abe30afe36ccd2565ea82978c21b636",
+    "cover_hash": "b0b7e12685ded81177fc9e279e26c259",
     "executables": []
   },
   {
@@ -123658,6 +123791,13 @@
     "name": "Mayan Death Robots",
     "icon_hash": "8dda88862618707a9a1c21b767208d7f",
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1567751355697995837",
+    "name": "Mayday Airways",
+    "icon_hash": "29f0894189de7792f1bdea5c21233b10",
+    "cover_hash": "9592ec3c06f73c42cc22deb045f0187e",
     "executables": []
   },
   {
@@ -141457,6 +141597,13 @@
     "executables": []
   },
   {
+    "id": "1567751265956528172",
+    "name": "Nullnest",
+    "icon_hash": "38a685f72c058ceb1e82405af9c1140e",
+    "cover_hash": "b5bdc4d01d717b26031347b8d7018d4a",
+    "executables": []
+  },
+  {
     "id": "1469531030460563631",
     "name": "Nullpoint Protocol",
     "icon_hash": "dbf502c2141eabd871478a7574f990ba",
@@ -142022,8 +142169,8 @@
   {
     "id": "1565577765858840741",
     "name": "Octbuster: Video Rental Store Cleanup",
-    "icon_hash": "9fc2421cbe171f5ffb0529d0a4ec0957",
-    "cover_hash": "ef071ddfdc40b28ca3be684752db43ea",
+    "icon_hash": "ac3418c3312c1c68bfac549c3ed5bc4d",
+    "cover_hash": "9cadcf0e259813278f1779ae336dc3c4",
     "executables": []
   },
   {
@@ -149267,6 +149414,13 @@
     ]
   },
   {
+    "id": "1567751415932395531",
+    "name": "Patient Zero: Plague Idle",
+    "icon_hash": "06e9b024514b22e0afd7219f55ed93e7",
+    "cover_hash": "c09c9c1ed9312cdde56d8f30c451b654",
+    "executables": []
+  },
+  {
     "id": "1381196180213469204",
     "name": "Patrician III",
     "icon_hash": "061fdaaab0414f80ca0511c96935d6f9",
@@ -152852,6 +153006,13 @@
     "name": "Pizzapocalypse",
     "icon_hash": "68616ecd101e2512c85cbdedf1a8b8df",
     "cover_hash": "3345db65a4e0875576603d5044688a0b",
+    "executables": []
+  },
+  {
+    "id": "1567751278019350660",
+    "name": "Pizzapoly",
+    "icon_hash": "e983ca1ccccb86b9b49bff26ff43c27c",
+    "cover_hash": "2cdc86f2abcefa1cbf19924bdf8cdd32",
     "executables": []
   },
   {
@@ -166213,6 +166374,13 @@
     ]
   },
   {
+    "id": "1567751148444848220",
+    "name": "Ridiculous Space Battles",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1124355417678557285",
     "name": "Riding Club Championships",
     "icon_hash": "89d51bde3ece35f101bdbbfb1463cbd2",
@@ -170399,6 +170567,24 @@
     "icon_hash": "71ecda744a5d4f0fe052f691ec1aa4df",
     "cover_hash": "1ec90a74ce6d084743abd06ea6b3d4c3",
     "executables": []
+  },
+  {
+    "id": "1162151882039504916",
+    "name": "RuneLite",
+    "icon_hash": "3f6589f21e7b6948f57c491744cfdf42",
+    "cover_hash": null,
+    "executables": [
+      {
+        "name": "runelite.app",
+        "os": "darwin",
+        "is_launcher": false
+      },
+      {
+        "name": "runelite/runelite.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
   },
   {
     "id": "1479318077630840917",
@@ -181024,8 +181210,8 @@
   {
     "id": "1565214071605698571",
     "name": "SKROLL",
-    "icon_hash": "bf52e6c594cd8e3c3711b3ad9726d854",
-    "cover_hash": "99f052d3cce7089c38f53f8256104841",
+    "icon_hash": "8214c9d6e497ad9ed75a1f8814011bf7",
+    "cover_hash": "54e5c3287a88f26c27368210dbc17314",
     "executables": []
   },
   {
@@ -198342,6 +198528,13 @@
     "executables": []
   },
   {
+    "id": "1567751208616337539",
+    "name": "System Arrival",
+    "icon_hash": "4008bc63fe59da933971e59297bbf285",
+    "cover_hash": "2a8c9c6bcde09bf876b4bdffa97d69fa",
+    "executables": []
+  },
+  {
     "id": "1124353790250856448",
     "name": "System Shock",
     "icon_hash": "26b6f5a7b3546333ff55034965c3cdc2",
@@ -200242,6 +200435,13 @@
     "executables": []
   },
   {
+    "id": "1567751308105228369",
+    "name": "Taskbar Legends",
+    "icon_hash": "43ed4d1da1756003017d68ae6e186f68",
+    "cover_hash": "14e4517f1811935dfe8061fea2b31e1e",
+    "executables": []
+  },
+  {
     "id": "1129505583607861279",
     "name": "TaskPals",
     "icon_hash": "a294eb2dfe1daa1361e436af17da4971",
@@ -201980,6 +202180,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751351390314577",
+    "name": "Test Fire: Armor Penetration Sim",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1209560216346304613",
@@ -204960,7 +205167,7 @@
     "id": "1124357441879031828",
     "name": "The Dream Machine",
     "icon_hash": "0356f534d622c0b0e922740f04021774",
-    "cover_hash": null,
+    "cover_hash": "1c0e3f90bf886f9bd79233dabde75eb3",
     "executables": [
       {
         "name": "the dream machine/the_dream_machine.exe",
@@ -205320,6 +205527,13 @@
     ]
   },
   {
+    "id": "1567751071206740038",
+    "name": "The Electorate",
+    "icon_hash": "2bf69571fdc772e0c7a55648ed973c5f",
+    "cover_hash": "86ad52ce563172cfbe1eaa0b626bcb12",
+    "executables": []
+  },
+  {
     "id": "1259660353718059028",
     "name": "The Elephant Collection",
     "icon_hash": "bf6c4708de02e22ee3a0a0311578833a",
@@ -205649,6 +205863,13 @@
     "name": "The Fabulous Fear Machine",
     "icon_hash": "e27f1f23fbe0c4069a0d38cbb480e81d",
     "cover_hash": "1b5b95b1257f889a4d0b29bceb715007",
+    "executables": []
+  },
+  {
+    "id": "1567751096284225628",
+    "name": "The Factory Must Fall",
+    "icon_hash": "0378fc0f0c061a036a43fe89b751e869",
+    "cover_hash": "f90584dea37204ed3f080f22bbfccc45",
     "executables": []
   },
   {
@@ -228207,6 +228428,13 @@
     "executables": []
   },
   {
+    "id": "1567751106979963050",
+    "name": "Vincit",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1262526863851655238",
     "name": "Vindefiant",
     "icon_hash": "f04028ce51bfef95c9b6a0c78d692eb4",
@@ -228348,7 +228576,7 @@
   },
   {
     "id": "1333662896235872327",
-    "name": "Virtua Fighter 5 R.E.V.O.",
+    "name": "Virtua Fighter 5 R.E.V.O. World Stage",
     "icon_hash": "c5d80855aa4a8372b3a646ac52f5056d",
     "cover_hash": "7a7f52353f625c43784eeec2968f82b0",
     "executables": [
@@ -229611,8 +229839,8 @@
   {
     "id": "1519191085526683676",
     "name": "Waifu Pogo Club",
-    "icon_hash": "4ebc77a3ae85aaedc3fb1f65e234436a",
-    "cover_hash": null,
+    "icon_hash": "864fb06774676a87768ba00fbaf9d481",
+    "cover_hash": "cafacfd20d396faee3ff6756c1f75177",
     "executables": []
   },
   {
@@ -231955,6 +232183,13 @@
     "executables": []
   },
   {
+    "id": "1567751317781487677",
+    "name": "Water TD",
+    "icon_hash": "80896b2034a86e43287a6af60036d6ba",
+    "cover_hash": "21bcb7e8a5a3cd2cdfe992ccc5604c43",
+    "executables": []
+  },
+  {
     "id": "1499976786371416134",
     "name": "Water Womb World",
     "icon_hash": "ebedfc623b1ab6d9688e73f30ae28e5b",
@@ -233337,6 +233572,13 @@
     ]
   },
   {
+    "id": "1567751049216000121",
+    "name": "What's in the box?",
+    "icon_hash": "3b95634202bb71324e1f228bca811425",
+    "cover_hash": "c1c7e5564a3adde9d4713cb3c6f3fc7e",
+    "executables": []
+  },
+  {
     "id": "1511211135876075612",
     "name": "What's the Password?",
     "icon_hash": "09f50c379cbeb5323d9a2626ccc47341",
@@ -234362,6 +234604,13 @@
     "name": "Wildcat Gun Machine",
     "icon_hash": "a23d90b2a71b0ac51bf62a8df9454cca",
     "cover_hash": "a89d5829540222a3f37b121a3e03a0e0",
+    "executables": []
+  },
+  {
+    "id": "1567751116182257694",
+    "name": "Wilderdark",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -240318,6 +240567,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1567751111862124614",
+    "name": "Zero Sievert 2",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1479318283340742707",
