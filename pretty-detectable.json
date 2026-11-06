@@ -3006,8 +3006,8 @@
   {
     "id": "1567751010615697431",
     "name": "A Whole Wolfrush",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "77864cd74c5b392f0993a91c4be8f51b",
+    "cover_hash": "3fd63e79523b14685b322348eaa2486b",
     "executables": []
   },
   {
@@ -7128,8 +7128,8 @@
   {
     "id": "1567751167516213328",
     "name": "All 4 Naught",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "35ba6f39213bca37767df6db64155075",
+    "cover_hash": "488636a4da191821fa1742a7494c7cf8",
     "executables": []
   },
   {
@@ -12787,8 +12787,8 @@
   {
     "id": "1445981440729944157",
     "name": "Art Shop Simulator",
-    "icon_hash": "525b92ad0443917ba346367ed678104f",
-    "cover_hash": "8ffd1495816b09545396431a0083e170",
+    "icon_hash": "e813d01ad8cb3936a1354fa03620d418",
+    "cover_hash": "4c7b856a33893b7d4d5927eb58fadb23",
     "executables": []
   },
   {
@@ -17048,8 +17048,8 @@
   {
     "id": "1567751241042231329",
     "name": "Balingo",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e731a507010acd24aeea0b3b94dcc98e",
+    "cover_hash": "52e724917e734f5afceb827583aa2336",
     "executables": []
   },
   {
@@ -41549,9 +41549,9 @@
   },
   {
     "id": "1567750994606166097",
-    "name": "Cordura",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "CORDURA",
+    "icon_hash": "0269fd8d93ccfed8b72f90690f45e75f",
+    "cover_hash": "2a4b7a923a57ca2b940bb170872955b3",
     "executables": []
   },
   {
@@ -57313,6 +57313,13 @@
     "executables": []
   },
   {
+    "id": "1568113119794823208",
+    "name": "Doroga Zhizni",
+    "icon_hash": "f2f3a95fe279ed1c50521815b96ccbb6",
+    "cover_hash": "204581466b382d050720a6dc64bcc8c8",
+    "executables": []
+  },
+  {
     "id": "1223074168581521449",
     "name": "DORONKO WANKO",
     "icon_hash": "eb4c2a7965e7d52cb78fe729bf409f62",
@@ -63492,7 +63499,7 @@
   },
   {
     "id": "1516279365082808390",
-    "name": "Eets: Hunger. It's emotional.",
+    "name": "Eets: Hunger. It's Emotional.",
     "icon_hash": "685189c25a9fa2b6c3f9da38653fb76e",
     "cover_hash": "a7e624d061ac8106ef6d80e2b02575b8",
     "executables": []
@@ -79109,8 +79116,8 @@
   {
     "id": "1124359859782041630",
     "name": "From Space",
-    "icon_hash": "29459a88924cdf610902e855128d0698",
-    "cover_hash": "ff2b599b4f3c1863133ed9b15d243880",
+    "icon_hash": "44c015dfff7adf0f4e4ff8cfb1c7a591",
+    "cover_hash": "ed86fcb912bd2a6c9aece8fdc5f8fbfb",
     "executables": [
       {
         "name": "from space/fromspace.exe",
@@ -98462,13 +98469,6 @@
     ]
   },
   {
-    "id": "1440131866962165860",
-    "name": "Hunt: Showdown 1896",
-    "icon_hash": "8e72a464e23442759f0c1e4b421564cd",
-    "cover_hash": "eb72581367c4a39feee7fe7c768f6b8e",
-    "executables": []
-  },
-  {
     "id": "1124357208986112260",
     "name": "HUNTDOWN",
     "icon_hash": "0dd42d8f47003e428efc370afa06b7e0",
@@ -99895,8 +99895,8 @@
   {
     "id": "1567751367706157177",
     "name": "IAFT Fear Diagnosis",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "348473d3e580d3858db27ccd7bf5ece5",
+    "cover_hash": "dcf56e39816633fa2f5ba91c896e9710",
     "executables": []
   },
   {
@@ -100104,8 +100104,8 @@
   {
     "id": "1567751137577148489",
     "name": "Ichorous",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "79699f5dfb67ad8b15997ea7f91c9412",
+    "cover_hash": "8bf86ea5f46c17ab33d6c70aa72523ec",
     "executables": []
   },
   {
@@ -101887,8 +101887,8 @@
   {
     "id": "1567751376887349410",
     "name": "Incremental Traffic",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "f484641b7eeaef99f32e5592cda68aa7",
+    "cover_hash": "a9b7177e2ce5a93e03cab6fd1e6c8fe7",
     "executables": []
   },
   {
@@ -109235,7 +109235,7 @@
     "id": "1566301947932311563",
     "name": "Kimodameshi Online",
     "icon_hash": "e90012f7e6590f9c22653bb795e7e58e",
-    "cover_hash": "04b77b5356070e6df5bc46bc5c45ef1b",
+    "cover_hash": "2b0bdbb73dbe0738f9b88220d3b2e615",
     "executables": []
   },
   {
@@ -114865,8 +114865,8 @@
   {
     "id": "1567751439906775153",
     "name": "LEVELS",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e901ea682d1ca10b118891f9d9e012ad",
+    "cover_hash": "ed2a25b4b60e9b3705d0cbcc9ccdc867",
     "executables": []
   },
   {
@@ -122141,6 +122141,11 @@
       {
         "name": "maplestory classic world.app",
         "os": "darwin",
+        "is_launcher": false
+      },
+      {
+        "name": "maplestorycw/appdata/maplestory.exe",
+        "os": "win32",
         "is_launcher": false
       },
       {
@@ -140580,7 +140585,7 @@
   },
   {
     "id": "1478589329705009213",
-    "name": "Nocturnal II",
+    "name": "Nocturnal 2",
     "icon_hash": "74e45914676798a6a176d4a64043e95f",
     "cover_hash": "ee5d16944f5a1f042c184ab1a678ab0f",
     "executables": []
@@ -152398,7 +152403,7 @@
   },
   {
     "id": "1428186806792229025",
-    "name": "Pit of Goblin",
+    "name": "PIT OF GOBLIN",
     "icon_hash": "6ae00eb65e13088508f246fd93cbdd45",
     "cover_hash": "16d887d663ee9aab415fcca9b041cd9f",
     "executables": []
@@ -153990,7 +153995,7 @@
     "id": "1549993877388136508",
     "name": "Plushy Store Tidy Up",
     "icon_hash": "27dfc36c2415c1bb13e3c06a34e22233",
-    "cover_hash": "0abb1007e640c81d80cb7f8ab3522248",
+    "cover_hash": "43ef391fe69c8786b52bc7a58d924b27",
     "executables": []
   },
   {
@@ -164612,7 +164617,7 @@
     "id": "1519191009123242044",
     "name": "Replay Value: Second Hand Games",
     "icon_hash": "79ea8f6e5497d89a531981e516b72c90",
-    "cover_hash": "10f4690fcee2279a232af5c1c76d457c",
+    "cover_hash": "8cad6e3ad733c7c4cf1e1fa2633c2089",
     "executables": []
   },
   {
@@ -166376,8 +166381,8 @@
   {
     "id": "1567751148444848220",
     "name": "Ridiculous Space Battles",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "bba11f9ad6b720e74202563cd78311a7",
+    "cover_hash": "ad5c6cd3db8a49e856b020b49fd036a3",
     "executables": []
   },
   {
@@ -170572,7 +170577,7 @@
     "id": "1162151882039504916",
     "name": "RuneLite",
     "icon_hash": "3f6589f21e7b6948f57c491744cfdf42",
-    "cover_hash": null,
+    "cover_hash": "170e00b08e01f581670652d28b73176d",
     "executables": [
       {
         "name": "runelite.app",
@@ -174102,7 +174107,7 @@
   {
     "id": "406637935417622558",
     "name": "SCP: Secret Laboratory",
-    "icon_hash": "cfa0fec28c3ad0687b45c0132defb616",
+    "icon_hash": "4befaa0ccfeea9768ca6df8ff517e121",
     "cover_hash": "3afcca658f98cdc9dd4bc799fb7d264b",
     "executables": [
       {
@@ -202184,8 +202189,8 @@
   {
     "id": "1567751351390314577",
     "name": "Test Fire: Armor Penetration Sim",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "04f5fdb50eb30a3be94549b08dc1b9c6",
+    "cover_hash": "a17fde8da74852e011a174320a7e19a9",
     "executables": []
   },
   {
@@ -228430,8 +228435,8 @@
   {
     "id": "1567751106979963050",
     "name": "Vincit",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c64e01bf735b207bc85e55aaa5143c9d",
+    "cover_hash": "04abeea2aa0e8891afdb73f4a46702dc",
     "executables": []
   },
   {
@@ -234609,8 +234614,8 @@
   {
     "id": "1567751116182257694",
     "name": "Wilderdark",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "60961fb7880ea13a33fbf267f3a8e846",
+    "cover_hash": "44f561dc2eef8c85db2327d3ac2f330e",
     "executables": []
   },
   {
@@ -240570,9 +240575,9 @@
   },
   {
     "id": "1567751111862124614",
-    "name": "Zero Sievert 2",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "ZERO Sievert 2",
+    "icon_hash": "0923f362bf606559ee32faeb8995c7ae",
+    "cover_hash": "d55d6e59ab875726a03b44c58428faef",
     "executables": []
   },
   {
