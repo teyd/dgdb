@@ -32417,6 +32417,13 @@
     "executables": []
   },
   {
+    "id": "1568838022508576779",
+    "name": "Carpet Daddy",
+    "icon_hash": "7156a0e02174e893db0574205af8ee41",
+    "cover_hash": "e3fc02e3cd5f7d484de86c9e6dff33bb",
+    "executables": []
+  },
+  {
     "id": "1124355190229848094",
     "name": "Carrier Command 2",
     "icon_hash": "8221d0c3ab5e5a4822a164f9fc43ac3d",
@@ -62079,6 +62086,13 @@
     ]
   },
   {
+    "id": "1568838101088866404",
+    "name": "Dwarf Hole",
+    "icon_hash": "06513c0843e5d33e7f6d0a8c07ceb7b9",
+    "cover_hash": "1289563687d6ecf734cad24fe0b8707e",
+    "executables": []
+  },
+  {
     "id": "1124359076957147146",
     "name": "DwarfHeim",
     "icon_hash": "99fe2413d2dfaa8732264cd3907b5c1f",
@@ -75437,6 +75451,13 @@
     "name": "Fleet Force",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1568838050618802287",
+    "name": "Fleets of Valor",
+    "icon_hash": "de7d5599a4e2ac17abc1bb4ca52a6003",
+    "cover_hash": "d717e109c8894e889b6bd6ca0902dad2",
     "executables": []
   },
   {
@@ -91633,6 +91654,13 @@
     "executables": []
   },
   {
+    "id": "1568837909597921442",
+    "name": "HAVKER-MAN X",
+    "icon_hash": "228afb5a4d8d5b8ae373dc7165b0923c",
+    "cover_hash": "563aa3375321153473feca292012a135",
+    "executables": []
+  },
+  {
     "id": "1265156498536005752",
     "name": "Havoc",
     "icon_hash": "7bb74b89c31444f65408994a6b03d10b",
@@ -95080,6 +95108,13 @@
     "executables": []
   },
   {
+    "id": "1568838130147008595",
+    "name": "High Wizards",
+    "icon_hash": "857ca2c9e39e887eebad3266223489e6",
+    "cover_hash": "956799579fcda4c4c5369d334ebccf22",
+    "executables": []
+  },
+  {
     "id": "1124354217709162556",
     "name": "HighFleet",
     "icon_hash": "b029ad8d805278b2651417e833a71feb",
@@ -97940,6 +97975,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1568837935439282216",
+    "name": "How Empires Work",
+    "icon_hash": "14b49be23123c23053251142dea715f8",
+    "cover_hash": "5fcb763b98de7b32a2f8eaf0b1c426a0",
+    "executables": []
   },
   {
     "id": "1124355981179113542",
@@ -108580,6 +108622,13 @@
     "executables": []
   },
   {
+    "id": "1568838081342214275",
+    "name": "KESSLER: Orbital Incremental",
+    "icon_hash": "86f25e51a32566e2a9cdc67efe2ec3ba",
+    "cover_hash": "78accf3eabe7dbdeddcf4f314be835ce",
+    "executables": []
+  },
+  {
     "id": "1442722029299044374",
     "name": "Ketsui: Kizuna Jigoku Tachi Extra",
     "icon_hash": null,
@@ -117297,8 +117346,8 @@
   {
     "id": "1568475709817491607",
     "name": "Looks Fine On Paper",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "682f11e93a36487d43b683a67832127f",
+    "cover_hash": "5b303d2998db3e54717e365a1f60e9fb",
     "executables": []
   },
   {
@@ -128273,6 +128322,13 @@
     "name": "Miner Rogue",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1568837971157848135",
+    "name": "Miner Shop Simulator",
+    "icon_hash": "9576e5af7864cf5b483917a4764f30be",
+    "cover_hash": "09ed479960ec04f3bfa4f49b573b8fa0",
     "executables": []
   },
   {
@@ -154275,6 +154331,13 @@
     "executables": []
   },
   {
+    "id": "1519191085526683676",
+    "name": "Pogo Together",
+    "icon_hash": "864fb06774676a87768ba00fbaf9d481",
+    "cover_hash": "cafacfd20d396faee3ff6756c1f75177",
+    "executables": []
+  },
+  {
     "id": "1474968352186433587",
     "name": "Pogo With Friends",
     "icon_hash": "cbb7b710d89c3d4b1711aea4956cc990",
@@ -163124,6 +163187,13 @@
     "executables": []
   },
   {
+    "id": "1568837921082052678",
+    "name": "Reason & Rhyme",
+    "icon_hash": "7086a01f91e906ea341dbe589e46bc8e",
+    "cover_hash": "70f9ab659f3f473cade7a81d1c9458fc",
+    "executables": []
+  },
+  {
     "id": "498997425965367313",
     "name": "Reassembly",
     "icon_hash": "5d2f300eb6d161f6fd907aa0d8d605d5",
@@ -164465,6 +164535,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1568838056977375362",
+    "name": "REMORFIN",
+    "icon_hash": "e8a268ac406c0c108e59459d89311d5a",
+    "cover_hash": "58a7a292eb4ad839d34550c11ab73e2c",
+    "executables": []
   },
   {
     "id": "1561229018915676191",
@@ -179092,6 +179169,13 @@
     "executables": []
   },
   {
+    "id": "1568838140137971842",
+    "name": "SHRED A BILLION",
+    "icon_hash": "3f0308ab201845255ee2a7f2b0019dd5",
+    "cover_hash": "7d47f6b6cd45235f2f7cbea0cb4c8657",
+    "executables": []
+  },
+  {
     "id": "1442728200827441255",
     "name": "Shred It!",
     "icon_hash": null,
@@ -185169,8 +185253,8 @@
   {
     "id": "1568475674870685857",
     "name": "Sort On The Ball",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "51e4c996563bafb229f4ffd44a820a94",
+    "cover_hash": "a6594c0d415fad41e4b9312dc5f02fe8",
     "executables": []
   },
   {
@@ -191571,7 +191655,7 @@
   },
   {
     "id": "1124356487108640859",
-    "name": "Stick RPG 2: Director's Cut",
+    "name": "Stick RPG 2",
     "icon_hash": "5ddfa38d1bce639968bc86c074ea9073",
     "cover_hash": "2a64d62ae87f778f2af6c9fe6c4e0bf9",
     "executables": [
@@ -200276,6 +200360,13 @@
     "name": "TankX",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1568838089911173120",
+    "name": "Tanuki Tag",
+    "icon_hash": "d0999f9dea9b37ee647dc9c8ea8dd6d2",
+    "cover_hash": "eee68982e47a58448e0b55bc2903e557",
     "executables": []
   },
   {
@@ -223166,6 +223257,13 @@
     "executables": []
   },
   {
+    "id": "1568838012383666298",
+    "name": "Twin Drive",
+    "icon_hash": "b3507401a0eaed3ee802afc1aabaa6a9",
+    "cover_hash": "6f2ceb7b1ff1d23cd0a059acf17d3031",
+    "executables": []
+  },
+  {
     "id": "1365553014961737738",
     "name": "Twin Mirror",
     "icon_hash": "43ec85764088f95fe9c42b752bd1f99f",
@@ -229923,13 +230021,6 @@
     ]
   },
   {
-    "id": "1519191085526683676",
-    "name": "Waifu Pogo Club",
-    "icon_hash": "864fb06774676a87768ba00fbaf9d481",
-    "cover_hash": "cafacfd20d396faee3ff6756c1f75177",
-    "executables": []
-  },
-  {
     "id": "1369114520760484000",
     "name": "Waifu Quest 2",
     "icon_hash": "a7e1c1ecb3aa5eeadde422307361cbdc",
@@ -230247,6 +230338,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1568838067786219520",
+    "name": "Want a Bomb?",
+    "icon_hash": "b34651c6ba15acd123b71ed95c79389a",
+    "cover_hash": "b4d2c6cca83fd42f42b8ac9753810d9b",
+    "executables": []
   },
   {
     "id": "1214271160984928256",
@@ -233293,6 +233391,13 @@
     "executables": []
   },
   {
+    "id": "1568838121645150288",
+    "name": "WendyQuest: Legend of the Four Corner Stones",
+    "icon_hash": "958e5da2b8c5b13727fa77995fe60db8",
+    "cover_hash": "b9fa1a551a975a922e06d2b16a8e8e58",
+    "executables": []
+  },
+  {
     "id": "1442733894032949258",
     "name": "Wer Weiß Denn Sowas?",
     "icon_hash": null,
@@ -234196,8 +234301,8 @@
   {
     "id": "1568475515344519231",
     "name": "WhiteClothes",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e64f709061735174acd22da537e7a121",
+    "cover_hash": "8f5b1091dfbab5a2b8ed58fd3d57de1f",
     "executables": []
   },
   {
