@@ -4605,6 +4605,13 @@
     "executables": []
   },
   {
+    "id": "1569924875554922507",
+    "name": "Aethyr Idle",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1440143533330927647",
     "name": "AEW: Fight Forever",
     "icon_hash": "ba087828f8a9efbef5a874e8bbf0b5da",
@@ -7157,7 +7164,7 @@
     "id": "1567751167516213328",
     "name": "All 4 Naught",
     "icon_hash": "35ba6f39213bca37767df6db64155075",
-    "cover_hash": "488636a4da191821fa1742a7494c7cf8",
+    "cover_hash": "00a024c5809c046bac5fd77ffcede9b0",
     "executables": []
   },
   {
@@ -10484,6 +10491,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1569924834635292824",
+    "name": "Apotheosis Engine",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1124358871549493288",
@@ -21703,6 +21717,13 @@
     "executables": []
   },
   {
+    "id": "1569924934262595675",
+    "name": "Bio Inc. Classic",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1124354164416327710",
     "name": "Bio Inc. Redemption",
     "icon_hash": "2ff5781324c6cfaea67bc2915b17c8be",
@@ -30965,6 +30986,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1569924894844784723",
+    "name": "Callsign: Stargazer",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1473517587676663911",
@@ -46458,13 +46486,26 @@
     ]
   },
   {
+    "id": "1569789408557932614",
+    "name": "Cyphers",
+    "icon_hash": "92371f8fe143828b41fcf1f582916a7d",
+    "cover_hash": null,
+    "executables": [
+      {
+        "name": "cyphers.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "496565866721443840",
     "name": "Cyphers Game",
     "icon_hash": "6636bdec3b8c4fcb320ca714875876c5",
     "cover_hash": "d6f7228e33d5fec0349b199cb2f65f6a",
     "executables": [
       {
-        "name": "cyphers.exe",
+        "name": "graszyfrow.exe",
         "os": "win32",
         "is_launcher": false
       }
@@ -48746,13 +48787,6 @@
         "is_launcher": true
       }
     ]
-  },
-  {
-    "id": "1501072810166980791",
-    "name": "Dead by Daylight: Special Edition",
-    "icon_hash": "e99ac383edfbd9d98702c3cb112e51de",
-    "cover_hash": "7662e4dc39b93b96513abf5e8bdcd804",
-    "executables": []
   },
   {
     "id": "1402418233633669170",
@@ -71285,6 +71319,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1569924826905321552",
+    "name": "Farmer's Diary",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1129505156174729296",
@@ -99599,6 +99640,13 @@
     "executables": []
   },
   {
+    "id": "1569925020312936600",
+    "name": "I Don't Do Quests Anymore",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428189022601085050",
     "name": "I Don't Fall",
     "icon_hash": "49033b7f022daa2df6417e74313fadd8",
@@ -101566,6 +101614,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1569924815001755701",
+    "name": "Imperial Grace",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1547456871210819614",
@@ -138060,6 +138115,13 @@
     "executables": []
   },
   {
+    "id": "1569924872342077490",
+    "name": "Net Worthless",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428186100396199967",
     "name": "Net.Attack(): Code or Die!",
     "icon_hash": "0fc9039ae4ade475d7b4d51aae012dde",
@@ -167894,6 +167956,13 @@
     "executables": []
   },
   {
+    "id": "1569925001388363806",
+    "name": "Road Rash: 30th Anniversary Edition",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1129504687616446496",
     "name": "Road Redemption",
     "icon_hash": "57d22aeb1d99848d7eaed161c2809993",
@@ -171783,6 +171852,13 @@
     "name": "S4U: Citypunk 2011 and Love Punch",
     "icon_hash": "2a3a66561f1e850a548386e4b116e54c",
     "cover_hash": "5a4460dcd1cdec6aeb2c759a2372701c",
+    "executables": []
+  },
+  {
+    "id": "1569924885138898965",
+    "name": "Sabado",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -235521,6 +235597,13 @@
     "executables": []
   },
   {
+    "id": "1569925013585535116",
+    "name": "Wing Commander: 35th Anniversary Edition",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1445981773694763099",
     "name": "Wing Pilot",
     "icon_hash": null,
@@ -235971,6 +236054,13 @@
     "name": "Witching Tower",
     "icon_hash": "da3548424058c1d1104af629be7356b2",
     "cover_hash": "a78d9d5eb7e73fe31e2918935b07094e",
+    "executables": []
+  },
+  {
+    "id": "1569925023924232283",
+    "name": "Witchkeeping",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
