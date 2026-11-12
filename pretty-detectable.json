@@ -1987,8 +1987,8 @@
   {
     "id": "1569562862257570015",
     "name": "99Day Survival Guide",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "fc92ef3c0d6a3a089cdd18bfd0128bb8",
+    "cover_hash": "52bdac81906df524d119b306b65997c8",
     "executables": []
   },
   {
@@ -4134,8 +4134,8 @@
   {
     "id": "1569563119393574973",
     "name": "Address The Mess",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "ca85575fda7be5cd163ccb45e859ce48",
+    "cover_hash": "7ceb6ab368e7889887e7482ba1b3f754",
     "executables": []
   },
   {
@@ -4188,8 +4188,8 @@
   {
     "id": "1569562914082263131",
     "name": "Adopt Me Please",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "29b67f1f77d55b585fdec5556ee659aa",
+    "cover_hash": "a01078d250b1750930b3a250cfadbffc",
     "executables": []
   },
   {
@@ -4607,8 +4607,8 @@
   {
     "id": "1569924875554922507",
     "name": "Aethyr Idle",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "2a35c070472b6b4b8059e4a6c575839e",
+    "cover_hash": "b6af4d356c45c1e63724f8d7450fe9d5",
     "executables": []
   },
   {
@@ -6631,8 +6631,8 @@
   {
     "id": "1569563042406998147",
     "name": "Aldmark Calls for Aid",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "ab1441e500fa35b9974503edeffc1115",
+    "cover_hash": "12fc514b0d808bc607ad3ef1a4c86c86",
     "executables": []
   },
   {
@@ -10495,8 +10495,8 @@
   {
     "id": "1569924834635292824",
     "name": "Apotheosis Engine",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "bcd260566ced9b363199b09dd4728005",
+    "cover_hash": "3d77d0657101af69ce3fd98fee024487",
     "executables": []
   },
   {
@@ -14546,8 +14546,8 @@
   {
     "id": "1569562834612789378",
     "name": "Athanasia",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c8f8c7ec42af514a660ca5009405edde",
+    "cover_hash": "f6b205db511067004a961a1e08ba1e78",
     "executables": []
   },
   {
@@ -15265,8 +15265,8 @@
   {
     "id": "1569563075680538624",
     "name": "AUTOMATE DEATH",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "5c38fc43d6615fb381899dc61cd61d5d",
+    "cover_hash": "115456b8a29c800b9284a2d4187f472e",
     "executables": []
   },
   {
@@ -16281,15 +16281,15 @@
   {
     "id": "1569563133394157699",
     "name": "Backrooms Anomaly Project",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "6cde3f8ec85607b62288710429b26834",
+    "cover_hash": "102aa4510c3db98a3752c3dea61e6aff",
     "executables": []
   },
   {
     "id": "1569562869475971183",
     "name": "Backrooms Anomaly: Pools",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "1cd4a9bc766844367623b251639fd63e",
+    "cover_hash": "c3e53c547363fdde8c11dcbeaf2b146b",
     "executables": []
   },
   {
@@ -21175,8 +21175,8 @@
   {
     "id": "1569562840497524736",
     "name": "Beyond The Frame",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d84ffc1c2b3c8d9e31368c34ea2a3f84",
+    "cover_hash": "6c696630f90c8d06904a357e823b02da",
     "executables": []
   },
   {
@@ -21719,8 +21719,8 @@
   {
     "id": "1569924934262595675",
     "name": "Bio Inc. Classic",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "f57b0d8de96538e1442d56357ea7431e",
+    "cover_hash": "c05b19236958b54c3a28aaea5e21c1b7",
     "executables": []
   },
   {
@@ -30990,8 +30990,8 @@
   {
     "id": "1569924894844784723",
     "name": "Callsign: Stargazer",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "f6fe3df9b1812ab9170872158e6b35bd",
+    "cover_hash": "6c62c4d179593018496ffacecfc0e22d",
     "executables": []
   },
   {
@@ -32921,9 +32921,9 @@
   },
   {
     "id": "1569562941605289995",
-    "name": "Cash is King!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Cash is King! Business Simulator",
+    "icon_hash": "9c57438805d229d0fbdec211ef8c0859",
+    "cover_hash": "fbcbfa04cb2a1c4dffc2576ba17f1747",
     "executables": []
   },
   {
@@ -36403,9 +36403,9 @@
   },
   {
     "id": "1569563014523392071",
-    "name": "Chosen by Odin",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Chosen By Odin",
+    "icon_hash": "2e234f72164e7a747ef83f134511ce84",
+    "cover_hash": "fffb03bf0548a64af786b443cc9da724",
     "executables": []
   },
   {
@@ -41811,6 +41811,13 @@
     "executables": []
   },
   {
+    "id": "1570287576617590854",
+    "name": "Corner Pocket: World Billiards",
+    "icon_hash": "592a7b849a8053f4a802e3b5a4ca414a",
+    "cover_hash": "8301f599d31b569ad5da5ca6e5405b6c",
+    "executables": []
+  },
+  {
     "id": "1428212082314055740",
     "name": "Corner Shop: NightShift",
     "icon_hash": "8e14a5fbd075dfdc6881413f4e455bba",
@@ -44119,7 +44126,7 @@
   },
   {
     "id": "1567751197215957024",
-    "name": "Croc 2: Kingdom of the Gobbos",
+    "name": "Croc 2 Kingdom of the Gobbos",
     "icon_hash": "61ec60b6f456d337cdffbcb4f376d96e",
     "cover_hash": "ab5f0157b1f141a687bb82c26589839a",
     "executables": []
@@ -52600,8 +52607,8 @@
   {
     "id": "1569563093154013206",
     "name": "Desktop Wallet Heroes",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "304444b9186a7d5d37b807c3a91454f6",
+    "cover_hash": "447aa8aec64c37979b83efce7af12371",
     "executables": []
   },
   {
@@ -56079,7 +56086,7 @@
     "id": "363412841862266880",
     "name": "Dofus",
     "icon_hash": "8d8769432f8a653b3294f4c93b9ace1c",
-    "cover_hash": null,
+    "cover_hash": "c9d792787dc3960d0674e424c95fe9cd",
     "executables": [
       {
         "name": "dofus.exe",
@@ -61997,9 +62004,9 @@
   },
   {
     "id": "1569563143892377600",
-    "name": "Dunk",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "DUNK",
+    "icon_hash": "1a335e6ffd365003793bfd9b81d5dc4d",
+    "cover_hash": "7a9dab9234154c6574780c3182503bce",
     "executables": []
   },
   {
@@ -68462,6 +68469,13 @@
     "executables": []
   },
   {
+    "id": "1570287586918928454",
+    "name": "Excuse Me, King!",
+    "icon_hash": "a16c37fa4dce300678beac25eb552817",
+    "cover_hash": "e23b362e569aeb5f0f933a5f513d0e3e",
+    "executables": []
+  },
+  {
     "id": "1501423518921920644",
     "name": "EXD: Extra Dimensional",
     "icon_hash": "a64a15ef77e4d9b9aeb64bfa0e5f58f0",
@@ -68681,8 +68695,8 @@
   {
     "id": "1569563147562520657",
     "name": "Exomates",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "30dd89ecc8d7c5ad0f28bcca9e7fd7f0",
+    "cover_hash": "8f024b80cb82b4b0f71f7827d86064c6",
     "executables": []
   },
   {
@@ -71323,8 +71337,8 @@
   {
     "id": "1569924826905321552",
     "name": "Farmer's Diary",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d5e639f480748be8f976dc4031f6cc30",
+    "cover_hash": "0ddf4da1e952f2d9afbc8ccec79673fe",
     "executables": []
   },
   {
@@ -82437,6 +82451,13 @@
     "executables": []
   },
   {
+    "id": "1570287594669875231",
+    "name": "GeForce 8800 GTX: 20 Years of a Legend",
+    "icon_hash": "73708d63d1c73bf7555df465fb016c2d",
+    "cover_hash": "9da874a65c14860a13bd984d62f7a778",
+    "executables": []
+  },
+  {
     "id": "1440138148217618433",
     "name": "Gem Defender: Soyjak Survivors",
     "icon_hash": "657872263fc1d68c534341fa76b96ed0",
@@ -86923,8 +86944,8 @@
   {
     "id": "1569563085457330301",
     "name": "Grave Mistakes",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "9cc261121b36882d06acaa996ebc8a0c",
+    "cover_hash": "e24525d0db05a9d1c83cdeda40ab0d58",
     "executables": []
   },
   {
@@ -90442,9 +90463,9 @@
   },
   {
     "id": "1569563103262277733",
-    "name": "Hammer These Nails!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Hammer these nails!",
+    "icon_hash": "b9436a890283830d2d6eeee208815e65",
+    "cover_hash": "5490cb7eb3e8c72c9212a5d822f952c8",
     "executables": []
   },
   {
@@ -91220,9 +91241,9 @@
   },
   {
     "id": "1569562804866912317",
-    "name": "Harma",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "HARMA",
+    "icon_hash": "647450bb52ba5cba98774fa4bdef4ab4",
+    "cover_hash": "d1f83f2d74b041ac256e8030f5006603",
     "executables": []
   },
   {
@@ -92686,8 +92707,8 @@
   {
     "id": "1569563050363846786",
     "name": "Helena: Cloud District",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "fc85defc155096bc6bba2b43853081f1",
+    "cover_hash": "2411dcb78b9cc5bfea49cbe1b0c471e8",
     "executables": []
   },
   {
@@ -94759,8 +94780,8 @@
   {
     "id": "1569563028440092672",
     "name": "Hey, Don't Look at Me",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "2798cd6f8e2e0d5b6a3593d380131cb1",
+    "cover_hash": "962b05af6153f65fd8b4d61eb674e64a",
     "executables": []
   },
   {
@@ -96101,8 +96122,8 @@
   {
     "id": "1569562885846212699",
     "name": "Hole Punch Cocktail",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "8c6cc32ec1a1ddb6de8b3e974598a51e",
+    "cover_hash": "8d11cd0c08c92a0c77c8e3098db7598d",
     "executables": []
   },
   {
@@ -96944,7 +96965,7 @@
     "id": "1121201675240210523",
     "name": "Honkai: Star Rail",
     "icon_hash": "444d067889922e42b0af99b13e5d5c72",
-    "cover_hash": "2ff3fac14d3090fba0d574091544e89c",
+    "cover_hash": "2e9bc8a0ff931b6cd0cf00a9a8be90eb",
     "executables": [
       {
         "name": "games/starrail.exe",
@@ -99641,9 +99662,9 @@
   },
   {
     "id": "1569925020312936600",
-    "name": "I Don't Do Quests Anymore",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "I Don't Do Quests Anymore...",
+    "icon_hash": "6bfde0b0e84770a925a8d6af05d4aafe",
+    "cover_hash": "1574f927a065af48ad2ae83ab80133c0",
     "executables": []
   },
   {
@@ -101618,8 +101639,8 @@
   {
     "id": "1569924815001755701",
     "name": "Imperial Grace",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "53cd45d5e01031176865c7656bd8e79d",
+    "cover_hash": "5678758ffb9244471e7787c0830b948e",
     "executables": []
   },
   {
@@ -101904,8 +101925,8 @@
   {
     "id": "1569562858000482304",
     "name": "In the Same Boat",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7a150094b5c48ea1f6e76f41843ed9bb",
+    "cover_hash": "8d9f9c25607ca2786ae76feedf79a9db",
     "executables": []
   },
   {
@@ -104044,8 +104065,8 @@
   {
     "id": "1547021075949293579",
     "name": "Invokers: Titan Legacy",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c08720de233ed42510d6da271103d682",
+    "cover_hash": "f433cb362f7c7de82a6a079a9f8c286b",
     "executables": [
       {
         "name": "invokers.app",
@@ -104458,9 +104479,9 @@
   },
   {
     "id": "1569563111172743168",
-    "name": "Iron Sol",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "IRON SOL",
+    "icon_hash": "9d6e29bcff63be4a85b55c445eded360",
+    "cover_hash": "f887a198fb01755f285fcf491c899baf",
     "executables": []
   },
   {
@@ -109197,8 +109218,8 @@
   {
     "id": "1569562876975517756",
     "name": "Killdozer Simulator",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "44af6225091094d243e80d11c339dd53",
+    "cover_hash": "1b524c4b0688055d9413bc0c82e7b74b",
     "executables": []
   },
   {
@@ -122502,8 +122523,8 @@
   {
     "id": "1569562985473642610",
     "name": "Mapping Creator",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "617ad98e04c61be880275be4016ea6b4",
+    "cover_hash": "bc5e9958075430f8b8c81d04c23bbe7b",
     "executables": []
   },
   {
@@ -124426,8 +124447,8 @@
   {
     "id": "1569562920705335469",
     "name": "MECH OPS 2092",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "ad63fa3351d7666fdac5e5ad7786354d",
+    "cover_hash": "ab33fb139eb715e94c8229673be6c506",
     "executables": []
   },
   {
@@ -125021,8 +125042,8 @@
   {
     "id": "1550718360524820480",
     "name": "Mega Man X: Command Mission",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "969fc2ed1587e55fa9b074bb027f948a",
+    "cover_hash": "076fbe0cb12c930a5019f130dad4f0c8",
     "executables": []
   },
   {
@@ -135090,8 +135111,8 @@
   {
     "id": "1440138829200887818",
     "name": "My Little Cafe Nightmare",
-    "icon_hash": "3c20e91c8ef12a969f77a0c63dd8f341",
-    "cover_hash": "8254eaf694637e589b96ab8ca530ac04",
+    "icon_hash": "68c10d3d7ffebc7ed09e062545613aa9",
+    "cover_hash": "16bde24ec7940f25d64d8fe22329d2f8",
     "executables": []
   },
   {
@@ -138117,8 +138138,8 @@
   {
     "id": "1569924872342077490",
     "name": "Net Worthless",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e1c3613e0789f78ba6bdd257d4a5ff44",
+    "cover_hash": "a2596e121fbb6a09b3dc176b5d67bbb7",
     "executables": []
   },
   {
@@ -145895,8 +145916,8 @@
   {
     "id": "1569563056772489238",
     "name": "Otherside Tapes: Favela",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "04f4b9b2c028862aa7034fc0e13a1fdb",
+    "cover_hash": "000c32ffeec9fc036beeef2ddbc29a1e",
     "executables": []
   },
   {
@@ -151706,13 +151727,6 @@
   {
     "id": "1442729808860807168",
     "name": "Phozon",
-    "icon_hash": null,
-    "cover_hash": null,
-    "executables": []
-  },
-  {
-    "id": "1569562924807102605",
-    "name": "PHUY",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -159364,8 +159378,8 @@
   {
     "id": "1569563139916308600",
     "name": "Punch The Walls",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "165e82e0b7fba9782c60fc3cc46fad60",
+    "cover_hash": "f9ef17c916028ac1c29a14df58553949",
     "executables": []
   },
   {
@@ -160765,8 +160779,8 @@
   {
     "id": "1569562961004073030",
     "name": "Quiet Express: Cabin 909",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c0bda655bc1feb15d115942eeaee5250",
+    "cover_hash": "ae19aee249a592d8bffe594af48c95bd",
     "executables": []
   },
   {
@@ -171565,9 +171579,9 @@
   },
   {
     "id": "1569562899628691527",
-    "name": "Ryn: And The Thread Of Life",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "Ryn: And the thread of life",
+    "icon_hash": "2baeb6cc707be847971de909e620293c",
+    "cover_hash": "544c1ffd4f5f2211e64a18a0f0ca69b4",
     "executables": []
   },
   {
@@ -171857,8 +171871,8 @@
   {
     "id": "1569924885138898965",
     "name": "Sabado",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "3d27cdc631393a1e6916ea5891f38828",
+    "cover_hash": "dad2578180d09395e14c3b836db32f85",
     "executables": []
   },
   {
@@ -175025,6 +175039,13 @@
     "executables": []
   },
   {
+    "id": "1570287564017901629",
+    "name": "Scrolls: Tidy Up the Library of Olympus!",
+    "icon_hash": "d30a52bb0f9144e35b5e71aece1ff80b",
+    "cover_hash": "c4d43145681041fa4105db3c610d5083",
+    "executables": []
+  },
+  {
     "id": "1124355501686276238",
     "name": "Scrutinized",
     "icon_hash": "00672abcf4fd5abdc7d0be496a50ab79",
@@ -176661,8 +176682,8 @@
   {
     "id": "1569563125202821180",
     "name": "SetPoint Volleyball",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "b57812cafc63aacc902afe57c2dd05f3",
+    "cover_hash": "c6c555c6819bb7fb35b5f371013a0794",
     "executables": []
   },
   {
@@ -197840,7 +197861,7 @@
   {
     "id": "363427674309263360",
     "name": "Sven Co-op",
-    "icon_hash": "8c3a3bcf6fdbbc99bf830fb934a1ac04",
+    "icon_hash": "653ef86d30b33d5c972098b6007273ae",
     "cover_hash": "868a7c03ceb45b06710dbb6696ae1b44",
     "executables": [
       {
@@ -202943,9 +202964,9 @@
   },
   {
     "id": "1569562974220193812",
-    "name": "That Bomb Game",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "THAT BOMB GAME",
+    "icon_hash": "debf4eda9ee5cc19a034ee7729a0b917",
+    "cover_hash": "deb2aec6644fe443b376f52a016cc939",
     "executables": []
   },
   {
@@ -231197,8 +231218,8 @@
   {
     "id": "1569563153933799495",
     "name": "WarFront",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "57e27fbee48f594f1b26963d1190ebc5",
+    "cover_hash": "84d2346759e1bbe6e3d2438226b18bd2",
     "executables": []
   },
   {
@@ -232945,6 +232966,20 @@
     "name": "Wayward Sky",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1569562924807102605",
+    "name": "WAZATO: Sabotage or Mistake?",
+    "icon_hash": "eee01731c70afebf6fe7f1022f221c8b",
+    "cover_hash": "ee7ace96877cb5adcbee630170f771e3",
+    "executables": []
+  },
+  {
+    "id": "1570287494006702170",
+    "name": "WAZATO: Sabotage or Mistake?",
+    "icon_hash": "0d9f9f4d641841c374c2f65786c69679",
+    "cover_hash": "f0dde488131b2498ba75fc6d2b93d8c4",
     "executables": []
   },
   {
@@ -235597,10 +235632,17 @@
     "executables": []
   },
   {
+    "id": "1570287620695527544",
+    "name": "Wing Commander III: Heart of the Tiger - 30th Anniversary Edition",
+    "icon_hash": "da1dee1bbb5be9424e761c24dc5d9ee4",
+    "cover_hash": "f83c6cd5cb554a4ba9a246712f76c0f0",
+    "executables": []
+  },
+  {
     "id": "1569925013585535116",
     "name": "Wing Commander: 35th Anniversary Edition",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "1e3863e8af76b5c728d27ff036882dc3",
+    "cover_hash": "34c7390a504859bd89741ba5f100f711",
     "executables": []
   },
   {
@@ -236059,8 +236101,8 @@
   {
     "id": "1569925023924232283",
     "name": "Witchkeeping",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "68a74c6c8bac88ecb1e36cf435506573",
+    "cover_hash": "3d534c2bac1f48f5377915b6222e6e2b",
     "executables": []
   },
   {
