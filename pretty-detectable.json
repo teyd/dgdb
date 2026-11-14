@@ -9435,6 +9435,13 @@
     "executables": []
   },
   {
+    "id": "1571012111230959696",
+    "name": "Annihilated",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428177510193172515",
     "name": "Anno 117: Pax Romana",
     "icon_hash": "1a70c6c9088464dd2908f811388e2169",
@@ -14866,6 +14873,13 @@
     "name": "Atta: Spot the Oddities in the Strange Hotel",
     "icon_hash": "c7af9443e09c05d8a0a880020275ffec",
     "cover_hash": "ce0853463783219ce390b5a4455866a9",
+    "executables": []
+  },
+  {
+    "id": "1571012084593070170",
+    "name": "Attack of the Astrals",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -68909,6 +68923,13 @@
     "executables": []
   },
   {
+    "id": "1571012242345042002",
+    "name": "Exterminauts",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428222939588722758",
     "name": "Extinction Day",
     "icon_hash": "f30c5bed17383743e09ec86edf63c7f5",
@@ -82041,6 +82062,13 @@
     "executables": []
   },
   {
+    "id": "1571012226004029540",
+    "name": "Gas Station Horror",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1428181533746794647",
     "name": "Gas Station Manager",
     "icon_hash": "6be64f38d9c8e4d8937dd32f737081b6",
@@ -88009,6 +88037,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1571012280840233001",
+    "name": "GroundInFlames",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1565578077864468490",
@@ -96039,6 +96074,13 @@
     "executables": []
   },
   {
+    "id": "1571012254852321301",
+    "name": "Hold the Dawn",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1440138096829137006",
     "name": "Hold the Mine",
     "icon_hash": "7f8b797e5e509e18ec235be3db5d1049",
@@ -97086,6 +97128,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1571012125772750858",
+    "name": "Hookshot",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1428187292979171498",
@@ -100414,6 +100463,13 @@
     ]
   },
   {
+    "id": "1571012056512077945",
+    "name": "Icy Tower",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1444889063269073120",
     "name": "Identifile",
     "icon_hash": "745ae8a3b15ef1d36258d43902675ab5",
@@ -102774,6 +102830,13 @@
     "name": "Infinite Lives",
     "icon_hash": "ab29abbe0d145b03afc523e675524fe3",
     "cover_hash": "8ba6dc77b8c265e10d28aec248d8376c",
+    "executables": []
+  },
+  {
+    "id": "1571012320253972642",
+    "name": "Infinite Loop: Incremental",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -123204,7 +123267,7 @@
     "id": "1314395942253756416",
     "name": "Marvel Rivals",
     "icon_hash": "2dd7882b887306ab5afad03452869ad8",
-    "cover_hash": "ddfdd542275573a097aa9bcddfba7cf5",
+    "cover_hash": "bec569aa5bf6dd1335f57421dcf2b078",
     "executables": [
       {
         "name": "marvelrivals/marvelrivals_launcher.exe",
@@ -124258,7 +124321,7 @@
   },
   {
     "id": "1444889008793452736",
-    "name": "Mazebound: Hunt, Gather, Run!",
+    "name": "MAZEBOUND: Hunt, Gather, Run!",
     "icon_hash": "4380fe09c61aa09ea1962df9c2f11e4d",
     "cover_hash": "17295207b42e1ad86cfe1b8083acea86",
     "executables": []
@@ -138352,6 +138415,13 @@
     "executables": []
   },
   {
+    "id": "1571012188867661864",
+    "name": "Never Sort By Color",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "492054902772727808",
     "name": "Never Split the Party",
     "icon_hash": "4a8fd2577b2761e940ab9c74caa5319e",
@@ -141325,7 +141395,7 @@
   },
   {
     "id": "1442721158326911180",
-    "name": "Norse: Oath of Blood",
+    "name": "NORSE: Oath of Blood",
     "icon_hash": "801eb5f17f88816449ab699b363b0d89",
     "cover_hash": "acf3cf3eb991179009542de5f9e4b02a",
     "executables": []
@@ -150165,7 +150235,7 @@
   },
   {
     "id": "1542021042426486845",
-    "name": "Payday: Aces High",
+    "name": "PAYDAY: Aces High",
     "icon_hash": "435f1bc73da5c2a971c799f0952ce56c",
     "cover_hash": "c95251f98723e37a599d1a368175dbe6",
     "executables": []
@@ -163917,7 +163987,7 @@
     "id": "1124355349881831504",
     "name": "Red Eclipse",
     "icon_hash": "0736cbdf650db5e38462566b674959a3",
-    "cover_hash": "3ae1cf7fc14f554629cd048cfb726f22",
+    "cover_hash": "593e5d7b9494fa99e04009be2cde0f0c",
     "executables": [
       {
         "name": "amd64/redeclipse.exe",
@@ -171937,7 +172007,22 @@
     "cover_hash": "f1a8b68dfab86aa6a6ddd56f6636d4d0",
     "executables": [
       {
-        "name": "sable/sable.exe",
+        "name": "common/sable/sable.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "epic games/sable/sable.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "games/sable/sable.exe",
+        "os": "win32",
+        "is_launcher": false
+      },
+      {
+        "name": "sable/content/sable.exe",
         "os": "win32",
         "is_launcher": false
       }
@@ -185625,6 +185710,13 @@
     "name": "Sort The Bunnies",
     "icon_hash": "58bf1e3b4a1020b7b3045fc50a7adbe2",
     "cover_hash": "9c599c31a1a94917ada3b709d8acb846",
+    "executables": []
+  },
+  {
+    "id": "1571012274980790292",
+    "name": "Sort Them Cats",
+    "icon_hash": null,
+    "cover_hash": null,
     "executables": []
   },
   {
@@ -206435,7 +206527,7 @@
   },
   {
     "id": "1439430087928844318",
-    "name": "The Falconeer: Revolution Remaster",
+    "name": "The Falconeer",
     "icon_hash": "d178ca3d5801e2a2654c30b19e23611b",
     "cover_hash": "9ef13fbd09424d65f24c945f98a47760",
     "executables": []
@@ -222477,6 +222569,13 @@
     ]
   },
   {
+    "id": "1571012146396012615",
+    "name": "Trollheim: Gnomes",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442714596497428630",
     "name": "Trolls Remix Rescue",
     "icon_hash": "bc3cc3eff6f4514f4be88412d6f7ed34",
@@ -230457,6 +230556,13 @@
     ]
   },
   {
+    "id": "1571012299135787069",
+    "name": "Wait, They Can Climb?!",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1124356145054756934",
     "name": "Wait! Life is beautiful!",
     "icon_hash": "a7f5897756459e854d371f6946fc6b40",
@@ -237788,6 +237894,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1571012230022172686",
+    "name": "Worldkampf '72",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1247278721090715678",
