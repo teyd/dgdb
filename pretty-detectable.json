@@ -9437,8 +9437,8 @@
   {
     "id": "1571012111230959696",
     "name": "Annihilated",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "673c54a013272f4dd3a47695e634d656",
+    "cover_hash": "39081be78b76ce651fa976364a1bd436",
     "executables": []
   },
   {
@@ -14878,8 +14878,8 @@
   {
     "id": "1571012084593070170",
     "name": "Attack of the Astrals",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "1f540026cd54725be187422b9c0532cc",
+    "cover_hash": "e28e87d0e3f6cb2491eaa5d62efd60d5",
     "executables": []
   },
   {
@@ -22301,6 +22301,13 @@
     "name": "Black",
     "icon_hash": "554a7f1f13d4f1e0a632c148500f0c82",
     "cover_hash": "031d24ab7d6c0b165a0f87b2ae3c5f71",
+    "executables": []
+  },
+  {
+    "id": "1571375201998872706",
+    "name": "Black Autumn: 1438",
+    "icon_hash": "588e755aaf3f2d128cc8fbd1467002b1",
+    "cover_hash": "44fd54d88a551fb17e440302bc231c21",
     "executables": []
   },
   {
@@ -36959,6 +36966,13 @@
     ]
   },
   {
+    "id": "1571374951028760633",
+    "name": "Cinema Theater Tycoon",
+    "icon_hash": "61c849ef5b5be22420beda77696f20d5",
+    "cover_hash": "1b8c8a22e3148b60d29fefea0c8935ea",
+    "executables": []
+  },
+  {
     "id": "1440133990693736539",
     "name": "Cinemaster Cinema Simulator",
     "icon_hash": "dd70aedad417f2dec0fd871f332c1324",
@@ -45044,6 +45058,13 @@
     "name": "Crypto by POWGI",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1571375181119619155",
+    "name": "Crypto in a Haystack",
+    "icon_hash": "f97ef66fbea43006b1dc2b7f31f8e41c",
+    "cover_hash": "1123c35f7f9f9ad644470086ece241b2",
     "executables": []
   },
   {
@@ -57876,6 +57897,13 @@
     ]
   },
   {
+    "id": "1571375107665035435",
+    "name": "DPS: Desktop Pension Squad",
+    "icon_hash": "4e48ff98013dc91e57fa63149bf0a947",
+    "cover_hash": "c32ef285530e1abcd61f91d1f89c39f4",
+    "executables": []
+  },
+  {
     "id": "1550718486777565245",
     "name": "DR Dominoes",
     "icon_hash": "be50d6fd7bfa289a51dc6be558786562",
@@ -68925,8 +68953,8 @@
   {
     "id": "1571012242345042002",
     "name": "Exterminauts",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "6f59ea696bb5ae7caff95076721ec15b",
+    "cover_hash": "3012fc7592c2e80fbfbead781015b07c",
     "executables": []
   },
   {
@@ -80161,6 +80189,13 @@
     "executables": []
   },
   {
+    "id": "1571375011397238806",
+    "name": "Funeral for the Sun",
+    "icon_hash": "a20d0a018ea05b4c1fd60ce46d1085a1",
+    "cover_hash": "3a15ca3b47a9f24fe47c05a491ce9a1f",
+    "executables": []
+  },
+  {
     "id": "1124357914048610455",
     "name": "Fungiman",
     "icon_hash": "18343fc07f4fcf6a6a269fd78cc97cda",
@@ -82064,8 +82099,8 @@
   {
     "id": "1571012226004029540",
     "name": "Gas Station Horror",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "6fc775d9459be540bc6bf4db2b0f19a7",
+    "cover_hash": "7fc418c645ea408c377b82623759cd46",
     "executables": []
   },
   {
@@ -86228,8 +86263,8 @@
   {
     "id": "1442730784321699991",
     "name": "Grabbed by the Ghoulies",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "0b53a4c0f7bb20e13c1abff084f96fd6",
+    "cover_hash": "e416742982c3b48e70914671f0e24348",
     "executables": []
   },
   {
@@ -88041,8 +88076,8 @@
   {
     "id": "1571012280840233001",
     "name": "GroundInFlames",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "4bbfb2fb9ca98968cf3e70c8296bf99b",
+    "cover_hash": "c0b703d35dd5b615b6698b70625f7110",
     "executables": []
   },
   {
@@ -96076,8 +96111,8 @@
   {
     "id": "1571012254852321301",
     "name": "Hold the Dawn",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "5bf1aa91eb636a9d634ff4320fc93432",
+    "cover_hash": "ad022d97400ddf785e554552b273ccca",
     "executables": []
   },
   {
@@ -97132,8 +97167,8 @@
   {
     "id": "1571012125772750858",
     "name": "Hookshot",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "693bb196de810d283b5d810aa518bd4d",
+    "cover_hash": "45dba18c8ba3c3146526aec83dc83ea1",
     "executables": []
   },
   {
@@ -97176,6 +97211,13 @@
     "name": "HOPE 01",
     "icon_hash": "070adf6603d89beb8aa6505697db51b8",
     "cover_hash": "f671163e3c1cabd504fa2eca42fffa48",
+    "executables": []
+  },
+  {
+    "id": "1571374974797877360",
+    "name": "Hope in the City",
+    "icon_hash": "1d06fa46012102dbc0fa23dc09b35209",
+    "cover_hash": "ba3ad967a9c6eb38d235222a60868da1",
     "executables": []
   },
   {
@@ -100465,8 +100507,8 @@
   {
     "id": "1571012056512077945",
     "name": "Icy Tower",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7a043d15d967a0c376241a3575292ae3",
+    "cover_hash": "fed7067afade28a4b40c51f759035ae2",
     "executables": []
   },
   {
@@ -102234,6 +102276,13 @@
     "executables": []
   },
   {
+    "id": "1571374904929030214",
+    "name": "Incremental RTS",
+    "icon_hash": "7f0fc96e1f7850a0c3a845544120d699",
+    "cover_hash": "1c57f2235546698297fa56e5ce96d087",
+    "executables": []
+  },
+  {
     "id": "1428189330408738968",
     "name": "Incremental Town RPG",
     "icon_hash": "c0b911c7f7ae4ae9389a60279ba147cf",
@@ -102835,8 +102884,8 @@
   {
     "id": "1571012320253972642",
     "name": "Infinite Loop: Incremental",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "96570efc886aa799cdd54c2b4868815a",
+    "cover_hash": "80be0e142c713781d47da8e44523ac9b",
     "executables": []
   },
   {
@@ -117920,6 +117969,13 @@
     "executables": []
   },
   {
+    "id": "1571375220193755136",
+    "name": "Lootmob",
+    "icon_hash": "77c26e47a02b81ad94bcfe0a02ac5251",
+    "cover_hash": "9dd772af2f1274ae953c43227332f4c2",
+    "executables": []
+  },
+  {
     "id": "1428209333610745876",
     "name": "LOOTPLOT",
     "icon_hash": "3f1885481788de75c07d9aef8851f369",
@@ -118234,6 +118290,13 @@
     "name": "Lost Artifacts: Mysterious Book",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1571375237331951750",
+    "name": "Lost Bitcoin",
+    "icon_hash": "51229400aa61320353e0b0198ad40d0e",
+    "cover_hash": "1129e9dffedb63a5661a5e39e2a46e30",
     "executables": []
   },
   {
@@ -130998,6 +131061,13 @@
     ]
   },
   {
+    "id": "1571374915796336831",
+    "name": "MONOMOON",
+    "icon_hash": "9c76d485d45a6c647df70110a89be54a",
+    "cover_hash": "92fd20151bb2532e967d454da6ee1028",
+    "executables": []
+  },
+  {
     "id": "1428178487818063964",
     "name": "MONOMYTH",
     "icon_hash": "12d190808cbb22435018803a3fad5ed2",
@@ -131298,6 +131368,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1571375133124464722",
+    "name": "Monster Girls Survival & Craft 2040",
+    "icon_hash": "62b3bb6ccce014b3f5f3ea672ea1837f",
+    "cover_hash": "4ff42a04570a52abc8542e34a0f9510d",
+    "executables": []
   },
   {
     "id": "1497438586016895108",
@@ -134277,6 +134354,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1571375041248239626",
+    "name": "Music Manager",
+    "icon_hash": "79e1912ef9d5e925221cd765bb12c085",
+    "cover_hash": "95f311323ea8e59f84f6523e9eef3b2a",
+    "executables": []
   },
   {
     "id": "1124354299472908338",
@@ -138417,8 +138501,8 @@
   {
     "id": "1571012188867661864",
     "name": "Never Sort By Color",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "03e1c0fe2dd662c1a27290ab93215841",
+    "cover_hash": "8bdcebbcca98394cabf80b9748d3b0ac",
     "executables": []
   },
   {
@@ -139233,8 +139317,15 @@
     ]
   },
   {
+    "id": "1440142166360850724",
+    "name": "NieR: Automata - BECOME AS GODS Edition",
+    "icon_hash": "0518d086a0134d1493a1b1a03ec79ce2",
+    "cover_hash": "2fdc9c0586eb30c77a7b493da43e1c4d",
+    "executables": []
+  },
+  {
     "id": "363425276300099584",
-    "name": "NieR: Automata",
+    "name": "NieR:Automata",
     "icon_hash": "c4f1f98afe3450bd507ad887d99d8376",
     "cover_hash": "16c71846aa19e6948b75282f6bd04753",
     "executables": [
@@ -139249,13 +139340,6 @@
         "is_launcher": false
       }
     ]
-  },
-  {
-    "id": "1440142166360850724",
-    "name": "NieR: Automata - BECOME AS GODS Edition",
-    "icon_hash": "0518d086a0134d1493a1b1a03ec79ce2",
-    "cover_hash": "2fdc9c0586eb30c77a7b493da43e1c4d",
-    "executables": []
   },
   {
     "id": "1124355111506952292",
@@ -140444,6 +140528,13 @@
     "name": "NMO: No More Operators",
     "icon_hash": "0c0a377347842881e731168ad99d034e",
     "cover_hash": "7ef4ad17ccc767f6cda82b1317be1998",
+    "executables": []
+  },
+  {
+    "id": "1571375274581430283",
+    "name": "No Asteroids",
+    "icon_hash": "e438a7c0ebbefdc130b18355755cde63",
+    "cover_hash": "830cf9adc874b960d42834f52c3c1ad2",
     "executables": []
   },
   {
@@ -157282,6 +157373,13 @@
     "executables": []
   },
   {
+    "id": "1571375288833675344",
+    "name": "Privateer 2: The Darkening - 30th Anniversary Edition",
+    "icon_hash": "7f5203e673dc26221acc23d5afd80901",
+    "cover_hash": "3c0660774ca434cc67c8ef9ebc811283",
+    "executables": []
+  },
+  {
     "id": "1124357241894613102",
     "name": "Pro 11",
     "icon_hash": "0423aa2e8974d6658af09c58a38d76ea",
@@ -159657,6 +159755,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1571375267069567098",
+    "name": "Pure Skill",
+    "icon_hash": "a28b8f9b5d6836521f815a66e8702ff6",
+    "cover_hash": "4dd14b9e9e702675f50a2780a6455d32",
+    "executables": []
   },
   {
     "id": "1389334808005705879",
@@ -185715,8 +185820,8 @@
   {
     "id": "1571012274980790292",
     "name": "Sort Them Cats",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "bbf451a9d685e379c782f8bc42ee3925",
+    "cover_hash": "af251a345088a1c66cbc7addb08f1a13",
     "executables": []
   },
   {
@@ -210610,6 +210715,13 @@
     ]
   },
   {
+    "id": "1571375148894912674",
+    "name": "The Nugget",
+    "icon_hash": "23a883b7c8d5b5f22cac682b3775e9b9",
+    "cover_hash": "16cdc23ac41bca63290fa34281e4e3a3",
+    "executables": []
+  },
+  {
     "id": "1463735934435594375",
     "name": "The Occultist",
     "icon_hash": "975f6cec532404f6793f8c9a4f919bdd",
@@ -222570,9 +222682,9 @@
   },
   {
     "id": "1571012146396012615",
-    "name": "Trollheim: Gnomes",
-    "icon_hash": null,
-    "cover_hash": null,
+    "name": "TROLLHEIM: GNOMES",
+    "icon_hash": "acedfd3c3ce7853f2c3f45e531a08da7",
+    "cover_hash": "43468018656313c4212f85a03151d5e7",
     "executables": []
   },
   {
@@ -230558,8 +230670,8 @@
   {
     "id": "1571012299135787069",
     "name": "Wait, They Can Climb?!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "86d3c71a0a56b35089b7b06fd1429f93",
+    "cover_hash": "c29d3d7308b543072e05aaa0977d7d45",
     "executables": []
   },
   {
@@ -233324,6 +233436,13 @@
     "name": "We Sing: Pop!",
     "icon_hash": null,
     "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1571375261306454036",
+    "name": "We Steal From Old People: The Game",
+    "icon_hash": "1348e31d37221fa8a5f2963545e26a7e",
+    "cover_hash": "ab71d7084b67343f59f428238a7fa4bf",
     "executables": []
   },
   {
@@ -237898,8 +238017,8 @@
   {
     "id": "1571012230022172686",
     "name": "Worldkampf '72",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "1d1094cf48545e6060b857f14d1b95a5",
+    "cover_hash": "a26d339e9d41922ba43ec94c9a27bc44",
     "executables": []
   },
   {
