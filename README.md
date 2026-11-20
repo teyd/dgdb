@@ -8,10 +8,12 @@ The generated dataset is committed to this repo as [`detectable.json`](./detecta
 
 | File | Size | Use case |
 | --- | --- | --- |
-| `detectable.json` | ~4.5 MB | **Default.** All apps, minified |
-| `pretty-detectable.json` | ~5.9 MB | All apps, pretty-printed (diffing / humans) |
+| `detectable.json` | ~2.4 MB | **Default.** Apps with at least one executable, minified |
+| `pretty-detectable.json` | ~3.3 MB | Same apps, pretty-printed (diffing / humans) |
 | `detectable-win32.json` | ~2.4 MB | Windows-only apps, `executables` filtered to `win32` |
 | `detectable-darwin.json` | ~15 KB | macOS-only apps, `executables` filtered to `darwin` |
+
+Apps with no executables are left out: there is no executable to match them with, so they cannot be resolved from a running process. If you need name and artwork for an arbitrary Discord application ID (for example from rich presence), you need the [upstream list](https://discord.com/api/v9/applications/detectable) instead.
 
 ### Primary (CDN)
 
@@ -57,9 +59,9 @@ Also cached (~5-minute TTL), no auth needed. Fine as a fallback, but jsDelivr is
 | `name` | `string` | Display name |
 | `icon_hash` | `string \| null` | Hash for the app icon (square) |
 | `cover_hash` | `string \| null` | Hash for the cover / hero image (wide) |
-| `executables` | `array` | Empty for apps Discord doesn't auto-detect. Sorted by `name` (then `os`, `is_launcher`) so unchanged data yields stable diffs |
+| `executables` | `array` | Always non-empty. Sorted by `name` (then `os`, `is_launcher`) so unchanged data yields stable diffs |
 | `executables[].name` | `string` | Lowercase. May include a path prefix like `_retail_/wow.exe` |
-| `executables[].os` | `string` | `win32` or `darwin` |
+| `executables[].os` | `string` | `win32`, `darwin` or `linux` |
 | `executables[].is_launcher` | `boolean` | `true` if it's a launcher executable |
 
 The JSON is minified. `pretty-detectable.json` contains identical data, pretty-printed.
@@ -121,25 +123,29 @@ const iconUrl = (id: string, hash: string, size = 256) =>
 
 ## Matching executables
 
-Executable names are lowercase and can contain path segments (e.g. `_retail_/wow.exe`). For a robust lookup, compare on the **file name only** (the part after the last `/`), and treat `is_launcher: true` entries as lower priority since launchers usually aren't the game itself:
+Executable names are lowercase and can contain path segments (e.g. `_retail_/wow.exe`). Compare on the **file name only** (the part after the last `/`) and treat `is_launcher: true` entries as lower priority, since launchers usually aren't the game itself:
 
 ```ts
-const byExecutable = new Map<string, App>();
+type App = (typeof apps)[number];
+
+const byExecutable = new Map<string, { app: App; isLauncher: boolean }>();
 
 for (const app of apps) {
   for (const exe of app.executables) {
     const file = exe.name.split("/").pop()!;
-    const existing = byExecutable.get(file);
-    // Prefer non-launcher matches; first one wins
-    if (!existing || (existing.executables.find((e) => e.name.endsWith(file))?.is_launcher && !exe.is_launcher)) {
-      byExecutable.set(file, app);
+    const hit = byExecutable.get(file);
+    // Prefer a non-launcher match; ties keep the first app in name order
+    if (!hit || (hit.isLauncher && !exe.is_launcher)) {
+      byExecutable.set(file, { app, isLauncher: exe.is_launcher });
     }
   }
 }
 
-const app = byExecutable.get("overwatch.exe");
-// -> { name: "Overwatch", id: "356875221078245376", ... }
+const hit = byExecutable.get("overwatch.exe");
+// -> { app: { name: "Overwatch", id: "356875221078245376", ... }, isLauncher: false }
 ```
+
+Executable names are not unique: 565 file names are used by more than one app, and generic names are very ambiguous — `game.exe` alone maps to 195 apps, `nw.exe` and `hl2.exe` to 35 each. The lookup above picks one app deterministically, but for those names you need another signal (install path, process command line, or asking the user).
 
 ## Updating the data
 

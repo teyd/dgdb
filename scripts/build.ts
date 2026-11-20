@@ -3,8 +3,8 @@
  * Fetches Discord's detectable applications list and reduces it to the
  * fields we actually need, writing the result to several JSON files.
  *
- * detectable.json          minified, all apps (default consumer entry point)
- * pretty-detectable.json   pretty-printed, all apps (human-readable)
+ * detectable.json          minified, apps with executables (default consumer entry point)
+ * pretty-detectable.json   pretty-printed, same apps (human-readable)
  * detectable-win32.json    minified, apps with win32 executables (win32 only)
  * detectable-darwin.json   minified, apps with darwin executables (darwin only)
  *
@@ -21,6 +21,10 @@
 const SOURCE_URL = "https://discord.com/api/v9/applications/detectable";
 const OUTPUT_DIR = new URL("../", import.meta.url);
 
+// A degraded upstream response must never overwrite the committed dataset.
+const MIN_APPS = 20_000;
+const MIN_OUTPUT_APPS = 10_000;
+
 interface Executable {
   name: string;
   os: string;
@@ -35,23 +39,51 @@ interface App {
   executables: Executable[];
 }
 
-const res = await fetch(SOURCE_URL, {
-  headers: { Accept: "application/json" },
-});
-
-if (!res.ok) {
-  throw new Error(`Failed to fetch detectable list: ${res.status} ${res.statusText}`);
-}
-
-const apps = (await res.json()) as Array<{
+type SourceApp = {
   id: string;
   name: string;
   icon_hash?: string;
   cover_image_hash?: string;
   executables?: Array<{ name: string; os: string; is_launcher?: boolean }>;
-}>;
+};
 
-const reduce = (app: (typeof apps)[number], os?: string): App | null => {
+const fetchApps = async (): Promise<SourceApp[]> => {
+  let lastError: unknown;
+
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    try {
+      const res = await fetch(SOURCE_URL, {
+        headers: { Accept: "application/json" },
+        signal: AbortSignal.timeout(60_000),
+      });
+
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status} ${res.statusText}`);
+      }
+
+      const data = await res.json();
+      if (!Array.isArray(data)) {
+        throw new Error("response is not an array");
+      }
+
+      return data as SourceApp[];
+    } catch (error) {
+      lastError = error;
+      console.warn(`fetch attempt ${attempt} failed: ${error}`);
+    }
+  }
+
+  throw new Error(`Failed to fetch detectable list: ${lastError}`);
+};
+
+const apps = await fetchApps();
+
+const invalid = apps.filter((app) => typeof app?.id !== "string" || typeof app?.name !== "string");
+if (apps.length < MIN_APPS || invalid.length > 0) {
+  throw new Error(`Refusing to write: ${apps.length} apps, ${invalid.length} missing id or name`);
+}
+
+const reduce = (app: SourceApp, os?: string): App | null => {
   const executables = (app.executables ?? [])
     .filter((exe) => os === undefined || exe.os === os)
     .map((exe) => ({
@@ -61,7 +93,9 @@ const reduce = (app: (typeof apps)[number], os?: string): App | null => {
     }))
     .sort(byExecutable);
 
-  if (os !== undefined && executables.length === 0) return null;
+  // Apps without a matching executable can never be resolved from one, so
+  // they are dropped (this removes ~60% of the upstream list).
+  if (executables.length === 0) return null;
 
   return {
     id: app.id,
@@ -80,11 +114,30 @@ const cmp = (x: string, y: string) => (x < y ? -1 : x > y ? 1 : 0);
 const byExecutable = (a: Executable, b: Executable) =>
   cmp(a.name, b.name) || cmp(a.os, b.os) || Number(a.is_launcher) - Number(b.is_launcher);
 
-const byName = (a: App, b: App) => a.name.localeCompare(b.name, "en", { sensitivity: "base" });
+const byName = (a: App, b: App) =>
+  a.name.localeCompare(b.name, "en", { sensitivity: "base" }) || cmp(a.id, b.id);
 
 const all = apps.map((app) => reduce(app)).filter((a): a is App => a !== null).sort(byName);
 const win32 = apps.map((app) => reduce(app, "win32")).filter((a): a is App => a !== null).sort(byName);
 const darwin = apps.map((app) => reduce(app, "darwin")).filter((a): a is App => a !== null).sort(byName);
+
+if (all.length < MIN_OUTPUT_APPS) {
+  throw new Error(`Refusing to write: only ${all.length} apps have executables`);
+}
+
+// Self-check: a broken filter must never reach the committed files.
+const check = (data: App[], os?: string) => {
+  for (const app of data) {
+    if (app.executables.length === 0) throw new Error(`${app.name}: no executables`);
+    if (os && app.executables.some((exe) => exe.os !== os)) {
+      throw new Error(`${app.name}: executable outside ${os}`);
+    }
+  }
+};
+
+check(all);
+check(win32, "win32");
+check(darwin, "darwin");
 
 const writeJson = (name: string, data: App[], pretty = false) =>
   Bun.write(new URL(name, OUTPUT_DIR), JSON.stringify(data, null, pretty ? 2 : undefined) + "\n");
