@@ -7182,6 +7182,13 @@
     "executables": []
   },
   {
+    "id": "1573186653961588746",
+    "name": "All Army Attack",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1473517621352595597",
     "name": "All Hail the Orb",
     "icon_hash": "77cd62e8829d50f54157e7346bbf8f27",
@@ -8741,8 +8748,8 @@
   {
     "id": "1572823964890173480",
     "name": "Angel Investor Simulator",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "e5fa204155029dde16633268ab75dd25",
+    "cover_hash": "db6671b72f2f5c9221b7f4373742904a",
     "executables": []
   },
   {
@@ -17226,6 +17233,13 @@
     "executables": []
   },
   {
+    "id": "1573186560445259887",
+    "name": "Ball Picker: Clean Up the Golf Yard",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1458939268784459776",
     "name": "Ball Race",
     "icon_hash": null,
@@ -20296,8 +20310,8 @@
   {
     "id": "1572824385587519562",
     "name": "Beer Thirty",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "ef0f208981b45c2e8c6abccc9f33eb14",
+    "cover_hash": "abaedd326e76e794225559259f1e4ae6",
     "executables": []
   },
   {
@@ -20944,7 +20958,7 @@
   },
   {
     "id": "1559779026271342644",
-    "name": "Better Chaos",
+    "name": "Better Chaos: Tidy Up the Supermarket",
     "icon_hash": "5587275c98ff70ba665fdcbddb1dabc2",
     "cover_hash": "2d1d0c0c90e373d37562382f4fbd9567",
     "executables": []
@@ -21795,8 +21809,8 @@
   {
     "id": "1572824298421358725",
     "name": "Bio Inc. Total Defense",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c10116c14a058aa5ec7f4ce61a65e9f1",
+    "cover_hash": "2e62d64cdba919f7ee898685b7c6dec0",
     "executables": []
   },
   {
@@ -62439,6 +62453,13 @@
     ]
   },
   {
+    "id": "1573186622445453352",
+    "name": "Dwarven Digging Machine",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1219012562449076366",
     "name": "Dwarven Realms",
     "icon_hash": "69a2deff138b98551902b8d2959d6d70",
@@ -70146,7 +70167,7 @@
   },
   {
     "id": "1572824282994839553",
-    "name": "Fakin' It XL",
+    "name": "Fakin It XL",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
@@ -85400,6 +85421,13 @@
     "executables": []
   },
   {
+    "id": "1573186572214599691",
+    "name": "Gold Mining Simulator: Definitive Edition",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1519553133674758267",
     "name": "Gold Up",
     "icon_hash": "63cc777a2dfcb7d01d28021297212f05",
@@ -99627,8 +99655,8 @@
   {
     "id": "1572824353928904807",
     "name": "Hypermarket: Sort & Stock",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "9a86aac84db39452810cd63f092b282c",
+    "cover_hash": "24fa0b4272b37d4e2acb88556847e880",
     "executables": []
   },
   {
@@ -111709,7 +111737,7 @@
     "id": "1435385884794032218",
     "name": "Kode Zero",
     "icon_hash": "b2e308e1d3ec85a9e8c5d20be53a8d03",
-    "cover_hash": null,
+    "cover_hash": "f4d13088c6a35ef2e7c1cf6bd4c97492",
     "executables": []
   },
   {
@@ -123843,7 +123871,7 @@
     "id": "1572462753367592990",
     "name": "Masada",
     "icon_hash": "53a360b7813b1106291cefdcc00828e2",
-    "cover_hash": null,
+    "cover_hash": "ccb18f1c59e6b43e4abd80eff2be884d",
     "executables": []
   },
   {
@@ -125931,7 +125959,7 @@
   },
   {
     "id": "1510003932020211893",
-    "name": "Melvor Idle 2",
+    "name": "Melvor Idle 2: A RuneScape Adventure",
     "icon_hash": "c5120802e20a3e90a85bfae739e7be41",
     "cover_hash": "0f72c872d7e85511d0c83877a9ec8b64",
     "executables": []
@@ -133262,8 +133290,8 @@
   {
     "id": "1572824105932030063",
     "name": "Motocross The Game",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "b4e6a54af7ebffd93bb8468f5c9fd74c",
+    "cover_hash": "b4728ea815ddea5d95e971d2c02fe38a",
     "executables": []
   },
   {
@@ -142278,7 +142306,7 @@
     "id": "1470616226995765409",
     "name": "NTE: Neverness to Everness",
     "icon_hash": "e9a6d14e304637d878c04f35251eaf7d",
-    "cover_hash": "27be1c4da8d90646439e1049009cec98",
+    "cover_hash": "71127065ca50420f7218038ef8a79974",
     "executables": [
       {
         "name": "htgame.exe",
@@ -142760,8 +142788,8 @@
   {
     "id": "1572823980031873175",
     "name": "Obey Me! Sinner's Choice: Lucifer",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "4c12233b75d5d1bb6b1d8449b11b7516",
+    "cover_hash": "3817978714cf3840a96375b392d97d6b",
     "executables": []
   },
   {
@@ -146057,6 +146085,13 @@
     ]
   },
   {
+    "id": "1573186634453618748",
+    "name": "Oreloop",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1442729457956818945",
     "name": "Organ Quarter",
     "icon_hash": "0d1e8f346b15d64ec4ec897c881a44ab",
@@ -149160,6 +149195,13 @@
     "executables": []
   },
   {
+    "id": "1573186656692084907",
+    "name": "PAPERWORKS",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1440130623661674566",
     "name": "Paquerette Down the Bunburrows",
     "icon_hash": "8ffaa60eb028ecf8b6f4f1e6dc657197",
@@ -150474,8 +150516,8 @@
   {
     "id": "1572823930572509305",
     "name": "PAW Patrol: Dino World",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "7b3451d606aed0dfd77c6033e7108d95",
+    "cover_hash": "2f03827e522ca555397bbc0f2da98f10",
     "executables": []
   },
   {
@@ -153460,8 +153502,8 @@
   {
     "id": "1572824222848385135",
     "name": "Pixel Chaos: Tidy Up the Museum",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "a9843bd1d1012d14f0d3417c35a691e8",
+    "cover_hash": "286ed01e6778f9ce251419f23c712088",
     "executables": []
   },
   {
@@ -156927,8 +156969,8 @@
   {
     "id": "1572824001535934606",
     "name": "Prerolled",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "2c24d606e19ef543e975d1b030823beb",
+    "cover_hash": "1be44a8aa127fa74acd0e076270604d0",
     "executables": []
   },
   {
@@ -165785,8 +165827,8 @@
   {
     "id": "1572824178480910468",
     "name": "Resettle",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "c433b276eb42cd1aa3b719befb89c254",
+    "cover_hash": "75aa23399e417d93e1ff1ca937dc7a6b",
     "executables": []
   },
   {
@@ -168698,7 +168740,7 @@
     "id": "1572462971248967691",
     "name": "Roads & Riches",
     "icon_hash": "cc7f303ac458168d00ae371dc11fac66",
-    "cover_hash": null,
+    "cover_hash": "8fadd2c88dc95b0e3855cbb66e94b86a",
     "executables": []
   },
   {
@@ -199304,8 +199346,8 @@
   {
     "id": "1572824278628442173",
     "name": "Swords and Cavalry",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "af1d96322117deabd6fa13d308737dfd",
+    "cover_hash": "f0f8bbedb2848c774c60124eca9fdba4",
     "executables": []
   },
   {
@@ -211246,6 +211288,13 @@
     ]
   },
   {
+    "id": "1573186537343156325",
+    "name": "THE OFFICE ROOMS",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "1445981431712190487",
     "name": "The OG Cake Factory",
     "icon_hash": "ad6dadfa85e9177018df5d0d86a7ea6a",
@@ -217871,8 +217920,8 @@
   {
     "id": "1572824087892598795",
     "name": "Tokatonton: One-Armed Blacksmith",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "1734f339659e27d6832b9bafffee0995",
+    "cover_hash": "11d454029278548f215afae4ed3cabe2",
     "executables": []
   },
   {
@@ -219690,6 +219739,13 @@
     ]
   },
   {
+    "id": "1573186641416421456",
+    "name": "Touhou Chess",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
     "id": "505507257224658987",
     "name": "Touhou Chireiden: Subterranean Animism",
     "icon_hash": "afaed2b35d5535a7f692329761bbd70e",
@@ -220130,6 +220186,13 @@
         "is_launcher": false
       }
     ]
+  },
+  {
+    "id": "1573186601587187763",
+    "name": "Touhou Smash",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
   },
   {
     "id": "1517247375272574976",
@@ -221264,7 +221327,7 @@
   {
     "id": "1572824246244347904",
     "name": "Trafficity",
-    "icon_hash": null,
+    "icon_hash": "866ab6ca61da7c23c6a496d42f331a5d",
     "cover_hash": null,
     "executables": []
   },
@@ -222139,8 +222202,8 @@
   {
     "id": "1572824235775234231",
     "name": "Trash to Trees: Tidy Up The Forest!",
-    "icon_hash": null,
-    "cover_hash": null,
+    "icon_hash": "d3df55f4d3ffd4ad0eb518ff29b088e5",
+    "cover_hash": "898ac5f3bf27d8f34857239fd3a037a2",
     "executables": []
   },
   {
@@ -227997,6 +228060,13 @@
   {
     "id": "1445981633411944458",
     "name": "Vacation Vexation",
+    "icon_hash": null,
+    "cover_hash": null,
+    "executables": []
+  },
+  {
+    "id": "1573186530825207829",
+    "name": "VacBot Simulator",
     "icon_hash": null,
     "cover_hash": null,
     "executables": []
