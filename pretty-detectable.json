@@ -6338,6 +6338,19 @@
     ]
   },
   {
+    "id": "1428186199440228452",
+    "name": "Arkheron",
+    "icon_hash": "59527077456c488199fddc75294895d5",
+    "cover_hash": "62bbd2f58519590d4f1a405f9f37b6e5",
+    "executables": [
+      {
+        "name": "arkheron.exe",
+        "os": "win32",
+        "is_launcher": false
+      }
+    ]
+  },
+  {
     "id": "1461154307171811401",
     "name": "ARKNIGHTS: ENDFIELD",
     "icon_hash": "a1c43f46f274856e6fb9edc8afda149d",
